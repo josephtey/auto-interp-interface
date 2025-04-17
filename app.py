@@ -5,7 +5,7 @@ from pathlib import Path
 import glob
 
 st.set_page_config(layout="wide")
-st.title("in maintenance")
+st.title("fixing a bug")
 
 # # Get all feature files and sort by score (highest to lowest)
 # feature_files = sorted(
