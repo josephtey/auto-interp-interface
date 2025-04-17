@@ -1,0 +1,9 @@
+Image 1
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: mviM: putative dehydrogenase (cds)
+ID 2: Maff2 family protein (sorf)
+ID 3: gckA: Glycerate-2-kinase (cds)
+ID 4: surA: Peptidyl-prolyl isomerase, parvulin family (cds)
+ID 5: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)
+ID 6: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 7: mntR: Mn-dependent transcriptional regulator MntR, DtxR family (cds)

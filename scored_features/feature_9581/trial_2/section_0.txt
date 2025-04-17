@@ -1,0 +1,7 @@
+Image 0
+Organism: [Clostridium] saccharolyticum WM1 (firmicutes)
+ID 1: Synaptobrevin-B (cds)
+ID 2: NAD-dependent epimerase/dehydratase (cds)
+ID 3: sleB: Cell wall hydrolase SleB (cds)
+ID 4: Transposase (cds)
+ID 5: pglZ: BREX-1 system phosphatase PglZ type A (cds)

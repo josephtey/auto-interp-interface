@@ -1,0 +1,13 @@
+Image 3
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: 2-hydroxychromene-2-carboxylate isomerase (cds)
+ID 2: HDOD domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: c-type cytochrome (cds)
+ID 5: Cardiolipin synthase N-terminal domain-containing protein (cds)
+ID 6: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase (cds)
+ID 7: yncE: DNA-binding beta-propeller fold protein YncE (cds)
+ID 8: ABC transporter substrate-binding protein (cds)
+ID 9: DUF1800 domain-containing protein (cds)
+ID 10: cytochrome c (cds)
+ID 11: hypothetical protein (cds)

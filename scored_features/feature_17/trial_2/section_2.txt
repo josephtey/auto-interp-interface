@@ -1,0 +1,11 @@
+Image 2
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: xseB: exodeoxyribonuclease VII small subunit (cds)
+ID 2: Cytochrome-c peroxidase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: glpE: thiosulfate sulfurtransferase GlpE (cds)
+ID 5: parA: Chromosome partitioning protein ParA (cds)
+ID 6: Replicative DNA helicase (cds)
+ID 7: trnS: tRNA-Ser(gga) (tRNA)
+ID 8: histidine kinase (cds)
+ID 9: hypothetical protein (cds)

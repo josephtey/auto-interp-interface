@@ -1,0 +1,8 @@
+Image 1
+Organism: Limnoglobus roseus (bacteria)
+ID 1: Tetratricopeptide repeat protein (cds)
+ID 2: Tetratricopeptide repeat protein (cds)
+ID 3: dnaX: DNA polymerase III subunit gamma/tau (cds)
+ID 4: Zinc finger/thioredoxin putative domain-containing protein (cds)
+ID 5: Putative glycosyltransferase (cds)
+ID 6: MBL fold metallo-hydrolase (cds)

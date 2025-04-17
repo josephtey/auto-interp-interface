@@ -1,0 +1,13 @@
+Image 3
+Organism: Rothia nasimurium (high G+C Gram-positive bacteria)
+ID 1: M48 family peptidase (cds)
+ID 2: IS3 family transposase (cds)
+ID 3: trnP: tRNA-Pro(cgg) (tRNA)
+ID 4: Metallophosphoesterase (cds)
+ID 5: ATP-dependent 6-phosphofructokinase (cds)
+ID 6: thiL: thiamine-phosphate kinase (cds)
+ID 7: ribD: bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD (cds)
+ID 8: CRISPR spacer, sequence TGGAAAAGGTCGGTCCGAACCTGCAGCGCACCC (crispr-spacer)
+ID 9: Crp/Fnr family transcriptional regulator (cds)
+ID 10: VOC family protein (cds)
+ID 11: tatD: TatD family deoxyribonuclease (cds)

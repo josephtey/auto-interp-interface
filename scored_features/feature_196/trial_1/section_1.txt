@@ -1,0 +1,12 @@
+Image 1
+Organism: Alicyclobacillus acidoterrestris (firmicutes)
+ID 1: rpsN: type Z 30S ribosomal protein S14 (cds)
+ID 2: TIGR00366 family protein (cds)
+ID 3: dmpG: 4-hydroxy-2-oxovalerate aldolase (cds)
+ID 4: nagB: glucosamine-6-phosphate deaminase (cds)
+ID 5: Ferredoxin family protein (cds)
+ID 6: Orotate phosphoribosyltransferase (cds)
+ID 7: bifunctional homocysteine S-methyltransferase/methylenetetrahydrofolate reductase (cds)
+ID 8: copZ: copper chaperone CopZ (cds)
+ID 9: hypothetical protein (cds)
+ID 10: ABC transporter substrate-binding protein (cds)

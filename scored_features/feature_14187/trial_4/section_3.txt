@@ -1,0 +1,11 @@
+Image 3
+Organism: Thermotoga petrophila RKU-1 (thermotogales)
+ID 1: yhhQ: queuosine precursor transporter (cds)
+ID 2: CRISPR spacer, sequence TATGTGTTTATCTCCTCATCTTGCATGTCTCTGTCA (crispr-spacer)
+ID 3: Carbohydrate kinase, FGGY (cds)
+ID 4: rsxC: electron transport complex subunit RsxC (cds)
+ID 5: hypothetical protein (cds)
+ID 6: thiI: putative tRNA sulfurtransferase (cds)
+ID 7: argH: argininosuccinate lyase (cds)
+ID 8: Transcriptional regulator (cds)
+ID 9: pAS: PAS domain (cds)

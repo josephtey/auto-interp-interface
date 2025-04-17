@@ -1,0 +1,13 @@
+Image 0
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: gap (gap)
+ID 2: sfsA: DNA/RNA nuclease SfsA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: hemJ: Protoporphyrinogen oxidase HemJ (unrelated to HemG or HemY) (cds)
+ID 5: gppA: Exopolyphosphatase/pppGpp-phosphohydrolase (cds)
+ID 6: trnK: (pseudo) tRNA-Lys(ttt) (tRNA)
+ID 7: DUF2274 domain-containing protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: trmD: tRNA (guanosine(37)-N1)-methyltransferase TrmD (cds)
+ID 10: xerD: Site-specific recombinase XerD (cds)
+ID 11: hypothetical protein (cds)

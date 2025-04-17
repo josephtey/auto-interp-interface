@@ -1,0 +1,13 @@
+Image 4
+Organism: Unknown organism
+ID 1: rnfH: RnfH family protein (cds)
+ID 2: iolC: 5-dehydro-2-deoxygluconokinase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Glutathione-dependent formaldehyde-activating, GFA (cds)
+ID 5: trnL: tRNA-Leu(caa) (tRNA)
+ID 6: IS30 family transposase (cds)
+ID 7: HTH cro/C1-type domain-containing protein (cds)
+ID 8: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 9: Copper resistance protein D (cds)
+ID 10: Monosaccharide-transporting ATPase (cds)
+ID 11: Type II secretion system F domain protein (cds)

@@ -1,0 +1,9 @@
+Image 3
+Organism: Unknown organism
+ID 1: ubiG: 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: dadA: Glycine/D-amino acid oxidase (deaminating) (cds)
+ID 4: CRISPR spacer, sequence TAAACTCACACAAACACAGCAGTTGATTCT (crispr-spacer)
+ID 5: rpsA: 30S ribosomal protein S1 (cds)
+ID 6: Phytoene dehydrogenase-related protein (cds)
+ID 7: DUF3828 domain-containing protein (cds)

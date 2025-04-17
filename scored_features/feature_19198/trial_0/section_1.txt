@@ -1,0 +1,12 @@
+Image 1
+Organism: Unknown organism
+ID 1: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (cds)
+ID 2: moaD: molybdopterin converting factor subunit 1 (cds)
+ID 3: PEP-CTERM protein-sorting domain-containing protein (cds)
+ID 4: Glycine betaine/carnitine/choline-binding protein OpuCC (cds)
+ID 5: Phosphate-selective porin O and P (cds)
+ID 6: pknB: Serine/threonine-protein kinase PknB (cds)
+ID 7: Twin-arginine translocation signal domain-containing protein (cds)
+ID 8: Demethylmenaquinone methyltransferase (cds)
+ID 9: Lipopolysaccharide assembly protein A domain-containing protein (cds)
+ID 10: queG: tRNA epoxyqueuosine(34) reductase QueG (cds)

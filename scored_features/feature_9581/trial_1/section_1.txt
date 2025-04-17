@@ -1,0 +1,13 @@
+Image 1
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: spo0J: Chromosome segregation protein Spo0J, contains ParB-like nuclease domain (cds)
+ID 2: Transposase (cds)
+ID 3: Pyrolysyl-tRNA synthetase (cds)
+ID 4: rfaF: ADP-heptose:LPS heptosyltransferase (cds)
+ID 5: rapZ: RNase adapter RapZ (cds)
+ID 6: trnL: tRNA-Leu(taa) (tRNA)
+ID 7: hypothetical protein (cds)
+ID 8: trnF: tRNA-Phe(gaa) (tRNA)
+ID 9: pTC1: Stp1/IreP family PP2C-type Ser/Thr phosphatase (cds)
+ID 10: pknB: Stk1 family PASTA domain-containing Ser/Thr kinase (cds)
+ID 11: DUF2383 domain-containing protein (cds)

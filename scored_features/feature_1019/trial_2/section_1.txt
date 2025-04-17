@@ -1,0 +1,10 @@
+Image 1
+Organism: Shewanella halifaxensis HAW-EB4 (g-proteobacteria)
+ID 1: Efflux transporter, RND family, MFP subunit (cds)
+ID 2: ptsP: phosphoenolpyruvate--protein phosphotransferase (cds)
+ID 3: trmB: tRNA (guanosine(46)-N7)-methyltransferase TrmB (cds)
+ID 4: 5'-nucleotidase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: YebC/PmpR family DNA-binding transcriptional regulator (cds)
+ID 7: hypothetical protein (cds)
+ID 8: SemiSWEET transporter (cds)

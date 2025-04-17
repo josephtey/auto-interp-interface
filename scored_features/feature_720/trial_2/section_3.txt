@@ -1,0 +1,12 @@
+Image 3
+Organism: Corynebacterium halotolerans YIM 70093 = DSM 44683 (high G+C Gram-positive bacteria)
+ID 1: dnaA: chromosomal replication initiator protein DnaA (cds)
+ID 2: rplC: 50S ribosomal protein L3 (cds)
+ID 3: Long Rib domain-containing protein (cds)
+ID 4: fdh: formate dehydrogenase (cds)
+ID 5: trnU: tRNA-SeC(tca) (tRNA)
+ID 6: pafA: Pup--protein ligase (cds)
+ID 7: FeS cluster biogenesis domain-containing protein (cds)
+ID 8: PspA/IM30 family protein (cds)
+ID 9: DNA-(apurinic or apyrimidinic site) lyase (cds)
+ID 10: Copper resistance protein D domain-containing protein (cds)

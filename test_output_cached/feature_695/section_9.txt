@@ -1,0 +1,6 @@
+Organism: Unknown organism
+ID 1: hypothetical protein (cds)
+ID 2: rteC: Tetracycline resistance element mobilization regulatory protein RteC (cds)
+ID 3: csgF: curli assembly protein CsgF (cds)
+ID 4: glycosyl hydrolase family 16 (cds)
+ID 5: O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase (cds)

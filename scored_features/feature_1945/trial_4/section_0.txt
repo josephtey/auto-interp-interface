@@ -1,0 +1,12 @@
+Image 0
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: istA: IS21 family transposase (cds)
+ID 2: hdrA: Heterodisulfide reductase, subunit A (polyferredoxin) (cds)
+ID 3: CRISPR spacer, sequence AAGAAAAGGCCGTTTATAGCGGTGAGAATAACGGCG (crispr-spacer)
+ID 4: Band 7 domain-containing protein (cds)
+ID 5: Transposase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: YebC/PmpR family DNA-binding transcriptional regulator (cds)
+ID 8: aspartate-semialdehyde dehydrogenase (cds)
+ID 9: Iron-only hydrogenase system regulator (cds)
+ID 10: nifV: homocitrate synthase (cds)

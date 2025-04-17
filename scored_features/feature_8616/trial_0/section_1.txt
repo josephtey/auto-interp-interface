@@ -1,0 +1,13 @@
+Image 1
+Organism: Sphingomonas lutea (a-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Glutathione S-transferase family protein (cds)
+ID 3: hslV: ATP-dependent protease subunit HslV (cds)
+ID 4: Lipoprotein (cds)
+ID 5: atpD: F0F1 ATP synthase subunit beta (cds)
+ID 6: xerC: Tyrosine recombinase XerC (cds)
+ID 7: Sterol desaturase family protein (cds)
+ID 8: VOC family protein (cds)
+ID 9: rseP: RIP metalloprotease RseP (cds)
+ID 10: recO: DNA repair protein RecO (cds)
+ID 11: Terminase small subunit (cds)

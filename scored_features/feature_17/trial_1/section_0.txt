@@ -1,0 +1,12 @@
+Image 0
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: Sensor domain-containing diguanylate cyclase (cds)
+ID 2: DUF692 domain-containing protein (cds)
+ID 3: rmuC: DNA recombination protein RmuC (cds)
+ID 4: Response regulator transcription factor (cds)
+ID 5: ompA: OmpA family protein (cds)
+ID 6: Enoyl-CoA hydratase/isomerase family protein (cds)
+ID 7: tsaA: tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO (cds)
+ID 8: corA: magnesium/cobalt transporter CorA (cds)
+ID 9: ATP-binding cassette domain-containing protein (cds)
+ID 10: pilO: Type 4a pilus biogenesis protein PilO (cds)

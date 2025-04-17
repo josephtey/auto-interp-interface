@@ -1,0 +1,10 @@
+Image 1
+Organism: Shewanella litorisediminis (g-proteobacteria)
+ID 1: yfaZ: YfaZ family outer membrane protein (cds)
+ID 2: Gonadoliberin III-related protein (cds)
+ID 3: trnK: tRNA-Lys(ttt) (tRNA)
+ID 4: Acyl carrier protein phosphodiesterase (cds)
+ID 5: trnG: tRNA-Gly(gcc) (tRNA)
+ID 6: SRPBCC family protein (cds)
+ID 7: DUF3718 domain-containing protein (cds)
+ID 8: Isoprenylcysteine carboxyl methyltransferase family protein (cds)

@@ -1,0 +1,10 @@
+Image 3
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: Ferredoxin (cds)
+ID 2: UPF0033 domain-containing protein (cds)
+ID 3: CRISPR spacer, sequence ACAGGGTTTGCCCTGTGTGAGCGTCAAATGATGTATT (crispr-spacer)
+ID 4: aspartate-semialdehyde dehydrogenase (cds)
+ID 5: Calcineurin-like phosphoesterase (cds)
+ID 6: dppC: Dipeptide transport system permease protein DppC (cds)
+ID 7: IS4 family transposase (cds)
+ID 8: rrs: 16S ribosomal RNA (rRNA)

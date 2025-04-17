@@ -1,0 +1,11 @@
+Image 1
+Organism: Corynebacterium urogenitale (high G+C Gram-positive bacteria)
+ID 1: LGFP repeat protein (cds)
+ID 2: yurK: Putative HTH-type transcriptional regulator YurK (cds)
+ID 3: hypothetical protein (cds)
+ID 4: putA: Bifunctional protein PutA (cds)
+ID 5: hisG: ATP phosphoribosyltransferase (cds)
+ID 6: Endolytic murein transglycosylase (cds)
+ID 7: Thermonuclease (cds)
+ID 8: Putative periplasmic iron-binding protein (cds)
+ID 9: ykoC: HMP/thiamine permease protein YkoC (cds)

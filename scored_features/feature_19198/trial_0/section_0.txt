@@ -1,0 +1,13 @@
+Image 0
+Organism: Arsenophonus endosymbiont of Aphis craccivora (enterobacteria)
+ID 1: MPN domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: nadA: quinolinate synthase NadA (cds)
+ID 4: transposase (cds)
+ID 5: fdhD: formate dehydrogenase accessory sulfurtransferase FdhD (cds)
+ID 6: ybjG: undecaprenyl-diphosphate phosphatase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: DUF2496 domain-containing protein (cds)
+ID 9: fkpB: FKBP-type peptidyl-prolyl cis-trans isomerase (cds)
+ID 10: hypothetical protein (cds)
+ID 11: trnI: tRNA-Ile(gat) (tRNA)

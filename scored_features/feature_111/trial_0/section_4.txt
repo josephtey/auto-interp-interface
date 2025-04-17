@@ -1,0 +1,12 @@
+Image 4
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: Macrolide ABC transporter permease (cds)
+ID 2: General stress protein 17M-like domain-containing protein (cds)
+ID 3: Stage 0 sporulation A-like protein (cds)
+ID 4: CRISPR spacer, sequence ATCCTCCACCACTAATGGCCGCATCCCTGGCAAAGCAG (crispr-spacer)
+ID 5: Stage II sporulation protein E (cds)
+ID 6: hypothetical protein (cds)
+ID 7: fliP: flagellar type III secretion system pore protein FliP (cds)
+ID 8: Peptidase M23 (cds)
+ID 9: Lantibiotic ABC transporter (cds)
+ID 10: molybdopterin biosynthesis protein (cds)

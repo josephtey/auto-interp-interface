@@ -1,0 +1,12 @@
+Image 3
+Organism: Unknown organism
+ID 1: der: ribosome biogenesis GTPase Der (cds)
+ID 2: Precorrin-8X methylmutase (cds)
+ID 3: ectA: diaminobutyrate acetyltransferase (cds)
+ID 4: Flavanone 3-dioxygenase (cds)
+ID 5: SEC-C motif domain protein (cds)
+ID 6: cadA: Heavy metal translocating P-type ATPase (cds)
+ID 7: Proteophosphoglycan (cds)
+ID 8: cas1f: type I-F CRISPR-associated endonuclease Cas1f (cds)
+ID 9: higA: HigA family addiction module antitoxin (cds)
+ID 10: pgi: glucose-6-phosphate isomerase (cds)

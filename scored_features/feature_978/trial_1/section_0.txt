@@ -1,0 +1,13 @@
+Image 0
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: rpsM: 30S ribosomal protein S13 (cds)
+ID 2: tagH: Type VI secretion system-associated FHA domain protein TagH (cds)
+ID 3: Glucose/quinate/shikimate family membrane-bound PQQ-dependent dehydrogenase (cds)
+ID 4: impA: Type VI secretion protein ImpA (cds)
+ID 5: kdpB: potassium-transporting ATPase subunit KdpB (cds)
+ID 6: bioD: dethiobiotin synthase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: DUF481 domain-containing protein (cds)
+ID 9: yciH: stress response translation initiation inhibitor YciH (cds)
+ID 10: hypothetical protein (cds)
+ID 11: yebY: YebY family protein (cds)

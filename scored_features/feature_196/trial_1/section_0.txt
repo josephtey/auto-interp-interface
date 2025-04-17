@@ -1,0 +1,3 @@
+Image 0
+Organism: Citrobacter arsenatis (enterobacteria)
+ID 1: argF: ornithine carbamoyltransferase (cds)

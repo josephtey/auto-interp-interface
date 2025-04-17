@@ -1,0 +1,11 @@
+Image 2
+Organism: Mongoliitalea daihaiensis (CFB group bacteria)
+ID 1: DUF2200 domain-containing protein (cds)
+ID 2: glycosyltransferase family 4 protein (cds)
+ID 3: aminoglycoside phosphotransferase family protein (cds)
+ID 4: AAA family ATPase (cds)
+ID 5: cation transporter (cds)
+ID 6: Phospholipid/glycerol acyltransferase domain-containing protein (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: cytochrome c (cds)

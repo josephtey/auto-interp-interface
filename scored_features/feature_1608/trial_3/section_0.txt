@@ -1,0 +1,10 @@
+Image 0
+Organism: Corynebacterium urogenitale (high G+C Gram-positive bacteria)
+ID 1: yheH: Putative multidrug resistance ABC transporter ATP-binding/permease protein YheH (cds)
+ID 2: drrA: Daunorubicin/doxorubicin resistance ATP-binding protein DrrA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: argininosuccinate synthase (cds)
+ID 5: ribH: 6,7-dimethyl-8-ribityllumazine synthase (cds)
+ID 6: DUF3046 domain-containing protein (cds)
+ID 7: lolD: Lipoprotein-releasing system ATP-binding protein LolD (cds)
+ID 8: whiB: Transcriptional regulator WhiB (cds)

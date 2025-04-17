@@ -1,0 +1,11 @@
+Image 4
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: trnR: tRNA-Arg(tct) (tRNA)
+ID 2: rsmI: 16S rRNA C1402 (ribose-2'-O) methylase RsmI (cds)
+ID 3: Uncharacterized protein conserved in bacteria (cds)
+ID 4: ybiB: DNA-binding protein YbiB (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR spacer, sequence CCAAGTACAGATAAGACTCGGGCTACTAAAGGCT (crispr-spacer)
+ID 7: gatB: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB (cds)
+ID 8: paaK: Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family (cds)
+ID 9: rutF: FMN reductase RutF, DIM6/NTAB family (cds)

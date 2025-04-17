@@ -1,0 +1,12 @@
+Image 3
+Organism: Metabacillus sediminilitoris (firmicutes)
+ID 1: Sugar ABC transporter substrate-binding protein (cds)
+ID 2: Multidrug ABC transporter ATP-binding protein (cds)
+ID 3: Permease (cds)
+ID 4: Cell wall hydrolase (cds)
+ID 5: DUF2294 domain-containing protein (cds)
+ID 6: dmpI: 4-oxalocrotonate tautomerase DmpI (cds)
+ID 7: RNA polymerase subunit sigma-70 (cds)
+ID 8: nrdR: transcriptional regulator NrdR (cds)
+ID 9: M24 family metallopeptidase (cds)
+ID 10: Carboxypeptidase (cds)

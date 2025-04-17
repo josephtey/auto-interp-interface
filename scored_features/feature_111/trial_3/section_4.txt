@@ -1,0 +1,12 @@
+Image 4
+Organism: Anaerocolumna sedimenticola (firmicutes)
+ID 1: T-box leader (ncRNA-region)
+ID 2: GNAT family N-acetyltransferase (cds)
+ID 3: Alpha-galactosidase (cds)
+ID 4: Multiple sugar transport system permease (cds)
+ID 5: DUF2961 domain-containing protein (cds)
+ID 6: Immunity protein 26 (cds)
+ID 7: Peptidase C39-like domain-containing protein (cds)
+ID 8: (pseudo) ABC transporter ATP-binding protein (cds)
+ID 9: Leucine-rich repeat protein (cds)
+ID 10: cheD: putative chemoreceptor glutamine deamidase CheD (cds)

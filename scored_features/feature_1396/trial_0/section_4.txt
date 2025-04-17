@@ -1,0 +1,13 @@
+Image 4
+Organism: Occultella kanbiaonis (high G+C Gram-positive bacteria)
+ID 1: phosphotransferase (cds)
+ID 2: HTH luxR-type domain-containing protein (cds)
+ID 3: right-handed parallel beta-helix repeat-containing protein (cds)
+ID 4: Tryptophan-associated transmembrane protein (cds)
+ID 5: lacF: Lactose transport system permease protein LacF (cds)
+ID 6: Ribose operon repressor (cds)
+ID 7: hypothetical protein (cds)
+ID 8: cdhR: HTH-type transcriptional regulator CdhR (cds)
+ID 9: 2-hydroxymuconate semialdehyde hydrolase (cds)
+ID 10: hypothetical protein (cds)
+ID 11: nadA: quinolinate synthase NadA (cds)

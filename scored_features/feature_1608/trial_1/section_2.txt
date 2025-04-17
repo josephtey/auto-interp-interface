@@ -1,0 +1,3 @@
+Image 2
+Organism: Mycobacterium spongiae (high G+C Gram-positive bacteria)
+ID 1: manA: mannose-6-phosphate isomerase, class I (cds)

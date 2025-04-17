@@ -1,0 +1,13 @@
+Image 0
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: CRISPR spacer, sequence TGCGCCGCGATGCGGCATGAGCGGCTTGTCGTC (crispr-spacer)
+ID 2: type I site-specific deoxyribonuclease (cds)
+ID 3: Peptidase M50 (cds)
+ID 4: RNA polymerase sigma-70 region 2 domain-containing protein (cds)
+ID 5: Resolvase-like (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: coaD: pantetheine-phosphate adenylyltransferase (cds)
+ID 8: Transposase (cds)
+ID 9: ssd: septum site-determining protein Ssd (cds)
+ID 10: Bacterial Pleckstrin-like y domain-containing protein (cds)
+ID 11: Mop domain-containing protein (cds)

@@ -1,0 +1,11 @@
+Image 4
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: trnV: tRNA-Val(tac) (tRNA)
+ID 2: hypothetical protein (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: Enterocin A Immunity (cds)
+ID 5: yhbY: ribosome assembly RNA-binding protein YhbY (cds)
+ID 6: Ribosome-associated protein L7Ae-like protein (cds)
+ID 7: sleL: Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family (cds)
+ID 8: Dehydrogenase (cds)
+ID 9: SEC-C domain-containing protein (cds)

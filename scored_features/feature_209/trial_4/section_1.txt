@@ -1,0 +1,13 @@
+Image 1
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: rrf: 5S ribosomal RNA (rRNA)
+ID 2: cBS: CBS domain (cds)
+ID 3: putative oxidoreductase of the aldo/keto reductase family (cds)
+ID 4: Uncharacterized conserved protein, contains CHAT domain (cds)
+ID 5: fusA: elongation factor G (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: amiC: N-acetylmuramoyl-L-alanine amidase (cds)
+ID 9: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 10: hypothetical protein (cds)
+ID 11: CRISPR repeat (crispr-repeat)

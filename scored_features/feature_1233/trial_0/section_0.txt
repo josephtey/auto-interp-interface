@@ -1,0 +1,12 @@
+Image 0
+Organism: Citrobacter arsenatis (enterobacteria)
+ID 1: katG: catalase/peroxidase HPI (cds)
+ID 2: puuR: HTH-type transcriptional regulator PuuR (cds)
+ID 3: wcaA: colanic acid biosynthesis glycosyltransferase WcaA (cds)
+ID 4: yohC: Inner membrane protein YohC (cds)
+ID 5: dedA: Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family (cds)
+ID 6: rcsC: two-component system sensor histidine kinase RcsC (cds)
+ID 7: fucR: L-fucose operon activator (cds)
+ID 8: dhaR: dihydroxyacetone kinase operon transcriptional regulator DhaR (cds)
+ID 9: Helicase (cds)
+ID 10: hypothetical protein (cds)

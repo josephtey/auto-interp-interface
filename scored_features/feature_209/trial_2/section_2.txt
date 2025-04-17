@@ -1,0 +1,11 @@
+Image 2
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: Rhodanese-like domain-containing protein (cds)
+ID 2: Efflux RND transporter permease subunit (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ygjV: YgjV family protein (cds)
+ID 5: Efflux RND transporter permease subunit (cds)
+ID 6: yciH: stress response translation initiation inhibitor YciH (cds)
+ID 7: sixA: phosphohistidine phosphatase SixA (cds)
+ID 8: DUF3010 domain-containing protein (cds)
+ID 9: secB: protein-export chaperone SecB (cds)

@@ -1,0 +1,11 @@
+Image 0
+Organism: Limnoglobus roseus (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: pknB: Serine/threonine-protein kinase PknB (cds)
+ID 3: Molybdenum transporter (cds)
+ID 4: 6-bladed beta-propeller (cds)
+ID 5: CRISPR type III-B/RAMP module-associated protein Cmr5 (cds)
+ID 6: hypothetical protein (cds)
+ID 7: SMI1/KNR4 family protein (cds)
+ID 8: Magnesium-translocating P-type ATPase (cds)
+ID 9: brkB: YihY/virulence factor BrkB family protein (cds)

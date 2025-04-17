@@ -1,0 +1,12 @@
+Image 2
+Organism: Unknown organism
+ID 1: aceF: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component (cds)
+ID 2: wcaE: Glycosyltransferase, GT2 family (cds)
+ID 3: leuA: 2-isopropylmalate synthase (cds)
+ID 4: rutF: FMN reductase RutF, DIM6/NTAB family (cds)
+ID 5: cysK: cysteine synthase A (cds)
+ID 6: insQ: Transposase (cds)
+ID 7: Toluene-4-monooxygenase system B (cds)
+ID 8: caiD: Enoyl-CoA hydratase/carnithine racemase (cds)
+ID 9: sseA: 3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains (cds)
+ID 10: ligW: 5-carboxyvanillate decarboxylase LigW (lignin degradation), amidohydro domain (cds)

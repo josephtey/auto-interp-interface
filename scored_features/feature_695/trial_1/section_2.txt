@@ -1,0 +1,12 @@
+Image 2
+Organism: Microbacterium wangchenii (high G+C Gram-positive bacteria)
+ID 1: Flavin reductase (cds)
+ID 2: TolB-like translocation protein (cds)
+ID 3: DUF2993 domain-containing protein (cds)
+ID 4: Amino acid ABC transporter permease (cds)
+ID 5: dihydroorotase (cds)
+ID 6: orn: oligoribonuclease (cds)
+ID 7: Sugar ABC transporter permease (cds)
+ID 8: HAD-IC family P-type ATPase (cds)
+ID 9: CoA transferase subunit B (cds)
+ID 10: ABC transporter ATP-binding protein (cds)

@@ -1,0 +1,11 @@
+Image 3
+Organism: Massilia oculi (b-proteobacteria)
+ID 1: xth: exodeoxyribonuclease III (cds)
+ID 2: Benzoate-CoA ligase (cds)
+ID 3: Phosphomethylpyrimidine kinase (cds)
+ID 4: rpsE: 30S ribosomal protein S5 (cds)
+ID 5: Sugar transferase, PEP-CTERM/EpsH1 system associated (cds)
+ID 6: yidC: membrane protein insertase YidC (cds)
+ID 7: Glycine zipper 2TM domain-containing protein (cds)
+ID 8: Potassium/sodium efflux P-type ATPase, fungal-type (cds)
+ID 9: Xcc1710-like domain-containing protein (cds)

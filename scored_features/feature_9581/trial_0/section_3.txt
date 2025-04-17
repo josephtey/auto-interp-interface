@@ -1,0 +1,13 @@
+Image 3
+Organism: Parasphingorhabdus halotolerans (a-proteobacteria)
+ID 1: Radical SAM protein (cds)
+ID 2: pspF: phage shock protein operon transcriptional activator (cds)
+ID 3: Phage shock protein B (cds)
+ID 4: Autotransporter domain-containing protein (cds)
+ID 5: prfB: peptide chain release factor 2 (cds)
+ID 6: Rieske (2Fe-2S) protein (cds)
+ID 7: Nuclear transport factor 2 family protein (cds)
+ID 8: ABC-type uncharacterized transport system domain-containing protein (cds)
+ID 9: SnoaL-like domain-containing protein (cds)
+ID 10: fixB: Electron transfer flavoprotein, alpha subunit FixB (cds)
+ID 11: dksA: RNA polymerase-binding protein DksA (cds)

@@ -1,0 +1,12 @@
+Image 2
+Organism: Sutterella megalosphaeroides (b-proteobacteria)
+ID 1: Toxin-antitoxin system, antitoxin component, ribbon-helix-helix domain protein (cds)
+ID 2: DUF1840 domain-containing protein (cds)
+ID 3: dsbC: Protein thiol-disulfide isomerase DsbC (cds)
+ID 4: yddG: aromatic amino acid DMT transporter YddG (cds)
+ID 5: Asparagine synthetase domain-containing protein (cds)
+ID 6: Signal transduction histidine kinase regulating C4-dicarboxylate transport system (cds)
+ID 7: hypothetical protein (cds)
+ID 8: rhaT: Permease of the drug/metabolite transporter (DMT) superfamily (cds)
+ID 9: recD: exodeoxyribonuclease V subunit alpha (cds)
+ID 10: fdx: ISC system 2Fe-2S type ferredoxin (cds)

@@ -1,0 +1,12 @@
+Image 2
+Organism: Capnocytophaga stomatis (CFB group bacteria)
+ID 1: speB: agmatinase (cds)
+ID 2: AAA+ ATPase domain-containing protein (cds)
+ID 3: fabG: 3-oxoacyl-[acyl-carrier-protein] reductase (cds)
+ID 4: LVIVD repeat-containing protein (cds)
+ID 5: Sulfatase (cds)
+ID 6: DUF1905 domain-containing protein (cds)
+ID 7: Tetratricopeptide repeat protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Aminoglycoside phosphotransferase domain-containing protein (cds)
+ID 10: 4'-phosphopantetheinyl transferase domain-containing protein (cds)

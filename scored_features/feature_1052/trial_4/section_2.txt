@@ -1,0 +1,5 @@
+Image 2
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: K+ transport system, NAD-binding component (cds)
+ID 2: Cobalamin-dependent methionine synthase I (cds)
+ID 3: ABC transporter permease (cds)

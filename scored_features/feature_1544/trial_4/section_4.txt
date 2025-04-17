@@ -1,0 +1,12 @@
+Image 4
+Organism: Candidatus Nanopelagicus hibericus (high G+C Gram-positive bacteria)
+ID 1: UDP-glucose 6-dehydrogenase (cds)
+ID 2: Nucleotidyl transferase domain-containing protein (cds)
+ID 3: lipB: lipoyl(octanoyl) transferase LipB (cds)
+ID 4: 23S rRNA (Cytidine1920-2'-O)/16S rRNA (Cytidine1409-2'-O)-methyltransferase (cds)
+ID 5: rrf: 5S ribosomal RNA (rRNA)
+ID 6: rnc: ribonuclease III (cds)
+ID 7: pyrH: UMP kinase (cds)
+ID 8: mcrA: 5-methylcytosine-specific restriction endonuclease McrA (cds)
+ID 9: 3-oxoacyl-[acyl-carrier protein] reductase (cds)
+ID 10: prmC: peptide chain release factor N(5)-glutamine methyltransferase (cds)

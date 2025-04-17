@@ -1,0 +1,8 @@
+Image 3
+Organism: Cellulophaga algicola DSM 14237 (CFB group bacteria)
+ID 1: Transposase (cds)
+ID 2: glgA: Glycogen synthase (cds)
+ID 3: uspA: Nucleotide-binding universal stress protein, UspA family (cds)
+ID 4: Ig-like domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Lipoprotein (cds)

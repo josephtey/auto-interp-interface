@@ -1,0 +1,12 @@
+Image 1
+Organism: Vibrio tapetis subsp. tapetis (g-proteobacteria)
+ID 1: ltrA: group II intron reverse transcriptase/maturase (cds)
+ID 2: tonB: TPR domain protein component of TonB system (cds)
+ID 3: Outer membrane receptor protein (cds)
+ID 4: Putative ABC-type Fe3+-hydroxamate transport system, periplasmic component (cds)
+ID 5: tRNA sulfurtransferase (cds)
+ID 6: D-fructose-6-phosphate amidotransferase (cds)
+ID 7: pyrB: aspartate carbamoyltransferase (cds)
+ID 8: luxQ: Autoinducer 2 sensor kinase/phosphatase LuxQ (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hlyD: Putative Secretion protein HlyD (cds)

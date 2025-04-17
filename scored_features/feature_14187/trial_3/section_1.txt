@@ -1,0 +1,8 @@
+Image 1
+Organism: Xanthomonas hyacinthi (g-proteobacteria)
+ID 1: araC: AraC family transcriptional regulator (cds)
+ID 2: ftsE: cell division ATP-binding protein FtsE (cds)
+ID 3: Protein sip-5 (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: DUF2946 domain-containing protein (cds)
+ID 6: Amidohydrolase-related domain-containing protein (cds)

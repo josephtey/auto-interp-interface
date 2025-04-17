@@ -1,0 +1,12 @@
+Image 0
+Organism: Intrasporangium calvum DSM 43043 (high G+C Gram-positive bacteria)
+ID 1: trnL: tRNA-Leu(cag) (tRNA)
+ID 2: hypothetical protein (cds)
+ID 3: ppa: Inorganic pyrophosphatase (cds)
+ID 4: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 5: bglX: Periplasmic beta-glucosidase and related glycosidases (cds)
+ID 6: glnK: Nitrogen regulatory protein PII (cds)
+ID 7: agaS: Fructoselysine-6-P-deglycase FrlB or related protein, duplicated sugar isomerase (SIS) domain (cds)
+ID 8: DUF3073 domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: mdh: L-lactate dehydrogenase (cds)

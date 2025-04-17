@@ -1,0 +1,8 @@
+Image 4
+Organism: Spirosoma taeanense (CFB group bacteria)
+ID 1: gntP: GntP family permease (cds)
+ID 2: Alpha/beta fold hydrolase (cds)
+ID 3: N-acetylmuramoyl-L-alanine amidase (cds)
+ID 4: groL: chaperonin GroEL (cds)
+ID 5: gntP: GntP family permease (cds)
+ID 6: PQQ-dependent sugar dehydrogenase (cds)

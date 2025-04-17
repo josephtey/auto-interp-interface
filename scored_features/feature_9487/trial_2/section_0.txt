@@ -1,0 +1,8 @@
+Image 0
+Organism: Thiospirochaeta perfilievii (spirochetes)
+ID 1: MBL fold metallo-hydrolase (cds)
+ID 2: FAD:protein FMN transferase (cds)
+ID 3: Adenosylcobinamide kinase (cds)
+ID 4: DNA repair helicase XPB (cds)
+ID 5: Arginine repressor (cds)
+ID 6: mrdA: penicillin-binding protein 2 (cds)

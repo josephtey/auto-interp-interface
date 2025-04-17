@@ -1,0 +1,11 @@
+Image 4
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: sirB2: Uncharacterized membrane protein SirB2 (cds)
+ID 2: ybeY: rRNA maturation RNase YbeY (cds)
+ID 3: Polymerase beta nucleotidyltransferase domain-containing protein (cds)
+ID 4: recQ: DNA helicase RecQ (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: HDOD domain-containing protein (cds)
+ID 7: uvrD: Superfamily I DNA or RNA helicase (cds)
+ID 8: prpB: methylisocitrate lyase (cds)
+ID 9: gloB: Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II (cds)

@@ -1,0 +1,10 @@
+Image 2
+Organism: Yersinia hibernica (enterobacteria)
+ID 1: trnR: tRNA-Arg(ccg) (tRNA)
+ID 2: yfdV: putative permease, AEC (auxin efflux carrier) family (cds)
+ID 3: cysN: sulfate adenylyltransferase subunit CysN (cds)
+ID 4: rstB: two-component system sensor histidine kinase RstB (cds)
+ID 5: aroG: 3-deoxy-7-phosphoheptulonate synthase AroG (cds)
+ID 6: trnM: tRNA-Met(cat) (tRNA)
+ID 7: IpaD/SipD/SspD family type III secretion system needle tip protein (cds)
+ID 8: mreC: rod shape-determining protein MreC (cds)

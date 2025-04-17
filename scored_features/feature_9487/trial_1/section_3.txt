@@ -1,0 +1,11 @@
+Image 3
+Organism: Amycolatopsis aidingensis (high G+C Gram-positive bacteria)
+ID 1: Osmoprotectant transport system permease protein (cds)
+ID 2: ParB-like nuclease family protein (cds)
+ID 3: DUF742 domain-containing protein (cds)
+ID 4: Putative MFS family arabinose efflux permease (cds)
+ID 5: Lactate dehydrogenase-like 2-hydroxyacid dehydrogenase (cds)
+ID 6: merA: mercury(II) reductase (cds)
+ID 7: Subtilase family protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: glycoside hydrolase family 9 protein (cds)

@@ -1,0 +1,11 @@
+Image 1
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: diguanylate cyclase (cds)
+ID 2: D-amino acid dehydrogenase (cds)
+ID 3: lysR: LysR family transcriptional regulator (cds)
+ID 4: Double zinc ribbon (cds)
+ID 5: tyrosine-type recombinase/integrase (cds)
+ID 6: wax ester/triacylglycerol synthase family O-acyltransferase (cds)
+ID 7: DUF2147 domain-containing protein (cds)
+ID 8: C1 family peptidase (cds)
+ID 9: Gx transporter family protein (cds)

@@ -1,0 +1,12 @@
+Image 1
+Organism: Thiomicrorhabdus xiamenensis (g-proteobacteria)
+ID 1: VWA domain-containing protein (cds)
+ID 2: Fe2+-dependent dioxygenase (cds)
+ID 3: Acyl-CoA thioesterase (cds)
+ID 4: fusA: elongation factor G (cds)
+ID 5: SAM-dependent methyltransferase (cds)
+ID 6: GTP-binding protein (cds)
+ID 7: rsxB: electron transport complex subunit RsxB (cds)
+ID 8: fmdA: formamidase (cds)
+ID 9: multifunctional CCA addition/repair protein (cds)
+ID 10: pyruvate kinase (cds)

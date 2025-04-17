@@ -1,0 +1,10 @@
+Image 2
+Organism: Pukyongia salina (CFB group bacteria)
+ID 1: nusG: transcription termination/antitermination protein NusG (cds)
+ID 2: hypothetical protein (cds)
+ID 3: yaeI: putative phosphohydrolase, MPP superfamily (cds)
+ID 4: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 5: Phage tail protein (cds)
+ID 6: bamA: Outer membrane protein assembly factor BamA (cds)
+ID 7: murE: UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (cds)
+ID 8: hisC: histidinol-phosphate transaminase (cds)

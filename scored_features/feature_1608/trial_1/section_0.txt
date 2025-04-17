@@ -1,0 +1,13 @@
+Image 0
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: rrs: 16S ribosomal RNA (rRNA)
+ID 2: argC: N-acetyl-gamma-glutamyl-phosphate reductase (cds)
+ID 3: Universal stress protein (cds)
+ID 4: eamA: EamA family transporter (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: pyrR: bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR (cds)
+ID 8: padR: PadR family transcriptional regulator (cds)
+ID 9: trnN: tRNA-Asn(gtt) (tRNA)
+ID 10: cbiG: Cobalamin biosynthesis protein CbiG (cds)
+ID 11: Cobalt chelatase (cds)

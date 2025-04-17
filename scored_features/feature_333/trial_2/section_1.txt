@@ -1,0 +1,8 @@
+Image 1
+Organism: Iocasia fonsfrigidae (firmicutes)
+ID 1: yesM: Sensor histidine kinase YesM (cds)
+ID 2: recO: DNA repair protein RecO (cds)
+ID 3: hypothetical protein (cds)
+ID 4: nar1: NADH-dependent [FeFe] hydrogenase, group A6 (cds)
+ID 5: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 6: hypothetical protein (cds)

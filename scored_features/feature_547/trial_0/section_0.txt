@@ -1,0 +1,10 @@
+Image 0
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: lnt: apolipoprotein N-acyltransferase (cds)
+ID 2: Sarcosine oxidase subunit delta family protein (cds)
+ID 3: DNA repair protein (cds)
+ID 4: GNAT family N-acetyltransferase (cds)
+ID 5: DUF4397 domain-containing protein (cds)
+ID 6: Trk system potassium uptake protein (cds)
+ID 7: acetyl-CoA C-acetyltransferase (cds)
+ID 8: Nucleoside 2-deoxyribosyltransferase (cds)

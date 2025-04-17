@@ -1,0 +1,10 @@
+Image 4
+Organism: Georgenia yuyongxinii (high G+C Gram-positive bacteria)
+ID 1: Glycosyltransferase family 2 protein (cds)
+ID 2: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (cds)
+ID 3: AbiEi antitoxin C-terminal domain-containing protein (cds)
+ID 4: DNA/RNA non-specific endonuclease (cds)
+ID 5: acyl carrier protein (cds)
+ID 6: leucyl aminopeptidase (cds)
+ID 7: yCII: 5-chloro-2-hydroxyhydroquinone dehydrochlorinase TtfG, YCII superfamily (cds)
+ID 8: Metallopeptidase family protein (cds)

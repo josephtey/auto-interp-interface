@@ -1,0 +1,12 @@
+Image 0
+Organism: Salinimonas lutimaris (g-proteobacteria)
+ID 1: c-type cytochrome (cds)
+ID 2: alkB: alpha-ketoglutarate-dependent dioxygenase AlkB (cds)
+ID 3: TIGR03899 family protein (cds)
+ID 4: ATP-grasp domain-containing protein (cds)
+ID 5: DUF883 domain-containing protein (cds)
+ID 6: rbfA: 30S ribosome-binding factor RbfA (cds)
+ID 7: methylamine utilization protein (cds)
+ID 8: carB: carbamoyl-phosphate synthase large subunit (cds)
+ID 9: homoserine O-acetyltransferase (cds)
+ID 10: fliQ: flagellar biosynthesis protein FliQ (cds)

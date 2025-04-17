@@ -1,0 +1,11 @@
+Image 0
+Organism: Amycolatopsis aidingensis (high G+C Gram-positive bacteria)
+ID 1: serine hydrolase domain-containing protein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Helix-turn-helix protein (cds)
+ID 5: helix-turn-helix domain-containing protein (cds)
+ID 6: endonuclease/exonuclease/phosphatase family protein (cds)
+ID 7: ABC transporter ATP-binding protein (cds)
+ID 8: K(+)-transporting ATPase subunit F (cds)
+ID 9: lamin tail domain-containing protein (cds)

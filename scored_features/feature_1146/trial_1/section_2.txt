@@ -1,0 +1,10 @@
+Image 2
+Organism: Symbiobacterium thermophilum IAM 14863 (firmicutes)
+ID 1: DUF4829 domain-containing protein (cds)
+ID 2: dppD: ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component (cds)
+ID 3: Transposase (cds)
+ID 4: sleL: Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family (cds)
+ID 5: ntrC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)
+ID 6: mrcB: Penicillin-binding protein 1B/1F, peptidoglycan transglycosylase/transpeptidase (cds)
+ID 7: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 8: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)

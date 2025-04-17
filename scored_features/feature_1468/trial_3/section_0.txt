@@ -1,0 +1,11 @@
+Image 0
+Organism: Amycolatopsis aidingensis (high G+C Gram-positive bacteria)
+ID 1: luxR: LuxR family two component transcriptional regulator (cds)
+ID 2: Universal stress protein (cds)
+ID 3: helix-turn-helix domain-containing protein (cds)
+ID 4: NACHT domain-containing protein (cds)
+ID 5: type I polyketide synthase (cds)
+ID 6: cytochrome P450 (cds)
+ID 7: vitamin B12-dependent ribonucleotide reductase (cds)
+ID 8: NAD(P)H-binding protein (cds)
+ID 9: XPB/Ssl2-like helicase family protein (cds)

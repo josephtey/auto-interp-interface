@@ -1,0 +1,12 @@
+Image 4
+Organism: Fervidobacterium nodosum Rt17-B1 (thermotogales)
+ID 1: Histone family protein DNA-binding protein (cds)
+ID 2: ABC transmembrane type-1 domain-containing protein (cds)
+ID 3: Cobyrinic acid ac-diamide synthase (cds)
+ID 4: fliF: flagellar basal-body MS-ring/collar protein FliF (cds)
+ID 5: Tetratricopeptide TPR_2 repeat protein (cds)
+ID 6: trnE: tRNA-Glu(ttc) (tRNA)
+ID 7: trnA: tRNA-Ala(tgc) (tRNA)
+ID 8: Anti-sigma factor antagonist (cds)
+ID 9: ribD: bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD (cds)
+ID 10: Binding-protein-dependent transport systems inner membrane component (cds)

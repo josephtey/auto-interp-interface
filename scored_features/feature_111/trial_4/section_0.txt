@@ -1,0 +1,12 @@
+Image 0
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: SpF59_sRNA: Streptococcus sRNA SpF59 (ldcC RNA) (ncRNA)
+ID 2: DNA-binding response regulator (cds)
+ID 3: trnP: tRNA-Pro(cgg) (tRNA)
+ID 4: hrcA: heat-inducible transcriptional repressor HrcA (cds)
+ID 5: N-acetyltransferase (cds)
+ID 6: msbA: Lipid A export ATP-binding/permease protein MsbA (cds)
+ID 7: EF-hand domain-containing protein (cds)
+ID 8: ABC transporter ATP-binding protein (cds)
+ID 9: sleB: spore cortex-lytic enzyme (cds)
+ID 10: ImmA/IrrE family metallo-endopeptidase (cds)

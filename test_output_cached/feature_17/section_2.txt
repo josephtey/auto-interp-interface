@@ -1,0 +1,7 @@
+Organism: Sulfurospirillum cavolei (e-proteobacteria)
+ID 1: Carbon-nitrogen hydrolase family protein (cds)
+ID 2: Formate dehydrogenase-specific chaperone (cds)
+ID 3: transporter substrate-binding domain-containing protein (cds)
+ID 4: Putative hydrolase (cds)
+ID 5: GNAT family N-acetyltransferase (cds)
+ID 6: Acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase (cds)

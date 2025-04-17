@@ -1,0 +1,12 @@
+Image 1
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: helix-turn-helix domain-containing protein (cds)
+ID 2: flgF: flagellar basal-body rod protein FlgF (cds)
+ID 3: Ribonuclease BN (cds)
+ID 4: acs: Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase (cds)
+ID 5: parA: ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ (cds)
+ID 6: Peptidase A24A, prepilin type IV (cds)
+ID 7: beeE: Phage portal protein BeeE (cds)
+ID 8: Autotransporter adhesin (cds)
+ID 9: fadK: O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming) (cds)
+ID 10: tar: Methyl-accepting chemotaxis protein (MCP) (cds)

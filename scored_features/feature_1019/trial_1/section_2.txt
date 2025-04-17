@@ -1,0 +1,12 @@
+Image 2
+Organism: Desulfomicrobium baculatum DSM 4028 (bacteria)
+ID 1: putative hydrolase, HD superfamily (cds)
+ID 2: phnF: phosphonate metabolism transcriptional regulator PhnF (cds)
+ID 3: hdrB: Heterodisulfide reductase, subunit B (cds)
+ID 4: gGDEF: GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants (cds)
+ID 5: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 6: speA: biosynthetic arginine decarboxylase (cds)
+ID 7: rimP: Ribosome maturation factor RimP (cds)
+ID 8: nusA: Transcription antitermination factor NusA, contains S1 and KH domains (cds)
+ID 9: Class II aldolase/adducin family protein (cds)
+ID 10: tatB: Sec-independent protein translocase protein TatB (cds)

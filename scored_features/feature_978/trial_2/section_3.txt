@@ -1,0 +1,13 @@
+Image 3
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: ychF: redox-regulated ATPase YchF (cds)
+ID 2: pfkA: 6-phosphofructokinase (cds)
+ID 3: pckA: Phosphoenolpyruvate carboxykinase, ATP-dependent (cds)
+ID 4: tlyC: Hemolysin-related protein, contains CBS domains, UPF0053 family (cds)
+ID 5: hypothetical protein (cds)
+ID 6: thioredoxin family protein (cds)
+ID 7: tyrS: tyrosine--tRNA ligase (cds)
+ID 8: murC: UDP-N-acetylmuramate--L-alanine ligase (cds)
+ID 9: yeaD2: Uncharacterized conserved protein, DUF58 family, contains vWF domain (cds)
+ID 10: nadD: nicotinate-nucleotide adenylyltransferase (cds)
+ID 11: dnaK: molecular chaperone DnaK (cds)

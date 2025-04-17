@@ -1,0 +1,11 @@
+Image 2
+Organism: Limnoglobus roseus (bacteria)
+ID 1: ATP-dependent RecD-like DNA helicase (cds)
+ID 2: ISAs1 family transposase (cds)
+ID 3: Molybdopterin converting factor (cds)
+ID 4: Phytanoyl-CoA dioxygenase family protein (cds)
+ID 5: Nucleotide pyrophosphohydrolase (cds)
+ID 6: Alpha-2-macroglobulin domain-containing protein (cds)
+ID 7: SWIM-type domain-containing protein (cds)
+ID 8: Peptidase M28 domain-containing protein (cds)
+ID 9: hypothetical protein (cds)

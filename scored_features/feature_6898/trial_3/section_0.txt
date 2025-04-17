@@ -1,0 +1,12 @@
+Image 0
+Organism: Cellulomonas shaoxiangyii (high G+C Gram-positive bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Arabinan endo-1,5-alpha-L-arabinosidase (cds)
+ID 3: DUF3107 domain-containing protein (cds)
+ID 4: DNA-binding protein (cds)
+ID 5: Methylated-DNA--[protein]-cysteine S-methyltransferase (cds)
+ID 6: tsf: translation elongation factor Ts (cds)
+ID 7: Cellulose-binding protein (cds)
+ID 8: ADP-dependent (S)-NAD(P)H-hydrate dehydratase (cds)
+ID 9: Beta-N-acetylhexosaminidase (cds)
+ID 10: Nucleotidyl transferase (cds)

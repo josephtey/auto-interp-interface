@@ -1,0 +1,10 @@
+Image 4
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: sPS1: Serine/threonine protein kinase (cds)
+ID 2: Sulfotransferase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence GCGCCACCGCCGCGCGGGCCGCCCTCGGGCGCAAGCT (crispr-spacer)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: orn: oligoribonuclease (cds)
+ID 8: csx10gr5: CRISPR-Cas system type II-D effector complex subunit Csx10, RAMP superfamily Cas5 group (cds)

@@ -1,0 +1,10 @@
+Image 0
+Organism: Serpentinimonas maccroryi (b-proteobacteria)
+ID 1: Uncharacterized conserved protein (cds)
+ID 2: rpiA: ribose-5-phosphate isomerase RpiA (cds)
+ID 3: putative ABC-type transport system involved in lysophospholipase L1 biosynthesis, ATPase component (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: leuD: 3-isopropylmalate dehydratase small subunit (cds)
+ID 6: putative membrane protein (cds)
+ID 7: ftsQ: Cell division protein FtsQ (cds)
+ID 8: Prephenate dehydratase (cds)

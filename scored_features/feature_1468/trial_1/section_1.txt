@@ -1,0 +1,8 @@
+Image 1
+Organism: Paenibacillus yonginensis (firmicutes)
+ID 1: histidine kinase (cds)
+ID 2: Gamma-aminobutyrate permease (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: yvmB: HTH-type transcriptional regulator YvmB (cds)
+ID 5: hypothetical protein (cds)
+ID 6: ehuA: ABC transporter domain-containing protein (cds)

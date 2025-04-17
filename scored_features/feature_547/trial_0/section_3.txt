@@ -1,0 +1,11 @@
+Image 3
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: hslO: Hsp33 family molecular chaperone HslO (cds)
+ID 2: xni: flap endonuclease Xni (cds)
+ID 3: Putative periplasmic chaperone protein with PapD-like and periplasmic chaperone C-domains (cds)
+ID 4: Phage tail protein (cds)
+ID 5: CENP-V/GFA domain-containing protein (cds)
+ID 6: Putative transcription regulator (AraC family) (cds)
+ID 7: IS982 family transposase (cds)
+ID 8: trnA: tRNA-Ala(ggc) (tRNA)
+ID 9: CRISPR spacer, sequence TGAGGGAAAATCAGTTTCCAGTTGTCATAGTTC (crispr-spacer)

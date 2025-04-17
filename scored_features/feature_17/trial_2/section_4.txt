@@ -1,0 +1,4 @@
+Image 4
+Organism: Flavobacterium johnsoniae UW101 (CFB group bacteria)
+ID 1: putative ATPase (cds)
+ID 2: Type VI secretion system needle protein Hcp (cds)

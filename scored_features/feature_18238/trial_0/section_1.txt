@@ -1,0 +1,12 @@
+Image 1
+Organism: Pseudomonas monsensis (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Putative transmembrane MFS family sugar transport protein (cds)
+ID 3: ureidoglycolate lyase (cds)
+ID 4: prpF: 2-methylaconitate cis-trans isomerase PrpF (cds)
+ID 5: Galactarate dehydratase (L-threo-forming) (cds)
+ID 6: Aconitate isomerase (cds)
+ID 7: yciK: YciK family oxidoreductase (cds)
+ID 8: Methyltransferase domain-containing protein (cds)
+ID 9: DUF3077 domain-containing protein (cds)
+ID 10: hypothetical protein (cds)

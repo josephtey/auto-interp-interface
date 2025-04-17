@@ -1,0 +1,13 @@
+Image 2
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: peptidoglycan lytic exotransglycosylase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: nrdR: transcriptional regulator NrdR (cds)
+ID 4: Dabb family protein (cds)
+ID 5: Beta-alanine--pyruvate transaminase (cds)
+ID 6: pseF: pseudaminic acid cytidylyltransferase (cds)
+ID 7: class III extradiol ring-cleavage dioxygenase (cds)
+ID 8: gspG: type II secretion system major pseudopilin GspG (cds)
+ID 9: DUF2309 domain-containing protein (cds)
+ID 10: carbonic anhydrase family protein (cds)
+ID 11: ROK family transcriptional regulator (cds)

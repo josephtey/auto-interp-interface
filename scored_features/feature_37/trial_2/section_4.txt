@@ -1,0 +1,8 @@
+Image 4
+Organism: Candidatus Kinetoplastibacterium blastocrithidii (ex Strigomonas culicis) (b-proteobacteria)
+ID 1: rplQ: 50S ribosomal protein L17 (cds)
+ID 2: hypothetical protein (cds)
+ID 3: groES: Co-chaperonin GroES (cds)
+ID 4: terC: TerC family/CBS domain/transporter (cds)
+ID 5: rpsT: 30S ribosomal protein S20 (cds)
+ID 6: Mechanosensitive ion channel protein (cds)

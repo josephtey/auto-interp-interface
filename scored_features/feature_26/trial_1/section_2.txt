@@ -1,0 +1,12 @@
+Image 2
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: msrA: Peptide methionine sulfoxide reductase MsrA (cds)
+ID 2: EAL domain-containing protein (cds)
+ID 3: ABC transporter substrate-binding protein (cds)
+ID 4: FliM/FliN family flagellar motor switch protein (cds)
+ID 5: precorrin-2 dehydrogenase (cds)
+ID 6: non-specific serine/threonine protein kinase (cds)
+ID 7: grcA: Autonomous glycyl radical cofactor GrcA (cds)
+ID 8: comF: ComF family protein (cds)
+ID 9: DEAD/DEAH box helicase (cds)
+ID 10: DUF2061 domain-containing protein (cds)

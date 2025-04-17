@@ -1,0 +1,13 @@
+Image 4
+Organism: Pseudomonas promysalinigenes (g-proteobacteria)
+ID 1: rpsD: 30S ribosomal protein S4 (cds)
+ID 2: lipA: lipoyl synthase (cds)
+ID 3: ABC transporter substrate-binding protein (cds)
+ID 4: yqjQ: SDR family oxidoreductase (cds)
+ID 5: DNA polymerase II (cds)
+ID 6: msuE: FMN reductase (cds)
+ID 7: multidrug effflux MFS transporter (cds)
+ID 8: t44: t44 RNA (ncRNA)
+ID 9: NfeD-like C-terminal domain-containing protein (cds)
+ID 10: ligB: NAD-dependent DNA ligase LigB (cds)
+ID 11: Lipoprotein (cds)

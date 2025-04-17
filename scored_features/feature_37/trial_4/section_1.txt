@@ -1,0 +1,11 @@
+Image 1
+Organism: Limnoglobus roseus (bacteria)
+ID 1: lysR: LysR substrate-binding domain-containing protein (cds)
+ID 2: SMI1/KNR4 family protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ssuC: aliphatic sulfonate ABC transporter permease SsuC (cds)
+ID 5: copG: Ribbon-helix-helix protein CopG domain-containing protein (cds)
+ID 6: Endonuclease (cds)
+ID 7: hypothetical protein (cds)
+ID 8: gspG: Type II secretion system protein GspG C-terminal domain-containing protein (cds)
+ID 9: NADH-quinone oxidoreductase subunit A (cds)

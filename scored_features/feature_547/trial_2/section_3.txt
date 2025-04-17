@@ -1,0 +1,13 @@
+Image 3
+Organism: Parasphingorhabdus halotolerans (a-proteobacteria)
+ID 1: DUF3147 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Heme-binding protein (cds)
+ID 4: Transcriptional regulator (cds)
+ID 5: RNA methyltransferase (cds)
+ID 6: PepSY-associated transmembrane protein (cds)
+ID 7: fur: Fe2+ or Zn2+ uptake regulation protein Fur/Zur (cds)
+ID 8: Glycosyltransferase family 4 protein (cds)
+ID 9: 5-(carboxyamino)imidazole ribonucleotide synthase (cds)
+ID 10: Competence/damage-inducible protein A (cds)
+ID 11: Homoserine dehydrogenase (cds)

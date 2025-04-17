@@ -1,0 +1,11 @@
+Image 4
+Organism: Pukyongia salina (CFB group bacteria)
+ID 1: secY: preprotein translocase subunit SecY (cds)
+ID 2: nusA: Transcription antitermination factor NusA, contains S1 and KH domains (cds)
+ID 3: DUF3108 domain-containing protein (cds)
+ID 4: miaB: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB (cds)
+ID 5: metK: methionine adenosyltransferase (cds)
+ID 6: DUF2007 domain-containing protein (cds)
+ID 7: ccmC: ABC-type transport system involved in cytochrome c biogenesis, permease component (cds)
+ID 8: TIGR02757 family protein (cds)
+ID 9: hypothetical protein (cds)

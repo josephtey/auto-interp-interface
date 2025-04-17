@@ -1,0 +1,12 @@
+Image 0
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: tRNA sulfurtransferase (cds)
+ID 2: merR: MerR family transcriptional regulator (cds)
+ID 3: trnE: tRNA-Glu(ttc) (tRNA)
+ID 4: trnN: tRNA-Asn(gtt) (tRNA)
+ID 5: trnA: tRNA-Ala(tgc) (tRNA)
+ID 6: parE: DNA topoisomerase IV subunit B (cds)
+ID 7: GMC family oxidoreductase (cds)
+ID 8: GNAT family N-acetyltransferase (cds)
+ID 9: Acyltransferase (cds)
+ID 10: rrf: 5S ribosomal RNA (rRNA)

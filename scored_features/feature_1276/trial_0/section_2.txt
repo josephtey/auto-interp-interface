@@ -1,0 +1,12 @@
+Image 2
+Organism: Shewanella halifaxensis HAW-EB4 (g-proteobacteria)
+ID 1: tsaC: L-threonylcarbamoyladenylate synthase (cds)
+ID 2: pfkB: PfkB domain protein (cds)
+ID 3: narZ: nitrate reductase subunit alpha (cds)
+ID 4: Integrase, catalytic region (cds)
+ID 5: minC: septum site-determining protein MinC (cds)
+ID 6: Peptidase M10 metallopeptidase domain-containing protein (cds)
+ID 7: Nuclear transport factor 2 (cds)
+ID 8: xapA: xanthosine phosphorylase (cds)
+ID 9: sirB: Invasion gene expression up-regulator SirB (cds)
+ID 10: sodium/glutamate symporter (cds)

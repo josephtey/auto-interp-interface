@@ -1,0 +1,11 @@
+Image 1
+Organism: Pelobacter propionicus DSM 2379 (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Lipoprotein, putative (cds)
+ID 3: walK: Sensor histidine kinase WalK (cds)
+ID 4: pleD: Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain (cds)
+ID 5: rluA: Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific (cds)
+ID 6: nhaP: NhaP-type Na+/H+ or K+/H+ antiporter (cds)
+ID 7: mnmE: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE (cds)
+ID 8: hypothetical protein (cds)
+ID 9: recD: ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V) (cds)

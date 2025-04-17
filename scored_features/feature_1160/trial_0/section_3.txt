@@ -1,0 +1,11 @@
+Image 3
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: Lipoprotein (cds)
+ID 2: Glycerophosphodiester phosphodiesterase (cds)
+ID 3: Energy-coupling factor ABC transporter permease (cds)
+ID 4: Tyrosine-type recombinase/integrase (cds)
+ID 5: ppc: phosphoenolpyruvate carboxylase (cds)
+ID 6: cspA thermoregulator (ncRNA-region)
+ID 7: ABC transporter substrate-binding protein (cds)
+ID 8: glutathione transferase (cds)
+ID 9: RNA pyrophosphohydrolase (cds)

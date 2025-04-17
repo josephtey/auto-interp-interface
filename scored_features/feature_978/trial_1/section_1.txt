@@ -1,0 +1,14 @@
+Image 1
+Organism: Unknown organism
+ID 1: istB: IS21-like element helper ATPase IstB (cds)
+ID 2: Methylcrotonoyl-CoA carboxylase (cds)
+ID 3: Thioesterase (cds)
+ID 4: efp: elongation factor P (cds)
+ID 5: Carboxymuconolactone decarboxylase (cds)
+ID 6: secA: Preprotein translocase subunit SecA (cds)
+ID 7: PASTA domain-containing protein (cds)
+ID 8: Mammalian cell entry protein (cds)
+ID 9: Transmembrane protein (cds)
+ID 10: Mammalian cell entry protein (cds)
+ID 11: clpS: ATP-dependent Clp protease adapter ClpS (cds)
+ID 12: Cytochrome (cds)

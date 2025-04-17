@@ -1,0 +1,10 @@
+Image 4
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: Transcriptional regulator (cds)
+ID 2: Glycerol-3-phosphate dehydrogenase (cds)
+ID 3: serS: serine--tRNA ligase (cds)
+ID 4: Binding-protein-dependent transport systems inner membrane component (cds)
+ID 5: hypothetical protein (cds)
+ID 6: eno: phosphopyruvate hydratase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: acetyl-CoA C-acetyltransferase (cds)

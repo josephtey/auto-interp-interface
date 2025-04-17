@@ -1,0 +1,11 @@
+Image 2
+Organism: Unknown organism
+ID 1: hypothetical protein (cds)
+ID 2: tnpB: IS66 family insertion sequence element accessory protein TnpB (cds)
+ID 3: GPW/gp25 family protein (cds)
+ID 4: Xenobiotic-transporting ATPase (cds)
+ID 5: DUF1653 domain-containing protein (cds)
+ID 6: cobU: bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase (cds)
+ID 7: hutG: N-formylglutamate deformylase (cds)
+ID 8: glycosyl transferase family protein (cds)
+ID 9: Antibiotic biosynthesis monooxygenase (cds)

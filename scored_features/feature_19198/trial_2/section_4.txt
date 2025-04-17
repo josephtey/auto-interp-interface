@@ -1,0 +1,12 @@
+Image 4
+Organism: Shewanella halifaxensis HAW-EB4 (g-proteobacteria)
+ID 1: (S)-ureidoglycine aminohydrolase cupin domain-containing protein (cds)
+ID 2: araC: Transcriptional regulator, AraC family (cds)
+ID 3: Phosphate-selective porin O and P (cds)
+ID 4: murF: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (cds)
+ID 5: epd: erythrose-4-phosphate dehydrogenase (cds)
+ID 6: TIGR01212 family radical SAM protein (cds)
+ID 7: bamE: Outer membrane protein assembly factor BamE (cds)
+ID 8: DUF2069 domain-containing protein (cds)
+ID 9: folD: bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD (cds)
+ID 10: torD: Cytoplasmic chaperone TorD family protein (cds)

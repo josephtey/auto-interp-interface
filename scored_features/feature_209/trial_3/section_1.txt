@@ -1,0 +1,10 @@
+Image 1
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: recO: DNA repair protein RecO (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: pheT: phenylalanine--tRNA ligase subunit beta (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Methyltransferase domain-containing protein (cds)
+ID 7: Mercuric reductase (cds)
+ID 8: (pseudo) Dehydrogenases with different specificities (Related to short-chain alcohol dehydrogenases) (cds)

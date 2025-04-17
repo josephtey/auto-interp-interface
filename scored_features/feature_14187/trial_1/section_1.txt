@@ -1,0 +1,12 @@
+Image 1
+Organism: Hypericibacter terrae (a-proteobacteria)
+ID 1: Transporter (cds)
+ID 2: NadR/Ttd14 AAA domain-containing protein (cds)
+ID 3: Lipopolysaccharide assembly protein A domain-containing protein (cds)
+ID 4: Glycine cleavage system protein T (cds)
+ID 5: trnM: tRNA-Met(cat) (tRNA)
+ID 6: Short-chain dehydrogenase (cds)
+ID 7: Methylated-DNA--protein-cysteine methyltransferase (cds)
+ID 8: Acetyl-CoA acetyltransferase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: ABC transporter ATP-binding protein (cds)

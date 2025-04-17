@@ -1,0 +1,13 @@
+Image 1
+Organism: Kroppenstedtia eburnea (firmicutes)
+ID 1: Uncharacterized conserved protein YndB, AHSA1/START domain (cds)
+ID 2: redox-sensing transcriptional repressor Rex (cds)
+ID 3: Acyl-CoA thioester hydrolase (cds)
+ID 4: Copper chaperone (cds)
+ID 5: Sporulation lipoprotein YhcN/YlaJ (Spore_YhcN_YlaJ) (cds)
+ID 6: Zn-finger domain of CDGSH type-containing protein (cds)
+ID 7: Site-specific DNA recombinase (cds)
+ID 8: Cytochrome bd-I ubiquinol oxidase subunit 2 apoprotein (cds)
+ID 9: Mutator family transposase (cds)
+ID 10: DUF2642 domain-containing protein (cds)
+ID 11: Fibronectin type-III domain-containing protein (cds)

@@ -1,0 +1,7 @@
+Image 4
+Organism: Gemmatimonas aurantiaca T-27 (bacteria)
+ID 1: pEBP: Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family (cds)
+ID 2: rpsE: 30S ribosomal protein S5 (cds)
+ID 3: mngB: Alpha-mannosidase (cds)
+ID 4: ATP synthase subunit a (cds)
+ID 5: yesN: Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains (cds)

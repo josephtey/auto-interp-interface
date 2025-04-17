@@ -1,0 +1,12 @@
+Image 3
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: pyrI: aspartate carbamoyltransferase regulatory subunit (cds)
+ID 2: nhaC: Na+/H+ antiporter NhaC (cds)
+ID 3: mnmE: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE (cds)
+ID 4: DUF2815 domain-containing protein (cds)
+ID 5: rhaT: Permease of the drug/metabolite transporter (DMT) superfamily (cds)
+ID 6: pheS: Phenylalanyl-tRNA synthetase alpha subunit (cds)
+ID 7: hypothetical protein (cds)
+ID 8: baeS: Signal transduction histidine kinase (cds)
+ID 9: fldA: Flavodoxin (cds)
+ID 10: fba: Fructose/tagatose bisphosphate aldolase (cds)

@@ -1,0 +1,13 @@
+Image 4
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: nifB: nitrogenase cofactor biosynthesis protein NifB (cds)
+ID 2: fepA: Outer membrane receptor for ferrienterochelin and colicins (cds)
+ID 3: recR: recombination mediator RecR (cds)
+ID 4: yjhB: ADP-ribose pyrophosphatase YjhB, NUDIX family (cds)
+ID 5: entS: Enterobactin exporter EntS (cds)
+ID 6: yjiL: Activator of 2-hydroxyglutaryl-CoA dehydratase (HSP70-class ATPase domain) (cds)
+ID 7: Preprotein translocase subunit Tim44 (cds)
+ID 8: hypothetical protein (cds)
+ID 9: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 10: DUF6103 domain-containing protein (cds)
+ID 11: uraA: uracil permease (cds)

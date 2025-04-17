@@ -1,0 +1,10 @@
+Image 1
+Organism: Sediminispirochaeta smaragdinae DSM 11293 (spirochetes)
+ID 1: eutG: Alcohol dehydrogenase, class IV (cds)
+ID 2: gntR: DNA-binding transcriptional regulator, GntR family (cds)
+ID 3: pncA: bifunctional nicotinamidase/pyrazinamidase (cds)
+ID 4: soxR: DNA-binding transcriptional regulator, MerR family (cds)
+ID 5: PBS lyase HEAT domain protein repeat-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: nifH: nitrogenase iron protein (cds)
+ID 8: hypothetical protein (cds)

@@ -1,0 +1,11 @@
+Image 2
+Organism: Pedobacter aquae (CFB group bacteria)
+ID 1: Modification methylase (cds)
+ID 2: DNA polymerase III subunit epsilon (cds)
+ID 3: hypothetical protein (cds)
+ID 4: corA: magnesium/cobalt transporter CorA (cds)
+ID 5: pgmB: beta-phosphoglucomutase (cds)
+ID 6: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 7: glnQ: Glutamine transport ATP-binding protein GlnQ (cds)
+ID 8: Peptidase Do (cds)
+ID 9: mnmG: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG (cds)

@@ -1,0 +1,11 @@
+Image 0
+Organism: Unknown organism
+ID 1: Glucose-1-phosphate thymidylyltransferase (cds)
+ID 2: Formylmethanofuran dehydrogenase subunit E (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: hypothetical protein (cds)

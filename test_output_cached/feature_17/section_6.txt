@@ -1,0 +1,12 @@
+Organism: Unknown organism
+ID 1: folC: Folylpolyglutamate synthase/Dihydropteroate synthase (cds)
+ID 2: aF0785: DUF389 domain-containing protein (cds)
+ID 3: RelA/SpoT domain-containing protein (cds)
+ID 4: FeoB-associated Cys-rich membrane protein (cds)
+ID 5: leuD: 3-isopropylmalate dehydratase small subunit (cds)
+ID 6: recN: DNA repair protein RecN (cds)
+ID 7: Cytochrome c domain-containing protein (cds)
+ID 8: ftsW: Peptodoglycan polymerase FtsW/RodA/SpoVE (cds)
+ID 9: cysS: cysteine--tRNA ligase (cds)
+ID 10: baeS: Signal transduction histidine kinase (cds)
+ID 11: maf: septum formation inhibitor Maf (cds)

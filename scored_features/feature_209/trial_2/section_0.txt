@@ -1,0 +1,10 @@
+Image 0
+Organism: Pseudomonas silesiensis (g-proteobacteria)
+ID 1: ftsA: Cell division protein FtsA (cds)
+ID 2: trnP: tRNA-Pro(tgg) (tRNA)
+ID 3: histidine kinase (cds)
+ID 4: C4: C4 antisense RNA (ncRNA)
+ID 5: Pantothenate kinase (cds)
+ID 6: NIPSNAP domain-containing protein (cds)
+ID 7: iscA: iron-sulfur cluster assembly protein IscA (cds)
+ID 8: benM: HTH-type transcriptional regulator BenM (cds)

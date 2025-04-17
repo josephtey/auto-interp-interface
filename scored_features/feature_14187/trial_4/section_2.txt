@@ -1,0 +1,13 @@
+Image 2
+Organism: Flavobacterium johnsoniae UW101 (CFB group bacteria)
+ID 1: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 2: rrl: 23S ribosomal RNA (rRNA)
+ID 3: moxR: MoxR-like ATPase (cds)
+ID 4: nadD: nicotinate (nicotinamide) nucleotide adenylyltransferase (cds)
+ID 5: nUC1: DNA/RNA endonuclease G, NUC1 (cds)
+ID 6: iap: Zn-dependent amino- or carboxypeptidase, M28 family (cds)
+ID 7: tpx: thiol peroxidase (cds)
+ID 8: DUF3828 domain-containing protein (cds)
+ID 9: pitA: Phosphate/sulfate permease (cds)
+ID 10: putative neuraminidase (sialidase) (cds)
+ID 11: PcfK-like protein (cds)

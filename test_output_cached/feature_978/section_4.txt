@@ -1,0 +1,8 @@
+Organism: Singulisphaera acidiphila DSM 18658 (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Transposase IS701-like DDE domain-containing protein (cds)
+ID 4: purF: Glutamine phosphoribosylpyrophosphate amidotransferase (cds)
+ID 5: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 6: mviM: putative dehydrogenase (cds)
+ID 7: insE: Transposase InsE and inactivated derivatives (cds)

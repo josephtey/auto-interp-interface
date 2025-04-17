@@ -1,0 +1,14 @@
+Image 4
+Organism: Unknown organism
+ID 1: Cation:proton antiporter (cds)
+ID 2: Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase (cds)
+ID 3: aspartate kinase (cds)
+ID 4: Calcium-binding protein (cds)
+ID 5: Thioredoxin domain-containing protein (cds)
+ID 6: Glutamate synthase (cds)
+ID 7: hcp: hydroxylamine reductase (cds)
+ID 8: DNA-binding response regulator (cds)
+ID 9: tetratricopeptide repeat protein (cds)
+ID 10: alternate F1F0 ATPase, F1 subunit alpha (cds)
+ID 11: Major facilitator superfamily (MFS) profile domain-containing protein (cds)
+ID 12: hypothetical protein (cds)

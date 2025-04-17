@@ -1,0 +1,7 @@
+Organism: Massilia oculi (b-proteobacteria)
+ID 1: Protease Do (cds)
+ID 2: N-acetyltransferase domain-containing protein (cds)
+ID 3: fliB: flagellin lysine-N-methylase (cds)
+ID 4: odhB: 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase (cds)
+ID 5: lysR: LysR family transcriptional regulator (cds)
+ID 6: Putative Flp pilus-assembly TadG-like N-terminal domain-containing protein (cds)

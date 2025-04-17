@@ -1,0 +1,13 @@
+Image 2
+Organism: Lautropia mirabilis (b-proteobacteria)
+ID 1: qdoI: Cupin domain protein related to quercetin dioxygenase (cds)
+ID 2: rutF: FMN reductase RutF, DIM6/NTAB family (cds)
+ID 3: putative transcriptional regulator, contains HTH domain (cds)
+ID 4: aspB: Aspartate/methionine/tyrosine aminotransferase (cds)
+ID 5: rbsK: Sugar or nucleoside kinase, ribokinase family (cds)
+ID 6: ugpA: ABC-type sugar transport system, permease component (cds)
+ID 7: flgJ: flagellar assembly peptidoglycan hydrolase FlgJ (cds)
+ID 8: Type II secretion system protein H (cds)
+ID 9: moaA: GTP 3',8-cyclase MoaA (cds)
+ID 10: fdx: Ferredoxin (cds)
+ID 11: hypothetical protein (cds)

@@ -1,0 +1,13 @@
+Image 4
+Organism: Dictyoglomus thermophilum H-6-12 (bacteria)
+ID 1: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 2: mMPL: putative exporter protein, RND superfamily (cds)
+ID 3: gDB1: Glycogen debranching enzyme (alpha-1,6-glucosidase) (cds)
+ID 4: cas1b: type I-B CRISPR-associated endonuclease Cas1b (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR spacer, sequence CAATACAGAAAAAGATAAACTTCAGGAGGGTAGTAA (crispr-spacer)
+ID 7: Tetratricopeptide repeat domain protein (cds)
+ID 8: proB: Glutamate 5-kinase (cds)
+ID 9: Glycosyltransferase (cds)
+ID 10: ispD: 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (cds)
+ID 11: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)

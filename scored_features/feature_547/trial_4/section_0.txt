@@ -1,0 +1,12 @@
+Image 0
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: rrf: 5S ribosomal RNA (rRNA)
+ID 2: hypothetical protein (cds)
+ID 3: trbE: conjugal transfer protein TrbE (cds)
+ID 4: Cyclic di-GMP metabolism protein, combines GGDEF and EAL domains with a 6TM membrane domain (cds)
+ID 5: nifD: nitrogenase molybdenum-iron protein alpha chain (cds)
+ID 6: ftsA: cell division protein FtsA (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: artM: ABC-type arginine/histidine transport system, permease component (cds)
+ID 9: fadM: Acyl-CoA thioesterase FadM (cds)
+ID 10: tnaA: Tryptophanase (cds)

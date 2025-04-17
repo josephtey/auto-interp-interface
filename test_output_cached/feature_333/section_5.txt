@@ -1,0 +1,6 @@
+Organism: Archangium gephyra (bacteria)
+ID 1: Putative lipoprotein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 4: aspB: Aspartate/methionine/tyrosine aminotransferase (cds)
+ID 5: DUF3887 domain-containing protein (cds)

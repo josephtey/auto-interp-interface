@@ -1,0 +1,11 @@
+Image 3
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: rplA: 50S ribosomal protein L1 (cds)
+ID 2: mutS: DNA mismatch repair protein MutS (cds)
+ID 3: ntrC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)
+ID 4: metP: ABC-type methionine transport system, permease component (cds)
+ID 5: DUF4326 domain-containing protein (cds)
+ID 6: baeS: Signal transduction histidine kinase (cds)
+ID 7: DUF4007 domain-containing protein (cds)
+ID 8: IS5 family transposase (cds)
+ID 9: metA: homoserine O-succinyltransferase (cds)

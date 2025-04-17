@@ -1,0 +1,9 @@
+Image 3
+Organism: Singulisphaera acidiphila DSM 18658 (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: xerD: Site-specific recombinase XerD (cds)
+ID 3: nagC: Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain (cds)
+ID 4: trnS: tRNA-Ser(gga) (tRNA)
+ID 5: sseA: 3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains (cds)
+ID 6: CRISPR spacer, sequence TTCTCACGACTGCTCAGGTTCCTCAG (crispr-spacer)
+ID 7: DUF2068 domain-containing protein (cds)

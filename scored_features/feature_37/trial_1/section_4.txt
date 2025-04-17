@@ -1,0 +1,13 @@
+Image 4
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: atpC: F0F1 ATP synthase subunit epsilon (cds)
+ID 2: wza: Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold (cds)
+ID 3: nikD: nickel import ATP-binding protein NikD (cds)
+ID 4: nuoL: NADH-quinone oxidoreductase subunit L (cds)
+ID 5: Bacteriophytochrome (light-regulated signal transduction histidine kinase) (cds)
+ID 6: dapA: 4-hydroxy-tetrahydrodipicolinate synthase (cds)
+ID 7: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 8: caiB: Crotonobetainyl-CoA:carnitine CoA-transferase CaiB and related acyl-CoA transferases (cds)
+ID 9: CRISPR spacer, sequence CGTGGCGCTTGCCTTTTTCGGTGAGCAGGAAGTC (crispr-spacer)
+ID 10: gph: Phosphoglycolate phosphatase, HAD superfamily (cds)
+ID 11: rrf: 5S ribosomal RNA (rRNA)

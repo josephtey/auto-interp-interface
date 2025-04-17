@@ -1,0 +1,8 @@
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: nadD: nicotinate-nucleotide adenylyltransferase (cds)
+ID 2: ySH1: RNA processing exonuclease, beta-lactamase fold, Cft2 family (cds)
+ID 3: hsdM: Type I restriction-modification system, DNA methylase subunit (cds)
+ID 4: Transcriptional regulator (cds)
+ID 5: nrfF: Cytochrome c-type biogenesis protein CcmH/NrfF (cds)
+ID 6: pilF: Type IV pilus assembly protein PilF/PilW (cds)
+ID 7: hypothetical protein (cds)

@@ -1,0 +1,13 @@
+Image 4
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: manganese efflux pump (cds)
+ID 2: hypothetical protein (cds)
+ID 3: carbamoyl phosphate synthase small subunit (cds)
+ID 4: Pseudouridine synthase (cds)
+ID 5: Sulfotransferase family protein (cds)
+ID 6: Asparaginase (cds)
+ID 7: DUF4440 domain-containing protein (cds)
+ID 8: Acyl-CoA dehydrogenase (cds)
+ID 9: Rieske 2Fe-2S domain-containing protein (cds)
+ID 10: lytic transglycosylase domain-containing protein (cds)
+ID 11: VWFA domain-containing protein (cds)

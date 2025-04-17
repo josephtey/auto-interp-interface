@@ -1,0 +1,10 @@
+Image 3
+Organism: Xanthomonas hyacinthi (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Putative glycosyl hydrolase protein (cds)
+ID 3: purL: phosphoribosylformylglycinamidine synthase (cds)
+ID 4: Sugar efflux transporter (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Lipoprotein (cds)
+ID 7: Histidine kinase (cds)
+ID 8: Alkaline phosphatase (cds)

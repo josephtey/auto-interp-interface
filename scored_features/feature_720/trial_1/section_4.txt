@@ -1,0 +1,12 @@
+Image 4
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: ygjV: YgjV family protein (cds)
+ID 2: Amino acid deaminase (cds)
+ID 3: hemC: hydroxymethylbilane synthase (cds)
+ID 4: asd: archaetidylserine decarboxylase (cds)
+ID 5: SDR family oxidoreductase (cds)
+ID 6: Helix-turn-helix transcriptional regulator (cds)
+ID 7: ribA: GTP cyclohydrolase-2 (cds)
+ID 8: hisA: 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase (cds)
+ID 9: wcaI: colanic acid biosynthesis fucosyltransferase WcaI (cds)
+ID 10: DUF1007 domain-containing protein (cds)

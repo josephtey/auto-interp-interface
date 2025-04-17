@@ -1,0 +1,13 @@
+Image 2
+Organism: Caldichromatium japonicum (g-proteobacteria)
+ID 1: phospholipase D-like domain-containing protein (cds)
+ID 2: Membrane fusion protein (MFP) family protein (cds)
+ID 3: moaC: cyclic pyranopterin monophosphate synthase MoaC (cds)
+ID 4: Iron-sulfur cluster assembly accessory protein (cds)
+ID 5: EAL domain-containing protein (cds)
+ID 6: calcium-translocating P-type ATPase, PMCA-type (cds)
+ID 7: flgE: flagellar hook protein FlgE (cds)
+ID 8: hfq: RNA chaperone Hfq (cds)
+ID 9: ShlB/FhaC/HecB family hemolysin secretion/activation protein (cds)
+ID 10: DUF499 domain-containing protein (cds)
+ID 11: IS630 family transposase (cds)

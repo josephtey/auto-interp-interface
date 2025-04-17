@@ -1,0 +1,12 @@
+Image 4
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: argG: argininosuccinate synthase (cds)
+ID 2: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 3: Lipoprotein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence AGCGTCCACCCTTAGCGCACCTCGCGCCCGCAACGCC (crispr-spacer)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR spacer, sequence GACACCTCCCGGACCCGCGGGTCCGGGATCGCGTGT (crispr-spacer)
+ID 8: dedA: Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family (cds)
+ID 9: 4-vinyl reductase 4VR (cds)
+ID 10: Lipoprotein (cds)

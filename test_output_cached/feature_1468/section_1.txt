@@ -1,0 +1,9 @@
+Organism: Unknown organism
+ID 1: Secretion system C-terminal sorting domain-containing protein (cds)
+ID 2: rpsP: 30S ribosomal protein S16 (cds)
+ID 3: polC: DNA polymerase III, alpha subunit (gram-positive type) (cds)
+ID 4: DNA-binding protein (cds)
+ID 5: lpxK: tetraacyldisaccharide 4'-kinase (cds)
+ID 6: DUF4294 domain-containing protein (cds)
+ID 7: atoA: Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit (cds)
+ID 8: greA: transcription elongation factor GreA (cds)

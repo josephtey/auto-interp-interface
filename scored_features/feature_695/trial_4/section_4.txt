@@ -1,0 +1,12 @@
+Image 4
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: DUF1579 domain-containing protein (cds)
+ID 2: ABC transporter permease subunit (cds)
+ID 3: RNA polymerase sigma-70 domain-containing protein (cds)
+ID 4: Alpha/beta fold hydrolase (cds)
+ID 5: Glucose 1-dehydrogenase (cds)
+ID 6: CoA transferase (cds)
+ID 7: egtB: ergothioneine biosynthesis protein EgtB (cds)
+ID 8: Vitamin K epoxide reductase domain-containing protein (cds)
+ID 9: DUF4365 domain-containing protein (cds)
+ID 10: hypothetical protein (cds)

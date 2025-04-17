@@ -1,0 +1,8 @@
+Image 0
+Organism: Agarivorans albus (g-proteobacteria)
+ID 1: Oxidoreductase (cds)
+ID 2: Secreted and surface protein containing fasciclin-like repeats (cds)
+ID 3: cynS: cyanase (cds)
+ID 4: Membrane-bound lytic murein transglycosylase B (cds)
+ID 5: yybP-ykoY manganese riboswitch (ncRNA-region)
+ID 6: Integral membrane protein (cds)

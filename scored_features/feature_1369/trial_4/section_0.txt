@@ -1,0 +1,11 @@
+Image 0
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: CRISPR spacer, sequence AAAACCGGTTTGAATTTGATGCGTTTTACGATACACTG (crispr-spacer)
+ID 2: fiu: Outer membrane receptor for monomeric catechols (cds)
+ID 3: accC: Biotin carboxylase (cds)
+ID 4: glcD: FAD/FMN-containing lactate dehydrogenase/glycolate oxidase (cds)
+ID 5: Cobalamin riboswitch (ncRNA-region)
+ID 6: nar1: NADH-dependent [FeFe] hydrogenase, group A6 (cds)
+ID 7: yjhB: ADP-ribose pyrophosphatase YjhB, NUDIX family (cds)
+ID 8: yadH: ABC-type multidrug transport system, permease component (cds)
+ID 9: nadA: quinolinate synthase NadA (cds)

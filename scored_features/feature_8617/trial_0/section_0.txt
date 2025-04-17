@@ -1,0 +1,10 @@
+Image 0
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: Transcriptional regulator, XRE family (cds)
+ID 2: fkbM: Methyltransferase FkbM domain-containing protein (cds)
+ID 3: cobJ: precorrin-2 C(20)-methyltransferase (cds)
+ID 4: Acyl-CoA dehydrogenase (cds)
+ID 5: amiR: Two-component response regulator, AmiR/NasT family, consists of REC and RNA-binding antiterminator (ANTAR) domains (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Cytochrome c oxidase polypeptide 4 (cds)
+ID 8: hypothetical protein (cds)

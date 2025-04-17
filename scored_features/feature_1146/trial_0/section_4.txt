@@ -1,0 +1,10 @@
+Image 4
+Organism: Intrasporangium calvum DSM 43043 (high G+C Gram-positive bacteria)
+ID 1: lCB5: Phosphatidylglycerol kinase, diacylglycerol kinase family (cds)
+ID 2: paaI: hydroxyphenylacetyl-CoA thioesterase PaaI (cds)
+ID 3: acoB: Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit (cds)
+ID 4: acyC: Adenylate cyclase, class 3 (cds)
+ID 5: nupP: ABC-type guanosine uptake system NupNOPQ, permease component NupP (cds)
+ID 6: hypothetical protein (cds)
+ID 7: luxR: Two component transcriptional regulator, LuxR family (cds)
+ID 8: Lipoprotein (cds)

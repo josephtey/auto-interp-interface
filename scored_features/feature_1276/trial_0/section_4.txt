@@ -1,0 +1,12 @@
+Image 4
+Organism: Corynebacterium efficiens YS-314 (high G+C Gram-positive bacteria)
+ID 1: Cytoplasmic protein (cds)
+ID 2: DUF445 domain-containing protein (cds)
+ID 3: Abortive infection bacteriophage resistance protein (cds)
+ID 4: Heme peroxidase (cds)
+ID 5: ADP-dependent (S)-NAD(P)H-hydrate dehydratase (cds)
+ID 6: dapC: succinyldiaminopimelate transaminase (cds)
+ID 7: dut: dUTP diphosphatase (cds)
+ID 8: cobA: uroporphyrinogen-III C-methyltransferase (cds)
+ID 9: rnhB: ribonuclease HII (cds)
+ID 10: Secreted protein (cds)

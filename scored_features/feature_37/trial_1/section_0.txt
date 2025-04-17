@@ -1,0 +1,16 @@
+Image 0
+Organism: Unknown organism
+ID 1: chlorophyllide a reductase iron protein subunit X (cds)
+ID 2: Cell wall hydrolase (cds)
+ID 3: PPC domain-containing protein (cds)
+ID 4: gcvP: aminomethyl-transferring glycine dehydrogenase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: O-antigen ligase family protein (cds)
+ID 8: Alpha-glucosidase (cds)
+ID 9: moaA: GTP 3',8-cyclase MoaA (cds)
+ID 10: ATP-dependent Clp protease proteolytic subunit (cds)
+ID 11: TetR/AcrR family transcriptional regulator (cds)
+ID 12: hflK: FtsH protease activity modulator HflK (cds)
+ID 13: CBS domain-containing protein (cds)
+ID 14: hypothetical protein (cds)

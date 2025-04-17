@@ -1,0 +1,8 @@
+Image 4
+Organism: Unknown organism
+ID 1: Ribonuclease Z (cds)
+ID 2: non-specific serine/threonine protein kinase (cds)
+ID 3: Mannosyl oligosaccharide glucosidase (cds)
+ID 4: Peptidase family M3 (cds)
+ID 5: anhydro-N-acetylmuramic acid kinase (cds)
+ID 6: gpmA: 2,3-diphosphoglycerate-dependent phosphoglycerate mutase (cds)

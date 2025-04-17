@@ -1,0 +1,13 @@
+Image 1
+Organism: Mycolicibacterium aurum (high G+C Gram-positive bacteria)
+ID 1: def: peptide deformylase (cds)
+ID 2: Uroporphyrinogen-III synthase (cds)
+ID 3: scnC: thiocyanate hydrolase subunit gamma (cds)
+ID 4: Membrane protein (cds)
+ID 5: spsE: Spore coat polysaccharide biosynthesis protein spsE (cds)
+ID 6: Alpha/beta hydrolase fold protein (cds)
+ID 7: rbpA: RNA polymerase-binding protein RbpA (cds)
+ID 8: R2-like ligand-binding oxidase (cds)
+ID 9: Membrane-bound lytic murein transglycosylase B (cds)
+ID 10: mdlC: benzoylformate decarboxylase (cds)
+ID 11: Putative glycosyltransferase (cds)

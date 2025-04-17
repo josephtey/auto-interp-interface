@@ -1,0 +1,11 @@
+Image 2
+Organism: Serpentinimonas maccroryi (b-proteobacteria)
+ID 1: Uncharacterized protein conserved in bacteria (cds)
+ID 2: flhA: Flagellar biosynthesis pathway, component FlhA (cds)
+ID 3: putative alpha/beta hydrolase (cds)
+ID 4: Tail assembly chaperone (cds)
+ID 5: hypothetical protein (cds)
+ID 6: fliS: flagellar export chaperone FliS (cds)
+ID 7: putative membrane protein (cds)
+ID 8: menE: O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming) (cds)
+ID 9: prkB: phosphoribulokinase (cds)

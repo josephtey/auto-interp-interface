@@ -1,0 +1,12 @@
+Image 2
+Organism: Unknown organism
+ID 1: pgeF: peptidoglycan editing factor PgeF (cds)
+ID 2: TIGR01777 family protein (cds)
+ID 3: ABC transporter (cds)
+ID 4: Rv2640c family ArsR-like transcriptional regulator (cds)
+ID 5: tkt: transketolase (cds)
+ID 6: Acyl-CoA carboxylase subunit epsilon (cds)
+ID 7: Nucleoside triphosphate pyrophosphatase (cds)
+ID 8: Secreted protein (cds)
+ID 9: Single-stranded DNA-binding protein (cds)
+ID 10: OHCU decarboxylase (cds)

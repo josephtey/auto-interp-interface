@@ -1,0 +1,11 @@
+Image 2
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: dam: DNA-adenine methylase (cds)
+ID 2: hcaE: Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit (cds)
+ID 3: yesN: Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains (cds)
+ID 4: Pectinacetylesterase (cds)
+ID 5: atoA: Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR spacer, sequence CTGTACGGAGGCCGCGGCTCGGGTAAAAGCTATTT (crispr-spacer)
+ID 8: sPS1: Serine/threonine protein kinase (cds)
+ID 9: argD: Acetylornithine aminotransferase/4-aminobutyrate aminotransferase (cds)

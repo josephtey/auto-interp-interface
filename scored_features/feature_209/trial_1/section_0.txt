@@ -1,0 +1,12 @@
+Image 0
+Organism: Sulfuriferula plumbiphila (b-proteobacteria)
+ID 1: 1-deoxy-D-xylulose-5-phosphate synthase (cds)
+ID 2: traL: type IV conjugative transfer system protein TraL (cds)
+ID 3: leuB: 3-isopropylmalate dehydrogenase (cds)
+ID 4: flgN: Flagellar synthesis protein FlgN (cds)
+ID 5: Phage tail protein (cds)
+ID 6: 2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (cds)
+ID 7: mucC: Positive regulator for alginate biosynthesis MucC (cds)
+ID 8: Type 1 pili tip component (cds)
+ID 9: histidine kinase (cds)
+ID 10: moxR: MoxR-like ATPase (cds)

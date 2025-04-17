@@ -1,0 +1,12 @@
+Image 1
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: tatB: Sec-independent protein translocase protein TatB (cds)
+ID 2: rrl: 23S ribosomal RNA (rRNA)
+ID 3: ubiG: 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase (cds)
+ID 4: ybjT: DUF2867 domain-containing protein (cds)
+ID 5: Lipoprotein (cds)
+ID 6: rplJ: 50S ribosomal protein L10 (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: nodU: putative carbamoyl transferase, NodU family (cds)
+ID 9: walK: Sensor histidine kinase WalK (cds)
+ID 10: Integrin alpha beta-propellor repeat protein (cds)

@@ -1,0 +1,11 @@
+Image 2
+Organism: Thermobifida halotolerans (high G+C Gram-positive bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: pyrR: bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR (cds)
+ID 3: Methyltransferase (cds)
+ID 4: polymorphic toxin-type HINT domain-containing protein (cds)
+ID 5: CobW/HypB/UreG, nucleotide-binding domain protein (cds)
+ID 6: ABC transporter domain-containing protein (cds)
+ID 7: Bacterial transcriptional activator domain-containing protein (cds)
+ID 8: Acetate permease (cds)
+ID 9: hypothetical protein (cds)

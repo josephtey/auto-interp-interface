@@ -1,0 +1,9 @@
+Organism: Unknown organism
+ID 1: STAS domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Class I SAM-dependent methyltransferase (cds)
+ID 4: rplC: 50S ribosomal protein L3 (cds)
+ID 5: Glycosyltransferase (cds)
+ID 6: CDGSH iron-sulfur domain-containing protein (cds)
+ID 7: Arginase family protein (cds)
+ID 8: uvrA: excinuclease ABC subunit UvrA (cds)

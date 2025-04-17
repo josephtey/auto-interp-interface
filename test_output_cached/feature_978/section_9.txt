@@ -1,0 +1,4 @@
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: folE2: GTP cyclohydrolase FolE2 (cds)
+ID 2: mnmA: tRNA 2-thiouridine(34) synthase MnmA (cds)
+ID 3: pgk: Phosphoglycerate kinase (cds)

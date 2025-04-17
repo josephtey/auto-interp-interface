@@ -1,0 +1,10 @@
+Image 4
+Organism: Atribacter laminatus (bacteria)
+ID 1: Ribosomal protein L11 methyltransferase (cds)
+ID 2: DUF2284 domain-containing protein (cds)
+ID 3: 4,5-dihydroxyphthalate dehydrogenase (cds)
+ID 4: Dihydroanticapsin 7-dehydrogenase (cds)
+ID 5: degS: Signal transduction histidine-protein kinase/phosphatase DegS (cds)
+ID 6: devR: Transcriptional regulatory protein DevR (DosR) (cds)
+ID 7: CRISPR spacer, sequence TGAGATTAA (crispr-spacer)
+ID 8: Benzylsuccinate synthase activating enzyme (cds)

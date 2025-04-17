@@ -1,0 +1,13 @@
+Image 3
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: trpR: trp operon repressor (cds)
+ID 2: secC: Zinc chelation protein SecC (cds)
+ID 3: tolR: protein TolR (cds)
+ID 4: Glutaredoxin family protein (cds)
+ID 5: flgC: flagellar basal body rod protein FlgC (cds)
+ID 6: HDOD domain-containing protein (cds)
+ID 7: SDR family oxidoreductase (cds)
+ID 8: EAL domain-containing protein (cds)
+ID 9: Cation:proton antiporter (cds)
+ID 10: Disulfide bond formation protein B (cds)
+ID 11: Polysaccharide deacetylase family protein (cds)

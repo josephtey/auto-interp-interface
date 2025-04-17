@@ -1,0 +1,6 @@
+Organism: Symbiobacterium thermophilum IAM 14863 (firmicutes)
+ID 1: tnaA2: Tryptophanase 2 (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ibpA: Small heat shock protein IbpA, HSP20 family (cds)
+ID 5: hypothetical protein (cds)

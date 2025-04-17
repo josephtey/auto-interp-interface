@@ -1,0 +1,12 @@
+Organism: Unknown organism
+ID 1: Endoglucanase (cds)
+ID 2: DUF898 domain-containing protein (cds)
+ID 3: Isoprenylcysteine carboxylmethyltransferase family protein (cds)
+ID 4: ssrA: transfer-messenger RNA, SsrA (tmRNA)
+ID 5: ccdA: Cytochrome c biogenesis protein CcdA (cds)
+ID 6: Ribonuclease D (cds)
+ID 7: adenine phosphoribosyltransferase (cds)
+ID 8: Thermonuclease family protein (cds)
+ID 9: fliQ: Flagellar biosynthetic protein FliQ (cds)
+ID 10: Nitrogen regulatory protein P-II (cds)
+ID 11: csgG: Curli production assembly protein CsgG (cds)

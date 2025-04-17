@@ -1,0 +1,7 @@
+Image 3
+Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
+ID 1: fabB: beta-ketoacyl-ACP synthase I (cds)
+ID 2: groL: chaperonin GroEL (cds)
+ID 3: ccoG: cytochrome c oxidase accessory protein CcoG (cds)
+ID 4: lysA: Diaminopimelate decarboxylase (cds)
+ID 5: ndk: nucleoside-diphosphate kinase (cds)

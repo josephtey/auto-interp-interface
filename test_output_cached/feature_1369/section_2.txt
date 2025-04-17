@@ -1,0 +1,13 @@
+Organism: Unknown organism
+ID 1: DUF1116 domain-containing protein (cds)
+ID 2: gmd: GDP-mannose 4,6-dehydratase (cds)
+ID 3: DUF4124 domain-containing protein (cds)
+ID 4: SAM-dependent methyltransferase (cds)
+ID 5: VOC family protein (cds)
+ID 6: DNA 3'-5' helicase (cds)
+ID 7: pstB: phosphate ABC transporter ATP-binding protein PstB (cds)
+ID 8: gspE: Type II secretion system protein GspE N-terminal domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: C4-dicarboxylate ABC transporter substrate-binding protein (cds)
+ID 11: qmoC: quinone-interacting membrane-bound oxidoreductase complex subunit QmoC (cds)
+ID 12: 4Fe-4S Mo/W bis-MGD-type domain-containing protein (cds)

@@ -1,0 +1,7 @@
+Image 2
+Organism: Chitinophaga pinensis DSM 2588 (CFB group bacteria)
+ID 1: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 2: aceF: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component (cds)
+ID 3: hypothetical protein (cds)
+ID 4: RagB/SusD family nutrient uptake outer membrane protein (cds)
+ID 5: exbD: Outer membrane transport energization protein ExbD (cds)

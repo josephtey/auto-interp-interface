@@ -1,0 +1,10 @@
+Image 3
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: Transposase and inactivated derivatives (cds)
+ID 2: tim44: putative lipid-binding transport protein, Tim44 family (cds)
+ID 3: znuB: ABC-type Mn2+/Zn2+ transport system, permease component (cds)
+ID 4: CRISPR spacer, sequence GCACATTTCGGTGCGCAGCATGGGGGCGGTGA (crispr-spacer)
+ID 5: cysS: cysteine--tRNA ligase (cds)
+ID 6: CRISPR spacer, sequence AGGGTACGCCCTACGACAACGGCCAGCTCTTCATC (crispr-spacer)
+ID 7: CRISPR spacer, sequence CCTTCTCAGC (crispr-spacer)
+ID 8: sdhC: succinate dehydrogenase, cytochrome b556 subunit (cds)

@@ -1,0 +1,13 @@
+Image 4
+Organism: Shewanella halifaxensis HAW-EB4 (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: thrC: threonine synthase (cds)
+ID 4: truD: tRNA pseudouridine(13) synthase TruD (cds)
+ID 5: asnB: asparagine synthase B (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Glycosyl transferase family 39 (cds)
+ID 8: pgsA: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (cds)
+ID 9: Amino acid permease-associated region (cds)
+ID 10: Phosphoglucomutase/phosphomannomutase alpha/beta/alpha domain I (cds)
+ID 11: Ppx/GppA phosphatase (cds)

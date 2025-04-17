@@ -1,0 +1,12 @@
+Image 1
+Organism: Corynebacterium efficiens YS-314 (high G+C Gram-positive bacteria)
+ID 1: trnI: tRNA-Ile(gat) (tRNA)
+ID 2: crgA: cell division protein CrgA (cds)
+ID 3: DNA methylase adenine-specific domain-containing protein (cds)
+ID 4: Putative insertion element ATP-binding protein (cds)
+ID 5: IS110 family transposase (cds)
+ID 6: cysG: Putative uroporphyrin-III C-methyltransferase CysG (cds)
+ID 7: Secreted protein (cds)
+ID 8: glgC: glucose-1-phosphate adenylyltransferase (cds)
+ID 9: odhI: oxoglutarate dehydrogenase inhibitor Odhl (cds)
+ID 10: nagB: Glucosamine-6-phosphate deaminase (cds)

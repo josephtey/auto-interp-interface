@@ -1,0 +1,8 @@
+Organism: Raineyella fluvialis (high G+C Gram-positive bacteria)
+ID 1: Helix-turn-helix domain-containing protein (cds)
+ID 2: cueP: CueP family metal-binding protein (cds)
+ID 3: Glycosyltransferase (cds)
+ID 4: AI-2E family transporter (cds)
+ID 5: dapC: succinyldiaminopimelate transaminase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)

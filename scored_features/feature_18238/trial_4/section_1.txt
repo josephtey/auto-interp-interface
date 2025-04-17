@@ -1,0 +1,12 @@
+Image 1
+Organism: Kroppenstedtia eburnea (firmicutes)
+ID 1: Inhibitor of sigma-G Gin (cds)
+ID 2: hypothetical protein (cds)
+ID 3: groES: co-chaperone GroES (cds)
+ID 4: [acyl-carrier-protein] S-malonyltransferase (cds)
+ID 5: Thiamine-phosphate synthase (cds)
+ID 6: SdpI/YhfL protein family protein (cds)
+ID 7: CRISPR-associated protein, Cmr3 family (cds)
+ID 8: ADP-ribose pyrophosphatase YjhB, NUDIX family (cds)
+ID 9: lysR: LysR family transcriptional regulator, cyn operon transcriptional activator (cds)
+ID 10: Short-chain dehydrogenase (cds)

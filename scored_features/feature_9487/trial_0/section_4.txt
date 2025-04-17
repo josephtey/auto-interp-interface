@@ -1,0 +1,10 @@
+Image 4
+Organism: Cellulomonas shaoxiangyii (high G+C Gram-positive bacteria)
+ID 1: ABC transporter substrate-binding protein (cds)
+ID 2: trnY: tRNA-Tyr(gta) (tRNA)
+ID 3: guaB: IMP dehydrogenase (cds)
+ID 4: leuA: 2-isopropylmalate synthase (cds)
+ID 5: ABC transporter ATP-binding protein (cds)
+ID 6: ABC transporter ATP-binding protein (cds)
+ID 7: pstB: phosphate ABC transporter ATP-binding protein PstB (cds)
+ID 8: copD: Copper resistance protein CopD (cds)

@@ -1,0 +1,12 @@
+Image 2
+Organism: Gemmatimonas aurantiaca T-27 (bacteria)
+ID 1: Cellulase Ig-like domain-containing protein (cds)
+ID 2: Metallopeptidase domain-containing protein (cds)
+ID 3: rplC: 50S ribosomal protein L3 (cds)
+ID 4: yybH: Ketosteroid isomerase-like protein YybH (cds)
+ID 5: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 6: preP: Prolyl endopeptidase PreP, S9A serine peptidase family (cds)
+ID 7: ggt: Gamma-glutamyltranspeptidase (cds)
+ID 8: HhH-GPD domain-containing protein (cds)
+ID 9: merR: DNA-binding transcriptional regulator, MerR family (cds)
+ID 10: DUF486 domain-containing protein (cds)

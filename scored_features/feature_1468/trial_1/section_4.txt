@@ -1,0 +1,10 @@
+Image 4
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: trnE: tRNA-Glu(ttc) (tRNA)
+ID 2: rrs: 16S ribosomal RNA (rRNA)
+ID 3: nuoB: NADH-quinone oxidoreductase subunit NuoB (cds)
+ID 4: hisF: Imidazole glycerol phosphate synthase subunit HisF (cds)
+ID 5: Lipoprotein (cds)
+ID 6: AI-2E family transporter (cds)
+ID 7: trnI: tRNA-Ile(gat) (tRNA)
+ID 8: ABC transporter permease (cds)

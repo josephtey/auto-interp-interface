@@ -1,0 +1,11 @@
+Image 1
+Organism: Unknown organism
+ID 1: histidine kinase (cds)
+ID 2: 2-oxoacid:ferredoxin oxidoreductase subunit beta (cds)
+ID 3: hypothetical protein (cds)
+ID 4: rpsT: 30S ribosomal protein S20 (cds)
+ID 5: CheW-like domain-containing protein (cds)
+ID 6: mscS: Mechanosensitive ion channel protein MscS (cds)
+ID 7: Hsp20/alpha crystallin family protein (cds)
+ID 8: nikB: nickel ABC transporter permease subunit NikB (cds)
+ID 9: feoB: ferrous iron transport protein B (cds)

@@ -1,0 +1,11 @@
+Image 4
+Organism: Pseudomonas monsensis (g-proteobacteria)
+ID 1: pdxH: pyridoxamine 5'-phosphate oxidase (cds)
+ID 2: pyrD: quinone-dependent dihydroorotate dehydrogenase (cds)
+ID 3: ATPase (cds)
+ID 4: bapA: Beta-peptidyl aminopeptidase BapA (cds)
+ID 5: Class V aminotransferase (cds)
+ID 6: rrl: 23S ribosomal RNA (rRNA)
+ID 7: NADH dehydrogenase, FAD-containing subunit (cds)
+ID 8: C4: C4 antisense RNA (ncRNA)
+ID 9: Acyltransferase (cds)

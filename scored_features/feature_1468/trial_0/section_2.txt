@@ -1,0 +1,11 @@
+Image 2
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: tssE: type VI secretion system baseplate subunit TssE (cds)
+ID 2: NUDIX hydrolase (cds)
+ID 3: hP0602: 3-Methyladenine DNA glycosylase, HhH-GPD/Endo3 superfamily (cds)
+ID 4: gyrA: DNA gyrase subunit A (cds)
+ID 5: CRISPR spacer, sequence GGCGCTACTGGCCATAGGCAGATCGAGATCTAC (crispr-spacer)
+ID 6: tPR: TPR repeat (cds)
+ID 7: hemN: oxygen-independent coproporphyrinogen III oxidase (cds)
+ID 8: pntB: NAD/NADP transhydrogenase beta subunit (cds)
+ID 9: maoC: Acyl-CoA dehydratase PaaZ (cds)

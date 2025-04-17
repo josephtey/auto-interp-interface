@@ -1,0 +1,9 @@
+Image 4
+Organism: Unknown organism
+ID 1: ydeI: Bacteriocin-protection, YdeI or OmpD-Associated (cds)
+ID 2: ABC transmembrane type-1 domain-containing protein (cds)
+ID 3: Tetratricopeptide repeat protein (cds)
+ID 4: Collagen triple helix repeat (20 copies) (cds)
+ID 5: N-acetyltransferase domain-containing protein (cds)
+ID 6: Alkanesulfonate monooxygenase (cds)
+ID 7: CHAD domain-containing protein (cds)

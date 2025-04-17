@@ -1,0 +1,9 @@
+Image 0
+Organism: Mongoliitalea daihaiensis (CFB group bacteria)
+ID 1: alpha/beta hydrolase-fold protein (cds)
+ID 2: sbsA: SbsA Ig-like domain-containing protein (cds)
+ID 3: Lipoprotein (cds)
+ID 4: Anthranilate synthase component I (cds)
+ID 5: GMC family oxidoreductase N-terminal domain-containing protein (cds)
+ID 6: Penicillin amidase (cds)
+ID 7: nicotinate phosphoribosyltransferase (cds)

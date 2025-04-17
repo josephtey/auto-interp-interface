@@ -1,0 +1,11 @@
+Image 2
+Organism: Sediminispirochaeta smaragdinae DSM 11293 (spirochetes)
+ID 1: amyA: Glycosidase/amylase (phosphorylase) (cds)
+ID 2: gloA: Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family (cds)
+ID 3: cutS: Aldehyde, CO, or xanthine dehydrogenase, Fe-S subunit, CoxS/CutS family (cds)
+ID 4: sfsA: DNA/RNA nuclease SfsA (cds)
+ID 5: Signal transduction histidine kinase (cds)
+ID 6: metA: homoserine O-succinyltransferase (cds)
+ID 7: Methyltransferase type 12 (cds)
+ID 8: aRA1: Aldo/keto reductase, related to diketogulonate reductase (cds)
+ID 9: cdaR: Sugar diacid utilization regulator CdaR (cds)

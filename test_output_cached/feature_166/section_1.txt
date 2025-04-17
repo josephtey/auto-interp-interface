@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: hypothetical protein (cds)
+ID 2: bamD: Outer membrane protein assembly factor BamD (cds)
+ID 3: Cytochrome C (cds)
+ID 4: motB: Flagellar motor protein MotB (cds)
+ID 5: CRISPR spacer, sequence AGGAGGTCCTGATCCAGGCCCGGCTGGACCGGGA (crispr-spacer)
+ID 6: Tetratricopeptide repeat-containing protein (cds)
+ID 7: gpmA: 2,3-diphosphoglycerate-dependent phosphoglycerate mutase (cds)
+ID 8: infB: translation initiation factor IF-2 (cds)
+ID 9: ABC transporter substrate-binding protein (cds)

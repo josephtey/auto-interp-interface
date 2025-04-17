@@ -1,0 +1,8 @@
+Image 3
+Organism: Corynebacterium resistens DSM 45100 (high G+C Gram-positive bacteria)
+ID 1: Carbonic anhydrase (cds)
+ID 2: fkpA: FKBP-type peptidyl-prolyl cis-trans isomerase FkpA (cds)
+ID 3: trnL: tRNA-Leu(tag) (tRNA)
+ID 4: dnaJ: molecular chaperone DnaJ (cds)
+ID 5: tkt: transketolase (cds)
+ID 6: tnp: IS256-like element ISCre1 family transposase (cds)

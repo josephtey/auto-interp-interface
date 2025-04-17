@@ -1,0 +1,10 @@
+Image 2
+Organism: Flagellimonas maritima (CFB group bacteria)
+ID 1: fepC: ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component (cds)
+ID 2: DUF6588 domain-containing protein (cds)
+ID 3: doxX: DoxX family membrane protein (cds)
+ID 4: ygdD: DUF423 domain-containing protein (cds)
+ID 5: Cyclic nucleotide-binding domain-containing protein (cds)
+ID 6: desA: Fatty acid desaturase (cds)
+ID 7: ppiB: Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family (cds)
+ID 8: Collagen alpha-1(XIII) chain (cds)

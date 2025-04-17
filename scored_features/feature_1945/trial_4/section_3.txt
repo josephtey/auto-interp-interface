@@ -1,0 +1,11 @@
+Image 3
+Organism: Shewanella halifaxensis HAW-EB4 (g-proteobacteria)
+ID 1: Bro-N domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF3135 domain-containing protein (cds)
+ID 4: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 5: gltS: sodium/glutamate symporter (cds)
+ID 6: FAD-dependent pyridine nucleotide-disulphide oxidoreductase (cds)
+ID 7: pilP: Pilus assembly protein PilP (cds)
+ID 8: yihA: ribosome biogenesis GTP-binding protein YihA/YsxC (cds)
+ID 9: ABC transporter related (cds)

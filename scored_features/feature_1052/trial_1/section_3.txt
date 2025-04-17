@@ -1,0 +1,10 @@
+Image 3
+Organism: Limnoglobus roseus (bacteria)
+ID 1: histidine kinase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF1501 domain-containing protein (cds)
+ID 4: Putative Rossmann-fold-type glycoside hydrolase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Phage tail tape measure protein (cds)
+ID 7: FHA domain-containing protein (cds)
+ID 8: AcrB/AcrD/AcrF family protein (cds)

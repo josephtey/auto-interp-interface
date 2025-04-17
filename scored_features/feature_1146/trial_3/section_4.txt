@@ -1,0 +1,13 @@
+Image 4
+Organism: Pseudomonas monsensis (g-proteobacteria)
+ID 1: hutH: histidine ammonia-lyase (cds)
+ID 2: miaA: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA (cds)
+ID 3: RNA polymerase subunit sigma-24 (cds)
+ID 4: tssF: type VI secretion system baseplate subunit TssF (cds)
+ID 5: Tautomerase family protein (cds)
+ID 6: pstB: phosphate ABC transporter ATP-binding protein PstB (cds)
+ID 7: Ammonium transporter AmtB-like domain-containing protein (cds)
+ID 8: Free methionine-R-sulfoxide reductase (cds)
+ID 9: histidine kinase (cds)
+ID 10: rplR: 50S ribosomal protein L18 (cds)
+ID 11: yihG: Putative acyltransferase YihG (cds)

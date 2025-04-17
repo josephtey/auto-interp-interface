@@ -1,0 +1,9 @@
+Image 1
+Organism: Shewanella polaris (g-proteobacteria)
+ID 1: YqaE/Pmp3 family membrane protein (cds)
+ID 2: Diguanylate cyclase (cds)
+ID 3: motB: Flagellar motor protein MotB (cds)
+ID 4: NiFe hydrogenase (cds)
+ID 5: EAL domain-containing protein (cds)
+ID 6: FAD:protein FMN transferase (cds)
+ID 7: Glutathione S-transferase, N-terminal domain protein (cds)

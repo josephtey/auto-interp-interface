@@ -1,0 +1,10 @@
+Image 4
+Organism: Paludibacterium paludis (b-proteobacteria)
+ID 1: Membrane protein (cds)
+ID 2: DNA-binding response regulator (cds)
+ID 3: Diaminopimelate decarboxylase (cds)
+ID 4: 3-isopropylmalate dehydratase small subunit (cds)
+ID 5: UPF0229 protein GCM10011289_05410 (cds)
+ID 6: Outer membrane protein (cds)
+ID 7: nadC: carboxylating nicotinate-nucleotide diphosphorylase (cds)
+ID 8: GATA-type domain-containing protein (cds)

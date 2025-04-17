@@ -1,0 +1,13 @@
+Image 3
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: Serine protease (cds)
+ID 2: DNA-binding response regulator (cds)
+ID 3: tpx: thiol peroxidase (cds)
+ID 4: Carbohydrate kinase (cds)
+ID 5: START domain-containing protein (cds)
+ID 6: paaG: 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase PaaG (cds)
+ID 7: ATP-grasp domain-containing protein (cds)
+ID 8: pilX: Type 4 fimbrial biogenesis protein PilX N-terminal domain-containing protein (cds)
+ID 9: pnp: polyribonucleotide nucleotidyltransferase (cds)
+ID 10: Lipoprotein (cds)
+ID 11: gntR: GntR family transcriptional regulator (cds)

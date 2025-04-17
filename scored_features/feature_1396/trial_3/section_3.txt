@@ -1,0 +1,13 @@
+Image 3
+Organism: Cronobacter malonaticus LMG 23826 (enterobacteria)
+ID 1: yccC: Uncharacterized membrane protein YccC (cds)
+ID 2: mtnA: S-methyl-5-thioribose-1-phosphate isomerase (cds)
+ID 3: znuA: zinc ABC transporter substrate-binding protein ZnuA (cds)
+ID 4: benE: putative benzoate:H+ symporter BenE (cds)
+ID 5: srfB: Virulence factor SrfB-related protein (cds)
+ID 6: Inner membrane protein (cds)
+ID 7: rpmF: 50S ribosomal protein L32 (cds)
+ID 8: queC: 7-cyano-7-deazaguanine synthase QueC (cds)
+ID 9: psi-GI: heat resistance protein PsiE-GI (cds)
+ID 10: trnD: tRNA-Asp(gtc) (tRNA)
+ID 11: rrl: 23S ribosomal RNA (rRNA)

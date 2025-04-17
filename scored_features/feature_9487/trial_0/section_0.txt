@@ -1,0 +1,12 @@
+Image 0
+Organism: Serpentinimonas maccroryi (b-proteobacteria)
+ID 1: glnA: type I glutamate--ammonia ligase (cds)
+ID 2: xth: exodeoxyribonuclease III (cds)
+ID 3: ampD: 1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD (cds)
+ID 4: putative nucleoside-diphosphate sugar epimerase (cds)
+ID 5: CRISPR spacer, sequence GTTGTTGAAGGTCACGGTTCCCGCCTCCAG (crispr-spacer)
+ID 6: leuC: Homoaconitase/3-isopropylmalate dehydratase large subunit (cds)
+ID 7: murJ: murein biosynthesis integral membrane protein MurJ (cds)
+ID 8: ychF: redox-regulated ATPase YchF (cds)
+ID 9: hypothetical protein (cds)
+ID 10: nadS: NadS family protein (cds)

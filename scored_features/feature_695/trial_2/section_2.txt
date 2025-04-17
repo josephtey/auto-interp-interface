@@ -1,0 +1,12 @@
+Image 2
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: PII-like signaling protein (cds)
+ID 2: nar1: NADH-dependent [FeFe] hydrogenase, group A6 (cds)
+ID 3: dapD: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (cds)
+ID 4: Transport permease protein (cds)
+ID 5: trbL: Conjugal transfer protein trbL (cds)
+ID 6: hypothetical protein (cds)
+ID 7: paaJ: Acetyl-CoA acetyltransferase (cds)
+ID 8: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 9: pyrC: dihydroorotase (cds)
+ID 10: Large exoprotein involved in heme utilization or adhesion (cds)

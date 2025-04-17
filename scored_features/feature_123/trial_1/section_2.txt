@@ -1,0 +1,13 @@
+Image 2
+Organism: Symbiobacterium thermophilum IAM 14863 (firmicutes)
+ID 1: glmM: phosphoglucosamine mutase (cds)
+ID 2: yhdJ: DNA modification methylase (cds)
+ID 3: gerQ: spore coat protein GerQ (cds)
+ID 4: Adenine-specific DNA methylase (cds)
+ID 5: sbcD: DNA repair exonuclease SbcCD nuclease subunit (cds)
+ID 6: Conserved domain protein (cds)
+ID 7: polX: DNA polymerase/3'-5' exonuclease PolX (cds)
+ID 8: Cupin 2 conserved barrel domain-containing protein (cds)
+ID 9: fliK: Flagellar hook-length control protein FliK (cds)
+ID 10: mcsA: Protein-arginine kinase activator protein McsA (cds)
+ID 11: hypothetical protein (cds)

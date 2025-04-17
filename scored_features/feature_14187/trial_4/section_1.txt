@@ -1,0 +1,8 @@
+Image 1
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: hisG: ATP phosphoribosyltransferase (cds)
+ID 2: C-type lysozyme inhibitor domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: pPPi: Inorganic triphosphatase YgiF, contains CYTH and CHAD domains (cds)
+ID 5: baeS: Signal transduction histidine kinase (cds)
+ID 6: trnL: tRNA-Leu(gag) (tRNA)

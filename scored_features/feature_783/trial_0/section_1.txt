@@ -1,0 +1,13 @@
+Image 1
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: wcaJ: Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid) (cds)
+ID 2: Permease (cds)
+ID 3: fucP: Fucose permease (cds)
+ID 4: aminoglycoside 6-adenylyltransferase (cds)
+ID 5: trnR: tRNA-Arg(cct) (tRNA)
+ID 6: rplV: 50S ribosomal protein L22 (cds)
+ID 7: yitT: DUF161 DUF2179 domains-containing protein (cds)
+ID 8: queT: ECF-type transporter of queuosine precursor, membrane (S) component (cds)
+ID 9: aroA: 3-phosphoshikimate 1-carboxyvinyltransferase (cds)
+ID 10: ORF6N domain-containing protein (cds)
+ID 11: rsbU: Phosphoserine phosphatase RsbU, regulator of sigma subunit (cds)

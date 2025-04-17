@@ -1,0 +1,10 @@
+Image 3
+Organism: Allochromatium tepidum (g-proteobacteria)
+ID 1: Cobalamin riboswitch (ncRNA-region)
+ID 2: spo0J: Chromosome segregation protein Spo0J, contains ParB-like nuclease domain (cds)
+ID 3: hypothetical protein (cds)
+ID 4: aroA: 3-phosphoshikimate 1-carboxyvinyltransferase (cds)
+ID 5: lptF: LPS export ABC transporter permease LptF (cds)
+ID 6: flgA: flagellar basal body P-ring formation chaperone FlgA (cds)
+ID 7: CRISPR spacer, sequence TTGGCGACCGGGTACGAGAGCATCGGGCGACG (crispr-spacer)
+ID 8: tldD: metalloprotease TldD (cds)

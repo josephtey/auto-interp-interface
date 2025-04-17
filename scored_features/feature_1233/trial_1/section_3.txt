@@ -1,0 +1,10 @@
+Image 3
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: DUF554 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: abc-f: ABC-F type ribosomal protection protein (cds)
+ID 4: RNaseP_bact_b: Bacterial RNase P class B (ncRNA)
+ID 5: IS1380 family transposase (cds)
+ID 6: FMN riboswitch (RFN element) (ncRNA-region)
+ID 7: PAS domain S-box-containing protein/diguanylate cyclase (GGDEF) domain-containing protein (cds)
+ID 8: trpA: tryptophan synthase subunit alpha (cds)

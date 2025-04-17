@@ -1,0 +1,13 @@
+Image 3
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: Fumarylacetoacetate hydrolase family protein (cds)
+ID 2: xylR: XylR family transcriptional regulator (cds)
+ID 3: yiaY: L-threonine dehydrogenase (cds)
+ID 4: potE: putrescine-ornithine antiporter (cds)
+ID 5: VOC family protein (cds)
+ID 6: Ig-like domain repeat protein (cds)
+ID 7: DUF2778 domain-containing protein (cds)
+ID 8: rpiR: DNA-binding transcriptional regulator, MurR/RpiR family, contains HTH and SIS domains (cds)
+ID 9: Heavy-metal-associated domain-containing protein (cds)
+ID 10: rplY: 50S ribosomal protein L25 (cds)
+ID 11: MFS transporter (cds)

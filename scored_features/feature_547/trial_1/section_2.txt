@@ -1,0 +1,11 @@
+Image 2
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: ycaO: 30S ribosomal protein S12 methylthiotransferase accessory factor YcaO (cds)
+ID 2: Putative tail fiber protein of a prophage (sorf)
+ID 3: ABC transporter (cds)
+ID 4: Flagellar biosynthesis sigma factor (cds)
+ID 5: insA: Insertion element iso-IS1N protein insA (cds)
+ID 6: ispD: 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (cds)
+ID 7: yacC: YacC family pilotin-like protein (cds)
+ID 8: CRISPR spacer, sequence CGTAATGGCGAAACAGGCTGTCTGGGTACAGAC (crispr-spacer)
+ID 9: metB: cystathionine gamma-synthase (cds)

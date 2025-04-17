@@ -1,0 +1,12 @@
+Image 2
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: Choline dehydrogenase-like flavoprotein (cds)
+ID 2: rpmA: 50S ribosomal protein L27 (cds)
+ID 3: zinc-dependent metalloprotease family protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: pyk: pyruvate kinase (cds)
+ID 7: Co-chaperonin GroES (cds)
+ID 8: sigma-70 family RNA polymerase sigma factor (cds)
+ID 9: phosphoribosylpyrophosphate synthetase (cds)
+ID 10: hypothetical protein (cds)

@@ -1,0 +1,13 @@
+Image 4
+Organism: Rhodoferax saidenbachensis (b-proteobacteria)
+ID 1: DUF2946 domain-containing protein (cds)
+ID 2: Methyl-accepting chemotaxis protein (cds)
+ID 3: Histidine phosphatase family protein (cds)
+ID 4: prfB: peptide chain release factor 2 (cds)
+ID 5: Outer membrane protein chaperone (cds)
+ID 6: DUF6806 domain-containing protein (cds)
+ID 7: lysR: LysR family transcriptional regulator (cds)
+ID 8: Glutathione S-transferase (cds)
+ID 9: tctA: Tripartite tricarboxylate transporter TctA family protein (cds)
+ID 10: flgH: Flagellar biosynthesis protein FlgH (cds)
+ID 11: Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha (cds)

@@ -1,0 +1,12 @@
+Image 1
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: rimP: ribosome maturation factor RimP (cds)
+ID 2: DUF3069 domain-containing protein (cds)
+ID 3: arsC: arsenate reductase (glutaredoxin) (cds)
+ID 4: NADH:flavin oxidoreductase/NADH oxidase family protein (cds)
+ID 5: DUF423 domain-containing protein (cds)
+ID 6: Glutathione S-transferase family protein (cds)
+ID 7: moaD: molybdopterin synthase sulfur carrier subunit (cds)
+ID 8: fdh3B: formate dehydrogenase FDH3 subunit beta (cds)
+ID 9: pntA: NAD/NADP transhydrogenase alpha subunit (cds)
+ID 10: trnP: tRNA-Pro(tgg) (tRNA)

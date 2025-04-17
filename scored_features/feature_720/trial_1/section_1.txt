@@ -1,0 +1,13 @@
+Image 1
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: dppC: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)
+ID 2: glmL: methylaspartate mutase accessory protein GlmL (cds)
+ID 3: gumC: Exopolysaccharide export protein/domain GumC/Wzc1 (cds)
+ID 4: HTH cro/C1-type domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: napF: Ferredoxin (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: trnN: tRNA-Asn(gtt) (tRNA)
+ID 9: ytxC: putative sporulation protein YtxC (cds)
+ID 10: DUF169 domain-containing protein (cds)
+ID 11: mcr1: NAD(P)H-flavin reductase (cds)

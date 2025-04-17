@@ -1,0 +1,6 @@
+Image 4
+Organism: Symbiobacterium thermophilum IAM 14863 (firmicutes)
+ID 1: fadB: 3-hydroxyacyl-CoA dehydrogenase (cds)
+ID 2: cas8c: type I-C CRISPR-associated protein Cas8c/Csd1 (cds)
+ID 3: degV: Fatty acid-binding protein DegV (function unknown) (cds)
+ID 4: nrdR: transcriptional regulator NrdR (cds)

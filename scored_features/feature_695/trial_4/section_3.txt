@@ -1,0 +1,9 @@
+Image 3
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: DUF1631 domain-containing protein (cds)
+ID 2: dnaQ: DNA polymerase III, epsilon subunit or related 3'-5' exonuclease (cds)
+ID 3: sPS1: Serine/threonine protein kinase (cds)
+ID 4: pAS: PAS domain (cds)
+ID 5: hEC1: Chromosome segregation protein NDC80, interacts with SMC proteins (cds)
+ID 6: dadA: Glycine/D-amino acid oxidase (deaminating) (cds)
+ID 7: serine hydrolase (cds)

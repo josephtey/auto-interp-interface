@@ -1,0 +1,15 @@
+Image 1
+Organism: Unknown organism
+ID 1: ABC transporter permease (cds)
+ID 2: yaiO: YaiO family outer membrane beta-barrel protein (cds)
+ID 3: leucine-rich repeat domain-containing protein (cds)
+ID 4: trypsin-like peptidase domain-containing protein (cds)
+ID 5: Transcriptional regulator (cds)
+ID 6: attH: AttH domain-containing protein (cds)
+ID 7: fadB: 3-hydroxyacyl-CoA dehydrogenase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: CRISPR spacer, sequence GTTTAAGTAAAAGTCAAAAGTTAGAGCTTTTATACAAGT (crispr-spacer)
+ID 10: CRISPR spacer, sequence GTCCTTGAAAAAAACGGTTACAAATTAATAAGTAAAAA (crispr-spacer)
+ID 11: ilvD: dihydroxy-acid dehydratase (cds)
+ID 12: ybjQ: YbjQ family protein (cds)
+ID 13: Histone deacetylase (cds)

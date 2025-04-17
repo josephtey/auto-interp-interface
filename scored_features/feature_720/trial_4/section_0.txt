@@ -1,0 +1,11 @@
+Image 0
+Organism: Allorhizobium pseudoryzae (a-proteobacteria)
+ID 1: lpxK: tetraacyldisaccharide 4'-kinase (cds)
+ID 2: XRE family transcriptional regulator (cds)
+ID 3: upp: uracil phosphoribosyltransferase (cds)
+ID 4: trnA: tRNA-Ala(tgc) (tRNA)
+ID 5: coxB: cytochrome c oxidase subunit II (cds)
+ID 6: glycosyltransferase family 39 protein (cds)
+ID 7: Lipoprotein (cds)
+ID 8: IS66 family transposase (cds)
+ID 9: SDR family NAD(P)-dependent oxidoreductase (cds)

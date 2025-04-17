@@ -1,0 +1,11 @@
+Image 4
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: ccoS: cbb3-type cytochrome oxidase assembly protein CcoS (cds)
+ID 2: Secreted protein (cds)
+ID 3: alpha/beta hydrolase-fold protein (cds)
+ID 4: Tetratricopeptide repeat-containing protein (cds)
+ID 5: SDR family oxidoreductase (cds)
+ID 6: Maf-like protein (cds)
+ID 7: acyl-CoA dehydrogenase family protein (cds)
+ID 8: Lipoprotein (cds)
+ID 9: trxB: thioredoxin-disulfide reductase (cds)

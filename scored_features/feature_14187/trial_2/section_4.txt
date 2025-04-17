@@ -1,0 +1,7 @@
+Image 4
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: lpd: dihydrolipoyl dehydrogenase (cds)
+ID 2: kdsC: 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC and related HAD superfamily phosphatases (cds)
+ID 3: RepB-like DNA primase domain-containing protein (cds)
+ID 4: CRISPR spacer, sequence AGACGGACTTTGGAGGCTGATCGTGGTAGACGCAT (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)

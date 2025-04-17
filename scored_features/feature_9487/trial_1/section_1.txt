@@ -1,0 +1,11 @@
+Image 1
+Organism: Agarivorans albus (g-proteobacteria)
+ID 1: bluB: 5,6-dimethylbenzimidazole synthase (cds)
+ID 2: trnR: tRNA-Arg(cct) (tRNA)
+ID 3: tsaC: L-threonylcarbamoyladenylate synthase (cds)
+ID 4: ATPase (cds)
+ID 5: Response regulator (cds)
+ID 6: Catalase core domain-containing protein (cds)
+ID 7: Agmatinase (cds)
+ID 8: phoU: phosphate signaling complex protein PhoU (cds)
+ID 9: ureC: urease subunit alpha (cds)

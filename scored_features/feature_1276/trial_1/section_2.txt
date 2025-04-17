@@ -1,0 +1,11 @@
+Image 2
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Portal protein (cds)
+ID 3: phzF: PhzF family phenazine biosynthesis protein (cds)
+ID 4: Methyl-accepting chemotaxis protein (cds)
+ID 5: FAD-dependent oxidoreductase (cds)
+ID 6: Cation transporter (cds)
+ID 7: Aminopeptidase (cds)
+ID 8: Response regulator (cds)
+ID 9: glutathione transferase (cds)

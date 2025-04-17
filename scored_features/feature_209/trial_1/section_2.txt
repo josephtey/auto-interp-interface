@@ -1,0 +1,9 @@
+Image 2
+Organism: Barnesiella viscericola DSM 18177 (CFB group bacteria)
+ID 1: trmA: tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family (cds)
+ID 2: rrs: 16S ribosomal RNA (rRNA)
+ID 3: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 4: Lipoprotein (cds)
+ID 5: dusB: tRNA dihydrouridine synthase DusB (cds)
+ID 6: DUF3945 domain-containing protein (cds)
+ID 7: trkA: Trk system potassium transporter TrkA (cds)

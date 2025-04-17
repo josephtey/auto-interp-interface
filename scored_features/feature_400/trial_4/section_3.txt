@@ -1,0 +1,10 @@
+Image 3
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: cadherin repeat domain-containing protein (cds)
+ID 2: hppD: 4-hydroxyphenylpyruvate dioxygenase (cds)
+ID 3: gldD: gliding motility lipoprotein GldD (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: SPFH domain-containing protein (cds)
+ID 6: RagB/SusD family nutrient uptake outer membrane protein (cds)
+ID 7: pirin family protein (cds)
+ID 8: KAP NTPase domain-containing protein (cds)

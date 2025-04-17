@@ -1,0 +1,13 @@
+Image 1
+Organism: Yersinia hibernica (enterobacteria)
+ID 1: elaB: stress response protein ElaB (cds)
+ID 2: ptsG2: Phosphotransferase system IIB components (cds)
+ID 3: yfcF: glutathione transferase (cds)
+ID 4: Ysr201: Yersinia sRNA 201 (ncRNA)
+ID 5: EAL domain-containing protein (cds)
+ID 6: csrA: carbon storage regulator CsrA (cds)
+ID 7: fumA: class I fumarate hydratase FumA (cds)
+ID 8: Low affinity potassium transport system protein Kup (cds)
+ID 9: rrl: 23S ribosomal RNA (rRNA)
+ID 10: slyX: Protein SlyX (cds)
+ID 11: phzF: PhzF family phenazine biosynthesis protein (cds)

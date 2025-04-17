@@ -1,0 +1,9 @@
+Image 3
+Organism: Klebsiella africana (enterobacteria)
+ID 1: iap: aminopeptidase (cds)
+ID 2: hmuV: heme ABC transporter ATP-binding protein (cds)
+ID 3: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 4: gsiB: glutathione ABC transporter substrate-binding protein GsiB (cds)
+ID 5: nit2: deaminated glutathione amidase (cds)
+ID 6: trpS: tryptophan--tRNA ligase (cds)
+ID 7: pgaA: poly-beta-1,6 N-acetyl-D-glucosamine export porin PgaA (cds)

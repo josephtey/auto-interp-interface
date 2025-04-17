@@ -1,0 +1,12 @@
+Image 4
+Organism: Vibrio sinaloensis (g-proteobacteria)
+ID 1: acetyl-CoA C-acetyltransferase (cds)
+ID 2: 4a-hydroxytetrahydrobiopterin dehydratase (cds)
+ID 3: hutW: heme anaerobic degradation radical SAM methyltransferase ChuW/HutW (cds)
+ID 4: putA: PutR transcriptional activator of PutA and PutP (cds)
+ID 5: ABC transporter permease (cds)
+ID 6: hpaH: 2-oxo-hepta-3-ene-1,7-dioic acid hydratase (cds)
+ID 7: lysR: LysR family transcriptional regulator (cds)
+ID 8: IucA/IucC family protein (cds)
+ID 9: mechanosensitive ion channel (cds)
+ID 10: hisC: histidinol-phosphate transaminase (cds)

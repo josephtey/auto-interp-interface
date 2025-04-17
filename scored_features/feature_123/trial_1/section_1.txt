@@ -1,0 +1,11 @@
+Image 1
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: sSL2: Superfamily II DNA or RNA helicase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: yjbI: Uncharacterized conserved protein YjbI, contains pentapeptide repeats (cds)
+ID 4: larA: Nickel-dependent lactate racemase (cds)
+ID 5: tolQ: Biopolymer transport protein ExbB/TolQ (cds)
+ID 6: CRISPR spacer, sequence ACGAAATCGACCATCGTGTCGGTGATGTTTCCGGCC (crispr-spacer)
+ID 7: putative ATPase (cds)
+ID 8: AMP-dependent synthetase and ligase (cds)
+ID 9: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)

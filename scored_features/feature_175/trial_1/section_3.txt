@@ -1,0 +1,11 @@
+Image 3
+Organism: Vulgatibacter incomptus (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: rfaE: ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase (cds)
+ID 3: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 4: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 5: rimM: ribosome maturation factor RimM (cds)
+ID 6: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 7: hypothetical protein (cds)
+ID 8: queC: 7-cyano-7-deazaguanine synthase QueC (cds)
+ID 9: surA: Peptidyl-prolyl isomerase, parvulin family (cds)

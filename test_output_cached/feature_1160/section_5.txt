@@ -1,0 +1,2 @@
+Organism: Granulosicoccus antarcticus IMCC3135 (g-proteobacteria)
+ID 1: paaJ: Acetyl-CoA acetyltransferase (cds)

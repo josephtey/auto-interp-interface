@@ -1,0 +1,12 @@
+Image 3
+Organism: Intrasporangium calvum DSM 43043 (high G+C Gram-positive bacteria)
+ID 1: opuBA: ABC-type proline/glycine betaine transport system, ATPase component (cds)
+ID 2: acoR: Transcriptional regulator DhaR of acetoin/glycerol metabolism (cds)
+ID 3: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)
+ID 4: thiD: Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase (cds)
+ID 5: pyrR: bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR (cds)
+ID 6: Histidine triad (HIT) protein (cds)
+ID 7: pucR: DNA-binding transcriptional regulator, PucR/PutR family (cds)
+ID 8: sdhA: Succinate dehydrogenase/fumarate reductase, flavoprotein subunit (cds)
+ID 9: aidB: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 10: yhfF: putative RNA-binding protein YhfF, contains PUA-like ASCH domain (cds)

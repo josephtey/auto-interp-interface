@@ -1,0 +1,10 @@
+Image 2
+Organism: Shinella zoogloeoides (a-proteobacteria)
+ID 1: Transposase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Diguanylate cyclase (cds)
+ID 4: recN: DNA repair protein RecN (cds)
+ID 5: Iron chelate uptake ABC transporter family permease subunit (cds)
+ID 6: DUF2125 domain-containing protein (cds)
+ID 7: cysJ: Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases (cds)
+ID 8: HMA domain-containing protein (cds)

@@ -1,0 +1,12 @@
+Image 0
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: nagB: glucosamine-6-phosphate deaminase (cds)
+ID 2: rpsR: 30S ribosomal protein S18 (cds)
+ID 3: def: peptide deformylase (cds)
+ID 4: Cache domain-containing protein (cds)
+ID 5: Multifunctional fusion protein (cds)
+ID 6: GNAT family N-acetyltransferase (cds)
+ID 7: atpD: F0F1 ATP synthase subunit beta (cds)
+ID 8: DEAD/DEAH box helicase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: tnsA: Transposon Tn7 transposition protein tnsA (cds)

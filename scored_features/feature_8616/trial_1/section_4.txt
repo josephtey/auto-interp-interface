@@ -1,0 +1,6 @@
+Image 4
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: glcD: FAD/FMN-containing lactate dehydrogenase/glycolate oxidase (cds)
+ID 2: rhaT: Permease of the drug/metabolite transporter (DMT) superfamily (cds)
+ID 3: yjiN: DUF445 domain-containing protein (cds)
+ID 4: TIGR02710 family CRISPR-associated CARF protein (cds)

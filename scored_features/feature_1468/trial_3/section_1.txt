@@ -1,0 +1,11 @@
+Image 1
+Organism: Iocasia fonsfrigidae (firmicutes)
+ID 1: ugpA: ABC-type sugar transport system, permease component (cds)
+ID 2: nikR: nickel-responsive transcriptional regulator NikR (cds)
+ID 3: UPF0597 protein GM661_05260 (cds)
+ID 4: recJ: single-stranded-DNA-specific exonuclease RecJ (cds)
+ID 5: pepV: dipeptidase PepV (cds)
+ID 6: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 7: BMC domain-containing protein (cds)
+ID 8: DUF2961 domain-containing protein (cds)
+ID 9: dctQ: TRAP-type C4-dicarboxylate transport system, large permease component (cds)

@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: Ammonium transporter (cds)
+ID 2: thrA: bifunctional aspartate kinase/homoserine dehydrogenase I (cds)
+ID 3: Efflux RND transporter periplasmic adaptor subunit (cds)
+ID 4: trnR: tRNA-Arg(cct) (tRNA)
+ID 5: Nitrate/nitrite transporter (cds)
+ID 6: sucC: ADP-forming succinate--CoA ligase subunit beta (cds)
+ID 7: DUF3592 domain-containing protein (cds)
+ID 8: Lipocalin family protein (cds)
+ID 9: traK: conjugative transposon protein TraK (cds)

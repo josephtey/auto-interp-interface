@@ -1,0 +1,11 @@
+Image 4
+Organism: Limnoglobus roseus (bacteria)
+ID 1: type B 50S ribosomal protein L31 (cds)
+ID 2: dnaA: Chromosomal replication initiator protein DnaA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Transposase (cds)
+ID 5: P/Homo B domain-containing protein (cds)
+ID 6: histidine kinase (cds)
+ID 7: IS110 family transposase (cds)
+ID 8: ABC transporter ATP-binding protein (cds)
+ID 9: hypothetical protein (cds)

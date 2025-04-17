@@ -1,0 +1,11 @@
+Image 1
+Organism: Halobacteroides halobius DSM 5150 (firmicutes)
+ID 1: DUF2508 domain-containing protein (cds)
+ID 2: paaJ: Acetyl-CoA acetyltransferase (cds)
+ID 3: IS110 family transposase (cds)
+ID 4: frwB: PTS fructose-like transporter subunit IIB (cds)
+ID 5: fliG: flagellar motor switch protein FliG (cds)
+ID 6: flgL: Flagellin and related hook-associated protein FlgL (cds)
+ID 7: rri1: Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif (cds)
+ID 8: rfbA: glucose-1-phosphate thymidylyltransferase RfbA (cds)
+ID 9: Spore coat associated protein JA (CotJA) (cds)

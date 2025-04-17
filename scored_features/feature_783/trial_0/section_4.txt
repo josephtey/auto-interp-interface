@@ -1,0 +1,13 @@
+Image 4
+Organism: Alistipes megaguti (CFB group bacteria)
+ID 1: Aldose 1-epimerase (cds)
+ID 2: HAD family hydrolase (cds)
+ID 3: purine-nucleoside phosphorylase (cds)
+ID 4: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 5: Peptidylprolyl isomerase (cds)
+ID 6: purB: adenylosuccinate lyase (cds)
+ID 7: TonB-dependent receptor (cds)
+ID 8: RagB/SusD family nutrient uptake outer membrane protein (cds)
+ID 9: Fibrobacter succinogenes major paralogous domain-containing protein (cds)
+ID 10: htpG: molecular chaperone HtpG (cds)
+ID 11: hypothetical protein (cds)

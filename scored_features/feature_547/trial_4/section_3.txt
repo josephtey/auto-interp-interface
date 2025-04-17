@@ -1,0 +1,4 @@
+Image 3
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: sulfite exporter TauE/SafE family protein (cds)
+ID 2: asnS: asparagine--tRNA ligase (cds)

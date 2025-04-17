@@ -1,0 +1,12 @@
+Image 1
+Organism: Limnochorda pilosa (firmicutes)
+ID 1: yqgA: Uncharacterized membrane protein YqgA, affects biofilm formation (cds)
+ID 2: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 3: cpdA: 3',5'-cyclic AMP phosphodiesterase CpdA (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: mnhD: Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit (cds)
+ID 6: putative ferric reductase (cds)
+ID 7: codB: Purine-cytosine permease or related protein (cds)
+ID 8: NUDIX hydrolase (cds)
+ID 9: dnaX: DNA polymerase III, gamma/tau subunits (cds)
+ID 10: N-acetyltransferase domain-containing protein (cds)

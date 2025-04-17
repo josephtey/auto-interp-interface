@@ -1,0 +1,10 @@
+Image 0
+Organism: Shewanella avicenniae (g-proteobacteria)
+ID 1: mnmD: tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD (cds)
+ID 2: nifA: nif-specific transcriptional activator NifA (cds)
+ID 3: transporter (cds)
+ID 4: aminodeoxychorismate/anthranilate synthase component II (cds)
+ID 5: DUF418 domain-containing protein (cds)
+ID 6: queC: 7-cyano-7-deazaguanine synthase QueC (cds)
+ID 7: NUDIX hydrolase (cds)
+ID 8: surA: peptidylprolyl isomerase SurA (cds)

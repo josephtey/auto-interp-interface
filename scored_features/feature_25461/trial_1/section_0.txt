@@ -1,0 +1,5 @@
+Image 0
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: Type VI secretion system sigma-54 dependent transcriptional regulator (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Transposase (cds)

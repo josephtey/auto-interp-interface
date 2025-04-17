@@ -1,0 +1,8 @@
+Organism: Singulisphaera acidiphila DSM 18658 (bacteria)
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR spacer, sequence GTGTCCACGGGGATGCTACCAGGAAGGGTATCACGC (crispr-spacer)
+ID 4: tal: transaldolase (cds)
+ID 5: ycjR: Sugar phosphate isomerase/epimerase (cds)
+ID 6: ATP-grasp domain-containing protein (cds)
+ID 7: Ig-like domain-containing protein (cds)

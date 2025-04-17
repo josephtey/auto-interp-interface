@@ -1,0 +1,12 @@
+Image 4
+Organism: Ferroplasma acidarmanus Fer1 (archaea)
+ID 1: tnp: IS4 family ISFac10 transposase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: gyaR: Glyoxylate reductase GyaR (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

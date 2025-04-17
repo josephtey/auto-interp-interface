@@ -1,0 +1,12 @@
+Image 2
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: trmB: tRNA (guanosine(46)-N7)-methyltransferase TrmB (cds)
+ID 2: cbiB: adenosylcobinamide-phosphate synthase CbiB (cds)
+ID 3: Peptidase C39 domain-containing protein (cds)
+ID 4: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 5: hypothetical protein (cds)
+ID 6: exbD: Biopolymer transport protein ExbD (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: trmA: tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family (cds)
+ID 10: Signal transduction histidine kinase regulating C4-dicarboxylate transport system (cds)

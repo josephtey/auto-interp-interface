@@ -1,0 +1,10 @@
+Image 1
+Organism: Alistipes megaguti (CFB group bacteria)
+ID 1: eno: phosphopyruvate hydratase (cds)
+ID 2: glycoside hydrolase family 3 C-terminal domain-containing protein (cds)
+ID 3: Flavodoxin-like fold domain-containing protein (cds)
+ID 4: gdhA: NADP-specific glutamate dehydrogenase (cds)
+ID 5: thymidylate synthase (cds)
+ID 6: DUF3108 domain-containing protein (cds)
+ID 7: Aminotransferase (cds)
+ID 8: lysO: Lysine exporter LysO family protein (cds)

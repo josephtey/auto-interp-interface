@@ -1,0 +1,13 @@
+Image 3
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: diaminopimelate dehydrogenase (cds)
+ID 2: DUF327 domain-containing protein (cds)
+ID 3: Reactive intermediate/imine deaminase (cds)
+ID 4: Methyl-accepting chemotaxis protein (cds)
+ID 5: ltrA: group II intron reverse transcriptase/maturase (cds)
+ID 6: Glycosyltransferase 2-like domain-containing protein (cds)
+ID 7: AB hydrolase-1 domain-containing protein (cds)
+ID 8: histidine kinase (cds)
+ID 9: CRISPR spacer, sequence GGCTGTGTTT (crispr-spacer)
+ID 10: hypothetical protein (cds)
+ID 11: wecB: UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing) (cds)

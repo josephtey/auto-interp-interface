@@ -1,0 +1,8 @@
+Image 2
+Organism: Mongoliitalea daihaiensis (CFB group bacteria)
+ID 1: putative DNA-binding protein ribbon-helix-helix domain-containing protein (cds)
+ID 2: Secreted protein (cds)
+ID 3: DNA/RNA non-specific endonuclease (cds)
+ID 4: response regulator (cds)
+ID 5: pdxA: 4-hydroxythreonine-4-phosphate dehydrogenase PdxA (cds)
+ID 6: 6-carboxy-5,6,7,8-tetrahydropterin synthase (cds)

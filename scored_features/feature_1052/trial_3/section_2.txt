@@ -1,0 +1,11 @@
+Image 2
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: Lipopeptide (cds)
+ID 2: ompC: Outer membrane porin OmpC/OmpF/PhoE (cds)
+ID 3: CRISPR spacer, sequence CGCGTCGGGCTGCTGACACGCCAGGCGCGGGAG (crispr-spacer)
+ID 4: mlaF: ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 5: yfgM: Putative negative regulator of RcsB-dependent stress response, UPF0070 family (cds)
+ID 6: capA: Poly-gamma-glutamate biosynthesis protein CapA/YwtB (capsule formation), metallophosphatase superfamily (cds)
+ID 7: tonB: Periplasmic protein TonB, links inner and outer membranes (cds)
+ID 8: def: peptide deformylase (cds)
+ID 9: pilP: Type IV pilus assembly protein PilP (cds)

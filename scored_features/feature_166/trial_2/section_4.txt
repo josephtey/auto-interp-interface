@@ -1,0 +1,10 @@
+Image 4
+Organism: Jeotgalibacillus malaysiensis (firmicutes)
+ID 1: ycaP: DUF421 domain-containing protein (cds)
+ID 2: Lysine riboswitch (ncRNA-region)
+ID 3: pepP: Xaa-Pro aminopeptidase (cds)
+ID 4: nadK: NAD kinase (cds)
+ID 5: SR1 protein (cds)
+ID 6: Transposase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: citA: Sensor histidine kinase DipB regulating citrate/malate metabolism (cds)

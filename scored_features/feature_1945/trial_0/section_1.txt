@@ -1,0 +1,12 @@
+Image 1
+Organism: Ferrovibrio terrae (a-proteobacteria)
+ID 1: DUF465 domain-containing protein (cds)
+ID 2: Precorrin-3B C(17)-methyltransferase (cds)
+ID 3: 3-alpha,7-alpha, 12-alpha-trihydroxy-5-beta-cholest-24-enoyl-CoA hydratase (cds)
+ID 4: efp: elongation factor P (cds)
+ID 5: lon: endopeptidase La (cds)
+ID 6: Flagellin C-terminal domain-containing protein (cds)
+ID 7: Isoprenylcysteine carboxyl methyltransferase (cds)
+ID 8: Methylcrotonoyl-CoA carboxylase (cds)
+ID 9: nuoG: NADH-quinone oxidoreductase subunit NuoG (cds)
+ID 10: DUF1365 domain-containing protein (cds)

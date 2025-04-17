@@ -1,0 +1,12 @@
+Image 4
+Organism: Microbacterium wangchenii (high G+C Gram-positive bacteria)
+ID 1: gntR: GntR family transcriptional regulator (cds)
+ID 2: trwC: TrwC relaxase domain-containing protein (cds)
+ID 3: F0F1 ATP synthase subunit gamma (cds)
+ID 4: SnoaL-like domain-containing protein (cds)
+ID 5: Dihydrofolate reductase (cds)
+ID 6: Glycosyltransferase family 2 protein (cds)
+ID 7: acs: acetate--CoA ligase (cds)
+ID 8: Metal-sensitive transcriptional regulator (cds)
+ID 9: DNA-3-methyladenine glycosylase 2 family protein (cds)
+ID 10: Aminotransferase class V-fold PLP-dependent enzyme (cds)

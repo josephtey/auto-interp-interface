@@ -1,0 +1,11 @@
+Image 1
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: alwI: AlwI family type II restriction endonuclease (cds)
+ID 2: hypothetical protein (cds)
+ID 3: HK97 gp10 family phage protein (cds)
+ID 4: rplW: 50S ribosomal protein L23 (cds)
+ID 5: uraA: Xanthine/uracil permease (cds)
+ID 6: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 7: gtrA: Putative flippase GtrA (transmembrane translocase of bactoprenol-linked glucose) (cds)
+ID 8: rplM: 50S ribosomal protein L13 (cds)
+ID 9: TRAP-type uncharacterized transport system, fused permease components (cds)

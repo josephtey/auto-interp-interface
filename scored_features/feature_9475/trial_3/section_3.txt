@@ -1,0 +1,10 @@
+Image 3
+Organism: Sulfuritalea hydrogenivorans sk43H (b-proteobacteria)
+ID 1: mltE: Soluble lytic murein transglycosylase or regulatory protein s ( may contain LysM/invasin domain) (cds)
+ID 2: bisC: Anaerobic selenocysteine-containing dehydrogenase (cds)
+ID 3: lpxA: acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase (cds)
+ID 4: tyw1: Wyosine [tRNA(Phe)-imidazoG37] synthetase, radical SAM superfamily (cds)
+ID 5: pyrC: dihydroorotase (cds)
+ID 6: Phage repressor protein C, contains Cro/C1-type HTH and peptisase s24 domains (cds)
+ID 7: lytT: DNA-binding response regulator, LytR/AlgR family (cds)
+ID 8: tar: Methyl-accepting chemotaxis protein (MCP) (cds)

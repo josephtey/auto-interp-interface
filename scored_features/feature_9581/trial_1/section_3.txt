@@ -1,0 +1,4 @@
+Image 3
+Organism: Caulobacter mirabilis (a-proteobacteria)
+ID 1: Penicillin-binding protein (cds)
+ID 2: Bifunctional diguanylate cyclase/phosphodiesterase (cds)

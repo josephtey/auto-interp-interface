@@ -1,0 +1,13 @@
+Image 2
+Organism: Halobacteroides halobius DSM 5150 (firmicutes)
+ID 1: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 2: hypothetical protein (cds)
+ID 3: spmA: Spore maturation protein SpmA (function unknown) (cds)
+ID 4: fur: Fe2+ or Zn2+ uptake regulation protein Fur/Zur (cds)
+ID 5: tM1601: Radical SAM superfamily enzyme with C-terminal helix-hairpin-helix motif (cds)
+ID 6: ybcI: DUF457 domain-containing protein (cds)
+ID 7: trxA: thioredoxin (cds)
+ID 8: ybeY: rRNA maturation RNase YbeY (cds)
+ID 9: hslO: Hsp33 family molecular chaperone HslO (cds)
+ID 10: folC: Folylpolyglutamate synthase/Dihydropteroate synthase (cds)
+ID 11: Uncharacterised protein family (UPF0236) (cds)

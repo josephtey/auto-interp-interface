@@ -1,0 +1,6 @@
+Image 2
+Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: metF: methylenetetrahydrofolate reductase [NAD(P)H] (cds)
+ID 3: ygfZ: Folate-binding protein YgfZ, synthesis and repair of Fe-S clusters (cds)
+ID 4: trxB: thioredoxin-disulfide reductase (cds)

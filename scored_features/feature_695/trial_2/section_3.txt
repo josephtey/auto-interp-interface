@@ -1,0 +1,12 @@
+Image 3
+Organism: Halobacteroides halobius DSM 5150 (firmicutes)
+ID 1: Fimbrial assembly protein (PilN) (cds)
+ID 2: mgtA: Magnesium-transporting ATPase (P-type) (cds)
+ID 3: nirB: NAD(P)H-nitrite reductase, large subunit (cds)
+ID 4: TPP riboswitch (THI element) (ncRNA-region)
+ID 5: fabK: enoyl-[acyl-carrier-protein] reductase FabK (cds)
+ID 6: pdaC: Deacetylase PdaC domain-containing protein (cds)
+ID 7: hDGYP: HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant) (cds)
+ID 8: trnL: tRNA-Leu(tag) (tRNA)
+ID 9: rsmE: 16S rRNA (uracil(1498)-N(3))-methyltransferase (cds)
+ID 10: CAAX amino terminal protease family (cds)

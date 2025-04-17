@@ -1,0 +1,13 @@
+Image 2
+Organism: Vibrio tapetis subsp. tapetis (g-proteobacteria)
+ID 1: rlmD: 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD (cds)
+ID 2: DNA-binding protein inhibitor Id-2-related protein (cds)
+ID 3: lys9: carboxynorspermidine synthase (cds)
+ID 4: mobA: molybdenum cofactor guanylyltransferase MobA (cds)
+ID 5: topA: type I DNA topoisomerase (cds)
+ID 6: fabA: bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase (cds)
+ID 7: fadL1: Long-chain fatty acid outer membrane porin FadL1 (cds)
+ID 8: ccdB: Toxin CcdB (cds)
+ID 9: tcmP: Putative Polyketide synthesis O-methyltransferase, TcmP (cds)
+ID 10: Dinitrogenase iron-molybdenum cofactor biosynthesis domain-containing protein (cds)
+ID 11: Transposase (cds)

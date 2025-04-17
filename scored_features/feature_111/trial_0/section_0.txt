@@ -1,0 +1,7 @@
+Image 0
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: DUF1629 domain-containing protein (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR spacer, sequence GTCAAGCGGGATCCGCTTGCCGTCGCGCTCAATCAT (crispr-spacer)
+ID 4: CRISPR spacer, sequence CTGGCGGCCCGCTGGGCCGCTGCTCGGCTGCCACTC (crispr-spacer)
+ID 5: scpB: SMC-Scp complex subunit ScpB (cds)

@@ -1,0 +1,10 @@
+Image 2
+Organism: Yersinia hibernica (enterobacteria)
+ID 1: Putative transposase (cds)
+ID 2: lysP: Amino acid permease (cds)
+ID 3: adhE: bifunctional acetaldehyde-CoA/alcohol dehydrogenase (cds)
+ID 4: topB: DNA topoisomerase IA (cds)
+ID 5: metN: methionine ABC transporter ATP-binding protein MetN (cds)
+ID 6: YHYH domain-containing protein (cds)
+ID 7: trpS: tryptophan--tRNA ligase (cds)
+ID 8: hypothetical protein (cds)

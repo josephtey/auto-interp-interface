@@ -1,0 +1,9 @@
+Image 1
+Organism: Pedobacter aquae (CFB group bacteria)
+ID 1: 50S ribosomal protein L14 (cds)
+ID 2: DUF4263 domain-containing protein (cds)
+ID 3: SusC/RagA family TonB-linked outer membrane protein (cds)
+ID 4: sdpI: SdpI family protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Esterase, PHB depolymerase family (cds)
+ID 7: hypothetical protein (cds)

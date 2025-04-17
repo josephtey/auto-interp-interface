@@ -1,0 +1,10 @@
+Image 3
+Organism: Clostridium beijerinckii (firmicutes)
+ID 1: nifH: nitrogenase iron protein (cds)
+ID 2: murT: Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT (cds)
+ID 3: Lipase (cds)
+ID 4: mcpB: Methyl-accepting chemotaxis protein McpB (cds)
+ID 5: Crp/Fnr family transcriptional regulator (cds)
+ID 6: VOC domain-containing protein (cds)
+ID 7: Acetoacetate:butyrate/acetate coenzyme A transferase (cds)
+ID 8: RNA-binding protein (cds)

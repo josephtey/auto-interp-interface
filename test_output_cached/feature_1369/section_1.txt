@@ -1,0 +1,8 @@
+Organism: Granulosicoccus antarcticus IMCC3135 (g-proteobacteria)
+ID 1: Ubiquitin Mut7-C domain-containing protein (cds)
+ID 2: kdtA: 3-deoxy-D-manno-octulosonic-acid transferase (cds)
+ID 3: gstA: Glutathione S-transferase (cds)
+ID 4: ygiN: Quinol monooxygenase YgiN (cds)
+ID 5: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 6: SWIM-type domain-containing protein (cds)
+ID 7: hypothetical protein (cds)

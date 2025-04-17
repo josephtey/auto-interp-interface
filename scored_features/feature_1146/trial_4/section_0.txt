@@ -1,0 +1,12 @@
+Image 0
+Organism: Microbacterium wangchenii (high G+C Gram-positive bacteria)
+ID 1: lacI: LacI family transcriptional regulator (cds)
+ID 2: Glycosyltransferase family 2 protein (cds)
+ID 3: NCS2 family permease (cds)
+ID 4: FAD-binding oxidoreductase (cds)
+ID 5: Winged helix-turn-helix domain-containing protein (cds)
+ID 6: HAD family phosphatase (cds)
+ID 7: Acyl-CoA thioesterase II (cds)
+ID 8: irrE: IrrE N-terminal-like domain-containing protein (cds)
+ID 9: FAD-dependent oxidoreductase (cds)
+ID 10: SDR family NAD(P)-dependent oxidoreductase (cds)

@@ -1,0 +1,12 @@
+Organism: Unknown organism
+ID 1: fructose bisphosphate aldolase (cds)
+ID 2: acetolactate synthase large subunit (cds)
+ID 3: Antitoxin (cds)
+ID 4: Lipase (cds)
+ID 5: tuf: elongation factor Tu (cds)
+ID 6: rsgA: ribosome small subunit-dependent GTPase A (cds)
+ID 7: Glutamate synthase (cds)
+ID 8: ribH: 6,7-dimethyl-8-ribityllumazine synthase (cds)
+ID 9: MFS transporter (cds)
+ID 10: Mce associated membrane protein (cds)
+ID 11: Oxidoreductase (cds)

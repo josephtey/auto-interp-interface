@@ -1,0 +1,9 @@
+Image 0
+Organism: Corynebacterium urogenitale (high G+C Gram-positive bacteria)
+ID 1: Phosphotransferase enzyme family protein (cds)
+ID 2: Vitamin K epoxide reductase family protein (cds)
+ID 3: sucB: 2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase (cds)
+ID 4: pgeF: peptidoglycan editing factor PgeF (cds)
+ID 5: Multidrug resistance ABC transporter ATP-binding and permease protein (cds)
+ID 6: DUF2581 domain-containing protein (cds)
+ID 7: nucS: endonuclease NucS (cds)

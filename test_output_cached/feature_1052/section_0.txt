@@ -1,0 +1,8 @@
+Organism: Anaerocolumna sedimenticola (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: glutamine--tRNA ligase/YqeY domain fusion protein (cds)
+ID 3: fliJ: Flagellar FliJ protein (cds)
+ID 4: Mutator family transposase (cds)
+ID 5: tsf: translation elongation factor Ts (cds)
+ID 6: SAP domain-containing protein (cds)
+ID 7: siroheme decarboxylase (cds)

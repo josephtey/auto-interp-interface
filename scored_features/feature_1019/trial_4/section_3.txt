@@ -1,0 +1,12 @@
+Image 3
+Organism: Citrobacter arsenatis (enterobacteria)
+ID 1: ecnB: lipoprotein toxin entericidin B (cds)
+ID 2: ftsQ: cell division protein FtsQ (cds)
+ID 3: Cyclic diguanylate phosphodiesterase domain protein (cds)
+ID 4: sufS: cysteine desulfurase SufS (cds)
+ID 5: ypwA: Zn-dependent carboxypeptidase, M32 family (cds)
+ID 6: ssuD: Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase) (cds)
+ID 7: Host cell division inhibitory peptide Kil (cds)
+ID 8: abc2 anti-RecBCD (cds)
+ID 9: eco: serine protease inhibitor ecotin (cds)
+ID 10: xylB: xylulokinase (cds)

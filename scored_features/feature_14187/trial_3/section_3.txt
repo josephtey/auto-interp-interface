@@ -1,0 +1,12 @@
+Image 3
+Organism: Lautropia mirabilis (b-proteobacteria)
+ID 1: rrs: 16S ribosomal RNA (rRNA)
+ID 2: trhO: tRNA U34 5'-hydroxylase TrhO, rhodanese family (cds)
+ID 3: rng: ribonuclease G (cds)
+ID 4: ccmF: Cytochrome c biogenesis protein CcmF (cds)
+ID 5: fliO: flagellar biosynthetic protein FliO (cds)
+ID 6: Type-4 uracil-DNA glycosylase (cds)
+ID 7: nuoL: NADH-quinone oxidoreductase subunit L (cds)
+ID 8: slpA: Peptidyl-prolyl cis-trans isomerase, FKBP type (cds)
+ID 9: cydD: thiol reductant ABC exporter subunit CydD (cds)
+ID 10: glyA: Glycine/serine hydroxymethyltransferase (cds)

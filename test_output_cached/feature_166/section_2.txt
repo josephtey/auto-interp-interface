@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: tRNA (guanosine(18)-2'-O)-methyltransferase (cds)
+ID 2: phnD: phosphonate ABC transporter substrate-binding protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: GNAT family N-acetyltransferase (cds)
+ID 5: fdnG: formate dehydrogenase-N subunit alpha (cds)
+ID 6: hemL: glutamate-1-semialdehyde 2,1-aminomutase (cds)
+ID 7: NADH-quinone oxidoreductase subunit B/C/D (cds)
+ID 8: CRISPR spacer, sequence CATCCAAAGCGCTTTGCGCGGATATGCCGCCA (crispr-spacer)
+ID 9: RNA polymerase sigma-70 factor, ECF subfamily (cds)

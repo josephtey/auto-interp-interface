@@ -1,0 +1,12 @@
+Image 2
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: pglZ: BREX-6 system phosphatase PglZ (cds)
+ID 2: coaE: dephospho-CoA kinase (cds)
+ID 3: pgk: 3-phosphoglycerate kinase (cds)
+ID 4: ruvA: Holliday junction branch migration protein RuvA (cds)
+ID 5: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 6: CRISPR spacer, sequence GACCTGCGCAGGGAGGTCAAGAGGGAGCACGAGGC (crispr-spacer)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: Lipoprotein (cds)
+ID 10: Bacterial bifunctional deaminase-reductase C-terminal domain-containing protein (cds)

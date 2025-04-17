@@ -1,0 +1,13 @@
+Image 2
+Organism: Unknown organism
+ID 1: cyoA: ubiquinol oxidase subunit II (cds)
+ID 2: OmpA/MotB domain protein (cds)
+ID 3: Putative NAD(P)H nitroreductase (cds)
+ID 4: 3-deoxy-7-phosphoheptulonate synthase (cds)
+ID 5: Peptide/nickel transport system permease protein (cds)
+ID 6: creA: Periplasmic catabolite regulation protein CreA (function unknown) (cds)
+ID 7: clpB: ATP-dependent chaperone ClpB (cds)
+ID 8: DUF3829 domain-containing protein (cds)
+ID 9: glsB: glutaminase B (cds)
+ID 10: Putative nitrate transport protein (cds)
+ID 11: ABC-type transporter, integral membrane subunit (cds)

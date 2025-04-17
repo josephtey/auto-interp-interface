@@ -1,0 +1,12 @@
+Image 3
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: Phytase-like domain-containing protein (cds)
+ID 2: N-6 DNA methylase (cds)
+ID 3: DUF5615 domain-containing protein (cds)
+ID 4: Hydantoinase B/oxoprolinase family protein (cds)
+ID 5: TIGR03617 family F420-dependent LLM class oxidoreductase (cds)
+ID 6: DNA-binding response regulator (cds)
+ID 7: Phasin domain-containing protein (cds)
+ID 8: Tautomerase family protein (cds)
+ID 9: Glycosyltransferase (cds)
+ID 10: hypothetical protein (cds)

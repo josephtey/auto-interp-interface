@@ -1,0 +1,13 @@
+Image 4
+Organism: Serpentinimonas maccroryi (b-proteobacteria)
+ID 1: yjgC: putative molibdopterin-dependent oxidoreductase YjgC (cds)
+ID 2: rplM: 50S ribosomal protein L13 (cds)
+ID 3: putative hydrolase or acyltransferase (cds)
+ID 4: Alpha/beta hydrolase (cds)
+ID 5: ABC-type molybdate transport system, periplasmic component (cds)
+ID 6: folE: GTP cyclohydrolase I (cds)
+ID 7: yrpB: NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family (cds)
+ID 8: Ribosomal RNA large subunit methyltransferase E (cds)
+ID 9: hDOD: HD-like signal output (HDOD) domain, no enzymatic activity (cds)
+ID 10: yhfA: Uncharacterized OsmC-related protein (cds)
+ID 11: Uncharacterized Fe-S protein (cds)

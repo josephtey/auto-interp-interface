@@ -1,0 +1,13 @@
+Image 4
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: HAD family hydrolase (cds)
+ID 2: Muramidase-2 (cds)
+ID 3: CRISPR spacer, sequence GTGACATTAAACTGTACATATATTAGCGACTTAGAAT (crispr-spacer)
+ID 4: CRISPR spacer, sequence ATTGATGAGGTCCAGAATTGGTTCAATTCGTTGGCTT (crispr-spacer)
+ID 5: CRISPR spacer, sequence TCAATATTAATTGCAAGTGCTTTTTATAAAATAGCA (crispr-spacer)
+ID 6: RNA pseudouridine synthase (cds)
+ID 7: Serine kinase (cds)
+ID 8: Methionine synthase (cds)
+ID 9: Lipoprotein (cds)
+ID 10: pilB: type IV-A pilus assembly ATPase PilB (cds)
+ID 11: UPF0145 protein B9R14_15745 (cds)

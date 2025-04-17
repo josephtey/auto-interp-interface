@@ -1,0 +1,11 @@
+Image 3
+Organism: Georgenia yuyongxinii (high G+C Gram-positive bacteria)
+ID 1: S49 family peptidase (cds)
+ID 2: cheX: Chemotaxis protein CheX (cds)
+ID 3: Helix-turn-helix domain-containing protein (cds)
+ID 4: mraW RNA (ncRNA-region)
+ID 5: pheS: phenylalanine--tRNA ligase subunit alpha (cds)
+ID 6: merR: MerR family transcriptional regulator (cds)
+ID 7: dnaJ: molecular chaperone DnaJ (cds)
+ID 8: Bifunctional NAD(P)H-hydrate repair enzyme (cds)
+ID 9: ATP-grasp domain-containing protein (cds)

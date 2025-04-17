@@ -1,0 +1,4 @@
+Image 2
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: ribonuclease HII (cds)
+ID 2: hypothetical protein (cds)

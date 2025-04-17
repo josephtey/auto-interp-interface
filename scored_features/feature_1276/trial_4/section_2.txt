@@ -1,0 +1,10 @@
+Image 2
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: DUF4412 domain-containing protein (cds)
+ID 2: rplJ: 50S ribosomal protein L10 (cds)
+ID 3: rpsN: type Z 30S ribosomal protein S14 (cds)
+ID 4: AAA family ATPase (cds)
+ID 5: nrdD: anaerobic ribonucleoside triphosphate reductase (cds)
+ID 6: nuoE: NADH-quinone oxidoreductase subunit NuoE (cds)
+ID 7: YlzJ-like protein (cds)
+ID 8: fetB: iron export ABC transporter permease subunit FetB (cds)

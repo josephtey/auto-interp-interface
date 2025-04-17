@@ -1,0 +1,9 @@
+Image 3
+Organism: Flavobacterium johnsoniae UW101 (CFB group bacteria)
+ID 1: DUF1349 domain-containing protein (cds)
+ID 2: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 3: hlyD: HlyD family secretion protein (cds)
+ID 4: dck: Deoxyadenosine/deoxycytidine kinase (cds)
+ID 5: sppA: signal peptide peptidase SppA (cds)
+ID 6: Glycoside hydrolase family 68 protein (cds)
+ID 7: Phosphoenolpyruvate carboxykinase (ATP) (cds)

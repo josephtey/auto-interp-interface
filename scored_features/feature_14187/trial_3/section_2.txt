@@ -1,0 +1,12 @@
+Image 2
+Organism: Halobacteroides halobius DSM 5150 (firmicutes)
+ID 1: dusB: tRNA dihydrouridine synthase DusB (cds)
+ID 2: rpoB: DNA-directed RNA polymerase subunit beta (cds)
+ID 3: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 4: Transposase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: cas1: CRISPR-associated endonuclease Cas1 (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: ackA: Acetate kinase (cds)
+ID 10: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)

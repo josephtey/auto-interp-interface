@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: Alcohol dehydrogenase (cds)
+ID 2: Peptidase MA-like domain-containing protein (cds)
+ID 3: metA: homoserine O-succinyltransferase (cds)
+ID 4: YtkA-like domain-containing protein (cds)
+ID 5: General stress protein FMN-binding split barrel domain-containing protein (cds)
+ID 6: arlS: Signal transduction histidine-protein kinase ArlS (cds)
+ID 7: infB: translation initiation factor IF-2 (cds)
+ID 8: Peptide ABC transporter permease (cds)
+ID 9: trnQ: tRNA-Gln(ttg) (tRNA)

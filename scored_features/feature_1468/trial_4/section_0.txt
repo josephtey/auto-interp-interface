@@ -1,0 +1,11 @@
+Image 0
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: dinG: Rad3-related DNA helicase DinG (cds)
+ID 2: DUF6200 domain-containing protein (cds)
+ID 3: menH: 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (cds)
+ID 4: CRISPR spacer, sequence CCGACGGTCCCGGACGCCACCGCGTGGACTGTGAC (crispr-spacer)
+ID 5: CRISPR spacer, sequence GCGGCGTTCGTCGCTGCCTATGGCGATTGCGACGACT (crispr-spacer)
+ID 6: tauC: ABC-type nitrate/sulfonate/bicarbonate transport system, permease component (cds)
+ID 7: gstA: Glutathione S-transferase (cds)
+ID 8: cirA: Outer membrane receptor protein, Fe transport (cds)
+ID 9: HEAT repeat domain-containing protein (cds)

@@ -1,0 +1,13 @@
+Image 2
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: rsmI: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase (cds)
+ID 2: araC: AraC family transcriptional regulator (cds)
+ID 3: Type II/IV secretion system protein (cds)
+ID 4: essC: type VII secretion protein EssC (cds)
+ID 5: rimM: ribosome maturation factor RimM (cds)
+ID 6: Carbohydrate-binding family 9-like protein (cds)
+ID 7: Pilus assembly protein (cds)
+ID 8: DUF229 domain-containing protein (cds)
+ID 9: rpsI: 30S ribosomal protein S9 (cds)
+ID 10: Esterase (cds)
+ID 11: Glycosyl hydrolase-like 10 domain-containing protein (cds)

@@ -1,0 +1,10 @@
+Image 2
+Organism: Cylindrospermopsis curvispora GIHE-G1 (cyanobacteria)
+ID 1: ribE: riboflavin synthase (cds)
+ID 2: CRISPR spacer, sequence ACTACCAATTGTAAAGGACTTAGTAACTAGGGAATATTT (crispr-spacer)
+ID 3: hesB: Fe-S cluster assembly protein HesB (cds)
+ID 4: exbB: Biopolymer transporter ExbB (cds)
+ID 5: ATP-binding protein (cds)
+ID 6: Outer membrane beta-barrel protein (cds)
+ID 7: ATP-binding protein (cds)
+ID 8: apcE: Phycobiliprotein ApcE (cds)

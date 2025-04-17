@@ -1,0 +1,8 @@
+Image 2
+Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
+ID 1: folD: 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase (cds)
+ID 2: der: ribosome biogenesis GTPase Der (cds)
+ID 3: lpxA: acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase (cds)
+ID 4: pcnB: tRNA nucleotidyltransferase/poly(A) polymerase (cds)
+ID 5: tatC: twin-arginine translocase subunit TatC (cds)
+ID 6: pstC: phosphate ABC transporter permease subunit PstC (cds)

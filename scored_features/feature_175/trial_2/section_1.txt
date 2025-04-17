@@ -1,0 +1,11 @@
+Image 1
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: Transposase IS3/IS911 family protein (cds)
+ID 2: coxL: Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit (cds)
+ID 3: hypothetical protein (cds)
+ID 4: sPS1: Serine/threonine protein kinase (cds)
+ID 5: thiS: Sulfur carrier protein ThiS (cds)
+ID 6: sPS1: Serine/threonine protein kinase (cds)
+ID 7: pyrH: UMP kinase (cds)
+ID 8: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 9: hypothetical protein (cds)

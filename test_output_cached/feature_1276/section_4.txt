@@ -1,0 +1,11 @@
+Organism: Unknown organism
+ID 1: Radical SAM protein (cds)
+ID 2: Response regulator (cds)
+ID 3: ABC transporter permease (cds)
+ID 4: rplM: 50S ribosomal protein L13 (cds)
+ID 5: Copper-translocating P-type ATPase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: uvrC: excinuclease ABC subunit UvrC (cds)
+ID 8: trnN: tRNA-Asn(gtt) (tRNA)
+ID 9: non-specific serine/threonine protein kinase (cds)
+ID 10: NADPH-dependent oxidoreductase (cds)

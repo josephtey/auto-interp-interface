@@ -1,0 +1,10 @@
+Image 3
+Organism: Shewanella halifaxensis HAW-EB4 (g-proteobacteria)
+ID 1: DUF3305 domain-containing protein (cds)
+ID 2: histidine kinase (cds)
+ID 3: Beta-lactamase domain protein (cds)
+ID 4: histidine kinase (cds)
+ID 5: acnD: Fe/S-dependent 2-methylisocitrate dehydratase AcnD (cds)
+ID 6: Acriflavin resistance protein (cds)
+ID 7: thymidine kinase (cds)
+ID 8: CR-type domain-containing protein (cds)

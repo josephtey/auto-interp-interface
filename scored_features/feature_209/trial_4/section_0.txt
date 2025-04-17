@@ -1,0 +1,10 @@
+Image 0
+Organism: Pseudomonas silesiensis (g-proteobacteria)
+ID 1: CAAX protease (cds)
+ID 2: gloC: Hydroxyacylglutathione hydrolase GloC (cds)
+ID 3: minE: cell division topological specificity factor MinE (cds)
+ID 4: PBS lyase (cds)
+ID 5: NADP-dependent oxidoreductase domain-containing protein (cds)
+ID 6: Aminoglycoside phosphotransferase domain-containing protein (cds)
+ID 7: nuoC: NADH-quinone oxidoreductase subunit C/D (cds)
+ID 8: Serine protease (cds)

@@ -1,0 +1,12 @@
+Image 1
+Organism: Jeotgalibacillus malaysiensis (firmicutes)
+ID 1: ycbJ: putative kinase, aminoglycoside phosphotransferase (APT) family (cds)
+ID 2: DUF4305 domain-containing protein (cds)
+ID 3: DinB-like domain-containing protein (cds)
+ID 4: lipA: lipoyl synthase (cds)
+ID 5: purF: amidophosphoribosyltransferase (cds)
+ID 6: frvX: Putative aminopeptidase FrvX (cds)
+ID 7: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)
+ID 8: Kinase (cds)
+ID 9: Aldolase (cds)
+ID 10: STAS domain-containing protein (cds)

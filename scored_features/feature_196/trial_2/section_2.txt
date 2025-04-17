@@ -1,0 +1,13 @@
+Image 2
+Organism: Aneurinibacillus soli (firmicutes)
+ID 1: yotD: Rubrerythrin (cds)
+ID 2: trnE: tRNA-Glu(ttc) (tRNA)
+ID 3: mscS: Small-conductance mechanosensitive channel (cds)
+ID 4: ugpQ: Glycerophosphoryl diester phosphodiesterase (cds)
+ID 5: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 6: Phage protein (cds)
+ID 7: DUF3886 domain-containing protein (cds)
+ID 8: spoIVA: stage IV sporulation protein A (cds)
+ID 9: ilvD: dihydroxy-acid dehydratase (cds)
+ID 10: acoR: Transcriptional regulator DhaR of acetoin/glycerol metabolism (cds)
+ID 11: sprT: SprT family protein (cds)

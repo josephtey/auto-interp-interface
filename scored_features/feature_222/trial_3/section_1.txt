@@ -1,0 +1,10 @@
+Image 1
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: dkgA: 2,5-didehydrogluconate reductase DkgA (cds)
+ID 3: Enhances serine sensitivity (cds)
+ID 4: gluQRS: tRNA glutamyl-Q(34) synthetase GluQRS (cds)
+ID 5: rpoN: RNA polymerase factor sigma-54 (cds)
+ID 6: Putative tapemeasure protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: cysE: serine O-acetyltransferase (cds)

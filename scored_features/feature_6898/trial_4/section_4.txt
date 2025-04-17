@@ -1,0 +1,12 @@
+Image 4
+Organism: Parasphingorhabdus halotolerans (a-proteobacteria)
+ID 1: Deoxyribodipyrimidine photo-lyase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: rpsA: 30S ribosomal protein S1 (cds)
+ID 4: Tyrosine-type recombinase/integrase (cds)
+ID 5: Glutathione S-transferase family protein (cds)
+ID 6: Insulinase family protein (cds)
+ID 7: Photosynthesis system II assembly factor Ycf48/Hcf136-like domain-containing protein (cds)
+ID 8: himA: integration host factor subunit alpha (cds)
+ID 9: Glutathione S-transferase (cds)
+ID 10: DUF4238 domain-containing protein (cds)

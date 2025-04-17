@@ -1,0 +1,10 @@
+Image 0
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: TIGR01777 family protein (cds)
+ID 2: Glycosyltransferase family 1 protein (cds)
+ID 3: yrfG: GMP/IMP nucleotidase (cds)
+ID 4: Diaminopimelate decarboxylase (cds)
+ID 5: Gamma carbonic anhydrase family protein (cds)
+ID 6: PEP-CTERM sorting domain-containing protein (cds)
+ID 7: queE: 7-carboxy-7-deazaguanine synthase QueE (cds)
+ID 8: trnD: tRNA-Asp(gtc) (tRNA)

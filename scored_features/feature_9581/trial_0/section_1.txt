@@ -1,0 +1,13 @@
+Image 1
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: Na+/H+ antiporter subunit G (cds)
+ID 2: RNA-binding protein (cds)
+ID 3: gldA: Glycerol dehydrogenase (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: Flavodoxin-like fold domain-containing protein (cds)
+ID 6: Sugar phosphate isomerase/epimerase (cds)
+ID 7: acetyl-CoA carboxylase carboxyltransferase subunit alpha (cds)
+ID 8: trnL: tRNA-Leu(caa) (tRNA)
+ID 9: Nucleoside-diphosphate sugar epimerase (cds)
+ID 10: PIG-L family deacetylase (cds)
+ID 11: Iron ABC transporter permease (cds)

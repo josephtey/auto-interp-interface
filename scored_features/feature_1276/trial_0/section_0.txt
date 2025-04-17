@@ -1,0 +1,13 @@
+Image 0
+Organism: Microbacterium sediminis (high G+C Gram-positive bacteria)
+ID 1: DUF2690 domain-containing protein (cds)
+ID 2: FMN-binding negative transcriptional regulator (cds)
+ID 3: ABC transporter permease (cds)
+ID 4: Hemolysin III (cds)
+ID 5: Extracellular solute-binding protein (cds)
+ID 6: Epimerase (cds)
+ID 7: 3-isopropylmalate dehydrogenase (cds)
+ID 8: isochorismate synthase (cds)
+ID 9: murJ: murein biosynthesis integral membrane protein MurJ (cds)
+ID 10: Bacterial transcriptional activator domain-containing protein (cds)
+ID 11: Aromatic ring-hydroxylating dioxygenase subunit alpha (cds)

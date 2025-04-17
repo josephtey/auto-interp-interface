@@ -1,0 +1,13 @@
+Image 0
+Organism: Sulfurimicrobium lacus (b-proteobacteria)
+ID 1: DNA-binding response regulator (cds)
+ID 2: S-adenosyl-L-homocysteine riboswitch (ncRNA-region)
+ID 3: dihydroorotase (cds)
+ID 4: Aspartyl-tRNA amidotransferase subunit B (cds)
+ID 5: Ankyrin repeat domain-containing protein (cds)
+ID 6: Heat shock protein 15 (cds)
+ID 7: DUF1015 domain-containing protein (cds)
+ID 8: eamA: EamA domain-containing protein (cds)
+ID 9: trxA: thioredoxin (cds)
+ID 10: DUF6511 domain-containing protein (cds)
+ID 11: ychF: redox-regulated ATPase YchF (cds)

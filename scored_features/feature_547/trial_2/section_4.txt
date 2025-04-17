@@ -1,0 +1,9 @@
+Image 4
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: ompA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins (cds)
+ID 2: norM: Na+-driven multidrug efflux pump, DinF/NorM/MATE family (cds)
+ID 3: dLH: Dienelactone hydrolase (cds)
+ID 4: CRISPR spacer, sequence GAAGTTTACGGATTTGTCACAGGGCCACCGTCGCGCGT (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: hypothetical protein (cds)
+ID 7: bcp: Peroxiredoxin (cds)

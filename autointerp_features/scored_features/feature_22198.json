@@ -1,0 +1,10 @@
+{
+  "reasoning": "I analyzed each image carefully, examining the activation patterns in relation to genomic annotations. I noted that strong, sharp activation spikes consistently appear at or near specific non-coding RNA elements, particularly tRNAs, riboswitches, and CRISPR-related elements. The feature shows high-intensity, localized activation rather than broad patterns.",
+  "findings": "The feature consistently activates at non-coding RNA regulatory elements across different genomes. In image 1, activation corresponds with tRNA-Asn (ID 14). In image 2, activation occurs at another tRNA-Tyr (ID 20). Images 4-1 and 6 show activation at SAM riboswitch and non-coding elements. Images 5 and 7 show activation specifically at CRISPR arrays/spacers. Image 0 shows activation at T-box leader. The feature detects specifically structured non-coding RNA regulatory elements rather than protein-coding sequences.",
+  "conclusion": "This feature robustly captures structured non-coding RNA regulatory elements with high specificity and biological significance.",
+  "title": "Non-coding RNA regulatory element detector",
+  "activation-pattern": "spike",
+  "description": "This feature specifically detects structured non-coding RNA regulatory elements including tRNAs, riboswitches, CRISPR arrays/spacers, and T-box leaders. The feature shows sharp, intense activation spikes precisely at these elements, suggesting sensitivity to their unique sequence or structural motifs. These non-coding RNAs function in critical regulatory processes like translation regulation (tRNAs, T-box), metabolite sensing (riboswitches), and bacterial immunity (CRISPR elements). The pattern is highly consistent across examples, with virtually all activation spikes occurring at annotated non-coding RNA features, indicating the feature has learned to recognize common sequence or structural properties shared by these regulatory elements despite their diverse functions.",
+  "feature_id": 22198,
+  "score": 0.2
+}

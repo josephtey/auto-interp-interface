@@ -1,0 +1,11 @@
+Image 4
+Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
+ID 1: tadA: tRNA(Arg) A34 adenosine deaminase TadA (cds)
+ID 2: dsbC: Protein thiol-disulfide isomerase DsbC (cds)
+ID 3: ftsH: ATP-dependent zinc metalloprotease FtsH (cds)
+ID 4: Bacteria_small_SRP: Bacterial small signal recognition particle RNA (ncRNA)
+ID 5: DUF1009 domain-containing protein (cds)
+ID 6: cynT: Carbonic anhydrase (cds)
+ID 7: argJ: bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ (cds)
+ID 8: ubiH: 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases (cds)
+ID 9: tatD: 3'->5' ssDNA/RNA exonuclease TatD (cds)

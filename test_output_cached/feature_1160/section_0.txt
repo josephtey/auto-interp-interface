@@ -1,0 +1,2 @@
+Organism: Mixta gaviniae (enterobacteria)
+ID 1: tauB: ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component (cds)

@@ -1,0 +1,11 @@
+Image 1
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Restriction endonuclease (cds)
+ID 3: histidine kinase (cds)
+ID 4: Peptidase M16 (cds)
+ID 5: CPBP family intramembrane metalloprotease (cds)
+ID 6: GNAT family N-acetyltransferase (cds)
+ID 7: hisG: ATP phosphoribosyltransferase (cds)
+ID 8: histidine kinase (cds)
+ID 9: hypothetical protein (cds)

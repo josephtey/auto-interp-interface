@@ -1,0 +1,12 @@
+Image 2
+Organism: Shewanella halifaxensis HAW-EB4 (g-proteobacteria)
+ID 1: Protease (cds)
+ID 2: Phage tail tape measure protein, TP901 family (cds)
+ID 3: Diguanylate cyclase (cds)
+ID 4: Resolvase domain (cds)
+ID 5: Sodium/hydrogen exchanger (cds)
+ID 6: greA: transcription elongation factor GreA (cds)
+ID 7: purA: adenylosuccinate synthase (cds)
+ID 8: tetR: Transcriptional regulator, TetR family (cds)
+ID 9: Phosphate-selective porin O and P (cds)
+ID 10: ATP-binding protein (cds)

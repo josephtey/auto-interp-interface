@@ -1,0 +1,11 @@
+Image 1
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ribE: riboflavin synthase (cds)
+ID 5: fadL: Long-chain fatty acid transport protein (cds)
+ID 6: rpsD: 30S ribosomal protein S4 (cds)
+ID 7: cccA: Cytochrome c, mono- and diheme variants (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: Nucleoside-binding outer membrane protein (cds)

@@ -1,0 +1,12 @@
+Image 0
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: vapI: HigA family addiction module antitoxin (cds)
+ID 2: fepB: ABC-type Fe3+-hydroxamate transport system, periplasmic component (cds)
+ID 3: Outer membrane protein (cds)
+ID 4: ybaB: YbaB/EbfC family nucleoid-associated protein (cds)
+ID 5: rplS: 50S ribosomal protein L19 (cds)
+ID 6: Bacteria_small_SRP: Bacterial small signal recognition particle RNA (ncRNA)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: lldD: FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase (cds)
+ID 9: mreC: rod shape-determining protein MreC (cds)
+ID 10: moxR: MoxR-like ATPase (cds)

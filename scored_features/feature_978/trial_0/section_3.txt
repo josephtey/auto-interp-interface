@@ -1,0 +1,12 @@
+Image 3
+Organism: Paludibacterium paludis (b-proteobacteria)
+ID 1: NAD dependent epimerase/dehydratase (cds)
+ID 2: Bcr/CflA family efflux transporter (cds)
+ID 3: Flagellar hook-length control protein-like C-terminal domain-containing protein (cds)
+ID 4: rfbA: glucose-1-phosphate thymidylyltransferase RfbA (cds)
+ID 5: histidine kinase (cds)
+ID 6: cspC: Cold shock protein, CspA family (cds)
+ID 7: N-acetyltransferase domain-containing protein (cds)
+ID 8: CRISPR spacer, sequence AATACCCTATCAATTACGATTCGAAGGAACTG (crispr-spacer)
+ID 9: Tail-collar fiber protein (cds)
+ID 10: Solute-binding protein family 3/N-terminal domain-containing protein (cds)

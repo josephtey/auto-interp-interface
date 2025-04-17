@@ -1,0 +1,12 @@
+Image 3
+Organism: Citrobacter arsenatis (enterobacteria)
+ID 1: glpF: Glycerol uptake facilitator or related aquaporin (Major Intrinsic protein Family) (cds)
+ID 2: putative ABC-type sugar transport system, permease component (cds)
+ID 3: copG: Ribbon-helix-helix protein CopG domain-containing protein (cds)
+ID 4: Glycosyl hydrolase (cds)
+ID 5: add: adenosine deaminase (cds)
+ID 6: lipoprotein (cds)
+ID 7: StyR-44: Salmonella enterica Typhi npcRNA 44 (ncRNA)
+ID 8: tkt: transketolase (cds)
+ID 9: rpmA: 50S ribosomal protein L27 (cds)
+ID 10: nepI: purine ribonucleoside efflux pump NepI (cds)

@@ -1,0 +1,11 @@
+Image 4
+Organism: Barnesiella viscericola DSM 18177 (CFB group bacteria)
+ID 1: Yip1 domain-containing protein (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 4: insG: IS4 family transposase (cds)
+ID 5: serB: phosphoserine phosphatase SerB (cds)
+ID 6: marC: Small neutral amino acid transporter SnatA, MarC family (cds)
+ID 7: rrl: 23S ribosomal RNA (rRNA)
+ID 8: elaC: Ribonuclease BN, tRNA processing enzyme (cds)
+ID 9: rplL: 50S ribosomal protein L7/L12 (cds)

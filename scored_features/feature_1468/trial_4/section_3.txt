@@ -1,0 +1,12 @@
+Image 3
+Organism: Unknown organism
+ID 1: marR: Regulatory protein MarR (cds)
+ID 2: Thiol:disulfide interchange protein (cds)
+ID 3: mutT: RNA pyrophosphohydrolase (cds)
+ID 4: rrl: 23S ribosomal RNA (rRNA)
+ID 5: ABC transporter substrate binding protein (cds)
+ID 6: lysR: Transcriptional regulator, LysR family (cds)
+ID 7: sbcD: exonuclease subunit SbcD (cds)
+ID 8: trnQ: tRNA-Gln(ttg) (tRNA)
+ID 9: DUF6471 domain-containing protein (cds)
+ID 10: RHS Repeat protein (cds)

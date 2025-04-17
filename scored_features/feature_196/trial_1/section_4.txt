@@ -1,0 +1,11 @@
+Image 4
+Organism: Gemmatimonas aurantiaca T-27 (bacteria)
+ID 1: cyoC: Heme/copper-type cytochrome/quinol oxidase, subunit 3 (cds)
+ID 2: tadD: Flp pilus assembly protein TadD, contains TPR repeats (cds)
+ID 3: pulD: Type II secretory pathway component GspD/PulD (secretin) (cds)
+ID 4: hutU: urocanate hydratase (cds)
+ID 5: dacB: D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase (cds)
+ID 6: gcvT: glycine cleavage system aminomethyltransferase GcvT (cds)
+ID 7: cirA: Outer membrane receptor protein, Fe transport (cds)
+ID 8: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 9: tPR: tetratricopeptide repeat protein (cds)

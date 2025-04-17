@@ -1,0 +1,13 @@
+Image 2
+Organism: Kroppenstedtia eburnea (firmicutes)
+ID 1: rplL: 50S ribosomal protein L7/L12 (cds)
+ID 2: trnD: tRNA-Asp(gtc) (tRNA)
+ID 3: Phosphatidylglycerophosphate synthase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: Peptide/nickel transport system ATP-binding protein/oligopeptide transport system ATP-binding protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Dipeptide transport system permease protein (cds)
+ID 8: TIGR01741 family protein (cds)
+ID 9: tdh: L-threonine 3-dehydrogenase (cds)
+ID 10: bifunctional homocysteine S-methyltransferase/methylenetetrahydrofolate reductase (cds)
+ID 11: icmF: fused isobutyryl-CoA mutase/GTPase IcmF (cds)

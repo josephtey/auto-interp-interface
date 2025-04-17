@@ -1,0 +1,12 @@
+Image 0
+Organism: Ruminiclostridium cellulolyticum H10 (firmicutes)
+ID 1: yebA: Transglutaminase-like enzyme, putative cysteine protease (cds)
+ID 2: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 3: manC: Mannose-6-phosphate isomerase, cupin superfamily (cds)
+ID 4: pheB: ACT domain-containing protein (cds)
+ID 5: cas1c: type I-C CRISPR-associated endonuclease Cas1c (cds)
+ID 6: Uncharacterized membrane protein (cds)
+ID 7: rpiR: DNA-binding transcriptional regulator, MurR/RpiR family, contains HTH and SIS domains (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Immunity protein 64 (cds)
+ID 10: hypothetical protein (cds)

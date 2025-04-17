@@ -1,0 +1,10 @@
+Image 3
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: fliN: Flagellar motor switch protein FliN (cds)
+ID 2: non-specific serine/threonine protein kinase (cds)
+ID 3: Methyl-accepting chemotaxis protein (cds)
+ID 4: ABC transporter permease (cds)
+ID 5: EAL domain-containing protein (cds)
+ID 6: trnA: tRNA-Ala(tgc) (tRNA)
+ID 7: Prepilin-type N-terminal cleavage/methylation domain-containing protein (cds)
+ID 8: sbcC: DNA repair exonuclease SbcCD ATPase subunit (cds)

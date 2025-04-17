@@ -1,0 +1,11 @@
+Image 4
+Organism: Cellulophaga algicola DSM 14237 (CFB group bacteria)
+ID 1: tolC: Outer membrane protein TolC (cds)
+ID 2: Metallophosphoesterase (cds)
+ID 3: wbbJ: Acetyltransferase, isoleucine patch superfamily (cds)
+ID 4: ilvB: Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme (cds)
+ID 5: eda: bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase (cds)
+ID 6: ltrA: group II intron reverse transcriptase/maturase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: DUF4138 domain-containing protein (cds)
+ID 9: crp: cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases (cds)

@@ -1,0 +1,9 @@
+Image 4
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: ubiD: 4-hydroxy-3-polyprenylbenzoate decarboxylase (cds)
+ID 2: Patatin-like phospholipase family protein (cds)
+ID 3: Dual specificity protein phosphatase family protein (cds)
+ID 4: moaE: molybdopterin synthase catalytic subunit MoaE (cds)
+ID 5: SPOR domain-containing protein (cds)
+ID 6: SF3 helicase domain-containing protein (cds)
+ID 7: hypothetical protein (cds)

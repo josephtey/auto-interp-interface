@@ -1,0 +1,13 @@
+Image 2
+Organism: Dictyoglomus thermophilum H-6-12 (bacteria)
+ID 1: fldA: Flavodoxin (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR spacer, sequence TGCCAAAACCAAAAGACTTTACAGAAAAAGAAGAAA (crispr-spacer)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: ugpE: ABC-type glycerol-3-phosphate transport system, permease component (cds)
+ID 6: ymdB: 2',3'- and 3',5'-cNMP phosphodiesterase YmdB, calcineurin family (cds)
+ID 7: aroB: 3-dehydroquinate synthase (cds)
+ID 8: tyrA: Prephenate dehydrogenase (cds)
+ID 9: eno: phosphopyruvate hydratase (cds)
+ID 10: xylB: Sugar (pentulose or hexulose) kinase (cds)
+ID 11: HTH cro/C1-type domain-containing protein (cds)

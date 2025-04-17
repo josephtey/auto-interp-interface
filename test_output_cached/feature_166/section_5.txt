@@ -1,0 +1,11 @@
+Organism: Unknown organism
+ID 1: peptidoglycan glycosyltransferase (cds)
+ID 2: NAD(P)/FAD-dependent oxidoreductase (cds)
+ID 3: YjhG/YagF family D-xylonate dehydratase (cds)
+ID 4: Response regulator (cds)
+ID 5: lysA: diaminopimelate decarboxylase (cds)
+ID 6: Efflux RND transporter permease subunit (cds)
+ID 7: DUF971 domain-containing protein (cds)
+ID 8: gltX: glutamate--tRNA ligase (cds)
+ID 9: HEAT repeat domain-containing protein (cds)
+ID 10: Mechanosensitive ion channel family protein (cds)

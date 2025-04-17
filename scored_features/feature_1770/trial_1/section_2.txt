@@ -1,0 +1,12 @@
+Image 2
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: yidC: Membrane protein insertase Oxa1/YidC/SpoIIIJ (cds)
+ID 2: elaC: ribonuclease Z (cds)
+ID 3: livM: ABC-type branched-chain amino acid transport system, permease component (cds)
+ID 4: oadB: Na+-transporting oxaloacetate/methylmalonyl-CoA decarboxylase, beta subunit (cds)
+ID 5: fusA: elongation factor G (cds)
+ID 6: (pseudo) Cof-type HAD-IIB family hydrolase (cds)
+ID 7: rimM: ribosome maturation factor RimM (cds)
+ID 8: TIGR01906 family membrane protein (cds)
+ID 9: thiT: Thiamine transporter ThiT (cds)
+ID 10: trnF: (pseudo) tRNA-Phe(gaa) (tRNA)

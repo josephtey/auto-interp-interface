@@ -1,0 +1,10 @@
+Image 4
+Organism: Lutibacter profundi (CFB group bacteria)
+ID 1: ZIP family metal transporter (cds)
+ID 2: acyP: Acylphosphatase (cds)
+ID 3: rplX: 50S ribosomal protein L24 (cds)
+ID 4: tonB: TonB C-terminal domain-containing protein (cds)
+ID 5: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 6: Vitellogenin II (cds)
+ID 7: Peptidase S74 domain-containing protein (cds)
+ID 8: GTP cyclohydrolase (cds)

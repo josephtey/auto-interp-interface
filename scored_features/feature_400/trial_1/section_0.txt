@@ -1,0 +1,3 @@
+Image 0
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: ychF: redox-regulated ATPase YchF (cds)

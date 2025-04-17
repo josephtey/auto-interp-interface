@@ -1,0 +1,13 @@
+Image 3
+Organism: Thiomicrorhabdus xiamenensis (g-proteobacteria)
+ID 1: Na+/H+ antiporter subunit E (cds)
+ID 2: CRISPR spacer, sequence AGCCTGCAAGACAAAGGATTAATCGAATCAAC (crispr-spacer)
+ID 3: CRISPR spacer, sequence AAATACCACCAGGCTGGCAAACCGGCGTTCGA (crispr-spacer)
+ID 4: CRISPR spacer, sequence TTTTCTCACAATGATTCCATGCACCGGAGTCC (crispr-spacer)
+ID 5: Patatin-like phospholipase family protein (cds)
+ID 6: EI24 domain-containing protein (cds)
+ID 7: rrs: 16S ribosomal RNA (rRNA)
+ID 8: xseA: exodeoxyribonuclease VII large subunit (cds)
+ID 9: Aminopeptidase P N-terminal domain-containing protein (cds)
+ID 10: PilT/PilU family type 4a pilus ATPase (cds)
+ID 11: trmB: tRNA (guanosine(46)-N7)-methyltransferase TrmB (cds)

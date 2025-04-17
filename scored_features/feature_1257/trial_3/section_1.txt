@@ -1,0 +1,13 @@
+Image 1
+Organism: Anaerocolumna sedimenticola (firmicutes)
+ID 1: Sigma-70 family RNA polymerase sigma factor (cds)
+ID 2: merR: MerR family transcriptional regulator (cds)
+ID 3: GNAT family N-acetyltransferase (cds)
+ID 4: map: type I methionyl aminopeptidase (cds)
+ID 5: lysR: LysR family transcriptional regulator (cds)
+ID 6: nifU: SUF system NifU family Fe-S cluster assembly protein (cds)
+ID 7: Abasic site processing protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: beta-Ala-His dipeptidase (cds)
+ID 10: ABC transporter permease (cds)
+ID 11: FCD domain-containing protein (cds)

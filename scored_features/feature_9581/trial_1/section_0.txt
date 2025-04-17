@@ -1,0 +1,12 @@
+Image 0
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: nikB: nickel ABC transporter permease (cds)
+ID 2: cfbD: Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD (cds)
+ID 3: crp: cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases (cds)
+ID 4: yedF: sulfurtransferase-like selenium metabolism protein YedF (cds)
+ID 5: ftsB: Cell division protein FtsB (cds)
+ID 6: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 7: trnK: tRNA-Lys(ctt) (tRNA)
+ID 8: soxR: DNA-binding transcriptional regulator, MerR family (cds)
+ID 9: spoIIAB: anti-sigma F factor (cds)
+ID 10: folE2: GTP cyclohydrolase FolE2 (cds)

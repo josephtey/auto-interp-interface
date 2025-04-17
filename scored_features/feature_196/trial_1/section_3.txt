@@ -1,0 +1,11 @@
+Image 3
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: greB: transcription elongation factor GreB (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Lipocalin-like domain-containing protein (cds)
+ID 4: bamE: Outer membrane protein assembly factor BamE (cds)
+ID 5: DUF2531 domain-containing protein (cds)
+ID 6: BLUF domain-containing protein (cds)
+ID 7: mgtE: magnesium transporter (cds)
+ID 8: Y-family DNA polymerase (cds)
+ID 9: Substrate-binding domain-containing protein (cds)

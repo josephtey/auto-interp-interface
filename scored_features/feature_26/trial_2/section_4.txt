@@ -1,0 +1,11 @@
+Image 4
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: fadL: Long-chain fatty acid transport protein (cds)
+ID 3: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 4: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 5: greA: transcription elongation factor GreA (cds)
+ID 6: CRISPR spacer, sequence GTCTGCGCCCCAGGCTGGGCTAGGCGGCCCGCCGCC (crispr-spacer)
+ID 7: CRISPR spacer, sequence GTGCCGACGGGGGCAGGGTGAGCTGGCGAACGAGGC (crispr-spacer)
+ID 8: dnaJ: molecular chaperone DnaJ (cds)
+ID 9: Thrombospondin type 3 repeat protein (cds)

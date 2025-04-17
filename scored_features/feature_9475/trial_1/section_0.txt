@@ -1,0 +1,11 @@
+Image 0
+Organism: Streptomyces ferrugineus (high G+C Gram-positive bacteria)
+ID 1: Response regulator transcription factor (cds)
+ID 2: LCP family protein (cds)
+ID 3: tetR: TetR family transcriptional regulator (cds)
+ID 4: Integral membrane protein (cds)
+ID 5: 3-keto-5-aminohexanoate cleavage protein (cds)
+ID 6: Glycine riboswitch (ncRNA-region)
+ID 7: Quercetin 2,3-dioxygenase (cds)
+ID 8: tnp: IS5 family transposase (cds)
+ID 9: Aminobenzoate oxygenase (cds)

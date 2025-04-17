@@ -1,0 +1,9 @@
+Image 4
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: VOC family protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: YdeI/OmpD-associated family protein (cds)
+ID 4: Glycosyltransferase (cds)
+ID 5: hisS: histidine--tRNA ligase (cds)
+ID 6: MGMT family protein (cds)
+ID 7: NYN domain-containing protein (cds)

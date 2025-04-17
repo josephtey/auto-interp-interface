@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: pth: aminoacyl-tRNA hydrolase (cds)
+ID 2: Anti-sigma-F factor Fin (cds)
+ID 3: tetR: TetR family transcriptional regulator (cds)
+ID 4: Glutathione peroxidase (cds)
+ID 5: Glycerol acyltransferase (cds)
+ID 6: Heme-degrading monooxygenase (cds)
+ID 7: HTH luxR-type domain-containing protein (cds)
+ID 8: Phosphoribosylamine--glycine ligase (cds)
+ID 9: Histidine kinase (cds)

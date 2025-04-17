@@ -1,0 +1,5 @@
+Organism: Symbiobacterium thermophilum IAM 14863 (firmicutes)
+ID 1: osmY: Osmotically-inducible protein OsmY, contains BON domain (cds)
+ID 2: nfo: putative endonuclease 4 (cds)
+ID 3: cdd: cytidine deaminase (cds)
+ID 4: pAS: GGDEF domain-containing phosphodiesterase (cds)

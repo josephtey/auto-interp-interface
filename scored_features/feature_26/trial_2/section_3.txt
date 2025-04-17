@@ -1,0 +1,13 @@
+Image 3
+Organism: Coxiella endosymbiont of Amblyomma americanum (g-proteobacteria)
+ID 1: F0F1 ATP synthase subunit epsilon (cds)
+ID 2: oligopeptidase A (cds)
+ID 3: lgt: prolipoprotein diacylglyceryl transferase (cds)
+ID 4: NADH-quinone oxidoreductase subunit A (cds)
+ID 5: rsmH: 16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH (cds)
+ID 6: rplF: 50S ribosomal protein L6 (cds)
+ID 7: secY: preprotein translocase subunit SecY (cds)
+ID 8: lysS: lysine--tRNA ligase (cds)
+ID 9: iscS: IscS subfamily cysteine desulfurase (cds)
+ID 10: secD: Protein translocase subunit SecD (cds)
+ID 11: bioB: biotin synthase BioB (cds)

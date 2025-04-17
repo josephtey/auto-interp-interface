@@ -1,0 +1,11 @@
+Image 0
+Organism: Paludibacterium paludis (b-proteobacteria)
+ID 1: lysR: LysR family transcriptional regulator (cds)
+ID 2: ampG: AmpG family muropeptide MFS transporter (cds)
+ID 3: bdlA: Biofilm dispersion protein BdlA (cds)
+ID 4: folB: dihydroneopterin aldolase (cds)
+ID 5: cadA: Lysine decarboxylase CadA (cds)
+ID 6: Winged helix DNA-binding protein (cds)
+ID 7: flgL: flagellar hook-associated protein FlgL (cds)
+ID 8: histidine kinase (cds)
+ID 9: ppx: exopolyphosphatase (cds)

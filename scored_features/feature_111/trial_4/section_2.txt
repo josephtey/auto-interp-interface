@@ -1,0 +1,8 @@
+Image 2
+Organism: Spirosoma taeanense (CFB group bacteria)
+ID 1: Polymerase (cds)
+ID 2: Membrane or secreted protein (cds)
+ID 3: Response regulator transcription factor (cds)
+ID 4: dinB: DinB family protein (cds)
+ID 5: tonB: Energy transducer TonB (cds)
+ID 6: DGQHR domain-containing protein (cds)

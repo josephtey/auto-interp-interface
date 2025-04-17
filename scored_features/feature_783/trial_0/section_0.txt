@@ -1,0 +1,11 @@
+Image 0
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: DUF2059 domain-containing protein (cds)
+ID 2: Dienelactone hydrolase (cds)
+ID 3: Potassium transporter (cds)
+ID 4: Fis family transcriptional regulator (cds)
+ID 5: Cytochrome c1 (cds)
+ID 6: GGDEF domain-containing response regulator (cds)
+ID 7: phoB: phosphate regulon transcriptional regulator PhoB (cds)
+ID 8: Copper resistance protein B (cds)
+ID 9: Paraquat-inducible protein A (cds)

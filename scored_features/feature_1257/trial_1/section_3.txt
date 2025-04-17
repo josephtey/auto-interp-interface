@@ -1,0 +1,13 @@
+Image 3
+Organism: Parasphingorhabdus halotolerans (a-proteobacteria)
+ID 1: gspK: type II secretion system minor pseudopilin GspK (cds)
+ID 2: Polyhydroxyalkanoic acid system protein (cds)
+ID 3: Nitronate monooxygenase (cds)
+ID 4: Phosphopantetheine adenylyltransferase (cds)
+ID 5: Methyltransferase domain-containing protein (cds)
+ID 6: DMT family transporter (cds)
+ID 7: Holin-X, holin superfamily III (cds)
+ID 8: Beta-lactamase family protein (cds)
+ID 9: Parvulin-like PPIase (cds)
+ID 10: hypothetical protein (cds)
+ID 11: marR: MarR family transcriptional regulator (cds)

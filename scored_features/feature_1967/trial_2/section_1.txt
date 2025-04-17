@@ -1,0 +1,13 @@
+Image 1
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: citB: Two component transcriptional regulator, LuxR family (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF58 domain-containing protein (cds)
+ID 4: ctaD: cytochrome c oxidase subunit I (cds)
+ID 5: Transcriptional regulator (cds)
+ID 6: HTH cro/C1-type domain-containing protein (cds)
+ID 7: SARP family transcriptional regulator (cds)
+ID 8: putative phosphoketolase (cds)
+ID 9: leuD: 3-isopropylmalate dehydratase small subunit (cds)
+ID 10: Transcriptional regulator/sugar kinase (cds)
+ID 11: hypothetical protein (cds)

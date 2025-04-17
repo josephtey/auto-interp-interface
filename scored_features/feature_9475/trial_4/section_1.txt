@@ -1,0 +1,17 @@
+Image 1
+Organism: Unknown organism
+ID 1: dnaN: DNA polymerase III subunit beta (cds)
+ID 2: fliB: flagellin lysine-N-methylase (cds)
+ID 3: tRNA(Ile)-lysidine synthase (cds)
+ID 4: rlmN: 23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN (cds)
+ID 5: FAD:protein FMN transferase (cds)
+ID 6: speB: agmatinase (cds)
+ID 7: Iron-chelate-transporting ATPase (cds)
+ID 8: ppa: inorganic diphosphatase (cds)
+ID 9: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 10: Phosphoglycerate mutase (cds)
+ID 11: CRISPR repeat (crispr-repeat)
+ID 12: CRISPR repeat (crispr-repeat)
+ID 13: astE: succinylglutamate desuccinylase (cds)
+ID 14: rrf: 5S ribosomal RNA (rRNA)
+ID 15: Extracellular solute-binding protein family 1 (cds)

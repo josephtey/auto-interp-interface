@@ -1,0 +1,12 @@
+Image 3
+Organism: Pelobacter propionicus DSM 2379 (bacteria)
+ID 1: pdxI: Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family (cds)
+ID 2: lysM: LysM repeat (cds)
+ID 3: AAT family amino acid transporter (cds)
+ID 4: yjbM: ppGpp synthetase catalytic domain (RelA/SpoT-type nucleotidyltranferase) (cds)
+ID 5: lepA: translation elongation factor 4 (cds)
+ID 6: ribF: bifunctional riboflavin kinase/FAD synthetase (cds)
+ID 7: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 8: ppnN: Nucleotide monophosphate nucleosidase PpnN/YdgH, Lonely Guy (LOG) family (cds)
+ID 9: cspC: Cold shock protein, CspA family (cds)
+ID 10: hycE2: Ni,Fe-hydrogenase III large subunit (cds)

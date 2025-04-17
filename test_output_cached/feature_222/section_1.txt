@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: yhxD: Putative oxidoreductase YhxD (cds)
+ID 2: Heme-binding domain-containing protein (cds)
+ID 3: Catalase (cds)
+ID 4: Short-chain dehydrogenase (cds)
+ID 5: Type III pantothenate kinase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Xanthosine permease (cds)
+ID 8: legC: LegC family aminotransferase (cds)
+ID 9: NADH-quinone oxidoreductase subunit N (cds)

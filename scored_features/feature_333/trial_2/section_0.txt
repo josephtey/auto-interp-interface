@@ -1,0 +1,10 @@
+Image 0
+Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
+ID 1: arnT: PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA (cds)
+ID 2: rplB: 50S ribosomal protein L2 (cds)
+ID 3: corB: Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains (cds)
+ID 4: mlaC: Periplasmic subunit MlaC of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 5: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 6: rfbD: dTDP-4-dehydrorhamnose reductase (cds)
+ID 7: rpoZ: DNA-directed RNA polymerase subunit omega (cds)
+ID 8: pyrB: aspartate carbamoyltransferase catalytic subunit (cds)

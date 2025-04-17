@@ -1,0 +1,8 @@
+Image 3
+Organism: Pedobacter aquae (CFB group bacteria)
+ID 1: DUF4293 domain-containing protein (cds)
+ID 2: Putative DEAD-box ATP-dependent RNA helicase (cds)
+ID 3: Chondroitin sulfate ABC endolyase (cds)
+ID 4: surE: Stationary phase survival protein SurE (cds)
+ID 5: arsS: arsenosugar biosynthesis radical SAM (seleno)protein ArsS (cds)
+ID 6: Methylmalonyl-CoA mutase (cds)

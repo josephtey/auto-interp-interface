@@ -1,0 +1,11 @@
+Image 1
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: Na+/H+ antiporter subunit E (cds)
+ID 2: bifunctional chorismate-binding protein/class IV aminotransferase (cds)
+ID 3: class 1 fructose-bisphosphatase (cds)
+ID 4: galU: UTP--glucose-1-phosphate uridylyltransferase GalU (cds)
+ID 5: DUF3567 domain-containing protein (cds)
+ID 6: nuoH: NADH-quinone oxidoreductase subunit NuoH (cds)
+ID 7: Solute-binding protein family 3/N-terminal domain-containing protein (cds)
+ID 8: sensor domain-containing diguanylate cyclase (cds)
+ID 9: ompA: OmpA family protein (cds)

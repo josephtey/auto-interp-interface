@@ -1,0 +1,11 @@
+Image 1
+Organism: Unknown organism
+ID 1: Alpha integrin (cds)
+ID 2: vacB: Exoribonuclease R (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: RHS repeat-associated core domain-containing protein (cds)
+ID 5: metH: methionine synthase (cds)
+ID 6: HTH cro/C1-type domain-containing protein (cds)
+ID 7: Secreted protein (cds)
+ID 8: cdiI: CdiI C-terminal domain-containing protein (cds)
+ID 9: hypothetical protein (cds)

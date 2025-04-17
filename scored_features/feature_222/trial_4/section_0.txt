@@ -1,0 +1,11 @@
+Image 0
+Organism: Allochromatium tepidum (g-proteobacteria)
+ID 1: pilM: pilus assembly protein PilM (cds)
+ID 2: 16S rRNA (uracil(1498)-N(3))-methyltransferase (cds)
+ID 3: CNT family concentrative nucleoside transporter (cds)
+ID 4: truB: tRNA pseudouridine(55) synthase TruB (cds)
+ID 5: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 6: parC: DNA topoisomerase IV subunit A (cds)
+ID 7: nuoE: NADH:ubiquinone oxidoreductase 24 kD subunit (chain E) (cds)
+ID 8: htpG: molecular chaperone HtpG (cds)
+ID 9: hypC: Hydrogenase maturation factor HybG, HypC/HupF family (cds)

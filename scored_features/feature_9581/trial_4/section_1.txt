@@ -1,0 +1,9 @@
+Image 1
+Organism: Unknown organism
+ID 1: wrbA: NAD(P)H:quinone oxidoreductase (cds)
+ID 2: Methylmalonyl-CoA carboxyltransferase (cds)
+ID 3: DUF4932 domain-containing protein (cds)
+ID 4: Cu(2+)-exporting ATPase (cds)
+ID 5: Chemotaxis response regulator protein-glutamate methylesterase (cds)
+ID 6: DUF2911 domain-containing protein (cds)
+ID 7: DUF1003 domain-containing protein (cds)

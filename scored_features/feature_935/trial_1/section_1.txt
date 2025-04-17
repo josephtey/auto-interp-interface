@@ -1,0 +1,10 @@
+Image 1
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: rnmV: ribonuclease M5 (cds)
+ID 2: dctQ: TRAP-type C4-dicarboxylate transport system, large permease component (cds)
+ID 3: plsX: phosphate acyltransferase PlsX (cds)
+ID 4: Flp1 family type IVb pilin (cds)
+ID 5: fadR: DNA-binding transcriptional regulator, FadR family (cds)
+ID 6: B3/B4 domain (DNA/RNA-binding domain of Phe-tRNA-synthetase) (cds)
+ID 7: rlmL: 23S rRNA G2445 N2-methylase RlmL (cds)
+ID 8: trnfM: tRNA-fMet(cat) (tRNA)

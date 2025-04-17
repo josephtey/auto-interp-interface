@@ -1,0 +1,12 @@
+Image 3
+Organism: Hypericibacter terrae (a-proteobacteria)
+ID 1: VOC domain-containing protein (cds)
+ID 2: gltB: glutamate synthase large subunit (cds)
+ID 3: Cytochrome c (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: Lipoprotein (cds)
+ID 6: MFS transporter (cds)
+ID 7: DUF2726 domain-containing protein (cds)
+ID 8: phosphoribosylaminoimidazolesuccinocarboxamide synthase (cds)
+ID 9: Methylhydantoinase (cds)
+ID 10: ABC transporter substrate-binding protein (cds)

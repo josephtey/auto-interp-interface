@@ -1,0 +1,13 @@
+Image 2
+Organism: Unknown organism
+ID 1: rpmA: 50S ribosomal protein L27 (cds)
+ID 2: Protein kinase domain-containing protein (cds)
+ID 3: VOC domain-containing protein (cds)
+ID 4: Oxidoreductase (cds)
+ID 5: whiB: Transcriptional regulator WhiB (cds)
+ID 6: vapC: Ribonuclease VapC (cds)
+ID 7: pks2: sulfolipid-1 biosynthesis phthioceranic/hydroxyphthioceranic acid synthase (cds)
+ID 8: Transcriptional regulator (cds)
+ID 9: RNA polymerase sigma factor (cds)
+ID 10: Mycothiol-dependent maleylpyruvate isomerase metal-binding domain-containing protein (cds)
+ID 11: Multiple sugar transport system permease protein (cds)

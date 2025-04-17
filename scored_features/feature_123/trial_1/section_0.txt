@@ -1,0 +1,12 @@
+Image 0
+Organism: Nocardioides euryhalodurans (high G+C Gram-positive bacteria)
+ID 1: hisF: Imidazole glycerol phosphate synthase subunit HisF (cds)
+ID 2: DUF1876 domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: biotin--[biotin carboxyl-carrier protein] ligase (cds)
+ID 5: arsA: ArsA family ATPase (cds)
+ID 6: acetyl-CoA C-acetyltransferase (cds)
+ID 7: PPOX class F420-dependent oxidoreductase (cds)
+ID 8: mnmA: tRNA 2-thiouridine(34) synthase MnmA (cds)
+ID 9: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 10: rpsP: 30S ribosomal protein S16 (cds)

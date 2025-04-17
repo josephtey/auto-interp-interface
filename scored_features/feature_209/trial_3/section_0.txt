@@ -1,0 +1,10 @@
+Image 0
+Organism: Candidatus Kinetoplastibacterium galatii TCC219 (b-proteobacteria)
+ID 1: dnaN: DNA polymerase III subunit beta (cds)
+ID 2: rpoH: RNA polymerase sigma factor RpoH (cds)
+ID 3: 2-polyprenyl-6-methoxyphenol hydroxylase (cds)
+ID 4: Magnesium and cobalt transporter (cds)
+ID 5: Phosphatidate cytidylyltransferase (cds)
+ID 6: trnS: tRNA-Ser(gga) (tRNA)
+ID 7: ppcD: 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC (cds)
+ID 8: G3E family GTPase (cds)

@@ -1,0 +1,11 @@
+Image 0
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: yjhB: ADP-ribose pyrophosphatase YjhB, NUDIX family (cds)
+ID 2: Glucan-binding domain (YG repeat) (cds)
+ID 3: hypothetical protein (cds)
+ID 4: rinA: Phage transcriptional regulator, RinA family (cds)
+ID 5: Bacterial mobilisation domain-containing protein (cds)
+ID 6: pdxK: pyridoxamine kinase (cds)
+ID 7: cfbD: Nitrogenase Mo-Fe protein NifD/coenzyme F430 biosynthesis subunit CfbD (cds)
+ID 8: rbfA: 30S ribosome-binding factor RbfA (cds)
+ID 9: hypothetical protein (cds)

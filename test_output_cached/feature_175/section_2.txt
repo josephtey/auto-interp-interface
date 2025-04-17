@@ -1,0 +1,7 @@
+Organism: Roseimaritima multifibrata (bacteria)
+ID 1: Fimbrial assembly protein (PilN) (cds)
+ID 2: lolD: Lipoprotein-releasing system ATP-binding protein LolD (cds)
+ID 3: eccA1: ESX-1 secretion system protein EccA1 (cds)
+ID 4: N-acetylmuramoyl-L-alanine amidase (cds)
+ID 5: aroB: 3-dehydroquinate synthase (cds)
+ID 6: Ubiquinone/menaquinone biosynthesis methyltransferase (cds)

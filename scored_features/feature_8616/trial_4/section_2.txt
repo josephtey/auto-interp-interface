@@ -1,0 +1,12 @@
+Image 2
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: rpsE: 30S ribosomal protein S5 (cds)
+ID 2: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 3: rhaT: Permease of the drug/metabolite transporter (DMT) superfamily (cds)
+ID 4: CRISPR spacer, sequence ATAGGCGAAGATGCGCAAGGTGCCCTGATGGG (crispr-spacer)
+ID 5: clpB: ATP-dependent chaperone ClpB (cds)
+ID 6: yceH: UPF0502 protein (cds)
+ID 7: ABC-type transport system involved in resistance to organic solvents, periplasmic component (cds)
+ID 8: hDOD: HD-like signal output (HDOD) domain, no enzymatic activity (cds)
+ID 9: hcaE: Phenylpropionate dioxygenase or related ring-hydroxylating dioxygenase, large terminal subunit (cds)
+ID 10: Restriction endonuclease S subunits (cds)

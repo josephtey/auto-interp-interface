@@ -1,0 +1,8 @@
+Organism: Candidatus Hydrogenosomobacter endosymbioticus (a-proteobacteria)
+ID 1: methionine--tRNA ligase (cds)
+ID 2: lipA: lipoyl synthase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: hslU: ATP-dependent protease ATPase subunit HslU (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: rod shape-determining protein (cds)

@@ -1,0 +1,10 @@
+Image 1
+Organism: Mycolicibacterium aurum (high G+C Gram-positive bacteria)
+ID 1: site-specific DNA-methyltransferase (adenine-specific) (cds)
+ID 2: Cytochrome P450-terp (cds)
+ID 3: tetR: TetR family transcriptional regulator (cds)
+ID 4: Type 11 methyltransferase (cds)
+ID 5: panB: 3-methyl-2-oxobutanoate hydroxymethyltransferase (cds)
+ID 6: 3'-phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase (cds)
+ID 7: Dioxygenase (cds)
+ID 8: Deazaflavin-dependent nitroreductase family protein (cds)

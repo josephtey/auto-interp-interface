@@ -1,0 +1,12 @@
+Image 2
+Organism: Cellulophaga algicola DSM 14237 (CFB group bacteria)
+ID 1: bglS: Beta-glucanase, GH16 family (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Outer membrane chaperone Skp (OmpH) (cds)
+ID 4: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 5: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 6: leuA: 2-isopropylmalate synthase (cds)
+ID 7: cusA: Cu/Ag efflux pump CusA (cds)
+ID 8: srmB: Superfamily II DNA and RNA helicase (cds)
+ID 9: fecR: Periplasmic ferric-dicitrate binding protein FecR, regulates iron transport (cds)
+ID 10: tktA: Transketolase (cds)

@@ -1,0 +1,16 @@
+Image 2
+Organism: Unknown organism
+ID 1: PASTA domain-containing protein (cds)
+ID 2: Alpha/beta hydrolase fold-3 (cds)
+ID 3: Integral membrane sensor signal transduction histidine kinase (cds)
+ID 4: mmdA: Acetyl-CoA carboxylase, carboxyltransferase component (cds)
+ID 5: acetolactate synthase (cds)
+ID 6: ABC-2 type transport system permease protein (cds)
+ID 7: ABC transporter-like protein (cds)
+ID 8: Cytochrome oxidase assembly (cds)
+ID 9: Threonine dehydrogenase-like Zn-dependent dehydrogenase (cds)
+ID 10: Oxidoreductase (cds)
+ID 11: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 12: Alkylation response protein AidB-like acyl-CoA dehydrogenase (cds)
+ID 13: decaprenylphospho-beta-D-erythro-pentofuranosid-2-ulose 2-reductase (cds)
+ID 14: Polysaccharide deacetylase (cds)

@@ -1,0 +1,12 @@
+Image 0
+Organism: Pukyongia salina (CFB group bacteria)
+ID 1: gltA: citrate synthase (cds)
+ID 2: DUF4136 domain-containing protein (cds)
+ID 3: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 4: Peptidase S74 domain-containing protein (cds)
+ID 5: Curlin associated repeat-containing protein (cds)
+ID 6: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 7: tauA: ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component (cds)
+ID 8: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 9: rpsF: 30S ribosomal protein S6 (cds)
+ID 10: Sensor of ECF-type sigma factor (cds)

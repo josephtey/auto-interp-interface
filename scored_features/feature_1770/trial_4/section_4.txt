@@ -1,0 +1,12 @@
+Image 4
+Organism: Serratia ficaria (enterobacteria)
+ID 1: Proteasome-type protease (cds)
+ID 2: cysC: Adenylyl-sulfate kinase (cds)
+ID 3: traB: Conjugal transfer protein TraB (cds)
+ID 4: (S)-limonene 6-monooxygenase (cds)
+ID 5: PTS EIIB type-2 domain-containing protein (cds)
+ID 6: RTX-I toxin determinant B (cds)
+ID 7: paaI: hydroxyphenylacetyl-CoA thioesterase PaaI (cds)
+ID 8: Capsular synthesis regulator component B (cds)
+ID 9: TraG-like protein, N-terminal region (cds)
+ID 10: yccC: Uncharacterized membrane protein YccC (cds)

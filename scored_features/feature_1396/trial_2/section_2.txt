@@ -1,0 +1,11 @@
+Image 2
+Organism: Pukyongia salina (CFB group bacteria)
+ID 1: DUF5683 domain-containing protein (cds)
+ID 2: Plasmid pRiA4b ORF-3-like protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Flavin-binding protein dodecin (cds)
+ID 5: mrp: Fe-S cluster carrier ATPase, Mrp/ApbC/NBP35 family (cds)
+ID 6: yyaL: Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains (cds)
+ID 7: ubiA: 4-hydroxybenzoate polyprenyltransferase (cds)
+ID 8: mnmC: tRNA U34 5-methylaminomethyl-2-thiouridine-forming methyltransferase MnmC (cds)
+ID 9: Uncharacterized conserved protein, contains caspase domain (cds)

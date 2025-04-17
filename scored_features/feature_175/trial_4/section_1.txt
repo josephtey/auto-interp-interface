@@ -1,0 +1,12 @@
+Image 1
+Organism: Cellulophaga algicola DSM 14237 (CFB group bacteria)
+ID 1: alkP: Arylsulfatase A or related enzyme, AlkP superfamily (cds)
+ID 2: rpsT: 30S ribosomal protein S20 (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Lipoprotein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: ilvB: Acetolactate synthase large subunit or other thiamine pyrophosphate-requiring enzyme (cds)
+ID 7: GTP cyclohydrolase (cds)
+ID 8: apbE: FAD:protein FMN transferase ApbE (cds)
+ID 9: motB: Flagellar motor protein MotB (cds)
+ID 10: hypothetical protein (cds)

@@ -1,0 +1,10 @@
+Image 4
+Organism: Georgenia yuyongxinii (high G+C Gram-positive bacteria)
+ID 1: Bilirubin oxidase (cds)
+ID 2: Restriction endonuclease (cds)
+ID 3: SDR family oxidoreductase (cds)
+ID 4: N5-carboxyaminoimidazole ribonucleotide mutase (cds)
+ID 5: Putative F420-0 ABC transporter substrate-binding protein (cds)
+ID 6: rrs: 16S ribosomal RNA (rRNA)
+ID 7: Response regulator transcription factor (cds)
+ID 8: hypothetical protein (cds)

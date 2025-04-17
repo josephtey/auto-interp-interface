@@ -1,0 +1,10 @@
+Image 0
+Organism: Shewanella avicenniae (g-proteobacteria)
+ID 1: PBP1A family penicillin-binding protein (cds)
+ID 2: trnP: tRNA-Pro(tgg) (tRNA)
+ID 3: pyrimidine/purine nucleoside phosphorylase (cds)
+ID 4: hemolysin III family protein (cds)
+ID 5: map: type I methionyl aminopeptidase (cds)
+ID 6: endonuclease/exonuclease/phosphatase family protein (cds)
+ID 7: class I SAM-dependent methyltransferase (cds)
+ID 8: Threonine/serine exporter-like N-terminal domain-containing protein (cds)

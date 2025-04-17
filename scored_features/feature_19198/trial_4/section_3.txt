@@ -1,0 +1,11 @@
+Image 3
+Organism: Massilia oculi (b-proteobacteria)
+ID 1: GGDEF domain-containing protein (cds)
+ID 2: cobO: cob(I)yrinic acid a,c-diamide adenosyltransferase (cds)
+ID 3: Monovalent cation:proton antiporter-2 (CPA2) family transporter (cds)
+ID 4: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 5: HAF repeat/PEP-CTERM domain-containing protein (cds)
+ID 6: trnA: tRNA-Ala(tgc) (tRNA)
+ID 7: Prepilin-type N-terminal cleavage/methylation domain-containing protein (cds)
+ID 8: uspA: UspA domain-containing protein (cds)
+ID 9: hypothetical protein (cds)

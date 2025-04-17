@@ -1,0 +1,11 @@
+Image 2
+Organism: Agarivorans albus (g-proteobacteria)
+ID 1: Cytosine deaminase (cds)
+ID 2: rplN: 50S ribosomal protein L14 (cds)
+ID 3: Carbohydrate uptake transporter-1 (CUT1) family (cds)
+ID 4: Na+/H+ antiporter subunit E (cds)
+ID 5: Apea-like HEPN domain-containing protein (cds)
+ID 6: pfkB: 1-phosphofructokinase (cds)
+ID 7: Flagellar brake protein (cds)
+ID 8: thiG: Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis) (cds)
+ID 9: Cytochrome d ubiquinol oxidase subunit I (cds)

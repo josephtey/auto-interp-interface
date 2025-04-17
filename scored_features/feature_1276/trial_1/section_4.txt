@@ -1,0 +1,10 @@
+Image 4
+Organism: Qipengyuania sediminis (a-proteobacteria)
+ID 1: eamA: EamA family transporter (cds)
+ID 2: malonic semialdehyde reductase (cds)
+ID 3: LSU ribosomal protein L21p (cds)
+ID 4: phosphoribosyl-AMP cyclohydrolase (cds)
+ID 5: glycerophosphodiester phosphodiesterase family protein (cds)
+ID 6: acetyl-CoA C-acyltransferase (cds)
+ID 7: UvrB/UvrC motif-containing protein (cds)
+ID 8: pilZ: PilZ domain-containing protein (cds)

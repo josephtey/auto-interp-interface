@@ -1,0 +1,11 @@
+Image 2
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: Ankyrin repeat domain-containing protein (cds)
+ID 2: DUF1857 domain-containing protein (cds)
+ID 3: bioC: malonyl-ACP O-methyltransferase BioC (cds)
+ID 4: serB: phosphoserine phosphatase SerB (cds)
+ID 5: HDOD domain-containing protein (cds)
+ID 6: D-amino acid aminotransferase (cds)
+ID 7: GTP cyclohydrolase I (cds)
+ID 8: Sugar ABC transporter permease (cds)
+ID 9: Glycine zipper 2TM domain-containing protein (cds)

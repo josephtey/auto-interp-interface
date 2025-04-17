@@ -1,0 +1,9 @@
+Image 0
+Organism: Methanosarcina horonobensis HB-1 = JCM 15518 (euryarchaeotes)
+ID 1: hypothetical protein (cds)
+ID 2: Thioredoxin-dependent thiol peroxidase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)

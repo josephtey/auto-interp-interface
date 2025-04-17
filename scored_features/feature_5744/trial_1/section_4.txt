@@ -1,0 +1,13 @@
+Image 4
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: cache domain-containing protein (cds)
+ID 3: hemerythrin domain-containing protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: DUF3579 domain-containing protein (cds)
+ID 6: fliP: flagellar type III secretion system pore protein FliP (cds)
+ID 7: glycosyltransferase family 2 protein (cds)
+ID 8: acnB: bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase (cds)
+ID 9: TetR/AcrR family transcriptional regulator (cds)
+ID 10: FAD-binding domain-containing protein (cds)
+ID 11: pilV: Type IV pilus assembly protein PilV (cds)

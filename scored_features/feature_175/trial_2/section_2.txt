@@ -1,0 +1,11 @@
+Image 2
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Phosphatidic acid phosphatase type 2/haloperoxidase domain-containing protein (cds)
+ID 3: DUF2088 domain-containing protein (cds)
+ID 4: ABC transporter substrate-binding protein (cds)
+ID 5: tlyA: TlyA family rRNA (Cytidine-2'-O)-methyltransferase (cds)
+ID 6: rny: ribonuclease Y (cds)
+ID 7: phaE: Poly(3-hydroxyalkanoate) polymerase subunit PhaE (cds)
+ID 8: Response regulator (cds)
+ID 9: hypothetical protein (cds)

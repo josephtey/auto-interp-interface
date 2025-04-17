@@ -1,0 +1,11 @@
+Image 2
+Organism: Unknown organism
+ID 1: Alpha/beta hydrolase family protein (cds)
+ID 2: Tetratricopeptide repeat protein (cds)
+ID 3: DUF5009 domain-containing protein (cds)
+ID 4: traG: Conjugal transfer protein TraG (cds)
+ID 5: Permease (cds)
+ID 6: Zinc finger/thioredoxin putative domain-containing protein (cds)
+ID 7: 3-oxoacyl-[acyl-carrier-protein] synthase 2 (cds)
+ID 8: dnaK: Chaperone protein DnaK (cds)
+ID 9: hypothetical protein (cds)

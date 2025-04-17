@@ -1,0 +1,11 @@
+Image 0
+Organism: Unknown organism
+ID 1: tet(V): tetracycline efflux MFS transporter Tet(V) (cds)
+ID 2: Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex (cds)
+ID 3: MFS transporter (cds)
+ID 4: Amidohydrolase 3 domain-containing protein (cds)
+ID 5: eccK: secretion protein EccK (cds)
+ID 6: Nitroreductase family deazaflavin-dependent oxidoreductase (cds)
+ID 7: lysM: LysM domain-containing protein (cds)
+ID 8: PH domain-containing protein (cds)
+ID 9: dmpG: 4-hydroxy-2-oxovalerate aldolase (cds)

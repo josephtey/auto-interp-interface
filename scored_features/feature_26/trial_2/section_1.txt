@@ -1,0 +1,11 @@
+Image 1
+Organism: Streptococcus troglodytae (firmicutes)
+ID 1: rpiR: DNA-binding transcriptional regulator, MurR/RpiR family, contains HTH and SIS domains (cds)
+ID 2: malQ: 4-alpha-glucanotransferase (cds)
+ID 3: CRISPR spacer, sequence CAAAAATACTTGACATAAAAAATAAATATG (crispr-spacer)
+ID 4: Cytosolic protein (cds)
+ID 5: Amino acid adenylation enzyme/thioester reductase family protein (cds)
+ID 6: 6-deoxyerythronolide-B synthase, NADPH:quinone reductase (cds)
+ID 7: aRO8: DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain (cds)
+ID 8: Acid-resistance membrane protein (cds)
+ID 9: zupT: zinc transporter ZupT (cds)

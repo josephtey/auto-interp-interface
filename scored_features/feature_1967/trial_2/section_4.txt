@@ -1,0 +1,10 @@
+Image 4
+Organism: Unknown organism
+ID 1: nreC: Oxygen regulatory protein NreC (cds)
+ID 2: blaR1: BlaR1 peptidase M56 (cds)
+ID 3: Extracellular solute-binding protein (cds)
+ID 4: Glycoside hydrolase family 38 N-terminal domain-containing protein (cds)
+ID 5: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase (cds)
+ID 6: Phosphopantothenate--cysteine ligase (cds)
+ID 7: Two component regulator propeller (cds)
+ID 8: Xylan 1,4-beta-xylosidase (cds)

@@ -1,0 +1,9 @@
+Image 4
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: histidine kinase (cds)
+ID 2: cmoA: carboxy-S-adenosyl-L-methionine synthase CmoA (cds)
+ID 3: ruvA: Holliday junction branch migration protein RuvA (cds)
+ID 4: bamD: Outer membrane protein assembly factor BamD (cds)
+ID 5: clpB: ATP-dependent chaperone ClpB (cds)
+ID 6: M48 family peptidase (cds)
+ID 7: rimP: ribosome maturation factor RimP (cds)

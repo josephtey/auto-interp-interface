@@ -1,0 +1,10 @@
+Image 1
+Organism: Pseudomonas silesiensis (g-proteobacteria)
+ID 1: nCS2: Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family (cds)
+ID 2: capB: Cold shock protein CapB (cds)
+ID 3: Spermidine/putrescine ABC transporter ATP-binding protein (cds)
+ID 4: Dipeptidyl aminopeptidase BI (cds)
+ID 5: nth: endonuclease III (cds)
+ID 6: slpA: Peptidyl-prolyl cis-trans isomerase, FKBP type (cds)
+ID 7: hypothetical protein (cds)
+ID 8: alsT: Amino-acid carrier protein AlsT (cds)

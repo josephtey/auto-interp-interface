@@ -1,0 +1,11 @@
+Image 0
+Organism: Roseicyclus elongatus DSM 19469 (a-proteobacteria)
+ID 1: IS3 family transposase (cds)
+ID 2: fabG: SDR family oxidoreductase (cds)
+ID 3: icdM: NADP-dependent isocitrate dehydrogenase (cds)
+ID 4: amtB: Ammonia channel protein AmtB (cds)
+ID 5: metK: methionine adenosyltransferase (cds)
+ID 6: P-type (Transporting) HAD superfamily ATPase (cds)
+ID 7: cobL: Precorrin-6B methylase 2 (cds)
+ID 8: ycjR: Sugar phosphate isomerase/epimerase (cds)
+ID 9: lolD: ABC-type lipoprotein export system, ATPase component (cds)

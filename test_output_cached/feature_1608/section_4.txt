@@ -1,0 +1,7 @@
+Organism: Agarivorans albus (g-proteobacteria)
+ID 1: sirB2: Protein SirB2 (cds)
+ID 2: lysS: lysine--tRNA ligase (cds)
+ID 3: DUF4212 domain-containing protein (cds)
+ID 4: TRAP transporter small permease protein (cds)
+ID 5: V_AS7: Vibrio RNA AS7 (ncRNA)
+ID 6: Outer membrane protein (cds)

@@ -1,0 +1,5 @@
+Image 2
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: glgB: 1,4-alpha-glucan branching protein GlgB (cds)
+ID 2: fabB: beta-ketoacyl-ACP synthase I (cds)
+ID 3: acpH: Acyl carrier protein phosphodiesterase (cds)

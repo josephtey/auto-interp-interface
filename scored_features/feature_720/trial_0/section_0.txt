@@ -1,0 +1,13 @@
+Image 0
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: phage portal protein (cds)
+ID 3: phage holin, lambda family (cds)
+ID 4: asmA: outer membrane assembly protein AsmA (cds)
+ID 5: Tail assembly protein K (cds)
+ID 6: IS110 family transposase (cds)
+ID 7: Bcr/CflA family multidrug efflux MFS transporter (cds)
+ID 8: HD domain-containing protein (cds)
+ID 9: Major facilitator superfamily (MFS) profile domain-containing protein (cds)
+ID 10: TDP-N-acetylfucosamine:lipid II N-acetylfucosaminyltransferase (cds)
+ID 11: bfr: bacterioferritin (cds)

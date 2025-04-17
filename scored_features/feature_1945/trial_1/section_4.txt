@@ -1,0 +1,12 @@
+Image 4
+Organism: Streptomyces ferrugineus (high G+C Gram-positive bacteria)
+ID 1: Nucleopolyhedrovirus P10 family protein (cds)
+ID 2: Roadblock/LAMTOR2 domain-containing protein (cds)
+ID 3: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 4: Excalibur calcium-binding domain-containing protein (cds)
+ID 5: Helix-turn-helix domain-containing protein (cds)
+ID 6: Family 43 glycosylhydrolase (cds)
+ID 7: Histidine phosphatase family protein (cds)
+ID 8: ydaO/yuaA leader (ncRNA-region)
+ID 9: ABC transporter (cds)
+ID 10: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)

@@ -1,0 +1,11 @@
+Image 2
+Organism: Caulobacter mirabilis (a-proteobacteria)
+ID 1: F0F1 ATP synthase subunit gamma (cds)
+ID 2: Tat pathway signal sequence domain protein (cds)
+ID 3: zwf: glucose-6-phosphate dehydrogenase (cds)
+ID 4: Dehydratase (cds)
+ID 5: Transcription factor (cds)
+ID 6: Transcriptional regulator (cds)
+ID 7: ahpF: alkyl hydroperoxide reductase subunit F (cds)
+ID 8: TonB-dependent receptor (cds)
+ID 9: pyridoxal kinase (cds)

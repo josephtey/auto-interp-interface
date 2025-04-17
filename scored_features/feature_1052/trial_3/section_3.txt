@@ -1,0 +1,13 @@
+Image 3
+Organism: Brevefilum fermentans (GNS bacteria)
+ID 1: SMP-30/Gluconolactonase/LRE-like region domain-containing protein (cds)
+ID 2: priA: primosomal protein N' (cds)
+ID 3: Transposase (cds)
+ID 4: ykwD: Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain (cds)
+ID 5: btlA: MFS-type transporter involved in bile tolerance, Atg22 family (cds)
+ID 6: putative nucleic acid-binding protein, contains Zn-ribbon domain (cds)
+ID 7: rsbU: Phosphoserine phosphatase RsbU, regulator of sigma subunit (cds)
+ID 8: dam: DNA-adenine methylase (cds)
+ID 9: greA: transcription elongation factor GreA (cds)
+ID 10: eamA: EamA domain-containing protein (cds)
+ID 11: marR: DNA-binding transcriptional regulator, MarR family (cds)

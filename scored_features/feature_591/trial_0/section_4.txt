@@ -1,0 +1,13 @@
+Image 4
+Organism: Rhodoferax saidenbachensis (b-proteobacteria)
+ID 1: Methyl-accepting chemotaxis protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: trnI: tRNA-Ile(gat) (tRNA)
+ID 4: ABC transporter permease (cds)
+ID 5: DUF393 domain-containing protein (cds)
+ID 6: lpxA: acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase (cds)
+ID 7: AAA family ATPase (cds)
+ID 8: Serine aminopeptidase S33 domain-containing protein (cds)
+ID 9: proline--tRNA ligase (cds)
+ID 10: 2-hydroxychromene-2-carboxylate isomerase (cds)
+ID 11: Benzoate transporter (cds)

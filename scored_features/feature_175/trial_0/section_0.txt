@@ -1,0 +1,12 @@
+Image 0
+Organism: Parasphingorhabdus halotolerans (a-proteobacteria)
+ID 1: lipB: lipoyl(octanoyl) transferase LipB (cds)
+ID 2: insulinase family protein (cds)
+ID 3: gmk: guanylate kinase (cds)
+ID 4: rplW: 50S ribosomal protein L23 (cds)
+ID 5: DUF3572 domain-containing protein (cds)
+ID 6: Helix-turn-helix transcriptional regulator (cds)
+ID 7: Hydantoinase/oxoprolinase family protein (cds)
+ID 8: DUF1232 domain-containing protein (cds)
+ID 9: Glucose 1-dehydrogenase (cds)
+ID 10: DUF2842 domain-containing protein (cds)

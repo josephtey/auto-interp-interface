@@ -1,0 +1,13 @@
+Image 2
+Organism: Caulobacter mirabilis (a-proteobacteria)
+ID 1: enoyl-CoA hydratase (cds)
+ID 2: ruvA: Holliday junction branch migration protein RuvA (cds)
+ID 3: histidine kinase (cds)
+ID 4: Peptidase M20 (cds)
+ID 5: trnK: tRNA-Lys(ctt) (tRNA)
+ID 6: Cytochrome P450 (cds)
+ID 7: nuoF: NADH-quinone oxidoreductase subunit NuoF (cds)
+ID 8: HEPN domain-containing protein (cds)
+ID 9: copC: copper homeostasis periplasmic binding protein CopC (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hisA: 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase (cds)

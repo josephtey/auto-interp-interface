@@ -1,0 +1,10 @@
+Image 2
+Organism: Limnoglobus roseus (bacteria)
+ID 1: TRAP transporter substrate-binding protein (cds)
+ID 2: DUF4350 domain-containing protein (cds)
+ID 3: tRNA-dihydrouridine synthase (cds)
+ID 4: TIGR03067 domain-containing protein (cds)
+ID 5: ABC transporter ATP-binding protein (cds)
+ID 6: Sulfatase (cds)
+ID 7: CRISPR type III-B/RAMP module-associated protein Cmr5 (cds)
+ID 8: Peptidase M10 metallopeptidase domain-containing protein (cds)

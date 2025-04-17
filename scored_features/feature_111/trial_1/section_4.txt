@@ -1,0 +1,10 @@
+Image 4
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: DUF2815 domain-containing protein (cds)
+ID 2: nar1: Iron only hydrogenase large subunit, C-terminal domain (cds)
+ID 3: tauC: ABC-type nitrate/sulfonate/bicarbonate transport system, permease component (cds)
+ID 4: trnR: tRNA-Arg(ccg) (tRNA)
+ID 5: sfcA: Malic enzyme (cds)
+ID 6: rrf: 5S ribosomal RNA (rRNA)
+ID 7: oadA1: Pyruvate/oxaloacetate carboxyltransferase (cds)
+ID 8: potC: ABC-type spermidine/putrescine transport system, permease component II (cds)

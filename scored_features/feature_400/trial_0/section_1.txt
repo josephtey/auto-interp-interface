@@ -1,0 +1,10 @@
+Image 1
+Organism: Pelobacter propionicus DSM 2379 (bacteria)
+ID 1: tig: trigger factor (cds)
+ID 2: hypothetical protein (cds)
+ID 3: acpP: Acyl carrier protein (cds)
+ID 4: iorA: indolepyruvate ferredoxin oxidoreductase subunit alpha (cds)
+ID 5: gloB: Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II (cds)
+ID 6: prfA: peptide chain release factor 1 (cds)
+ID 7: trmB: tRNA (guanosine(46)-N7)-methyltransferase TrmB (cds)
+ID 8: YtkA-like domain-containing protein (cds)

@@ -1,0 +1,10 @@
+Image 0
+Organism: Unknown organism
+ID 1: Phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein (cds)
+ID 2: CoA ester lyase (cds)
+ID 3: DUF402 domain-containing protein (cds)
+ID 4: Phthiocerol/phenolphthiocerol synthesis type-I polyketide synthase A (cds)
+ID 5: Extracellular solute-binding protein, family 5 (cds)
+ID 6: RND superfamily putative drug exporter (cds)
+ID 7: serS: serine--tRNA ligase (cds)
+ID 8: Thioredoxin (cds)

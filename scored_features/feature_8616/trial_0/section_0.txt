@@ -1,0 +1,13 @@
+Image 0
+Organism: Iocasia fonsfrigidae (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF2087 domain-containing protein (cds)
+ID 4: rpoZ: DNA-directed RNA polymerase subunit omega (cds)
+ID 5: mngR: DNA-binding transcriptional regulator, GntR family (cds)
+ID 6: Transposase (cds)
+ID 7: yesN: Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains (cds)
+ID 8: secE: preprotein translocase subunit SecE (cds)
+ID 9: rrs: 16S ribosomal RNA (rRNA)
+ID 10: ispE: 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (cds)
+ID 11: ABC transporter permease subunit (cds)

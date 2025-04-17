@@ -1,0 +1,6 @@
+Image 0
+Organism: Cellulophaga algicola DSM 14237 (CFB group bacteria)
+ID 1: Methyltransferase type 11 (cds)
+ID 2: rsmA: 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA (cds)
+ID 3: VanZ-like domain-containing protein (cds)
+ID 4: Peptidylprolyl isomerase (cds)

@@ -1,0 +1,13 @@
+Image 1
+Organism: Hoyosella subflava DQS3-9A1 (high G+C Gram-positive bacteria)
+ID 1: fHA: Forkhead associated (FHA) domain, binds pSer, pThr, pTyr (cds)
+ID 2: iucD: Lysine/ornithine N-monooxygenase (cds)
+ID 3: STAS domain-containing protein (cds)
+ID 4: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 5: yciI: YciI superfamily enzyme, includes 5-CHQ dehydrochlorinase, contains active-site pHis (cds)
+ID 6: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 7: ndh: NADH dehydrogenase, FAD-containing subunit (cds)
+ID 8: Lipoprotein (cds)
+ID 9: sfnB: SfnB family sulfur acquisition oxidoreductase (cds)
+ID 10: DUF222 domain-containing protein (cds)
+ID 11: dhaL: dihydroxyacetone kinase subunit DhaL (cds)

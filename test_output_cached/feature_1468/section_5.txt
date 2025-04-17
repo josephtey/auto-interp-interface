@@ -1,0 +1,6 @@
+Organism: Rhodoferax saidenbachensis (b-proteobacteria)
+ID 1: OmpA-like domain-containing protein (cds)
+ID 2: ilvB: acetolactate synthase 3 catalytic subunit (cds)
+ID 3: DUF403 domain-containing protein (cds)
+ID 4: Acyl-CoA thioesterase (cds)
+ID 5: yhdP: YhdP family protein (cds)

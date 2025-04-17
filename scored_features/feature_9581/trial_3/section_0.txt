@@ -1,0 +1,9 @@
+Image 0
+Organism: Unknown organism
+ID 1: lpxA: LpxA family transferase (cds)
+ID 2: nlpE: Copper resistance protein NlpE N-terminal domain-containing protein (cds)
+ID 3: Sugar transferase (cds)
+ID 4: eboC: UbiA-like protein EboC (cds)
+ID 5: Auto-transporter adhesin head GIN domain-containing protein (cds)
+ID 6: Beta-xylanase (cds)
+ID 7: Spheroidene monooxygenase (cds)

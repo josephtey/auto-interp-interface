@@ -1,0 +1,12 @@
+Image 4
+Organism: Methanosarcina horonobensis HB-1 = JCM 15518 (euryarchaeotes)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR spacer, sequence CTGGACCTGGGCGCGCCAATCTCCTAAGGATT (crispr-spacer)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: SHOCT domain-containing protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

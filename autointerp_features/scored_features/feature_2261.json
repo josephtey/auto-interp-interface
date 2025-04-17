@@ -1,0 +1,10 @@
+{
+  "reasoning": "I analyzed the activation patterns across the 10 examples, noting the positioning, strength, and genomic context. I observed that the feature consistently activates at the 3' end of genes or intergenic regions, often showing continuous spike patterns.",
+  "findings": "The feature consistently shows strong activation at the end of coding sequences (CDS) and in regions that appear to be transcriptional terminators. Many examples show activation in regions between divergently oriented genes. The pattern suggests recognition of terminator structures or sequence motifs associated with transcription termination.",
+  "conclusion": "This feature appears to capture bacterial transcription termination sites with strong consistency across different genomic contexts.",
+  "title": "Bacterial transcription terminator detector",
+  "activation-pattern": "continuous/spike",
+  "description": "This feature detects bacterial transcription terminator regions, typically located at the 3' end of genes. It shows strong, consistent activation in regions between genes, particularly where genes are in opposite orientations, suggesting recognition of Rho-independent terminators which form hairpin structures. These regions are critical for proper transcription termination, preventing read-through into downstream genes. The pattern is highly consistent across examples, with characteristic clusters of activation spikes at gene boundaries, reflecting the importance of these elements in bacterial transcriptional regulation. The feature likely recognizes specific sequence motifs or structural elements in terminator regions that are conserved across different bacterial species.",
+  "feature_id": 2261,
+  "score": 0.2
+}

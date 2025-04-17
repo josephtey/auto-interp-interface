@@ -1,0 +1,13 @@
+Image 4
+Organism: Metamycoplasma alkalescens (bacteria)
+ID 1: helix-turn-helix domain-containing protein (cds)
+ID 2: Type I restriction enzyme S subunit (cds)
+ID 3: rplL: 50S ribosomal protein L7/L12 (cds)
+ID 4: Deoxynucleoside kinase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: ffh: signal recognition particle protein (cds)
+ID 7: rsmH: (pseudo) 16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH (cds)
+ID 8: msrA: (pseudo) Peptide methionine sulfoxide reductase MsrA (cds)
+ID 9: hypothetical protein (cds)
+ID 10: (pseudo) Virulence-associated protein D (cds)
+ID 11: hypothetical protein (cds)

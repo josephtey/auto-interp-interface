@@ -1,0 +1,10 @@
+Image 1
+Organism: Unknown organism
+ID 1: Alpha-monoglucosyldiacylglycerol synthase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: htrA: Serine protease HtrA (cds)
+ID 4: Filamentous hemagglutinin (cds)
+ID 5: Cysteine-rich secretory protein family protein (cds)
+ID 6: VWFA domain-containing protein (cds)
+ID 7: DUF5615 domain-containing protein (cds)
+ID 8: NHL repeat protein (cds)

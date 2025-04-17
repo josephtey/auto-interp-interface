@@ -1,0 +1,9 @@
+Image 0
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: SAM riboswitch (alpha-proteobacteria) (ncRNA-region)
+ID 2: trpD: Anthranilate phosphoribosyltransferase, glycosyltransferase domain (cds)
+ID 3: cheR: Methylase of chemotaxis methyl-accepting proteins (cds)
+ID 4: ccmF: Cytochrome c biogenesis protein CcmF (cds)
+ID 5: indolepyruvate oxidoreductase subunit beta (cds)
+ID 6: hypothetical protein (cds)
+ID 7: batB: ABC-type amino acid transport system, permease component (cds)

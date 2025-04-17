@@ -1,0 +1,11 @@
+Image 3
+Organism: Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628 (b-proteobacteria)
+ID 1: gap (gap)
+ID 2: phoH: PhoH family protein (cds)
+ID 3: gap (gap)
+ID 4: ftsK: DNA translocase ftsK (cds)
+ID 5: Helix-turn-helix family protein (cds)
+ID 6: Patatin-like phospholipase family protein (cds)
+ID 7: Abasic site processing protein (cds)
+ID 8: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 9: ABC-type transport auxiliary lipoprotein component domain-containing protein (cds)

@@ -1,0 +1,9 @@
+Image 1
+Organism: Allochromatium tepidum (g-proteobacteria)
+ID 1: cobT: nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (cds)
+ID 2: ccoO: cytochrome-c oxidase, cbb3-type subunit II (cds)
+ID 3: HD domain-containing phosphohydrolase (cds)
+ID 4: flgL: flagellar hook-associated protein FlgL (cds)
+ID 5: CRISPR spacer, sequence CTCTATCAGGCCCGCACGGGTGGATTCTCCAG (crispr-spacer)
+ID 6: RING-type E3 ubiquitin transferase (cds)
+ID 7: pfkA: 6-phosphofructokinase (cds)

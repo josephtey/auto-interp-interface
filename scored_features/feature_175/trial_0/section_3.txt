@@ -1,0 +1,4 @@
+Image 3
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: helix-turn-helix domain-containing protein (cds)
+ID 2: polysaccharide pyruvyl transferase family protein (cds)

@@ -1,0 +1,12 @@
+Image 1
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: gntR: GntR family transcriptional regulator (cds)
+ID 2: Ig-like domain-containing protein (cds)
+ID 3: Nitrile hydratase beta subunit (cds)
+ID 4: recG: ATP-dependent DNA helicase RecG (cds)
+ID 5: Cobalamin riboswitch (ncRNA-region)
+ID 6: leuC: 3-isopropylmalate dehydratase large subunit (cds)
+ID 7: nadA: quinolinate synthase NadA (cds)
+ID 8: Adenylate cyclase (cds)
+ID 9: UPF0756 membrane protein HQN64_05205 (cds)
+ID 10: sufE: cysteine desulfuration protein SufE (cds)

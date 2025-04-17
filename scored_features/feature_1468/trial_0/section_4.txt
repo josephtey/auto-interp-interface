@@ -1,0 +1,13 @@
+Image 4
+Organism: Unknown organism
+ID 1: rpmB: 50S ribosomal protein L28 (cds)
+ID 2: tsaA: tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO (cds)
+ID 3: Response regulator receiver modulated metal dependent phosphohydrolase (cds)
+ID 4: yihI: Der GTPase-activating protein YihI (cds)
+ID 5: DUF2867 domain-containing protein (cds)
+ID 6: GIY-YIG domain-containing protein (cds)
+ID 7: Major facilitator superfamily MFS_1 (cds)
+ID 8: ybfE: LexA regulated protein (cds)
+ID 9: trnA: tRNA-Ala(tgc) (tRNA)
+ID 10: Peptidase M23 (cds)
+ID 11: Trp repressor (cds)

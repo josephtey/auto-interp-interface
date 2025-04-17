@@ -1,0 +1,6 @@
+Organism: Peterkaempfera bronchialis (high G+C Gram-positive bacteria)
+ID 1: Secreted protein (cds)
+ID 2: acpP: acyl carrier protein (cds)
+ID 3: rutF: FMN reductase RutF, DIM6/NTAB family (cds)
+ID 4: Integrase (cds)
+ID 5: hypothetical protein (cds)

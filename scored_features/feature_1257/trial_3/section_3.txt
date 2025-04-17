@@ -1,0 +1,11 @@
+Image 3
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: DUF1819 domain-containing protein (cds)
+ID 2: rrl: 23S ribosomal RNA (rRNA)
+ID 3: DUF304 domain-containing protein (cds)
+ID 4: truB: tRNA pseudouridine(55) synthase TruB (cds)
+ID 5: rplA: 50S ribosomal protein L1 (cds)
+ID 6: Tetratricopeptide repeat protein (cds)
+ID 7: Vesicular transport-associated repeat protein (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: CRISPR repeat (crispr-repeat)

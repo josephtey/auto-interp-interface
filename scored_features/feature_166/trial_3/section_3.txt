@@ -1,0 +1,9 @@
+Image 3
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: tlyC: Hemolysin-related protein, contains CBS domains, UPF0053 family (cds)
+ID 2: purB: adenylosuccinate lyase (cds)
+ID 3: spoIIAA: Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor) (cds)
+ID 4: yjhB: ADP-ribose pyrophosphatase YjhB, NUDIX family (cds)
+ID 5: grxC: Glutaredoxin (cds)
+ID 6: lhgO: L-2-hydroxyglutarate oxidase LhgO (cds)
+ID 7: hypothetical protein (cds)

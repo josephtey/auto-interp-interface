@@ -1,0 +1,7 @@
+Image 2
+Organism: Nostoc flagelliforme CCNUN1 (cyanobacteria)
+ID 1: nurA: NurA domain-containing protein (cds)
+ID 2: apcB: allophycocyanin subunit beta (cds)
+ID 3: Uncharacterized membrane protein (cds)
+ID 4: Chromosome partition protein Smc (cds)
+ID 5: hypothetical protein (cds)

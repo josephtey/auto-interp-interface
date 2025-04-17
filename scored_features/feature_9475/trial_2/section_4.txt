@@ -1,0 +1,13 @@
+Image 4
+Organism: Vulgatibacter incomptus (bacteria)
+ID 1: ytxH: YtxH domain-containing protein (cds)
+ID 2: cdnL: RNA polymerase-interacting regulator, CarD/CdnL/TRCF family (cds)
+ID 3: aTS1: Alpha-tubulin suppressor ATS1 and related RCC1 domain-containing proteins (cds)
+ID 4: sco1: Cytochrome oxidase Cu insertion factor, SCO1/SenC/PrrC family (cds)
+ID 5: Lipoprotein (cds)
+ID 6: yafK: Murein L,D-transpeptidase YafK (cds)
+ID 7: PorV/PorQ family protein (cds)
+ID 8: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 9: atpH: ATP synthase F1 subunit delta (cds)
+ID 10: Lipoprotein (cds)
+ID 11: degQ: Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain (cds)

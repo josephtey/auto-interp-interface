@@ -1,0 +1,10 @@
+Image 2
+Organism: Paludibacterium paludis (b-proteobacteria)
+ID 1: tatC: twin-arginine translocase subunit TatC (cds)
+ID 2: Glycine riboswitch (ncRNA-region)
+ID 3: RNA polymerase sigma factor 70 region 4 type 2 domain-containing protein (cds)
+ID 4: ABC transporter ATP-binding protein (cds)
+ID 5: Peptidase M12A domain-containing protein (cds)
+ID 6: VOC family protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: dTDP-4-amino-4,6-dideoxygalactose transaminase (cds)

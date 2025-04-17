@@ -1,0 +1,11 @@
+Image 4
+Organism: Granulosicoccus antarcticus IMCC3135 (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: alsT: Na+/alanine symporter (cds)
+ID 3: pilE: Type IV pilus assembly protein PilE (cds)
+ID 4: Calcium-transporting ATPase 1 (cds)
+ID 5: Selenophosphate synthetase-related protein (cds)
+ID 6: putative transcriptional regulator, contains C-terminal CBS domains (cds)
+ID 7: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 8: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 9: btuB: Outer membrane cobalamin receptor protein BtuB (cds)

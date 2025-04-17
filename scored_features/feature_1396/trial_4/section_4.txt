@@ -1,0 +1,12 @@
+Image 4
+Organism: Limnoglobus roseus (bacteria)
+ID 1: DUF2007 domain-containing protein (cds)
+ID 2: MFS transporter (cds)
+ID 3: plsY: glycerol-3-phosphate 1-O-acyltransferase PlsY (cds)
+ID 4: Apea-like HEPN domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: non-specific serine/threonine protein kinase (cds)
+ID 7: Sulfatase (cds)
+ID 8: IMP dehydrogenase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: 2-dehydropantoate 2-reductase (cds)

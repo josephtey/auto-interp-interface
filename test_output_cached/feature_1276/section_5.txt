@@ -1,0 +1,8 @@
+Organism: Unknown organism
+ID 1: HTH LytTR-type domain-containing protein (cds)
+ID 2: Pirin N-terminal domain-containing protein (cds)
+ID 3: histidine kinase (cds)
+ID 4: Nucleotide pyrophosphatase (cds)
+ID 5: ABC transporter substrate-binding protein (cds)
+ID 6: yyaC: spore protease YyaC (cds)
+ID 7: Phosphodiester glycosidase domain-containing protein (cds)

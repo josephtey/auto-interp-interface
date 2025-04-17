@@ -1,0 +1,12 @@
+Image 3
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: CRISPR spacer, sequence GCACGCATGACGCGTTCGTATGGGACTCGTGA (crispr-spacer)
+ID 2: rhaM: L-rhamnose mutarotase (cds)
+ID 3: hutH: histidine ammonia-lyase (cds)
+ID 4: C-type cytochrome (cds)
+ID 5: hcp: Type VI protein secretion system component Hcp (secreted cytotoxin) (cds)
+ID 6: rluC: 23S rRNA pseudouridine(955/2504/2580) synthase RluC (cds)
+ID 7: TIM barrel protein (cds)
+ID 8: sapC: putrescine export ABC transporter permease SapC (cds)
+ID 9: Periplasmic trehalase (cds)
+ID 10: Response regulator transcription factor (cds)

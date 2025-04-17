@@ -1,0 +1,11 @@
+Image 4
+Organism: Paenibacillus lycopersici (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: Zinc-binding alcohol dehydrogenase (cds)
+ID 3: Zinc-binding dehydrogenase (cds)
+ID 4: Phage ABA sandwich domain-containing protein (cds)
+ID 5: Acyl-CoA dehydrogenase (cds)
+ID 6: quinone-dependent dihydroorotate dehydrogenase (cds)
+ID 7: cysK: cysteine synthase A (cds)
+ID 8: araC: AraC family transcriptional regulator (cds)
+ID 9: CRISPR spacer, sequence CGGTATCATTGCCATATTCACCGTTTAACGATGT (crispr-spacer)

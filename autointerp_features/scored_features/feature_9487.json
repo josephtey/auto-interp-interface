@@ -1,0 +1,10 @@
+{
+  "reasoning": "I analyzed each example focusing on the pattern of feature activation and its relationship to genomic annotations. I observed that most examples show either a sharp spike or continuous stretch of high activation in regions related to non-coding RNA elements (specifically tRNAs or rRNAs) or CRISPR elements. I tracked the position of these activations relative to the annotated elements and noted taxonomic patterns.",
+  "findings": "The feature shows strong activation at or near RNA-related elements. In section_1, activation occurs over the 16S rRNA (ID 7). In section_3, activation is near CRISPR repeats (IDs 1 and 12). In section_5, activation appears near another CRISPR repeat (ID 2). Other examples show activations that are near tRNAs or regions that may contain unannotated RNA elements. The activation pattern is either a sharp spike (sections 0, 3) or continuous stretches of high activation (sections 1, 4, 5, 6, 7, 8, 9) depending on the structure of the RNA element.",
+  "conclusion": "This feature consistently detects non-coding RNA structural elements, particularly ribosomal RNAs, transfer RNAs, and CRISPR repeats across diverse bacterial and archaeal genomes.",
+  "title": "Non-coding RNA structural element detector",
+  "activation-pattern": "continuous/spike",
+  "description": "This feature primarily detects non-coding RNA elements, particularly ribosomal RNAs, tRNAs, and CRISPR repeats. The feature activates either as a sharp spike directly over short RNA elements or as a continuous region of activation spanning longer RNA structures. The biological function likely relates to recognizing the distinctive sequence and structural motifs of these functional RNAs that are critical for protein synthesis and bacterial/archaeal immune responses. The pattern is highly consistent across examples from diverse organisms, including firmicutes, proteobacteria, euryarchaeotes, and other bacterial phyla, suggesting this is a universally important genomic feature across prokaryotes.",
+  "feature_id": 9487,
+  "score": 0.0
+}

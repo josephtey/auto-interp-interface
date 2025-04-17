@@ -1,0 +1,12 @@
+Image 3
+Organism: Cronobacter malonaticus LMG 23826 (enterobacteria)
+ID 1: livH: high-affinity branched-chain amino acid ABC transporter permease LivH (cds)
+ID 2: ygiD: 4,5-DOPA dioxygenase extradiol (cds)
+ID 3: kduD: 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase KduD (cds)
+ID 4: ybdJ: Uncharacterized protein ybdJ (cds)
+ID 5: dedA: Membrane integrity protein DedA, putative transporter, DedA/Tvp38 family (cds)
+ID 6: fliO: flagellar biosynthetic protein FliO (cds)
+ID 7: trnC: tRNA-Cys(gca) (tRNA)
+ID 8: uhpC: Sugar phosphate permease (cds)
+ID 9: rhtB: Threonine/homoserine/homoserine lactone efflux protein (cds)
+ID 10: kdsD: arabinose-5-phosphate isomerase KdsD (cds)

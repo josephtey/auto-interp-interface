@@ -1,0 +1,10 @@
+Image 1
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: BrxA/BrxB family bacilliredoxin (cds)
+ID 2: Cytosine permease (cds)
+ID 3: DeoR/GlpR transcriptional regulator (cds)
+ID 4: Alpha-N-arabinofuranosidase (cds)
+ID 5: Type 1 glutamine amidotransferase (cds)
+ID 6: Acetyl-CoA C-acyltransferase (cds)
+ID 7: Intracellular proteinase inhibitor BsuPI domain-containing protein (cds)
+ID 8: yjbQ: YjbQ family protein (cds)

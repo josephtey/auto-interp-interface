@@ -1,0 +1,11 @@
+Image 3
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: nosL: Nitrous oxide reductase accessory protein NosL (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF2063 domain-containing protein (cds)
+ID 4: Iron ABC transporter permease (cds)
+ID 5: Sulfite exporter TauE/SafE family protein (cds)
+ID 6: Helix-turn-helix domain-containing protein (cds)
+ID 7: M48 family metallopeptidase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: trnP: tRNA-Pro(tgg) (tRNA)

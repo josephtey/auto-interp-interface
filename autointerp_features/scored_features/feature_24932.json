@@ -1,0 +1,10 @@
+{
+  "reasoning": "I examined the activation patterns across all examples, noting their relationship to genomic annotations. I observed a consistent pattern of high activation over protein-coding sequences (CDS regions) with sharp drops at non-coding regions. The feature activates uniformly across diverse gene types with varying functions, with noticeable deactivation at tRNAs and CRISPR elements.",
+  "findings": "The feature shows strong, consistent activation (10-15 units) specifically over protein-coding sequences regardless of their function. Activation drops sharply at gene boundaries, tRNAs, and CRISPR elements. In all examples, protein-coding regions maintain high activation while non-coding regions show minimal to no activation. The pattern is exceptionally consistent across diverse bacterial genomes and gene types.",
+  "conclusion": "This feature robustly captures protein-coding regions in bacterial genomes, clearly distinguishing them from non-coding elements.",
+  "title": "Protein-coding sequence detector",
+  "activation-pattern": "continuous",
+  "description": "This feature specifically detects protein-coding sequences (CDS) in bacterial genomes. It exhibits strong, uniform activation across coding regions regardless of gene function (from transporters to metabolic enzymes to hypothetical proteins), with consistent deactivation at non-coding regions. The feature shows sharp transitions at gene boundaries, with immediate drops at tRNAs and CRISPR elements. This suggests the feature is detecting fundamental characteristics of protein-coding sequences, likely codon usage patterns or other signatures universal to bacterial coding regions. The pattern is remarkably consistent across all examples, making it highly reliable for distinguishing coding from non-coding regions.",
+  "feature_id": 24932,
+  "score": 1.0
+}

@@ -1,0 +1,13 @@
+Image 1
+Organism: Cronobacter condimenti 1330 (enterobacteria)
+ID 1: fdhD: formate dehydrogenase accessory sulfurtransferase FdhD (cds)
+ID 2: cspC: Cold shock protein, CspA family (cds)
+ID 3: ydcS: putative ABC transporter substrate-binding protein YdcS (cds)
+ID 4: sirB2: invasion regulator SirB2 (cds)
+ID 5: ispE: 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (cds)
+ID 6: DUF3304 domain-containing protein (cds)
+ID 7: Lipid A 1-diphosphate synthase (cds)
+ID 8: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 9: N-acetyltransferase (cds)
+ID 10: ycjR: Sugar phosphate isomerase/epimerase (cds)
+ID 11: cpxA: envelope stress sensor histidine kinase CpxA (cds)

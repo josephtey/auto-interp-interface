@@ -1,0 +1,11 @@
+Image 1
+Organism: Sphingobacterium thalpophilum (CFB group bacteria)
+ID 1: ykgO: type B 50S ribosomal protein L36 (cds)
+ID 2: putative transporter component (cds)
+ID 3: Lead, cadmium, zinc and mercury transporting ATPase Copper-translocating P-type ATPase (cds)
+ID 4: Glycine zipper family protein (cds)
+ID 5: DUF4271 domain-containing protein (cds)
+ID 6: Helicase HerA-like C-terminal domain-containing protein (cds)
+ID 7: Transposase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Phosphoribosylpyrophosphate synthetase (cds)

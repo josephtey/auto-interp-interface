@@ -1,0 +1,11 @@
+Image 4
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: OmrA-B: OmrA-B family (ncRNA)
+ID 2: hypothetical protein (cds)
+ID 3: trnI: tRNA-Ile2(cat) (tRNA)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: Lipopolysaccharide 1,2-glucosyltransferase (cds)
+ID 6: xhlA: Haemolysin XhlA (cds)
+ID 7: Acyl-CoA synthetase (cds)
+ID 8: wcaL: colanic acid biosynthesis glycosyltransferase WcaL (cds)
+ID 9: rluD: 23S rRNA pseudouridine(1911/1915/1917) synthase RluD (cds)

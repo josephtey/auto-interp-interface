@@ -1,0 +1,12 @@
+Image 2
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: AAA+ ATPase domain-containing protein (cds)
+ID 3: tnp: IS110 family ISCth8 transposase (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: Endoglucanase E (cds)
+ID 9: yocH: Cell wall-binding protein YocH (cds)
+ID 10: flgN: FlgN protein (cds)

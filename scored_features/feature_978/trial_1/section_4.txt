@@ -1,0 +1,13 @@
+Image 4
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: HTH cro/C1-type domain-containing protein (cds)
+ID 3: malQ: 4-alpha-glucanotransferase (cds)
+ID 4: tig: trigger factor (cds)
+ID 5: Glycosyl transferase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Four-helix bundle copper-binding protein (cds)
+ID 9: AAA+ ATPase domain-containing protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hypothetical protein (cds)

@@ -1,0 +1,12 @@
+Image 1
+Organism: Cellulomonas shaoxiangyii (high G+C Gram-positive bacteria)
+ID 1: trnK: tRNA-Lys(ttt) (tRNA)
+ID 2: Aminotransferase class V-fold PLP-dependent enzyme (cds)
+ID 3: NAD(P)-dependent oxidoreductase (cds)
+ID 4: GNAT family N-acetyltransferase (cds)
+ID 5: DUF4956 domain-containing protein (cds)
+ID 6: PknH-like extracellular domain-containing protein (cds)
+ID 7: N-acetyltransferase (cds)
+ID 8: folE: GTP cyclohydrolase I FolE (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

@@ -1,0 +1,13 @@
+Image 3
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: Transposase zinc-binding domain-containing protein (cds)
+ID 2: rplM: 50S ribosomal protein L13 (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence ACGATATTTGAAAAAATCACGCCAACTCTTCATGGGA (crispr-spacer)
+ID 6: NADP-dependent isocitrate dehydrogenase (cds)
+ID 7: RNase H (cds)
+ID 8: Endoglucanase (cds)
+ID 9: spoIIAA: anti-sigma F factor antagonist (cds)
+ID 10: zupT: Zinc transporter ZupT (cds)
+ID 11: Endo-1,4-beta-xylanase (cds)

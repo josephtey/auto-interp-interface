@@ -1,0 +1,11 @@
+Image 2
+Organism: Unknown organism
+ID 1: RNA polymerase sigma factor (cds)
+ID 2: Mor transcription activator domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Pyrimidine/purine nucleoside phosphorylase (cds)
+ID 5: Glycosyltransferase 2-like domain-containing protein (cds)
+ID 6: Sugar ABC transporter substrate-binding protein (cds)
+ID 7: Nitrate ABC transporter substrate-binding protein (cds)
+ID 8: Rrf2 family transcriptional regulator (cds)
+ID 9: DUF177 domain-containing protein (cds)

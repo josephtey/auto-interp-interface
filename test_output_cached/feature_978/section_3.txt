@@ -1,0 +1,9 @@
+Organism: Unknown organism
+ID 1: guaB: IMP dehydrogenase (cds)
+ID 2: Monosaccharide ABC transporter membrane protein, CUT2 family (cds)
+ID 3: pdxS: pyridoxal 5'-phosphate synthase lyase subunit PdxS (cds)
+ID 4: idi: isopentenyl-diphosphate Delta-isomerase (cds)
+ID 5: Sulfite reductase, beta subunit (Hemoprotein) (cds)
+ID 6: carbamoyl phosphate synthase small subunit (cds)
+ID 7: SWIM-type domain-containing protein (cds)
+ID 8: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)

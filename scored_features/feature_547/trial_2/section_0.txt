@@ -1,0 +1,13 @@
+Image 0
+Organism: Sulfurimicrobium lacus (b-proteobacteria)
+ID 1: degQ: DegQ protease (cds)
+ID 2: Chemotaxis protein (cds)
+ID 3: Histidine kinase (cds)
+ID 4: kdsA: 3-deoxy-8-phosphooctulonate synthase (cds)
+ID 5: yaeQ: YaeQ family protein (cds)
+ID 6: DUF2802 domain-containing protein (cds)
+ID 7: Ankyrin repeat domain-containing protein (cds)
+ID 8: 4Fe-4S ferredoxin-type domain-containing protein (cds)
+ID 9: Nucleotidyltransferase (cds)
+ID 10: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 11: Glycosyltransferase 2-like domain-containing protein (cds)

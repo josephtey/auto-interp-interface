@@ -1,0 +1,12 @@
+Image 1
+Organism: Mucilaginibacter ginsenosidivorax (CFB group bacteria)
+ID 1: Arsenic transporter (cds)
+ID 2: TonB-dependent receptor (cds)
+ID 3: DUF3169 domain-containing protein (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (WHTH) domain (cds)
+ID 6: Nuclear transport factor 2 family protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Glycoside hydrolase family 92 protein (cds)
+ID 9: Putative auto-transporter adhesin head GIN domain-containing protein (cds)
+ID 10: Rrf2 family protein (cds)

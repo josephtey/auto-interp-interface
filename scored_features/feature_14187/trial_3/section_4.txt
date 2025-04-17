@@ -1,0 +1,12 @@
+Image 4
+Organism: Hypericibacter terrae (a-proteobacteria)
+ID 1: tetR: TetR family transcriptional regulator (cds)
+ID 2: diaminopropionate ammonia-lyase (cds)
+ID 3: Guanylate cyclase domain-containing protein (cds)
+ID 4: Pentapeptide repeat-containing protein (cds)
+ID 5: GMC oxidoreductase (cds)
+ID 6: N-acetyltransferase domain-containing protein (cds)
+ID 7: Alpha-ketoglutarate-dependent 2,4-dichlorophenoxyacetate dioxygenase (cds)
+ID 8: Fumarylacetoacetase-like C-terminal domain-containing protein (cds)
+ID 9: rplU: 50S ribosomal protein L21 (cds)
+ID 10: typA: translational GTPase TypA (cds)

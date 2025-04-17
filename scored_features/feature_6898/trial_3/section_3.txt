@@ -1,0 +1,9 @@
+Image 3
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: pAS: PAS domain (cds)
+ID 2: livG: ABC-type branched-chain amino acid transport system, ATPase component LivG (cds)
+ID 3: anfG: Fe-only nitrogenase subunit delta (cds)
+ID 4: acrB: Multidrug efflux pump subunit AcrB (cds)
+ID 5: recQ: Superfamily II DNA helicase RecQ (cds)
+ID 6: emrB: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 7: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)

@@ -1,0 +1,10 @@
+Image 0
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: histidine kinase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Dabb family protein (cds)
+ID 4: leuB: 3-isopropylmalate dehydrogenase (cds)
+ID 5: recJ: single-stranded-DNA-specific exonuclease RecJ (cds)
+ID 6: T6SS immunity protein Tli4 family protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Porin (cds)

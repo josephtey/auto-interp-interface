@@ -1,0 +1,6 @@
+Image 0
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: himA: integration host factor subunit alpha (cds)
+ID 2: PEGA domain protein (cds)
+ID 3: CRISPR spacer, sequence GTTCCCGGAGCTATCACGATCTACGGGCGTGGGCCT (crispr-spacer)
+ID 4: yicC: Uncharacterized stationary-phase protein YicC, UPF0701 family (cds)

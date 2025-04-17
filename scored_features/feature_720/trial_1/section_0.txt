@@ -1,0 +1,11 @@
+Image 0
+Organism: Citrobacter arsenatis (enterobacteria)
+ID 1: zraR: sigma-54-dependent response regulator transcription factor ZraR (cds)
+ID 2: trnY: tRNA-Tyr(gta) (tRNA)
+ID 3: yecE: Sugar isomerase-related protein YecE, UPF0759/DUF72 family (cds)
+ID 4: dapE: succinyl-diaminopimelate desuccinylase (cds)
+ID 5: rimM: ribosome maturation factor RimM (cds)
+ID 6: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 7: argR: transcriptional regulator ArgR (cds)
+ID 8: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 9: Glycoside hydrolase family 5 domain-containing protein (cds)

@@ -1,0 +1,11 @@
+Image 2
+Organism: Fusobacterium canifelinum (fusobacteria)
+ID 1: ilvN: acetolactate synthase small subunit (cds)
+ID 2: ptsP: Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria) (cds)
+ID 3: trnV: tRNA-Val(tac) (tRNA)
+ID 4: pseI: pseudaminic acid synthase (cds)
+ID 5: eMpr: V8-like Glu-specific endopeptidase (cds)
+ID 6: DUF2207 domain-containing protein (cds)
+ID 7: BchE/P-methylase family protein (cds)
+ID 8: recA: recombinase RecA (cds)
+ID 9: dppD: ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component (cds)

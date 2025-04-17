@@ -1,0 +1,11 @@
+Image 1
+Organism: Tardibacter chloracetimidivorans (a-proteobacteria)
+ID 1: traG: DNA transfer and F pilus assembly protein TraG (cds)
+ID 2: Septum formation initiator (cds)
+ID 3: Luciferase-like domain-containing protein (cds)
+ID 4: Hydrolase (cds)
+ID 5: Short-chain dehydrogenase (cds)
+ID 6: Glycerol-3-phosphate dehydrogenase [NAD(P)+] (cds)
+ID 7: YCII-related domain-containing protein (cds)
+ID 8: Major facilitator superfamily (MFS) profile domain-containing protein (cds)
+ID 9: DUF2285 domain-containing protein (cds)

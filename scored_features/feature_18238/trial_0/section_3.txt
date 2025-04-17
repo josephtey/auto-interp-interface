@@ -1,0 +1,12 @@
+Image 3
+Organism: Xanthomonas hyacinthi (g-proteobacteria)
+ID 1: Cytochrome b (cds)
+ID 2: Dehydrogenase (cds)
+ID 3: Ferrous iron transporter B (cds)
+ID 4: N-acylglucosamine 2-epimerase (cds)
+ID 5: Glycosyltransferase (cds)
+ID 6: CRISPR spacer, sequence GTTGATGGCCTGAAAGTCGGCGACACCTACGAGC (crispr-spacer)
+ID 7: gloB: hydroxyacylglutathione hydrolase (cds)
+ID 8: Lipoprotein (cds)
+ID 9: Delta 9 acyl-lipid fatty acid desaturase (cds)
+ID 10: protein-tyrosine-phosphatase (cds)

@@ -1,0 +1,10 @@
+Image 4
+Organism: Mixta gaviniae (enterobacteria)
+ID 1: pcnB: polynucleotide adenylyltransferase PcnB (cds)
+ID 2: ycfJ: Uncharacterized conserved protein YcfJ, contains glycine zipper 2TM domain (cds)
+ID 3: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 4: ghoS: Endoribonuclease GhoS (cds)
+ID 5: hypothetical protein (cds)
+ID 6: trnR: tRNA-Arg(acg) (tRNA)
+ID 7: dinP: Nucleotidyltransferase/DNA polymerase DinP involved in DNA repair (cds)
+ID 8: arsR: DNA-binding transcriptional regulator, ArsR family (cds)

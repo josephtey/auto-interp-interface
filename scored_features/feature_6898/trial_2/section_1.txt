@@ -1,0 +1,13 @@
+Image 1
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: ATP-binding cassette domain-containing protein (cds)
+ID 2: D-alanine--D-alanine ligase (cds)
+ID 3: RNA-binding protein (cds)
+ID 4: nth: endonuclease III (cds)
+ID 5: Phage phiEco32-like COOH-NH2 ligase-type 2 (cds)
+ID 6: smc: chromosome segregation protein SMC (cds)
+ID 7: ACT domain-containing protein (cds)
+ID 8: dtd: D-aminoacyl-tRNA deacylase (cds)
+ID 9: ABC transporter ATP-binding protein (cds)
+ID 10: Low molecular weight protein arginine phosphatase (cds)
+ID 11: hypothetical protein (cds)

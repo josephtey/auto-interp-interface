@@ -1,0 +1,11 @@
+Image 4
+Organism: Unknown organism
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: serB: phosphoserine phosphatase SerB (cds)
+ID 3: Methyl-accepting chemotaxis sensory transducer (cds)
+ID 4: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 5: lysR: Transcriptional regulator, LysR family (cds)
+ID 6: mshP: MSHA biogenesis protein MshP (cds)
+ID 7: astA: arginine N-succinyltransferase (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: histidine kinase (cds)

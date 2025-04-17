@@ -1,0 +1,4 @@
+Organism: Xanthomonas fragariae (g-proteobacteria)
+ID 1: IS1478 transposase (cds)
+ID 2: Branched-chain amino acid aminotransferase (cds)
+ID 3: hypothetical protein (cds)

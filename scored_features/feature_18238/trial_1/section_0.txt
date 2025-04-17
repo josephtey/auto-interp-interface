@@ -1,0 +1,14 @@
+Image 0
+Organism: Unknown organism
+ID 1: DUF3150 domain-containing protein (cds)
+ID 2: bepF: Efflux pump periplasmic linker BepF (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Putative cysteine desulfurase (cds)
+ID 5: PEP-CTERM protein-sorting domain-containing protein (cds)
+ID 6: Chromosome partition protein Smc (cds)
+ID 7: YaiI/YqxD family protein (cds)
+ID 8: trnP: tRNA-Pro(tgg) (tRNA)
+ID 9: hypothetical protein (cds)
+ID 10: DUF1330 domain-containing protein (cds)
+ID 11: Sulfatase (cds)
+ID 12: hypothetical protein (cds)

@@ -1,0 +1,9 @@
+Image 3
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: atpZ: FoF1-type ATP synthase AtpZ/Atp1/AtpQ subunit, putative Ca2+/Mg2+ transporter (cds)
+ID 2: Transposase, mutator type (cds)
+ID 3: nifX: Nitrogen fixation protein NifX (cds)
+ID 4: ddlA: D-alanine-D-alanine ligase or related ATP-grasp enzyme (cds)
+ID 5: rnhA: ribonuclease HI (cds)
+ID 6: yajC: preprotein translocase subunit YajC (cds)
+ID 7: livG: ABC-type branched-chain amino acid transport system, ATPase component LivG (cds)

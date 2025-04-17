@@ -1,0 +1,12 @@
+Image 0
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: HD domain-containing protein (cds)
+ID 2: eutM: ethanolamine utilization microcompartment protein EutM (cds)
+ID 3: Radical SAM protein (cds)
+ID 4: M61 family metallopeptidase (cds)
+ID 5: SDR family oxidoreductase (cds)
+ID 6: DUF1285 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Peptidoglycan-associated lipoprotein (cds)
+ID 9: YeeE/YedE family protein (cds)
+ID 10: parA: ParA family protein (cds)

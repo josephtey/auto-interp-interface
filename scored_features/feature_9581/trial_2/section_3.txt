@@ -1,0 +1,13 @@
+Image 3
+Organism: [Clostridium] saccharolyticum WM1 (firmicutes)
+ID 1: Transcriptional regulator, BadM/Rrf2 family (cds)
+ID 2: Multiple sugar transport system permease protein (cds)
+ID 3: traX: TraX protein (cds)
+ID 4: Bacterial mobilisation domain-containing protein (cds)
+ID 5: Putative transcriptional regulator, Crp/Fnr family (cds)
+ID 6: Iron-containing alcohol dehydrogenase (cds)
+ID 7: Catalase (cds)
+ID 8: lacI: Transcriptional regulator, GntR family with LacI sensor (cds)
+ID 9: htpG: molecular chaperone HtpG (cds)
+ID 10: fliQ: Export protein FliQ family 3 (cds)
+ID 11: ECF transporter S component (cds)

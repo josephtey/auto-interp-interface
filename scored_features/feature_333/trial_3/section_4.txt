@@ -1,0 +1,11 @@
+Image 4
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: CRISPR spacer, sequence TTCTGTCGGTCGGGCGGGTGCAGACGCCCACG (crispr-spacer)
+ID 2: waaA: lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase (cds)
+ID 3: phnK: phosphonate C-P lyase system protein PhnK (cds)
+ID 4: AAA family ATPase (cds)
+ID 5: DUF4105 domain-containing protein (cds)
+ID 6: narI: respiratory nitrate reductase subunit gamma (cds)
+ID 7: hlyD: HlyD family secretion protein (cds)
+ID 8: tadA: tRNA adenosine(34) deaminase TadA (cds)
+ID 9: luxS: S-ribosylhomocysteine lyase (cds)

@@ -1,0 +1,5 @@
+Image 2
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: ABM domain-containing protein (cds)
+ID 2: spoVK: AAA+-type ATPase, SpoVK/Ycf46/Vps4 family (cds)
+ID 3: thyA: thymidylate synthase (cds)

@@ -1,0 +1,11 @@
+Image 4
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: pilF: Type IV pilus assembly protein PilF/PilW (cds)
+ID 2: DUF6599 domain-containing protein (cds)
+ID 3: trnN: tRNA-Asn(gtt) (tRNA)
+ID 4: pilZ: Type IV pilus assembly protein PilZ (cds)
+ID 5: rpmC: 50S ribosomal protein L29 (cds)
+ID 6: fepB: ABC-type Fe3+-hydroxamate transport system, periplasmic component (cds)
+ID 7: yajC: Preprotein translocase subunit YajC (cds)
+ID 8: nadA: quinolinate synthase NadA (cds)
+ID 9: PepSY domain-containing protein (cds)

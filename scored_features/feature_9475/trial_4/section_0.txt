@@ -1,0 +1,13 @@
+Image 0
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: Rhodanese domain-containing protein (cds)
+ID 2: araQ: L-arabinose transport system permease protein AraQ (cds)
+ID 3: histidine kinase (cds)
+ID 4: CRISPR spacer, sequence TTGCCTATGAATGTTATAACCCCGATATTTGCAT (crispr-spacer)
+ID 5: CRISPR spacer, sequence AATAGTGTACAATTAAAGTATAAGTTAGAAATATTTC (crispr-spacer)
+ID 6: Exopolyphosphatase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Septicolysin (cds)
+ID 9: endo-1,4-beta-xylanase (cds)
+ID 10: trnN: tRNA-Asn(gtt) (tRNA)
+ID 11: ravA: ATPase RavA (cds)

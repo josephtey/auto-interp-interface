@@ -1,0 +1,9 @@
+Image 4
+Organism: Pseudomonas monsensis (g-proteobacteria)
+ID 1: Hydrolase (cds)
+ID 2: yjcH: DUF485 domain-containing protein (cds)
+ID 3: 6-phosphogluconolactonase (cds)
+ID 4: Alpha/beta hydrolase (cds)
+ID 5: lysis system i-spanin subunit Rz (cds)
+ID 6: DUF883 domain-containing protein (cds)
+ID 7: treZ: malto-oligosyltrehalose trehalohydrolase (cds)

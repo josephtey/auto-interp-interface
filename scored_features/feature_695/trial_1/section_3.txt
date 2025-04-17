@@ -1,0 +1,11 @@
+Image 3
+Organism: Nocardiopsis gilva YIM 90087 (high G+C Gram-positive bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Sugar phosphate isomerase/epimerase (cds)
+ID 3: endonuclease/exonuclease/phosphatase family protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: DUF3761 domain-containing protein (cds)
+ID 6: Cytidyltransferase (cds)
+ID 7: precorrin-3B C(17)-methyltransferase (cds)
+ID 8: AAA family ATPase (cds)
+ID 9: N-acetyltransferase (cds)

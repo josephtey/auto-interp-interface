@@ -1,0 +1,10 @@
+Image 2
+Organism: Mycoplasma phocoeninasale (mycoplasmas)
+ID 1: (pseudo) PQ-loop repeat-containing protein (cds)
+ID 2: putative tRNA sulfurtransferase (cds)
+ID 3: Pyrimidine-nucleoside phosphorylase (cds)
+ID 4: (pseudo) DNA topoisomerase (ATP-hydrolyzing) (cds)
+ID 5: rpsF: 30S ribosomal protein S6 (cds)
+ID 6: (pseudo) Triosephosphate isomerase (cds)
+ID 7: trmD: tRNA (guanosine(37)-N1)-methyltransferase TrmD (cds)
+ID 8: (pseudo) ComEC/Rec2-related protein domain-containing protein (cds)

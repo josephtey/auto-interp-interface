@@ -1,0 +1,10 @@
+Image 0
+Organism: Rothia nasimurium (high G+C Gram-positive bacteria)
+ID 1: udk: uridine kinase (cds)
+ID 2: ruvX: Holliday junction resolvase RuvX (cds)
+ID 3: tatC: twin-arginine translocase subunit TatC (cds)
+ID 4: der: ribosome biogenesis GTPase Der (cds)
+ID 5: hypothetical protein (cds)
+ID 6: N5-carboxyaminoimidazole ribonucleotide mutase (cds)
+ID 7: D-serine/D-alanine/glycine transporter (cds)
+ID 8: IS3 family transposase (cds)

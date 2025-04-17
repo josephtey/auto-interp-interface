@@ -1,0 +1,7 @@
+Image 0
+Organism: Aeromonas encheleia (g-proteobacteria)
+ID 1: rnr: ribonuclease R (cds)
+ID 2: ybjL: putative transporter (cds)
+ID 3: pdxH: pyridoxamine 5'-phosphate oxidase (cds)
+ID 4: lolD: Lipoprotein-releasing system ATP-binding protein LolD (cds)
+ID 5: thiB: thiamine ABC transporter substrate binding subunit (cds)

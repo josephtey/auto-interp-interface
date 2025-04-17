@@ -1,0 +1,5 @@
+Image 3
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: RTX toxin-activating lysine-acyltransferase (cds)
+ID 3: yggX: oxidative damage protection protein (cds)

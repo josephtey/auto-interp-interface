@@ -1,0 +1,12 @@
+Image 3
+Organism: Mixta gaviniae (enterobacteria)
+ID 1: fhuB: Fe(3+)-hydroxamate ABC transporter permease FhuB (cds)
+ID 2: dsdC: DNA-binding transcriptional regulator DsdC (cds)
+ID 3: yeaQ: Uncharacterized membrane protein YeaQ/YmgE, transglycosylase-associated protein family (cds)
+ID 4: aslA: Arylsulfatase A or related enzyme, AlkP superfamily (cds)
+ID 5: trxC: thioredoxin TrxC (cds)
+ID 6: tapT: tRNA U47 aminocarboxypropyltransferaseTapT/TuaA/ YfiP, DTW domain (cds)
+ID 7: celC: Phosphotransferase system cellobiose-specific component IIA (cds)
+ID 8: pptA: 4-oxalocrotonate tautomerase (cds)
+ID 9: DUF883 domain-containing protein (cds)
+ID 10: trnD: tRNA-Asp(gtc) (tRNA)

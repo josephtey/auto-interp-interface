@@ -1,0 +1,12 @@
+Image 0
+Organism: Paenibacillus yonginensis (firmicutes)
+ID 1: tetA: Tetracycline resistance protein TetA (cds)
+ID 2: Alpha-L-fucosidase (cds)
+ID 3: TVP38/TMEM64 family membrane protein (cds)
+ID 4: rsgA: ribosome small subunit-dependent GTPase A (cds)
+ID 5: DNA internalization-related competence protein ComEC/Rec2 (cds)
+ID 6: rrl: 23S ribosomal RNA (rRNA)
+ID 7: SLH domain-containing protein (cds)
+ID 8: STAS/SEC14 domain-containing protein (cds)
+ID 9: hxlR: HxlR family transcriptional regulator (cds)
+ID 10: ATP-dependent helicase (cds)

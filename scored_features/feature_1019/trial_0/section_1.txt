@@ -1,0 +1,10 @@
+Image 1
+Organism: Herminiimonas arsenitoxidans (b-proteobacteria)
+ID 1: phosphoribosyltransferase (cds)
+ID 2: ppiB: Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family (cds)
+ID 3: hypothetical protein (cds)
+ID 4: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 5: mopI: Molybdopterin-binding protein MopI (cds)
+ID 6: ABC transporter permease (cds)
+ID 7: ATP synthase protein I (cds)
+ID 8: ybgF: tol-pal system protein YbgF (cds)

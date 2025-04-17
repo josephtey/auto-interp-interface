@@ -1,0 +1,13 @@
+Image 2
+Organism: Paenibacillus yonginensis (firmicutes)
+ID 1: F5/8 type C domain-containing protein (cds)
+ID 2: Methyltransferase domain-containing protein (cds)
+ID 3: Spore germination protein (cds)
+ID 4: lepB: signal peptidase I (cds)
+ID 5: Lipoprotein (cds)
+ID 6: glucose-1-phosphate thymidylyltransferase (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: rrl: 23S ribosomal RNA (rRNA)
+ID 9: Addiction module antidote protein (cds)
+ID 10: RNA-binding S4 domain-containing protein (cds)
+ID 11: Maltodextrin-binding protein (cds)

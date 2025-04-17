@@ -1,0 +1,13 @@
+Organism: Unknown organism
+ID 1: phnE: phosphonate ABC transporter, permease protein PhnE (cds)
+ID 2: HD family phosphohydrolase (cds)
+ID 3: HU family DNA-binding protein (cds)
+ID 4: flhB: flagellar biosynthesis protein FlhB (cds)
+ID 5: Magnesium chelatase (cds)
+ID 6: Aspartate transaminase (cds)
+ID 7: DUF3795 domain-containing protein (cds)
+ID 8: DUF4892 domain-containing protein (cds)
+ID 9: Rhodanese domain-containing protein (cds)
+ID 10: Molybdopterin-dependent oxidoreductase (cds)
+ID 11: ubiX: Flavin prenyltransferase UbiX (cds)
+ID 12: polysaccharide biosynthesis/export family protein (cds)

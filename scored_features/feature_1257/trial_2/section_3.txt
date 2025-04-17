@@ -1,0 +1,11 @@
+Image 3
+Organism: Roseicyclus elongatus DSM 19469 (a-proteobacteria)
+ID 1: dprA: DNA-protecting protein DprA (cds)
+ID 2: Regulatory P domain of the subtilisin-like proprotein convertases and other proteases (cds)
+ID 3: Potassium channel domain-containing protein (cds)
+ID 4: cutA: Divalent cation tolerance protein CutA (cds)
+ID 5: hslR: Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain (cds)
+ID 6: ugpE: ABC-type glycerol-3-phosphate transport system, permease component (cds)
+ID 7: DUF304 domain-containing protein (cds)
+ID 8: Circularly permuted ATP-grasp protein (cds)
+ID 9: lldD: FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase (cds)

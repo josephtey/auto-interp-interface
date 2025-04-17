@@ -1,0 +1,9 @@
+Image 2
+Organism: Mycoplasma phocoeninasale (mycoplasmas)
+ID 1: (pseudo) hypothetical protein (cds)
+ID 2: GIY-YIG nuclease family protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: plsX: (pseudo) phosphate acyltransferase PlsX (cds)
+ID 5: hypothetical protein (cds)
+ID 6: (pseudo) hypothetical protein (cds)
+ID 7: hypothetical protein (cds)

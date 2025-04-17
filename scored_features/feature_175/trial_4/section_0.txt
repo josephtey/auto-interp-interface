@@ -1,0 +1,11 @@
+Image 0
+Organism: Unknown organism
+ID 1: hypothetical protein (cds)
+ID 2: Lipocalin-like domain-containing protein (cds)
+ID 3: trnR: tRNA-Arg(cct) (tRNA)
+ID 4: hypothetical protein (cds)
+ID 5: Flagellin N-methylase (cds)
+ID 6: aceA: isocitrate lyase (cds)
+ID 7: Competence protein A (cds)
+ID 8: Bifunctional NMN adenylyltransferase/Nudix hydrolase (cds)
+ID 9: Outer membrane protein transport protein (OMPP1/FadL/TodX) (cds)

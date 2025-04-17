@@ -1,0 +1,12 @@
+Image 2
+Organism: Vulgatibacter incomptus (bacteria)
+ID 1: paaJ: Acetyl-CoA acetyltransferase (cds)
+ID 2: mlaF: ATPase subunit MlaF of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 5: epmA: EF-P lysine aminoacylase EpmA (cds)
+ID 6: Nucleoside phosphorylase domain-containing protein (cds)
+ID 7: DUF1275 domain-containing protein (cds)
+ID 8: baeS: Signal transduction histidine kinase (cds)
+ID 9: rsmB: 16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB (cds)
+ID 10: MFS transporter (cds)

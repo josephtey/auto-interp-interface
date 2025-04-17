@@ -1,0 +1,12 @@
+Image 2
+Organism: Bacillus cabrialesii (firmicutes)
+ID 1: yitD: Phosphosulfolactate synthase (cds)
+ID 2: xtmB: PBSX family phage terminase large subunit (cds)
+ID 3: ohrA: Organic hydroperoxide resistance protein OhrA (cds)
+ID 4: yrvL: YrvL family regulatory protein (cds)
+ID 5: nrdI: class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI (cds)
+ID 6: Holin (cds)
+ID 7: phy: 3-phytase (cds)
+ID 8: yqeH: ribosome biogenesis GTPase YqeH (cds)
+ID 9: luxS: S-ribosylhomocysteine lyase (cds)
+ID 10: cdoA: Cysteine dioxygenase (cds)

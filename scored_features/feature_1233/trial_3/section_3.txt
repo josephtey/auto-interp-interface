@@ -1,0 +1,12 @@
+Image 3
+Organism: Desulfosarcina widdelii (bacteria)
+ID 1: glutamate dehydrogenase (cds)
+ID 2: HTH luxR-type domain-containing protein (cds)
+ID 3: Restriction endonuclease (cds)
+ID 4: histidine kinase (cds)
+ID 5: DUF2497 domain-containing protein (cds)
+ID 6: ISNCY family transposase (cds)
+ID 7: fdhF: (pseudo) formate dehydrogenase subunit alpha (cds)
+ID 8: SCP2 domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Peptidase M24 (cds)

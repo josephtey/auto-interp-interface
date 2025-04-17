@@ -1,0 +1,11 @@
+Image 0
+Organism: Corynebacterium halotolerans YIM 70093 = DSM 44683 (high G+C Gram-positive bacteria)
+ID 1: Ferredoxin (cds)
+ID 2: rpsR: 30S ribosomal protein S18 (cds)
+ID 3: Glycosyl transferase family protein (cds)
+ID 4: argF: ornithine carbamoyltransferase (cds)
+ID 5: tatC: twin-arginine translocase subunit TatC (cds)
+ID 6: bifunctional [glutamine synthetase] adenylyltransferase/[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase (cds)
+ID 7: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 8: Single-stranded DNA-binding protein (cds)
+ID 9: dcd: dCTP deaminase (cds)

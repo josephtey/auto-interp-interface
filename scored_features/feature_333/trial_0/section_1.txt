@@ -1,0 +1,9 @@
+Image 1
+Organism: Streptomyces ferrugineus (high G+C Gram-positive bacteria)
+ID 1: Streptogrisin-B (cds)
+ID 2: TIGR01777 family protein (cds)
+ID 3: lysR: LysR family transcriptional regulator (cds)
+ID 4: Glycosyl transferase family 2 (cds)
+ID 5: DUF4235 domain-containing protein (cds)
+ID 6: Hydrolase (cds)
+ID 7: Histidine kinase (cds)

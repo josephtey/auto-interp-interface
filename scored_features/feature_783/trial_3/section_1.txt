@@ -1,0 +1,11 @@
+Image 1
+Organism: Kroppenstedtia eburnea (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: Protein SCO1/2 (cds)
+ID 3: hisC: histidinol-phosphate transaminase (cds)
+ID 4: mutL: DNA mismatch repair endonuclease MutL (cds)
+ID 5: Cyclophilin TM1367-like domain-containing protein (cds)
+ID 6: Lipoprotein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: CDP-Glycerol:Poly(Glycerophosphate) glycerophosphotransferase (cds)
+ID 9: hypothetical protein (cds)

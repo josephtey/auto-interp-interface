@@ -1,0 +1,12 @@
+Image 1
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: rrs: 16S ribosomal RNA (rRNA)
+ID 2: caiD: Enoyl-CoA hydratase/carnithine racemase (cds)
+ID 3: rhaT: Permease of the drug/metabolite transporter (DMT) superfamily (cds)
+ID 4: parA: ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ (cds)
+ID 5: thyX: FAD-dependent thymidylate synthase (cds)
+ID 6: nupQ: ABC-type guanosine uptake system NupNOPQ, permease subunit NupQ (cds)
+ID 7: glyQ: glycine--tRNA ligase subunit alpha (cds)
+ID 8: acrA: Multidrug efflux pump subunit AcrA (membrane-fusion protein) (cds)
+ID 9: pleD: Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain (cds)
+ID 10: Large exoprotein involved in heme utilization or adhesion (cds)

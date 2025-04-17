@@ -1,0 +1,7 @@
+Image 0
+Organism: Unknown organism
+ID 1: Transmembrane protein (cds)
+ID 2: hrcA: heat-inducible transcriptional repressor HrcA (cds)
+ID 3: Metal-dependent phosphohydrolase (cds)
+ID 4: RND superfamily putative drug exporter (cds)
+ID 5: rfbA: glucose-1-phosphate thymidylyltransferase RfbA (cds)

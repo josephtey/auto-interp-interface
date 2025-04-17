@@ -1,0 +1,13 @@
+Image 1
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: alwI: AlwI family type II restriction endonuclease (cds)
+ID 2: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 3: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 4: RNA polymerase sigma-70 region 4 domain-containing protein (cds)
+ID 5: pemK RNA (ncRNA-region)
+ID 6: zupT: Zinc transporter ZupT (cds)
+ID 7: rplX: 50S ribosomal protein L24 (cds)
+ID 8: thrC: threonine synthase (cds)
+ID 9: folP: dihydropteroate synthase (cds)
+ID 10: rplU: 50S ribosomal protein L21 (cds)
+ID 11: talA: transaldolase (cds)

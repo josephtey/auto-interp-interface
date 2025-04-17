@@ -1,0 +1,12 @@
+Image 1
+Organism: Pseudarthrobacter psychrotolerans (high G+C Gram-positive bacteria)
+ID 1: tatA: Sec-independent protein translocase subunit TatA (cds)
+ID 2: Restriction endonuclease (cds)
+ID 3: Response regulatory domain-containing protein (cds)
+ID 4: rplF: 50S ribosomal protein L6 (cds)
+ID 5: FAD-dependent oxidoreductase (cds)
+ID 6: HMA domain-containing protein (cds)
+ID 7: Cell wall protein (cds)
+ID 8: DUF3592 domain-containing protein (cds)
+ID 9: cstA: Carbon starvation protein CstA (peptide/pyruvate transporter) (cds)
+ID 10: Ribonuclease BN (cds)

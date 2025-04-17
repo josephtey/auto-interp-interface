@@ -1,0 +1,9 @@
+Image 1
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: Lipoprotein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: Transposase (putative) YhgA-like domain-containing protein (cds)
+ID 4: rpsR: 30S ribosomal protein S18 (cds)
+ID 5: CRISPR spacer, sequence GTACACCTCTGCGGTAGACCAGCACGGATTGAGCC (crispr-spacer)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR spacer, sequence TCTCGCACCACTACGCGGGGACCTATCCGGGCGCGG (crispr-spacer)

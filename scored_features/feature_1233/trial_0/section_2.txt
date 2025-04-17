@@ -1,0 +1,7 @@
+Image 2
+Organism: Unknown organism
+ID 1: DNA topoisomerase type IA zn finger domain protein (cds)
+ID 2: gmhA: Sugar isomerase (SIS) (cds)
+ID 3: SHOCT domain-containing protein (cds)
+ID 4: Lipoprotein (cds)
+ID 5: Fumarylacetoacetate (FAA) hydrolase (cds)

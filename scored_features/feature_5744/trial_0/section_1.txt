@@ -1,0 +1,9 @@
+Image 1
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: ycjR: Sugar phosphate isomerase/epimerase (cds)
+ID 2: comP: Signal transduction histidine kinase ComP (cds)
+ID 3: pA5055: DUF971 domain-containing protein (cds)
+ID 4: eAL: EAL domain, c-di-GMP-specific phosphodiesterase class I (or its enzymatically inactive variant) (cds)
+ID 5: higA: Antitoxin component HigA of the HigAB toxin-antitoxin module, contains an N-terminal HTH domain (cds)
+ID 6: glnE: bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase (cds)
+ID 7: DUF3567 domain-containing protein (cds)

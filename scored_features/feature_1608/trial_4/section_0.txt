@@ -1,0 +1,10 @@
+Image 0
+Organism: Corynebacterium urogenitale (high G+C Gram-positive bacteria)
+ID 1: Putative inactive lipase (cds)
+ID 2: trnT: tRNA-Thr(tgt) (tRNA)
+ID 3: citrate synthase (cds)
+ID 4: aspS: aspartate--tRNA ligase (cds)
+ID 5: dapB: 4-hydroxy-tetrahydrodipicolinate reductase (cds)
+ID 6: doxX: DoxX (cds)
+ID 7: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 8: Putative phosphomannomutase (cds)

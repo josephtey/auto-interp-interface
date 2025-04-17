@@ -1,0 +1,12 @@
+Image 0
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: tetR: Transcriptional regulator, TetR family (cds)
+ID 2: hypothetical protein (cds)
+ID 3: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 4: cysK: Cysteine synthase (cds)
+ID 5: ggt: Gamma-glutamyltranspeptidase (cds)
+ID 6: fabZ: 3-hydroxyacyl-ACP dehydratase FabZ (cds)
+ID 7: CRISPR spacer, sequence ATCGTCTGGCATCGAGGCACCGGGTGGACGGGGCAC (crispr-spacer)
+ID 8: Lipoprotein (cds)
+ID 9: Cysteine-rich repeat protein (cds)
+ID 10: aurF: p-aminobenzoate N-oxygenase AurF (cds)

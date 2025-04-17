@@ -1,0 +1,6 @@
+Image 4
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: dppC: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)
+ID 2: cobT: nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: tatB: Twin-arginine protein secretion pathway components TatA and TatB (cds)

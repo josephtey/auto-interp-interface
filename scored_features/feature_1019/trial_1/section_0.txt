@@ -1,0 +1,12 @@
+Image 0
+Organism: Unknown organism
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: CRISPR spacer, sequence CTAAATCACCAAAGTTATATAGTGCTTTTATATCAATA (crispr-spacer)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR spacer, sequence TTCAGCACCGCACCAACAACAAGAAATAACTACAAAAAAATC (crispr-spacer)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

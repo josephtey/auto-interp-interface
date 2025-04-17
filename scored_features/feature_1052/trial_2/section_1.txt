@@ -1,0 +1,10 @@
+Image 1
+Organism: Atribacter laminatus (bacteria)
+ID 1: lsrR: Transcriptional regulator LsrR (cds)
+ID 2: Acid sugar phosphatase (cds)
+ID 3: Type II toxin-antitoxin system RelE/ParE family toxin (cds)
+ID 4: Phosphorylated carbohydrates phosphatase (cds)
+ID 5: Putative cobalt-factor III C(17)-methyltransferase (cds)
+ID 6: HNH nuclease domain-containing protein (cds)
+ID 7: rpmI: 50S ribosomal protein L35 (cds)
+ID 8: NAD kinase (cds)

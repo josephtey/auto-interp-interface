@@ -1,0 +1,13 @@
+Image 0
+Organism: Ferrovibrio terrae (a-proteobacteria)
+ID 1: HAD-IIB family hydrolase (cds)
+ID 2: Iron ABC transporter permease (cds)
+ID 3: secB: protein-export chaperone SecB (cds)
+ID 4: Cyanuric acid amidohydrolase (cds)
+ID 5: Glutathione S-transferase family protein (cds)
+ID 6: DUF1127 domain-containing protein (cds)
+ID 7: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 8: VWA domain-containing protein (cds)
+ID 9: rplX: 50S ribosomal protein L24 (cds)
+ID 10: YCII-related domain-containing protein (cds)
+ID 11: ABC transporter substrate-binding protein (cds)

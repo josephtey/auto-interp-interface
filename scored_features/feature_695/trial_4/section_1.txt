@@ -1,0 +1,13 @@
+Image 1
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: Na+/H+ antiporter subunit G (cds)
+ID 2: vanZ: VanZ family protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: yjcZ: Sporulation protein YjcZ (cds)
+ID 5: araC: AraC family transcriptional regulator (cds)
+ID 6: M23 family metallopeptidase (cds)
+ID 7: Macrolide ABC transporter ATP-binding protein (cds)
+ID 8: thuA: Trehalose utilization protein ThuA (cds)
+ID 9: dTTP/UTP pyrophosphatase (cds)
+ID 10: ctsR: Transcriptional regulator CtsR (cds)
+ID 11: merR: Transcriptional regulator, MerR family (cds)

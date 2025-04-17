@@ -1,0 +1,12 @@
+Image 4
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: pA5055: DUF971 domain-containing protein (cds)
+ID 2: nfnB: NAD(P)H nitroreductase (cds)
+ID 3: yihS: Mannose or cellobiose epimerase, N-acyl-D-glucosamine 2-epimerase family (cds)
+ID 4: hypothetical protein (cds)
+ID 5: glnQ: ABC-type polar amino acid transport system, ATPase component (cds)
+ID 6: PAS domain-containing protein (cds)
+ID 7: ibpA: Small heat shock protein IbpA, HSP20 family (cds)
+ID 8: hypothetical protein (cds)
+ID 9: NAD(+)--dinitrogen-reductase ADP-D-ribosyltransferase (cds)
+ID 10: DUF2087 domain-containing protein (cds)

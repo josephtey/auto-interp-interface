@@ -1,0 +1,11 @@
+Image 0
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: Transposase and inactivated derivatives (cds)
+ID 2: boxC: 2,3-epoxybenzoyl-CoA dihydrolase (cds)
+ID 3: ATPase with chaperone activity, ATP-binding subunit (cds)
+ID 4: gap (gap)
+ID 5: glnS: glutamine--tRNA ligase/YqeY domain fusion protein (cds)
+ID 6: msrA: Peptide methionine sulfoxide reductase MsrA (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: cafA: Ribonuclease G or E (cds)
+ID 9: dapB: 4-hydroxy-tetrahydrodipicolinate reductase (cds)

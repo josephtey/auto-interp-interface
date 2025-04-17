@@ -1,0 +1,12 @@
+Image 2
+Organism: Agarivorans albus (g-proteobacteria)
+ID 1: Endonuclease containing a URI domain (cds)
+ID 2: putative membrane fusion protein (MFP) component of efflux pump (cds)
+ID 3: asd: archaetidylserine decarboxylase (cds)
+ID 4: trnG: tRNA-Gly(gcc) (tRNA)
+ID 5: DUF3549 domain-containing protein (cds)
+ID 6: YqaE/Pmp3 family membrane protein (cds)
+ID 7: DUF4345 domain-containing protein (cds)
+ID 8: aspS: aspartate--tRNA ligase (cds)
+ID 9: fkpB: FKBP-type peptidyl-prolyl cis-trans isomerase (cds)
+ID 10: ilvM: acetolactate synthase 2 small subunit (cds)

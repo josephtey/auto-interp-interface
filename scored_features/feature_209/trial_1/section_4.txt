@@ -1,0 +1,9 @@
+Image 4
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: napH: Polyferredoxin NapH (cds)
+ID 3: htpX: Zn-dependent protease with chaperone function (cds)
+ID 4: CRISPR spacer, sequence TGGACCACCAGGCTGCTGGCCACTCGGTGCCGG (crispr-spacer)
+ID 5: yaiI: YaiI/YqxD family protein (cds)
+ID 6: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 7: tatA: Sec-independent protein translocase subunit TatA (cds)

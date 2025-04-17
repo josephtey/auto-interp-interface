@@ -1,0 +1,12 @@
+Image 1
+Organism: Paludibacterium paludis (b-proteobacteria)
+ID 1: hutH: histidine ammonia-lyase (cds)
+ID 2: Photosynthetic protein synthase I (cds)
+ID 3: pilZ: PilZ domain-containing protein (cds)
+ID 4: Cryptochrome DASH (cds)
+ID 5: 5'-3'-deoxyribonucleotidase (cds)
+ID 6: Peptidase S8/S53 domain-containing protein (cds)
+ID 7: Acyl carrier protein (cds)
+ID 8: pncB: nicotinate phosphoribosyltransferase (cds)
+ID 9: trnE: tRNA-Glu(ttc) (tRNA)
+ID 10: RNA helicase (cds)

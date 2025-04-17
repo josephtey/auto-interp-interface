@@ -1,0 +1,13 @@
+Image 2
+Organism: Paenibacillus lutimineralis (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: Carbon-nitrogen family hydrolase (cds)
+ID 3: VWA domain-containing protein (cds)
+ID 4: lexA: LexA repressor DNA-binding domain-containing protein (cds)
+ID 5: fliY: flagellar motor switch phosphatase FliY (cds)
+ID 6: hypothetical protein (cds)
+ID 7: DUF3139 domain-containing protein (cds)
+ID 8: Poly(ethylene terephthalate) hydrolase (cds)
+ID 9: VCBS repeat-containing protein (cds)
+ID 10: Carbohydrate ABC transporter permease (cds)
+ID 11: N-acetylmuramoyl-L-alanine amidase (cds)

@@ -1,0 +1,13 @@
+Image 2
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: orfA: ISPsy24, transposase orfA (cds)
+ID 2: rnt: ribonuclease T (cds)
+ID 3: hypothetical protein (cds)
+ID 4: trnL: tRNA-Leu(tag) (tRNA)
+ID 5: creA: CreA family protein (cds)
+ID 6: Phosphatidylglycerophosphatase A (cds)
+ID 7: Glutaredoxin (cds)
+ID 8: histidine kinase (cds)
+ID 9: Peptidoglycan DD-metalloendopeptidase family protein (cds)
+ID 10: argininosuccinate synthase (cds)
+ID 11: ABC transporter permease (cds)

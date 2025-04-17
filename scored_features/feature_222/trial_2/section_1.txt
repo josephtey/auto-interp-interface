@@ -1,0 +1,13 @@
+Image 1
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)
+ID 2: aspB: Aspartate/methionine/tyrosine aminotransferase (cds)
+ID 3: DUF1850 domain-containing protein (cds)
+ID 4: Rib/alpha-like domain-containing protein (cds)
+ID 5: pPK2: Polyphosphate kinase 2, PPK2 family (cds)
+ID 6: mutS2: endonuclease MutS2 (cds)
+ID 7: cmk: (d)CMP kinase (cds)
+ID 8: miaB: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB (cds)
+ID 9: mutL: DNA mismatch repair endonuclease MutL (cds)
+ID 10: DUF5673 domain-containing protein (cds)
+ID 11: mutY: A/G-specific adenine glycosylase (cds)

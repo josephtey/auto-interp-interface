@@ -1,0 +1,11 @@
+Image 2
+Organism: Raineyella fluvialis (high G+C Gram-positive bacteria)
+ID 1: Txe/YoeB family addiction module toxin (cds)
+ID 2: secY: preprotein translocase subunit SecY (cds)
+ID 3: Sortase (cds)
+ID 4: 4Fe-4S Wbl-type domain-containing protein (cds)
+ID 5: Arsenic transporter (cds)
+ID 6: lytR: LytR family transcriptional regulator (cds)
+ID 7: dnaC: DNA replication protein DnaC (cds)
+ID 8: rpoZ: DNA-directed RNA polymerase subunit omega (cds)
+ID 9: rRNA cytosine-C5-methylase (cds)

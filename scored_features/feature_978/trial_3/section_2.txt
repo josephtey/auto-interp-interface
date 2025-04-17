@@ -1,0 +1,12 @@
+Image 2
+Organism: Citrobacter arsenatis (enterobacteria)
+ID 1: purH: bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (cds)
+ID 2: cpxP: Periplasmic chaperone Spy, Spy/CpxP family (cds)
+ID 3: ybjC: YbjC family protein (cds)
+ID 4: trnN: tRNA-Asn(gtt) (tRNA)
+ID 5: ddpA: ABC-type transport system, periplasmic component (cds)
+ID 6: ureE: Urease accessory protein UreE (cds)
+ID 7: DNA transfer protein (cds)
+ID 8: Host cell division inhibitory peptide Kil (cds)
+ID 9: adeB: Efflux pump membrane transporter (cds)
+ID 10: ompA: OmpA family protein (cds)

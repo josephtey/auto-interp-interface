@@ -1,0 +1,12 @@
+Image 4
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: Acyl-CoA dehydrogenase (cds)
+ID 2: mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase (cds)
+ID 3: DUF58 domain-containing protein (cds)
+ID 4: Reactive intermediate/imine deaminase (cds)
+ID 5: tyrR: transcriptional regulator TyrR (cds)
+ID 6: prs: Phosphoribosylpyrophosphate synthetase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Enoyl-CoA hydratase (cds)
+ID 9: mutS: DNA mismatch repair protein MutS (cds)
+ID 10: Glutamate synthase (cds)

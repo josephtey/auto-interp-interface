@@ -1,0 +1,11 @@
+Image 1
+Organism: Thiospirochaeta perfilievii (spirochetes)
+ID 1: Phosphoribosylformylglycinamidine cyclo-ligase (cds)
+ID 2: Cation-translocating P-type ATPase (cds)
+ID 3: amylo-alpha-1,6-glucosidase (cds)
+ID 4: araC: AraC family transcriptional regulator (cds)
+ID 5: Sugar ABC transporter permease (cds)
+ID 6: histidine kinase (cds)
+ID 7: XRE family transcriptional regulator (cds)
+ID 8: RNA-binding transcriptional accessory protein (cds)
+ID 9: hypothetical protein (cds)
