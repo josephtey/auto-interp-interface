@@ -1,0 +1,13 @@
+Image 3
+ID 1: Peptidase (cds)
+ID 2: Scr4115: Streptomyces RNA 4115 (ncRNA)
+ID 3: MFS transporter (cds)
+ID 4: pafA: Pup--protein ligase (cds)
+ID 5: bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II (cds)
+ID 6: RNA polymerase sigma-70 factor, ECF subfamily (cds)
+ID 7: histidine kinase (cds)
+ID 8: Sugar transport system permease (cds)
+ID 9: DNA-binding protein (cds)
+ID 10: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 11: Acyl carrier protein (cds)
+ID 12: Cation:proton antiporter (cds)

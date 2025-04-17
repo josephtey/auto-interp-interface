@@ -1,0 +1,7 @@
+ID 1: rplS: 50S ribosomal protein L19 (cds)
+ID 2: fcbT1: TRAP-type mannitol/chloroaromatic compound transport system, periplasmic component (cds)
+ID 3: hicB: Antitoxin component HicB of the HicAB toxin-antitoxin system (cds)
+ID 4: rplW: 50S ribosomal protein L23 (cds)
+ID 5: hypothetical protein (cds)
+ID 6: himA: integration host factor subunit beta (cds)
+ID 7: entE: EntE, 2,3-dihydroxybenzoate-AMP synthase component of non-ribosomal peptide synthetase (cds)

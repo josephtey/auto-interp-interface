@@ -1,0 +1,6 @@
+ID 1: hypothetical protein (cds)
+ID 2: VirB10 protein (cds)
+ID 3: N-acetyltransferase domain-containing protein (cds)
+ID 4: rplB: 50S ribosomal protein L2 (cds)
+ID 5: clpX: ATP-dependent Clp protease ATP-binding subunit ClpX (cds)
+ID 6: ybeY: rRNA maturation RNase YbeY (cds)

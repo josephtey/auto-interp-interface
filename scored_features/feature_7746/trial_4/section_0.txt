@@ -1,0 +1,11 @@
+Image 0
+ID 1: ispH: 4-hydroxy-3-methylbut-2-enyl diphosphate reductase (cds)
+ID 2: ypwA: Zn-dependent carboxypeptidase, M32 family (cds)
+ID 3: truA: tRNA pseudouridine(38-40) synthase TruA (cds)
+ID 4: tPR1: TPR-like repeat domain (cds)
+ID 5: bepA: Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains (cds)
+ID 6: argC: N-acetyl-gamma-glutamyl-phosphate reductase (cds)
+ID 7: murB: UDP-N-acetylmuramate dehydrogenase (cds)
+ID 8: aspS: aspartate--tRNA ligase (cds)
+ID 9: tim44: putative lipid-binding transport protein, Tim44 family (cds)
+ID 10: rho: transcription termination factor Rho (cds)

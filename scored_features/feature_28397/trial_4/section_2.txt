@@ -1,0 +1,13 @@
+Image 2
+ID 1: tetR: Transcriptional regulator, TetR family (cds)
+ID 2: hypothetical protein (cds)
+ID 3: lytS: Signal transduction histidine kinase, LytS (cds)
+ID 4: rrl: 23S ribosomal RNA (rRNA)
+ID 5: NAD(P)-dependent dehydrogenase (Short-subunit alcohol dehydrogenase family) (cds)
+ID 6: rocD: ornithine--oxo-acid transaminase (cds)
+ID 7: Acyl-CoA dehydrogenase (cds)
+ID 8: Cellulose synthase subunit (cds)
+ID 9: Arylamine N-acetyltransferase (cds)
+ID 10: egtC: ergothioneine biosynthesis protein EgtC (cds)
+ID 11: Flavin-dependent monooxygenase (cds)
+ID 12: trnF: tRNA-Phe(gaa) (tRNA)

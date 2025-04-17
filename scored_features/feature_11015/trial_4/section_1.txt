@@ -1,0 +1,5 @@
+Image 1
+ID 1: Porin (cds)
+ID 2: Membrane protein (cds)
+ID 3: tRNA delta(2)-isopentenylpyrophosphate transferase (cds)
+ID 4: AAA+ ATPase domain-containing protein (cds)

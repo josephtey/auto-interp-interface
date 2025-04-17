@@ -1,0 +1,13 @@
+Image 4
+ID 1: cusA: Cu/Ag efflux pump CusA (cds)
+ID 2: asd: aspartate-semialdehyde dehydrogenase (cds)
+ID 3: trpA: tryptophan synthase subunit alpha (cds)
+ID 4: Tetratricopeptide repeat protein (cds)
+ID 5: Nickel/cobalt efflux system (cds)
+ID 6: Metal-dependent peptidase (cds)
+ID 7: trbF: conjugal transfer protein TrbF (cds)
+ID 8: Type VI secretion protein (cds)
+ID 9: Fe-S oxidoreductase (cds)
+ID 10: putative transmembrane protein (cds)
+ID 11: Transporter (cds)
+ID 12: Heat-shock protein Hsp20 (cds)

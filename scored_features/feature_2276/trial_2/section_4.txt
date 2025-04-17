@@ -1,0 +1,13 @@
+Image 4
+ID 1: rRM: RNA recognition motif (RRM) domain (cds)
+ID 2: groL: chaperonin GroEL (cds)
+ID 3: vacB: Exoribonuclease R (cds)
+ID 4: tsaA: tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO (cds)
+ID 5: nucleotidyltransferase domain-containing protein (cds)
+ID 6: trpB: tryptophan synthase subunit beta (cds)
+ID 7: trpF: phosphoribosylanthranilate isomerase (cds)
+ID 8: tnpA: IS200/IS605 family transposase (cds)
+ID 9: CRISPR repeat (crispr-repeat)
+ID 10: putative toxin-antitoxin system toxin component, PIN family (cds)
+ID 11: hypothetical protein (cds)
+ID 12: CRISPR array with 6 repeats of length 28, consensus sequence GTTCGCCGCCGCGTAGGCGGTTTGGAAG and spacer length 32 (crispr)

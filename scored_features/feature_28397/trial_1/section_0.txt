@@ -1,0 +1,10 @@
+Image 0
+ID 1: Putative UDP-Glycosyltransferase/glycogen phosphorylase (cds)
+ID 2: Putative Inosine monophosphate dehydrogenase-related protein (cds)
+ID 3: nikM: Nikel transport family protein NikM (cds)
+ID 4: Transcriptional regulator (cds)
+ID 5: tldD: Zn-dependent protease PmbA/TldA or its inactivated-like protein (cds)
+ID 6: ibrB: Co-activator of prophage gene expression IbrB (cds)
+ID 7: histidine kinase (cds)
+ID 8: Putative NADH oxidase (cds)
+ID 9: CHAT domain-containing protein (cds)

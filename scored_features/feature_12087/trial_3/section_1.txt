@@ -1,0 +1,10 @@
+Image 1
+ID 1: hslO: Hsp33 family molecular chaperone HslO (cds)
+ID 2: lapA: LapA family protein (cds)
+ID 3: aceB: malate synthase A (cds)
+ID 4: spoIIIAC: stage III sporulation protein AC (cds)
+ID 5: YheC/D like ATP-grasp (cds)
+ID 6: WD40-like Beta Propeller Repeat (cds)
+ID 7: Small conductance mechanosensitive channel (cds)
+ID 8: nlpC: Cell wall-associated hydrolase, NlpC family (cds)
+ID 9: YfzA-like protein (cds)

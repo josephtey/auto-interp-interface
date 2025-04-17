@@ -1,0 +1,10 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: trm5b: tRNA (guanine(37)-N1)-methyltransferase Trm5b (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Putative cysteine desulfurase (cds)
+ID 9: rrs: 16S ribosomal RNA (rRNA)

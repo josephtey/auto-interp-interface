@@ -1,0 +1,10 @@
+Image 4
+ID 1: crgA: cell division protein CrgA (cds)
+ID 2: Z1 domain protein (cds)
+ID 3: Prepilin peptidase (cds)
+ID 4: gluA: glutamate ABC transporter ATP-binding protein GluA (cds)
+ID 5: Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase (cds)
+ID 6: F0F1 ATP synthase subunit delta (cds)
+ID 7: feuC: Iron-uptake system permease protein FeuC (cds)
+ID 8: Proline iminopeptidase (cds)
+ID 9: trxB: thioredoxin-disulfide reductase (cds)

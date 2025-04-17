@@ -1,0 +1,12 @@
+Image 4
+ID 1: Ion-translocating oxidoreductase complex subunit B (cds)
+ID 2: ESAT-6-like protein (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: tqsA: AI-2 transport protein TqsA (cds)
+ID 6: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 7: ispG: flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (cds)
+ID 8: gatC: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC (cds)
+ID 9: nreB: Oxygen sensor histidine kinase NreB (cds)
+ID 10: rocD: ornithine--oxo-acid transaminase (cds)
+ID 11: Sporulation protein (cds)

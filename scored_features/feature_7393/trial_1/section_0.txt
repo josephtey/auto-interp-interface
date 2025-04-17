@@ -1,0 +1,6 @@
+Image 0
+ID 1: Peptidase C39-like domain-containing protein (cds)
+ID 2: bepA: Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains (cds)
+ID 3: rplX: 50S ribosomal protein L24 (cds)
+ID 4: traL: Conjugal transfer protein TraL (cds)
+ID 5: cirA: Outer membrane receptor protein, Fe transport (cds)

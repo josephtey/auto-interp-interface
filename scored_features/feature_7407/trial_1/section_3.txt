@@ -1,0 +1,12 @@
+Image 3
+ID 1: yhfZ: GntR family transcriptional regulator YhfZ (cds)
+ID 2: phage holin, lambda family (cds)
+ID 3: serC: 3-phosphoserine/phosphohydroxythreonine transaminase (cds)
+ID 4: higA: HigA family addiction module antitoxin (cds)
+ID 5: TIGR03758 family integrating conjugative element protein (cds)
+ID 6: insA: Insertion element iso-IS1N protein insA (cds)
+ID 7: Transposase (cds)
+ID 8: arnF: 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF (cds)
+ID 9: prc: carboxy terminal-processing peptidase (cds)
+ID 10: Phenylacetaldehyde dehydrogenase (cds)
+ID 11: wecC: UDP-N-acetyl-D-mannosamine dehydrogenase (cds)

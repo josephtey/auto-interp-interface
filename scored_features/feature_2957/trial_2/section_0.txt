@@ -1,0 +1,9 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: ilvC: ketol-acid reductoisomerase (cds)
+ID 3: slpA: Peptidyl-prolyl cis-trans isomerase, FKBP type (cds)
+ID 4: proS: proline--tRNA ligase (cds)
+ID 5: hdrC: Heterodisulfide reductase, subunit C (cds)
+ID 6: hypothetical protein (cds)
+ID 7: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 8: purB: adenylosuccinate lyase (cds)

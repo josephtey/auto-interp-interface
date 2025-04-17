@@ -1,0 +1,8 @@
+ID 1: tnp: IS110 family ISCth6 transposase (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR spacer, sequence TGCAGAATTCAAACAGTATGAATTGTCCAAGGAAGAA (crispr-spacer)
+ID 4: ABC transporter permease (cds)
+ID 5: fabF: beta-ketoacyl-ACP synthase II (cds)
+ID 6: Endo-1,4-beta-xylanase A (cds)
+ID 7: Cysteine protease (cds)
+ID 8: cobU: bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase (cds)

@@ -1,0 +1,10 @@
+Image 0
+ID 1: recF: DNA replication and repair protein RecF (cds)
+ID 2: S8 family serine peptidase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: nifU: NIF system FeS cluster assembly NifU C-terminal domain-containing protein (cds)
+ID 5: vanW: VanW family protein (cds)
+ID 6: Dabb family protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: acetoacetate--CoA ligase (cds)
+ID 9: hypothetical protein (cds)

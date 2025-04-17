@@ -1,0 +1,10 @@
+Image 4
+ID 1: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 2: DUF2218 domain-containing protein (cds)
+ID 3: MFS transporter (cds)
+ID 4: MFS transporter (cds)
+ID 5: rpsJ: 30S ribosomal protein S10 (cds)
+ID 6: ppk2: polyphosphate kinase 2 (cds)
+ID 7: Helicase ATP-binding domain-containing protein (cds)
+ID 8: Rne/Rng family ribonuclease (cds)
+ID 9: winged helix-turn-helix domain-containing protein (cds)

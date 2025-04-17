@@ -1,0 +1,8 @@
+Image 1
+ID 1: DUF5050 domain-containing protein (cds)
+ID 2: eutA: Ethanolamine utilization protein EutA, putative chaperonin (cds)
+ID 3: yigB: FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis) (cds)
+ID 4: 4Fe-4S ferredoxin-type domain-containing protein (cds)
+ID 5: DUF3185 domain-containing protein (cds)
+ID 6: Cohesin domain-containing protein (cds)
+ID 7: oadB: Na+-transporting oxaloacetate/methylmalonyl-CoA decarboxylase, beta subunit (cds)

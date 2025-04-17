@@ -1,0 +1,7 @@
+ID 1: cobQ: cobyric acid synthase (cds)
+ID 2: acrB: Multidrug efflux pump subunit AcrB (cds)
+ID 3: gdhA: Glutamate dehydrogenase/leucine dehydrogenase (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: soxY: thiosulfate oxidation carrier protein SoxY (cds)
+ID 7: minC: septum site-determining protein MinC (cds)

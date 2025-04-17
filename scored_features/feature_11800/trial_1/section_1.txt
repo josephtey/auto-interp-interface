@@ -1,0 +1,11 @@
+Image 1
+ID 1: mutS: DNA mismatch repair ATPase MutS (cds)
+ID 2: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 3: pnp: polyribonucleotide nucleotidyltransferase (cds)
+ID 4: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 5: casA: type I-E CRISPR-associated protein Cse1/CasA (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Bacteriophage-related protein (cds)
+ID 8: pdxH: pyridoxamine 5'-phosphate oxidase (cds)
+ID 9: ABC-type uncharacterized transport system, periplasmic component (cds)
+ID 10: topA: DNA topoisomerase III (cds)

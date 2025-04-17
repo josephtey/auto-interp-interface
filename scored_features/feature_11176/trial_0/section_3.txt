@@ -1,0 +1,13 @@
+Image 3
+ID 1: DUF2844 domain-containing protein (cds)
+ID 2: histidine kinase (cds)
+ID 3: recC: exodeoxyribonuclease V subunit gamma (cds)
+ID 4: DNA-binding response regulator (cds)
+ID 5: tldD: metalloprotease TldD (cds)
+ID 6: nusA: Transcription termination/antitermination protein NusA (cds)
+ID 7: infB: translation initiation factor IF-2 (cds)
+ID 8: 4-hydroxybenzoyl-CoA thioesterase (cds)
+ID 9: N-acetyltransferase domain-containing protein (cds)
+ID 10: Phytase-like domain-containing protein (cds)
+ID 11: wbpH: Glycosyltransferase WbpH (cds)
+ID 12: Aspartate 1-decarboxylase (cds)

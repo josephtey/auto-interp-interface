@@ -1,0 +1,12 @@
+Image 4
+ID 1: Sel1 repeat family protein (cds)
+ID 2: Major facilitator superfamily MFS_1 (cds)
+ID 3: CBS-domain-containing membrane protein (cds)
+ID 4: IS701 family transposase (cds)
+ID 5: SPOR domain-containing protein (cds)
+ID 6: aroC: chorismate synthase (cds)
+ID 7: glnL: nitrogen regulation protein NR(II) (cds)
+ID 8: pcnB: tRNA nucleotidyltransferase/poly(A) polymerase (cds)
+ID 9: Transposase (cds)
+ID 10: IS1595 family transposase (cds)
+ID 11: tnpA: IS200/IS605 family transposase (cds)

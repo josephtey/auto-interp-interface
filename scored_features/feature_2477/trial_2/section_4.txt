@@ -1,0 +1,13 @@
+Image 4
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: pabA: anthranilate synthase component I (cds)
+ID 2: aRO8: DNA-binding transcriptional regulator, MocR family, contains an aminotransferase domain (cds)
+ID 3: lmbE: N-acetylglucosaminyl deacetylase, LmbE family (cds)
+ID 4: kdpB: potassium-transporting ATPase subunit KdpB (cds)
+ID 5: eutG: Alcohol dehydrogenase, class IV (cds)
+ID 6: fliD: Flagellar capping protein FliD (cds)
+ID 7: 6-hydroxymethylpterin diphosphokinase MptE-like domain-containing protein (cds)
+ID 8: CRISPR spacer, sequence TCTTTCCCCCTCCCTATATCGCAACCCCTCTCTTA (crispr-spacer)
+ID 9: hypothetical protein (cds)
+ID 10: argE: Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase (cds)
+ID 11: tsaD: tRNA A37 threonylcarbamoyltransferase TsaD (cds)

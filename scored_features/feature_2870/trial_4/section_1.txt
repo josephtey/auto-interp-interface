@@ -1,0 +1,11 @@
+Image 1
+ID 1: Lipoprotein (cds)
+ID 2: Phosphatase PAP2 family protein (cds)
+ID 3: metA: homoserine O-succinyltransferase (cds)
+ID 4: Glycosyltransferase (cds)
+ID 5: Maltoporin (cds)
+ID 6: hypothetical protein (cds)
+ID 7: sdhC: succinate dehydrogenase cytochrome b556 subunit (cds)
+ID 8: ribE: 6,7-dimethyl-8-ribityllumazine synthase (cds)
+ID 9: malM: Maltose operon periplasmic protein MalM (cds)
+ID 10: tuf: elongation factor Tu (cds)

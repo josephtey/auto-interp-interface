@@ -1,0 +1,12 @@
+Image 0
+ID 1: ispG: flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (cds)
+ID 2: DUF4440 domain-containing protein (cds)
+ID 3: flgE: flagellar hook protein FlgE (cds)
+ID 4: mshI: agglutinin biogenesis protein MshI (cds)
+ID 5: prfB: peptide chain release factor 2 (cds)
+ID 6: nlpD: Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain (cds)
+ID 7: TonB-dependent siderophore receptor (cds)
+ID 8: petA: ubiquinol-cytochrome c reductase iron-sulfur subunit (cds)
+ID 9: porin (cds)
+ID 10: M24 family metallopeptidase (cds)
+ID 11: DUF4212 domain-containing protein (cds)

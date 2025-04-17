@@ -1,0 +1,10 @@
+Image 1
+ID 1: vapC: Ribonuclease VapC (cds)
+ID 2: Trehalose-6-phosphate synthase (cds)
+ID 3: SURF1-like protein (cds)
+ID 4: HAD-IA family hydrolase (cds)
+ID 5: DUF2199 domain-containing protein (cds)
+ID 6: ndk: nucleoside-diphosphate kinase (cds)
+ID 7: Tyrosine specific protein phosphatases domain-containing protein (cds)
+ID 8: helix-turn-helix transcriptional regulator (cds)
+ID 9: thyX: FAD-dependent thymidylate synthase (cds)

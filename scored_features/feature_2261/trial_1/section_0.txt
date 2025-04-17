@@ -1,0 +1,12 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: DUF6487 domain-containing protein (cds)
+ID 3: Transposase IS116/IS110/IS902 family protein (cds)
+ID 4: Stage 0 sporulation A-like protein (cds)
+ID 5: Ribonuclease J 1 (cds)
+ID 6: dinB: DNA polymerase IV (cds)
+ID 7: CRISPR spacer, sequence ACAAGGTTTACATCGTGTGGTGTACAATTAATCACAT (crispr-spacer)
+ID 8: Serine/threonine phosphatase stp (cds)
+ID 9: Oxygen-independent coproporphyrinogen-III oxidase (cds)
+ID 10: ykvI: Membrane protein YkvI (cds)
+ID 11: putative toxin-antitoxin system toxin component, PIN family (cds)

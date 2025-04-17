@@ -1,0 +1,13 @@
+Image 2
+ID 1: secG: preprotein translocase subunit SecG (cds)
+ID 2: bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase (cds)
+ID 3: Nucleoside transporter/FeoB GTPase Gate domain-containing protein (cds)
+ID 4: gltA: citrate synthase (cds)
+ID 5: ATPase AAA (cds)
+ID 6: Membrane protein (cds)
+ID 7: gspG: type II secretion system major pseudopilin GspG (cds)
+ID 8: CobD/CbiB family protein (cds)
+ID 9: grpE: nucleotide exchange factor GrpE (cds)
+ID 10: DUF1320 domain-containing protein (cds)
+ID 11: Potassium efflux system protein (cds)
+ID 12: Hdr menaquinol oxidoreductase iron-sulfur subunit (cds)

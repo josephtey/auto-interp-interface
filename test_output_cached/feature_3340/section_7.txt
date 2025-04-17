@@ -1,0 +1,8 @@
+Organism: Thiospirochaeta perfilievii (spirochetes)
+ID 1: radC: DNA repair protein RadC (cds)
+ID 2: NlpC/P60 domain-containing protein (cds)
+ID 3: rsmI: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase (cds)
+ID 4: TetR/AcrR family transcriptional regulator (cds)
+ID 5: XRE family transcriptional regulator (cds)
+ID 6: Trypsin-like serine protease (cds)
+ID 7: DNA polymerase III (cds)

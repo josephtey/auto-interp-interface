@@ -1,0 +1,6 @@
+Image 4
+ID 1: fabZ: 3-hydroxyacyl-ACP dehydratase FabZ (cds)
+ID 2: ABC-2 type transport system permease protein (cds)
+ID 3: brxL: BREX system Lon protease-like protein BrxL (cds)
+ID 4: IS3 family transposase (cds)
+ID 5: Superoxide dismutase (cds)

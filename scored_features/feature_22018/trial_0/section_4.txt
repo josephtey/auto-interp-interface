@@ -1,0 +1,11 @@
+Image 4
+ID 1: tonB: Energy transducer TonB (cds)
+ID 2: rRNA (Guanine-N1)-methyltransferase (cds)
+ID 3: Tetratricopeptide repeat protein (cds)
+ID 4: NADH:flavin oxidoreductase/NADH oxidase N-terminal domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: creA: CreA protein (cds)
+ID 7: CBS domain-containing protein (cds)
+ID 8: rplI: 50S ribosomal protein L9 (cds)
+ID 9: Response regulator receiver protein (cds)
+ID 10: mshK: MSHA biogenesis protein MshK (cds)

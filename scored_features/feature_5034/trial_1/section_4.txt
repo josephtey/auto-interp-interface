@@ -1,0 +1,10 @@
+Image 4
+Organism: Unknown organism
+ID 1: cas8c: type I-C CRISPR-associated protein Cas8c/Csd1 (cds)
+ID 2: CRISPR spacer, sequence GCGAAGTCCCCCACCAGCATTCGGGCGGAAGCCTCG (crispr-spacer)
+ID 3: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 4: dprA: DprA winged helix domain-containing protein (cds)
+ID 5: AMMECR1 domain-containing protein (cds)
+ID 6: cutC: PF03932 family protein CutC (cds)
+ID 7: SnoaL-like domain protein (cds)
+ID 8: Peptidoglycan binding domain protein (cds)

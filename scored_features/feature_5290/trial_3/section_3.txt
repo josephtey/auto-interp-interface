@@ -1,0 +1,13 @@
+Image 3
+ID 1: Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase (cds)
+ID 2: MaoC-like dehydratase (cds)
+ID 3: PknH-like protein (cds)
+ID 4: Anti-sigma-factor antagonist (cds)
+ID 5: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 6: ureG: urease accessory protein UreG (cds)
+ID 7: ygcG: Membrane protein YgcG (cds)
+ID 8: lysR: DNA-binding transcriptional LysR family regulator (cds)
+ID 9: Response regulatory domain-containing protein (cds)
+ID 10: tsaB: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB (cds)
+ID 11: Sap-like sulfolipid-1-addressing protein (cds)
+ID 12: TIGR03557 family F420-dependent LLM class oxidoreductase (cds)

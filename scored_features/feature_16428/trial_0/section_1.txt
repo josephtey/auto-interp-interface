@@ -1,0 +1,10 @@
+Image 1
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: pflB: formate C-acetyltransferase (cds)
+ID 3: DEAD/DEAH box helicase (cds)
+ID 4: hupB: nucleoid-associated protein HU-beta (cds)
+ID 5: norW: NADH:flavorubredoxin reductase NorW (cds)
+ID 6: hypothetical protein (cds)
+ID 7: gluQRS: tRNA glutamyl-Q(34) synthetase GluQRS (cds)
+ID 8: rmuC: DNA recombination protein RmuC (cds)
+ID 9: Lipopolysaccharide kinase (Kdo/WaaP) family protein (cds)

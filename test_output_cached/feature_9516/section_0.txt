@@ -1,0 +1,8 @@
+ID 1: trnV: tRNA-Val(tac) (tRNA)
+ID 2: acrB: Multidrug efflux pump subunit AcrB (cds)
+ID 3: eRG3: Sterol desaturase/sphingolipid hydroxylase, fatty acid hydroxylase superfamily (cds)
+ID 4: btuB: Outer membrane cobalamin receptor protein BtuB (cds)
+ID 5: hypothetical protein (cds)
+ID 6: pDC1: TPP-dependent 2-oxoacid decarboxylase, includes indolepyruvate decarboxylase (cds)
+ID 7: lytS: Sensor histidine kinase, LytS/YehU family (cds)
+ID 8: ybjT: DUF2867 domain-containing protein (cds)

@@ -1,0 +1,8 @@
+Image 0
+ID 1: 2-oxoglutarate synthase (cds)
+ID 2: putative 3'-5' exonuclease PolB-like domain-containing protein (cds)
+ID 3: rlmN: 23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN (cds)
+ID 4: Signal recognition particle protein (cds)
+ID 5: Tail fiber protein (cds)
+ID 6: Bacteriophage-related protein (cds)
+ID 7: bamE: Outer membrane protein assembly factor BamE (cds)

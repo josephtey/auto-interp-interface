@@ -1,0 +1,8 @@
+Image 0
+ID 1: Monooxygenase (cds)
+ID 2: Tetratricopeptide repeat protein (cds)
+ID 3: terD: TerD family protein (cds)
+ID 4: Gas vesicle protein (cds)
+ID 5: Non-homologous end-joining DNA ligase (cds)
+ID 6: Sensor histidine kinase (cds)
+ID 7: lacF: Lactose transport system permease protein LacF (cds)

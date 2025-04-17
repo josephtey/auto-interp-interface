@@ -1,0 +1,10 @@
+Image 2
+ID 1: Flavocytochrome c (cds)
+ID 2: nadC: carboxylating nicotinate-nucleotide diphosphorylase (cds)
+ID 3: dsbC: bifunctional protein-disulfide isomerase/oxidoreductase DsbC (cds)
+ID 4: Tetratricopeptide TPR_2 repeat protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: uvrY: UvrY/SirA/GacA family response regulator transcription factor (cds)
+ID 7: Proline racemase (cds)
+ID 8: hflC: protease modulator HflC (cds)
+ID 9: OmpA/MotB domain protein (cds)

@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: msrB: methionine-R-sulfoxide reductase (cds)
+ID 2: yceI: Polyisoprenoid-binding periplasmic protein YceI (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ndk: nucleoside-diphosphate kinase (cds)
+ID 5: bepA: Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains (cds)
+ID 6: CRISPR spacer, sequence GCATTTCGGAATTGTTATTTCTGGACAATT (crispr-spacer)
+ID 7: ABC transporter ATPase (cds)
+ID 8: trnM: tRNA-Met(cat) (tRNA)
+ID 9: DUF3828 domain-containing protein (cds)

@@ -1,0 +1,8 @@
+Image 1
+ID 1: trnE: tRNA-Glu(ttc) (tRNA)
+ID 2: ftsH: ATP-dependent zinc metalloprotease FtsH (cds)
+ID 3: Radical SAM protein (cds)
+ID 4: Rhodanese-like domain-containing protein (cds)
+ID 5: Resolvase (cds)
+ID 6: ribF: bifunctional riboflavin kinase/FAD synthetase (cds)
+ID 7: proQ: RNA chaperone ProQ (cds)

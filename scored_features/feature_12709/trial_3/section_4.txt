@@ -1,0 +1,12 @@
+Image 4
+ID 1: Aldehyde dehydrogenase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: septation protein A (cds)
+ID 4: Putative selenate ABC transporter substrate-binding protein (cds)
+ID 5: UUP1 family membrane protein (cds)
+ID 6: yesL: Membrane protein YesL (cds)
+ID 7: Lipoprotein (cds)
+ID 8: Calcium/sodium antiporter (cds)
+ID 9: hypothetical protein (cds)
+ID 10: 3'-5' exonuclease (cds)
+ID 11: Heme exporter protein C (cds)

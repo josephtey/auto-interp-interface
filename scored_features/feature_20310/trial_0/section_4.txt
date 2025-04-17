@@ -1,0 +1,11 @@
+Image 4
+ID 1: pnuC: nicotinamide riboside transporter PnuC (cds)
+ID 2: hycI: hydrogenase maturation peptidase HycI (cds)
+ID 3: DUF3080 domain-containing protein (cds)
+ID 4: pstA: phosphate ABC transporter permease PstA (cds)
+ID 5: rppH: RNA pyrophosphohydrolase (cds)
+ID 6: ADP-ribose pyrophosphatase (cds)
+ID 7: rrl: 23S ribosomal RNA (rRNA)
+ID 8: mgtE: magnesium transporter (cds)
+ID 9: DUF494 domain-containing protein (cds)
+ID 10: rrl: 23S ribosomal RNA (rRNA)

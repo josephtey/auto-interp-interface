@@ -1,0 +1,9 @@
+Image 4
+ID 1: Cupin 2 conserved barrel domain protein (cds)
+ID 2: rpsG: 30S ribosomal protein S7 (cds)
+ID 3: hfq: RNA chaperone Hfq (cds)
+ID 4: PH domain-containing protein (cds)
+ID 5: glpC: Fe-S cluster-containing oxidoreductase, includes glycolate oxidase subunit GlcF (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: psiE: phosphate-starvation-inducible PsiE family protein (cds)
+ID 8: rimI: ribosomal protein S18-alanine N-acetyltransferase (cds)

@@ -1,0 +1,11 @@
+Image 2
+ID 1: Cyclase family protein (cds)
+ID 2: murT: Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT (cds)
+ID 3: hypothetical protein (cds)
+ID 4: GMC family oxidoreductase (cds)
+ID 5: Mur ligase C-terminal domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: rrs: 16S ribosomal RNA (rRNA)
+ID 9: ABC transporter permease (cds)
+ID 10: Phenylacetate--CoA ligase family protein (cds)

@@ -1,0 +1,11 @@
+Image 3
+ID 1: IS1634 family transposase (cds)
+ID 2: CRISPR spacer, sequence TGGCCAGGTTTTTTGCTTTTATATAGAACATATGTTT (crispr-spacer)
+ID 3: GGDEF domain-containing protein (cds)
+ID 4: lepB: signal peptidase I (cds)
+ID 5: fliR: flagellar biosynthetic protein FliR (cds)
+ID 6: lgt: prolipoprotein diacylglyceryl transferase (cds)
+ID 7: mtrB: trp RNA-binding attenuation protein MtrB (cds)
+ID 8: smpB: SsrA-binding protein SmpB (cds)
+ID 9: rpsD: 30S ribosomal protein S4 (cds)
+ID 10: histidine kinase (cds)

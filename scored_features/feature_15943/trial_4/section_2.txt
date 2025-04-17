@@ -1,0 +1,11 @@
+Image 2
+ID 1: Glycoside hydrolase family 13 protein (cds)
+ID 2: Universal stress protein (cds)
+ID 3: Type-5 uracil-DNA glycosylase (cds)
+ID 4: TROVE domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: arsR: DNA-binding transcriptional regulator, ArsR family (cds)
+ID 7: Response regulator transcription factor (cds)
+ID 8: bldB: BldB protein (cds)
+ID 9: Thioredoxin domain-containing protein (cds)
+ID 10: nuoF: NADH-quinone oxidoreductase subunit NuoF (cds)

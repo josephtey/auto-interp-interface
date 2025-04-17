@@ -1,0 +1,11 @@
+Image 4
+ID 1: DUF4369 domain-containing protein (cds)
+ID 2: Rebeccamycin O-methyltransferase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: emrE: Multidrug transporter EmrE and related cation transporters (cds)
+ID 5: era: GTPase Era (cds)
+ID 6: GNAT family N-acetyltransferase (cds)
+ID 7: bioB: biotin synthase BioB (cds)
+ID 8: fur: Fe2+ or Zn2+ uptake regulation protein Fur/Zur (cds)
+ID 9: Protein involved in initiation of plasmid replication (cds)
+ID 10: Por secretion system C-terminal sorting domain (cds)

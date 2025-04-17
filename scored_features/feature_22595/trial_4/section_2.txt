@@ -1,0 +1,9 @@
+Image 2
+Organism: Allorhizobium pseudoryzae (a-proteobacteria)
+ID 1: SDR family oxidoreductase (cds)
+ID 2: Transmembrane protein (cds)
+ID 3: cheA: chemotaxis protein CheA (cds)
+ID 4: DUF2585 domain-containing protein (cds)
+ID 5: cyclopropane-fatty-acyl-phospholipid synthase family protein (cds)
+ID 6: cupin domain-containing protein (cds)
+ID 7: diacylglycerol kinase (cds)

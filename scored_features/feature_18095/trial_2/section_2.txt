@@ -1,0 +1,11 @@
+Image 2
+ID 1: Activator of Hsp90 ATPase-like ue 1-like C-terminal domain-containing protein (cds)
+ID 2: primosomal protein N' (cds)
+ID 3: rpoZ: DNA-directed RNA polymerase subunit omega (cds)
+ID 4: Acyl-CoA dehydrogenase (cds)
+ID 5: Protein disulfide-isomerase (cds)
+ID 6: mnhG: monovalent cation/H(+) antiporter subunit G (cds)
+ID 7: Amidohydrolase (cds)
+ID 8: Acyl-CoA dehydrogenase (cds)
+ID 9: HNH endonuclease (cds)
+ID 10: trnR: tRNA-Arg(ccg) (tRNA)

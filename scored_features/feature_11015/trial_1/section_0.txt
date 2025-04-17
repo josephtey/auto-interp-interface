@@ -1,0 +1,11 @@
+Image 0
+ID 1: menE: O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming) (cds)
+ID 2: mutY: A/G-specific adenine glycosylase (cds)
+ID 3: asd: aspartate-semialdehyde dehydrogenase (cds)
+ID 4: Basic proline-rich protein (cds)
+ID 5: addA: double-strand break repair helicase AddA (cds)
+ID 6: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 7: phrB: Deoxyribodipyrimidine photolyase (cds)
+ID 8: Aminotransferase (cds)
+ID 9: tauB: ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component (cds)
+ID 10: SnoaL-like domain-containing protein (cds)

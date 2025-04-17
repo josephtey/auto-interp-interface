@@ -1,0 +1,10 @@
+Image 1
+ID 1: Restriction endonuclease type IV Mrr domain-containing protein (cds)
+ID 2: Acyl carrier protein (cds)
+ID 3: Maleylpyruvate isomerase family mycothiol-dependent enzyme (cds)
+ID 4: alkZ: AlkZ family DNA glycosylase (cds)
+ID 5: Trp operon leader peptide (sorf)
+ID 6: Penicillin acylase family protein (cds)
+ID 7: Carbamate kinase (cds)
+ID 8: SpoIIE family protein phosphatase (cds)
+ID 9: Polyketide synthase (cds)

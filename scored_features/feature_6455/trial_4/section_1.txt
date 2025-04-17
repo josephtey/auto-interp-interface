@@ -1,0 +1,13 @@
+Image 1
+ID 1: DUF1329 domain-containing protein (cds)
+ID 2: SDR family oxidoreductase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: fdxH: formate dehydrogenase subunit beta (cds)
+ID 5: 3'-5' exonuclease (cds)
+ID 6: Betaproteobacteria_toxic_sRNA: Betaproteobacteria toxic small RNA (ncRNA)
+ID 7: tex: Transcriptional accessory protein Tex/SPT6 (cds)
+ID 8: manB: Phosphomannomutase (cds)
+ID 9: DUF3617 domain-containing protein (cds)
+ID 10: flavin reductase family protein (cds)
+ID 11: cysD: sulfate adenylyltransferase subunit CysD (cds)
+ID 12: FAD-dependent oxidoreductase (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: CRISPR spacer, sequence CTTCGCCGGGGGCTGATAACACCACAGTCCTC (crispr-spacer)
+ID 2: gcvA: Glycine cleavage system transcriptional activator (cds)
+ID 3: Colicin V synthesis protein (cds)
+ID 4: aat: leucyl/phenylalanyl-tRNA--protein transferase (cds)
+ID 5: Integrase (cds)
+ID 6: PBSX family phage terminase large subunit (cds)
+ID 7: 3-oxoacid CoA-transferase subunit B (cds)
+ID 8: lysR: LysR family transcriptional regulator (cds)
+ID 9: DUF6024 domain-containing protein (cds)
+ID 10: ykgJ: YkgJ family cysteine cluster protein (cds)
+ID 11: DUF72 domain-containing protein (cds)

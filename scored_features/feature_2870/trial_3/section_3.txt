@@ -1,0 +1,13 @@
+Image 3
+ID 1: HTH tetR-type domain-containing protein (cds)
+ID 2: ATP-binding protein (cds)
+ID 3: Secreted protein (cds)
+ID 4: tctA: TctA family transporter (cds)
+ID 5: caiD: Enoyl-CoA hydratase/carnithine racemase (cds)
+ID 6: Short-subunit dehydrogenase (cds)
+ID 7: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 8: DUF4226 domain-containing protein (cds)
+ID 9: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE (cds)
+ID 10: glmM: phosphoglucosamine mutase (cds)
+ID 11: glxA: Transcriptional regulator GlxA family with amidase domain (cds)
+ID 12: espD: Secretion protein EspD (cds)

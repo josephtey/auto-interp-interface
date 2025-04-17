@@ -1,0 +1,8 @@
+Image 0
+ID 1: Putative NBD/HSP70 family sugar kinase (cds)
+ID 2: Basic membrane lipoprotein (cds)
+ID 3: NUDIX hydrolase (cds)
+ID 4: D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding protein (cds)
+ID 5: Stage 0 sporulation A-like protein (cds)
+ID 6: YdhG-like domain-containing protein (cds)
+ID 7: Cytochrome c biogenesis protein transmembrane region (cds)

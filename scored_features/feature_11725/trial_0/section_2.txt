@@ -1,0 +1,12 @@
+Image 2
+ID 1: Phosphotransferase system, phosphocarrier protein HPr (cds)
+ID 2: rnc: ribonuclease III (cds)
+ID 3: Short-chain dehydrogenase/reductase SDR (cds)
+ID 4: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 5: Lipoprotein (cds)
+ID 6: Stage 0 sporulation A-like protein (cds)
+ID 7: hypC: Hydrogenase assembly chaperone hypC/hupF (cds)
+ID 8: LarA-like N-terminal domain-containing protein (cds)
+ID 9: CheC, inhibitor of MCP methylation (cds)
+ID 10: Bacterial mobilisation domain-containing protein (cds)
+ID 11: trnY: tRNA-Tyr(gta) (tRNA)

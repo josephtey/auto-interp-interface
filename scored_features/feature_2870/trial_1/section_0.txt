@@ -1,0 +1,8 @@
+Image 0
+ID 1: Sulfate exporter family transporter (cds)
+ID 2: rsbT: RsbT co-antagonist protein RsbRA (cds)
+ID 3: NB-ARC domain protein (cds)
+ID 4: Aminopeptidase S (cds)
+ID 5: Demethylmenaquinone methyltransferase (cds)
+ID 6: DUF1444 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)

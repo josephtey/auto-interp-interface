@@ -1,0 +1,3 @@
+Image 4
+ID 1: trnR: tRNA-Arg(acg) (tRNA)
+ID 2: nupO: ABC-type guanosine uptake system NupNOPQ, ATPase component NupO (cds)

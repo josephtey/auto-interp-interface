@@ -1,0 +1,11 @@
+Image 3
+ID 1: DUF4445 domain-containing protein (cds)
+ID 2: lonC: Lon family ATP-dependent protease (cds)
+ID 3: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 4: mtbC1: Methanogenic corrinoid protein MtbC1 (cds)
+ID 5: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 6: cobH: Precorrin-8X methylmutase CbiC/CobH (cds)
+ID 7: CRISPR spacer, sequence GACAATTCTATAGGTGCCCAGCAAGATATTCTTGGTCA (crispr-spacer)
+ID 8: rutF: FMN reductase RutF, DIM6/NTAB family (cds)
+ID 9: era: GTPase Era (cds)
+ID 10: yloU: Uncharacterized conserved protein YloU, alkaline shock protein (Asp23) family (cds)

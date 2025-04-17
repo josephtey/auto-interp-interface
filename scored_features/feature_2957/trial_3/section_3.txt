@@ -1,0 +1,13 @@
+Image 3
+ID 1: Cytochrome (cds)
+ID 2: Acyl-CoA dehydrogenase (cds)
+ID 3: lacI: LacI family transcriptional regulator (cds)
+ID 4: tetR: TetR family transcriptional regulator (cds)
+ID 5: enoyl-CoA hydratase (cds)
+ID 6: tuf: elongation factor Tu (cds)
+ID 7: Tryptophan-rich sensory protein (cds)
+ID 8: PE-PPE domain-containing protein (cds)
+ID 9: Mammalian cell entry (cds)
+ID 10: Mammalian cell entry (cds)
+ID 11: Tight adherence protein B (cds)
+ID 12: Epimerase (cds)

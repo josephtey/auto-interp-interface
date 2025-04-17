@@ -1,0 +1,12 @@
+Image 4
+ID 1: 2TM domain-containing protein (cds)
+ID 2: qcrA: Rieske Fe-S protein (cds)
+ID 3: purH: bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (cds)
+ID 4: purD: Phosphoribosylamine-glycine ligase (cds)
+ID 5: nit2: Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate (cds)
+ID 6: fixB: Electron transfer flavoprotein, alpha subunit FixB (cds)
+ID 7: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 8: dtd: D-aminoacyl-tRNA deacylase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: yfbK: Secreted protein containing bacterial Ig-like domain and vWFA domain (cds)
+ID 11: hypothetical protein (cds)

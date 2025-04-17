@@ -1,0 +1,9 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: Mannose-1-phosphate guanylyltransferase (cds)
+ID 3: Transposase (cds)
+ID 4: yhfH: YhfH family protein (cds)
+ID 5: pdaC: Deacetylase PdaC domain-containing protein (cds)
+ID 6: spoIIIAA: stage III sporulation protein AA (cds)
+ID 7: hisS: histidine--tRNA ligase (cds)
+ID 8: VWA domain-containing protein (cds)

@@ -1,0 +1,12 @@
+Image 0
+ID 1: TFIIEalpha/SarR/Rpc3 HTH domain-containing protein (cds)
+ID 2: Sensor with HAMP domain-containing protein (cds)
+ID 3: irrE: IrrE N-terminal-like domain-containing protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: hypothetical protein (cds)
+ID 6: Glycolate oxidase iron-sulfur subunit (cds)
+ID 7: DUF3794 domain-containing protein (cds)
+ID 8: ThiamineS protein (cds)
+ID 9: ABC transporter substrate-binding protein (cds)
+ID 10: Stage 0 sporulation A-like protein (cds)
+ID 11: yajQ: YajQ family cyclic di-GMP-binding protein (cds)

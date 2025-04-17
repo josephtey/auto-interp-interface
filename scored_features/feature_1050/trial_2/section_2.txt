@@ -1,0 +1,9 @@
+Image 2
+ID 1: 6-phosphogluconate dehydrogenase (cds)
+ID 2: nosY: ABC-type transport system involved in multi-copper enzyme maturation, permease component (cds)
+ID 3: iap: Zn-dependent amino- or carboxypeptidase, M28 family (cds)
+ID 4: Signal transduction histidine kinase regulating C4-dicarboxylate transport system (cds)
+ID 5: cpdA: 3',5'-cyclic AMP phosphodiesterase CpdA (cds)
+ID 6: gcvT: glycine cleavage system aminomethyltransferase GcvT (cds)
+ID 7: glgB: 1,4-alpha-glucan branching protein GlgB (cds)
+ID 8: atoC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)

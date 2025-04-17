@@ -1,0 +1,11 @@
+Image 2
+ID 1: ISLre2 family transposase (cds)
+ID 2: UDP-glucose 4-epimerase (cds)
+ID 3: CRISPR spacer, sequence TAAAAGGCAGACAAATTAAAAATCAGATTTTAACTC (crispr-spacer)
+ID 4: CRISPR spacer, sequence GTGACATTAAACTGTACATATATTAGCGACTTAGAAT (crispr-spacer)
+ID 5: Transcription initiation factor IIE (cds)
+ID 6: Toxic anion resistance protein (cds)
+ID 7: spoIVB: SpoIVB peptidase (cds)
+ID 8: ruvC: crossover junction endodeoxyribonuclease RuvC (cds)
+ID 9: araQ: L-arabinose transport system permease protein AraQ (cds)
+ID 10: Calcineurin-like phosphoesterase (cds)

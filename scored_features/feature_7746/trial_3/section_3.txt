@@ -1,0 +1,11 @@
+Image 3
+ID 1: Flippase-like domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: ccmD: CcmD family protein (cds)
+ID 4: yfcE: putative phosphodiesterase, calcineurin family (cds)
+ID 5: treZ: malto-oligosyltrehalose trehalohydrolase (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: ridA: Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family (cds)
+ID 8: proW: ABC-type proline/glycine betaine transport system, permease component (cds)
+ID 9: Peptidase M14 carboxypeptidase A (cds)
+ID 10: Cytochrome c domain-containing protein (cds)

@@ -1,0 +1,9 @@
+Image 4
+ID 1: galE: UDP-glucose 4-epimerase GalE (cds)
+ID 2: Short-chain dehydrogenase (cds)
+ID 3: Tat pathway signal protein (cds)
+ID 4: STAS/SEC14 domain-containing protein (cds)
+ID 5: GTP-binding protein (cds)
+ID 6: sdhD: succinate dehydrogenase, hydrophobic membrane anchor protein (cds)
+ID 7: SEC-C motif (cds)
+ID 8: dapE: succinyl-diaminopimelate desuccinylase (cds)

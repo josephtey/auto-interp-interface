@@ -1,0 +1,9 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: tnpB: IS66 family insertion sequence element accessory protein TnpB (cds)
+ID 3: DUF4123 domain-containing protein (cds)
+ID 4: Glycosyl hydrolase (cds)
+ID 5: hrpE: Flagellar assembly protein FliH/Type III secretion system HrpE domain-containing protein (cds)
+ID 6: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)
+ID 7: panD: aspartate 1-decarboxylase (cds)
+ID 8: gspE: type II secretion system ATPase GspE (cds)

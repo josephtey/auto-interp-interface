@@ -1,0 +1,7 @@
+ID 1: Nitrite reductase (cds)
+ID 2: rlmM: 23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM (cds)
+ID 3: 1,4-dihydroxy-2-naphthoate polyprenyltransferase (cds)
+ID 4: S9 family peptidase (cds)
+ID 5: TPP riboswitch (THI element) (ncRNA-region)
+ID 6: pal: peptidoglycan-associated lipoprotein Pal (cds)
+ID 7: origin of replication (oriC)

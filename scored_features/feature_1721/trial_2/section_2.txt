@@ -1,0 +1,12 @@
+Image 2
+ID 1: DUF418 domain-containing protein (cds)
+ID 2: Potassium channel domain-containing protein (cds)
+ID 3: atuA: Terpene utilization protein AtuA (cds)
+ID 4: Alpha-glutamyl/putrescinyl thymine pyrophosphorylase clade 3 domain-containing protein (cds)
+ID 5: gatA: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA (cds)
+ID 6: Autotransporter (cds)
+ID 7: marR: MarR family transcriptional regulator (cds)
+ID 8: tetR: TetR family transcriptional regulator (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Metal-dependent hydrolase (cds)
+ID 11: dnaN: DNA polymerase III subunit beta (cds)

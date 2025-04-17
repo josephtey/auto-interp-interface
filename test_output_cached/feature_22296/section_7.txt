@@ -1,0 +1,6 @@
+ID 1: yicI: Alpha-glucosidase/xylosidase, GH31 family (cds)
+ID 2: CRISPR spacer, sequence AAAACCAGAAGCAATAGCATCACCAACGAG (crispr-spacer)
+ID 3: alkP: Arylsulfatase A or related enzyme, AlkP superfamily (cds)
+ID 4: ybjQ: Uncharacterized pentameric protein YbjQ, UPF0145 family (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: gldB: Gliding motility protein GldB (cds)

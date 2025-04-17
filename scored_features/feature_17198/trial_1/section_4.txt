@@ -1,0 +1,10 @@
+Image 4
+ID 1: IS5 family transposase (cds)
+ID 2: hisF: Imidazole glycerol phosphate synthase subunit HisF (cds)
+ID 3: fixB: Electron transfer flavoprotein, alpha subunit FixB (cds)
+ID 4: nifU: Fe-S cluster biogenesis protein NfuA, 4Fe-4S-binding domain (cds)
+ID 5: nagD: Ribonucleotide monophosphatase NagD, HAD superfamily (cds)
+ID 6: pfkB: 1-phosphofructokinase (cds)
+ID 7: Tetratricopeptide repeat protein (cds)
+ID 8: Alanyl-tRNA synthetase (cds)
+ID 9: ptsA: Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria) (cds)

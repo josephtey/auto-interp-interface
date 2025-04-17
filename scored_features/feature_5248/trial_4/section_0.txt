@@ -1,0 +1,10 @@
+Image 0
+ID 1: G domain-containing protein (cds)
+ID 2: kynA: tryptophan 2,3-dioxygenase (cds)
+ID 3: lysE: LysE type translocator family protein (cds)
+ID 4: CRISPR spacer, sequence CGCATTGCACGGTCAAACTCCTGACCACTGGT (crispr-spacer)
+ID 5: Hydrolase-like 2, exosortase system type 1 associated (cds)
+ID 6: Methyl-accepting chemotaxis protein (cds)
+ID 7: Isochorismatase family protein (cds)
+ID 8: Bacterial type II secretion system F domain protein (cds)
+ID 9: hsdM: type I restriction-modification system subunit M (cds)

@@ -1,0 +1,10 @@
+Image 4
+ID 1: Outer membrane cobalamin receptor protein (cds)
+ID 2: mazG: nucleoside triphosphate pyrophosphohydrolase (cds)
+ID 3: Adenine-specific DNA methylase, N12 class (cds)
+ID 4: Histidinol dehydrogenase (cds)
+ID 5: Protease synthase and sporulation negative regulatory protein PAI 1 (cds)
+ID 6: merC: MerC mercury resistance protein (cds)
+ID 7: CBS-domain-containing membrane protein (cds)
+ID 8: Cobalamin riboswitch (ncRNA-region)
+ID 9: crp: cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases (cds)

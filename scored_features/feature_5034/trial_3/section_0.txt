@@ -1,0 +1,9 @@
+Image 0
+Organism: Allorhizobium pseudoryzae (a-proteobacteria)
+ID 1: flhB: flagellar biosynthesis protein FlhB (cds)
+ID 2: methyl-accepting chemotaxis protein (cds)
+ID 3: ccmD: heme exporter protein CcmD (cds)
+ID 4: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 5: ubiK: accessory factor UbiK family protein (cds)
+ID 6: TIGR04076 family protein (cds)
+ID 7: metalloregulator ArsR/SmtB family transcription factor (cds)

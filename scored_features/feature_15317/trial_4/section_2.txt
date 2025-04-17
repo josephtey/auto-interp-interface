@@ -1,0 +1,3 @@
+Image 2
+ID 1: nusA: Transcription termination/antitermination protein NusA (cds)
+ID 2: Cation transporter (cds)

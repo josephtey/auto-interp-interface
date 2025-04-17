@@ -1,0 +1,10 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: gntR: GntR family transcriptional regulator (cds)
+ID 3: Nitrile hydratase beta subunit (cds)
+ID 4: Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase component beta subunit (cds)
+ID 5: Transcriptional regulatory protein (cds)
+ID 6: uraH: hydroxyisourate hydrolase (cds)
+ID 7: Serine-type D-Ala-D-Ala carboxypeptidase (cds)
+ID 8: Cullin, a subunit of E3 ubiquitin ligase (cds)
+ID 9: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)

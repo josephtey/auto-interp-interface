@@ -1,0 +1,11 @@
+Image 0
+ID 1: Permease (cds)
+ID 2: DUF2513 domain-containing protein (cds)
+ID 3: queC: 7-cyano-7-deazaguanine synthase QueC (cds)
+ID 4: Peptidase M28 (cds)
+ID 5: rnhB: ribonuclease HII (cds)
+ID 6: fliM: flagellar motor switch protein FliM (cds)
+ID 7: Transcriptional regulator (cds)
+ID 8: fxsA: FxsA family protein (cds)
+ID 9: rrl: 23S ribosomal RNA (rRNA)
+ID 10: ATP synthase subunit b (cds)

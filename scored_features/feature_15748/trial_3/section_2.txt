@@ -1,0 +1,9 @@
+Image 2
+ID 1: RiboL-PSP-HEPN domain-containing protein (cds)
+ID 2: Succinylglutamate desuccinylase/aspartoacylase (cds)
+ID 3: Cysteine desulfurase (cds)
+ID 4: aldehyde dehydrogenase (NADP(+)) (cds)
+ID 5: Flavodoxin reductase (Ferredoxin-NADPH reductase) family 1-like protein (cds)
+ID 6: DUF3820 domain-containing protein (cds)
+ID 7: nadD: nicotinate-nucleotide adenylyltransferase (cds)
+ID 8: Cytoplasmic protein (cds)

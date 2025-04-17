@@ -1,0 +1,4 @@
+Image 2
+ID 1: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 2: scpA: methylmalonyl-CoA mutase (cds)
+ID 3: hypothetical protein (cds)

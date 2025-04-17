@@ -1,0 +1,11 @@
+Image 3
+ID 1: trnQ: tRNA-Gln(ctg) (tRNA)
+ID 2: Ferric uptake regulator, Fur family (cds)
+ID 3: yqeC: selenium cofactor biosynthesis protein YqeC (cds)
+ID 4: Glycoside hydrolase family 4 (cds)
+ID 5: mgsA: methylglyoxal synthase (cds)
+ID 6: hslO: Hsp33 family molecular chaperone HslO (cds)
+ID 7: Extracellular solute-binding protein family 1 (cds)
+ID 8: def: peptide deformylase (cds)
+ID 9: SIMPL domain-containing protein (cds)
+ID 10: Sugar isomerase (SIS) (cds)

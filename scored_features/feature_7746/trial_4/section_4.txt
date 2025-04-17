@@ -1,0 +1,10 @@
+Image 4
+ID 1: ilvE: branched-chain amino acid aminotransferase (cds)
+ID 2: Thioredoxin family protein (cds)
+ID 3: pabC: aminodeoxychorismate lyase (cds)
+ID 4: uroporphyrinogen-III C-methyltransferase (cds)
+ID 5: bioA: adenosylmethionine--8-amino-7-oxononanoate transaminase (cds)
+ID 6: ATP-binding protein (cds)
+ID 7: TonB-dependent receptor (cds)
+ID 8: Cytoplasmic protein (cds)
+ID 9: IS91 family transposase (cds)

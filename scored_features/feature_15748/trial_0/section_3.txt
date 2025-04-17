@@ -1,0 +1,11 @@
+Image 3
+ID 1: Spore coat protein U (SCPU) domain-containing protein (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: hypothetical protein (cds)
+ID 4: rlmE: 23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE (cds)
+ID 5: sbcB: exodeoxyribonuclease I (cds)
+ID 6: nrdG: anaerobic ribonucleoside-triphosphate reductase-activating protein (cds)
+ID 7: pilX: Type IV pilus assembly protein PilX (cds)
+ID 8: mreC: rod shape-determining protein MreC (cds)
+ID 9: rplC: 50S ribosomal protein L3 (cds)
+ID 10: trnG: tRNA-Gly(gcc) (tRNA)

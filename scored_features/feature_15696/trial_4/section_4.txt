@@ -1,0 +1,10 @@
+Image 4
+ID 1: porB: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit (cds)
+ID 2: hypothetical protein (cds)
+ID 3: gsh2: Gamma-glutamylcysteine synthetase (cds)
+ID 4: CRISPR spacer, sequence ATTCCGGCGAGCGCCGCGCCCGCTCGGACGCGGCCG (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: Polysaccharide deacetylase (cds)
+ID 7: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 8: Hedgehog/Intein (Hint) domain-containing protein (cds)
+ID 9: aarF: putative protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family (cds)

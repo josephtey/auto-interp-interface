@@ -1,0 +1,9 @@
+Image 1
+ID 1: Thiol:disulfide interchange protein (cds)
+ID 2: UPF0033 domain-containing protein (cds)
+ID 3: Acyltransferase (cds)
+ID 4: batD: Protein BatD (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Diguanylate cyclase (cds)
+ID 7: ybeY: rRNA maturation RNase YbeY (cds)
+ID 8: STAS domain-containing protein (cds)

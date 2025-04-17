@@ -1,0 +1,10 @@
+Image 2
+ID 1: ccdB: Toxin CcdB (cds)
+ID 2: Branched-chain amino acid transport protein (AzlD) (cds)
+ID 3: ntrB: nitrate ABC transporter permease (cds)
+ID 4: spoT: (p)ppGpp synthase/hydrolase, HD superfamily (cds)
+ID 5: gdhA: NADP-specific glutamate dehydrogenase (cds)
+ID 6: hpnC: squalene synthase HpnC (cds)
+ID 7: CRISPR array with 5 repeats of length 31, consensus sequence GGGTCTATCCCCGCTTGCGCGGGGGAACCAC and spacer length 30 (crispr)
+ID 8: Fe-S oxidoreductase (cds)
+ID 9: uspA: Universal stress protein UspA and related nucleotide-binding protein (cds)

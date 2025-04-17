@@ -1,0 +1,5 @@
+ID 1: dabA: putative inorganic carbon transporter subunit DabA (cds)
+ID 2: rsbU: Phosphoserine phosphatase RsbU (cds)
+ID 3: Lipoprotein (cds)
+ID 4: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 5: Secreted protein (cds)

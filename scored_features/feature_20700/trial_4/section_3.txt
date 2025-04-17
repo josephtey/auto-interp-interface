@@ -1,0 +1,9 @@
+Image 3
+ID 1: Phosphatidylglycerophosphatase A (cds)
+ID 2: Phosphate-binding protein (cds)
+ID 3: Cysteine synthase A (cds)
+ID 4: gcvT: glycine cleavage system aminomethyltransferase GcvT (cds)
+ID 5: Stp1/IreP family PP2C-type Ser/Thr phosphatase (cds)
+ID 6: Putative phosphoesterase SAMN05421790_101789 (cds)
+ID 7: Spore germination protein KB (cds)
+ID 8: CxxH/CxxC protein, BA_5709 family (cds)

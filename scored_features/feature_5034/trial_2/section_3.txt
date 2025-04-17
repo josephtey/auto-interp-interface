@@ -1,0 +1,10 @@
+Image 3
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: CRISPR spacer, sequence CCTGAGACGGACAGGGTTTTTAATGAGATAACATA (crispr-spacer)
+ID 3: CRISPR spacer, sequence AAGTCTTTCAGGAAGTTTTTTATGATTTGGCTATAA (crispr-spacer)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: hypothetical protein (cds)
+ID 6: Endoglucanase E (cds)
+ID 7: Glyoxal reductase (cds)
+ID 8: disA: DNA integrity scanning diadenylate cyclase DisA (cds)

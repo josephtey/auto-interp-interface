@@ -1,0 +1,13 @@
+Image 0
+ID 1: acpP: Acyl carrier protein (cds)
+ID 2: SAM riboswitch (S box leader) (ncRNA-region)
+ID 3: yvlD: DUF360 domain-containing protein (cds)
+ID 4: chb: N-acetyl-beta-hexosaminidase (cds)
+ID 5: Addiction module component (cds)
+ID 6: yicI: Alpha-glucosidase/xylosidase, GH31 family (cds)
+ID 7: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 8: egtB: ergothioneine biosynthesis protein EgtB (cds)
+ID 9: bcp: Peroxiredoxin (cds)
+ID 10: ppk1: polyphosphate kinase 1 (cds)
+ID 11: DUF1456 domain-containing protein (cds)
+ID 12: Membrane fusion protein (Multidrug efflux system) (cds)

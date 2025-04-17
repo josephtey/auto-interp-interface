@@ -1,0 +1,10 @@
+Image 1
+ID 1: qor: NADPH:quinone reductase or related Zn-dependent oxidoreductase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: tsaC: tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC (cds)
+ID 4: ResB-like domain-containing protein (cds)
+ID 5: iscA: Fe-S cluster assembly iron-binding protein IscA (cds)
+ID 6: rimI: Ribosomal protein S18 acetylase RimI and related acetyltransferases (cds)
+ID 7: iscU: SUF system NifU family Fe-S cluster assembly protein (cds)
+ID 8: btuB: Outer membrane cobalamin receptor protein BtuB (cds)
+ID 9: yIH1: Putative translation regulator, IMPACT (imprinted ancient) protein family (cds)

@@ -1,0 +1,10 @@
+Image 3
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: non-specific serine/threonine protein kinase (cds)
+ID 4: aslA: Arylsulfatase A or related enzyme, AlkP superfamily (cds)
+ID 5: CRISPR spacer, sequence ATTCTAACCCGTCTATTCCCTAGCGACCCATTATCC (crispr-spacer)
+ID 6: CRISPR spacer, sequence AACTGGTTTCGGTCGTCCACGCCGACGAGCTGGAGAT (crispr-spacer)
+ID 7: ispA: Geranylgeranyl pyrophosphate synthase (cds)
+ID 8: Adenosine deaminase domain-containing protein (cds)

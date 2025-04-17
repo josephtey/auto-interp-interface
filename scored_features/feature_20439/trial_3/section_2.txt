@@ -1,0 +1,10 @@
+Image 2
+ID 1: queA: tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA (cds)
+ID 2: tPR: Tetratricopeptide (TPR) repeat (cds)
+ID 3: dapA: 4-hydroxy-tetrahydrodipicolinate synthase/N-acetylneuraminate lyase (cds)
+ID 4: cheB: Chemotaxis response regulator CheB, contains REC and protein-glutamate methylesterase domains (cds)
+ID 5: nusA: Transcription antitermination factor NusA, contains S1 and KH domains (cds)
+ID 6: mET17: O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent (cds)
+ID 7: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)
+ID 8: kdpD: K+-sensing histidine kinase KdpD (cds)
+ID 9: glgB: 1,4-alpha-glucan branching enzyme (cds)

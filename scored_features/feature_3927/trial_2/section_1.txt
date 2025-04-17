@@ -1,0 +1,10 @@
+Image 1
+ID 1: GLPGLI family protein (cds)
+ID 2: Glycosyl transferase family 2 (cds)
+ID 3: idi: isopentenyl-diphosphate Delta-isomerase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: htpX: Heat shock protein HtpX (cds)
+ID 6: marR: DNA-binding transcriptional regulator, MarR family (cds)
+ID 7: Histone H1-like protein Hc1 (cds)
+ID 8: gldC: gliding motility protein GldC (cds)
+ID 9: putative DNA modification or repair protein, contains radical SAM and helix-hairpin-helix domains (cds)

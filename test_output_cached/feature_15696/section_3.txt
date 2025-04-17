@@ -1,0 +1,3 @@
+ID 1: cheA: Chemotaxis protein histidine kinase CheA (cds)
+ID 2: pEBP: Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family (cds)
+ID 3: hypothetical protein (cds)

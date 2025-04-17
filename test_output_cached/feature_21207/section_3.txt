@@ -1,0 +1,7 @@
+ID 1: tyrS: tyrosine--tRNA ligase (cds)
+ID 2: Dihydrofolate reductase (cds)
+ID 3: Virulence protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: adhE: Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase (cds)
+ID 7: cheW: Chemotaxis signal transduction protein CheW (cds)

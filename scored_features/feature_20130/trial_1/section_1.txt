@@ -1,0 +1,12 @@
+Image 1
+ID 1: Ysr186_sR026_CsrC: Yersinia sRNA 186/sR026/CsrC (ncRNA)
+ID 2: fre: NAD(P)H-flavin reductase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: Sodium/glutamate symport protein (cds)
+ID 6: DUF2318 domain-containing protein (cds)
+ID 7: ytcJ: putative amidohydrolase YtcJ (cds)
+ID 8: rseP: sigma E protease regulator RseP (cds)
+ID 9: sstT: serine/threonine transporter SstT (cds)
+ID 10: hisM: ABC-type amino acid transport system, permease component (cds)
+ID 11: pdeH: cyclic-guanylate-specific phosphodiesterase (cds)

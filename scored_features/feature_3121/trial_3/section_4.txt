@@ -1,0 +1,9 @@
+Image 4
+ID 1: Chorismate dehydratase (cds)
+ID 2: Tc1-like transposase DDE domain-containing protein (cds)
+ID 3: ParB/Sulfiredoxin domain-containing protein (cds)
+ID 4: glmU: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU (cds)
+ID 5: 3-oxoacyl-(Acyl-carrier-protein) synthase (cds)
+ID 6: Nitroreductase (cds)
+ID 7: Roadblock/LAMTOR2 domain-containing protein (cds)
+ID 8: Rop-like (cds)

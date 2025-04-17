@@ -1,0 +1,7 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: General stress protein 69 (cds)
+ID 5: CRISPR spacer, sequence CTGGACCTGGGCGCGCCAATCTCCTAAGGATT (crispr-spacer)
+ID 6: CRISPR spacer, sequence CAATCAGAGAACGCTTAAAATTCAAAACATCGAGA (crispr-spacer)

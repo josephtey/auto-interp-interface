@@ -1,0 +1,10 @@
+Image 3
+ID 1: tnpB: IS66 family insertion sequence element accessory protein TnpB (cds)
+ID 2: Transposase zinc-binding domain-containing protein (cds)
+ID 3: IS110 family transposase (cds)
+ID 4: Glycosidase (cds)
+ID 5: VOC domain-containing protein (cds)
+ID 6: dinB: DNA polymerase IV (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: Bacterial extracellular solute-binding protein, family 3 (cds)
+ID 9: rplW: 50S ribosomal protein L23 (cds)

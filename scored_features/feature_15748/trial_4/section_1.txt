@@ -1,0 +1,13 @@
+Image 1
+ID 1: gap (gap)
+ID 2: 3-oxoadipate CoA-transferase subunit A (cds)
+ID 3: Protease Do family protein (cds)
+ID 4: RNA polymerase sigma factor (cds)
+ID 5: NADP-dependent isocitrate dehydrogenase (cds)
+ID 6: pilX: Tfp pilus assembly protein PilX (cds)
+ID 7: murJ: murein biosynthesis integral membrane protein MurJ (cds)
+ID 8: Fatty acid hydroxylase superfamily protein (cds)
+ID 9: ptsP: Phosphoenolpyruvate-protein phosphotransferase (cds)
+ID 10: Tetratricopeptide repeat family protein (cds)
+ID 11: SnoaL-like domain-containing protein (cds)
+ID 12: gap (gap)

@@ -1,0 +1,8 @@
+Image 3
+ID 1: potA: ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component (cds)
+ID 2: tdh: Threonine dehydrogenase or related Zn-dependent dehydrogenase (cds)
+ID 3: DUF1638 domain-containing protein (cds)
+ID 4: tapT: tRNA U47 aminocarboxypropyltransferaseTapT/TuaA/ YfiP, DTW domain (cds)
+ID 5: putative glycosyltransferase (cds)
+ID 6: ybjT: DUF2867 domain-containing protein (cds)
+ID 7: mnmH: tRNA 2-selenouridine(34) synthase MnmH (cds)

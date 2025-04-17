@@ -1,0 +1,12 @@
+Image 2
+ID 1: Long-chain fatty acid transport protein (cds)
+ID 2: wbbJ: Acetyltransferase, isoleucine patch superfamily (cds)
+ID 3: DUF6089 domain-containing protein (cds)
+ID 4: S-adenosyl-methyltransferase (cds)
+ID 5: LamG-like jellyroll fold domain-containing protein (cds)
+ID 6: aroQ: type II 3-dehydroquinate dehydratase (cds)
+ID 7: wcaJ: Sugar transferase involved in LPS biosynthesis (colanic, teichoic acid) (cds)
+ID 8: lytS: Sensor histidine kinase, LytS/YehU family (cds)
+ID 9: glp: gephyrin-like molybdotransferase Glp (cds)
+ID 10: menH: 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (cds)
+ID 11: aspT: aspartate-alanine antiporter (cds)

@@ -1,0 +1,12 @@
+Image 0
+ID 1: FAD:protein FMN transferase (cds)
+ID 2: MtrB/PioB family decaheme-associated outer membrane protein (cds)
+ID 3: bioD: dethiobiotin synthase (cds)
+ID 4: Late competence development ComFB family protein (cds)
+ID 5: Acyl-CoA dehydrogenase (cds)
+ID 6: SPOR domain-containing protein (cds)
+ID 7: phosphoribulokinase (cds)
+ID 8: rrl: 23S ribosomal RNA (rRNA)
+ID 9: hypothetical protein (cds)
+ID 10: gspF: type II secretion system inner membrane protein GspF (cds)
+ID 11: ygiQ: YgiQ family radical SAM protein (cds)

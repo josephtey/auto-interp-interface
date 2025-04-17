@@ -1,0 +1,12 @@
+Image 4
+ID 1: Integral membrane protein (cds)
+ID 2: gltA: citrate synthase (cds)
+ID 3: dusB: tRNA dihydrouridine synthase DusB (cds)
+ID 4: Helix-turn-helix domain-containing protein (cds)
+ID 5: DUF2029 domain-containing protein (cds)
+ID 6: VOC domain-containing protein (cds)
+ID 7: Diacylglycerol O-acyltransferase (cds)
+ID 8: MBL fold metallo-hydrolase (cds)
+ID 9: Phosphodiesterase (cds)
+ID 10: doxX: DoxX family protein (cds)
+ID 11: Glycerol acyltransferase (cds)

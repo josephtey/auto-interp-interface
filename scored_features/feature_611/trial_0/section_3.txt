@@ -1,0 +1,9 @@
+Image 3
+ID 1: fmt: methionyl-tRNA formyltransferase (cds)
+ID 2: Zinc ABC transporter substrate-binding protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: recN: DNA repair protein RecN (cds)
+ID 5: Methyltransferase domain-containing protein (cds)
+ID 6: Peptidoglycan-associated lipoprotein (cds)
+ID 7: Histidine kinase (cds)
+ID 8: Iron-containing alcohol dehydrogenase (cds)

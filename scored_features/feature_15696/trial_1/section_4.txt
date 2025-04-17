@@ -1,0 +1,9 @@
+Image 4
+ID 1: VIT domain-containing protein (cds)
+ID 2: citT: Di- and tricarboxylate antiporter (cds)
+ID 3: Major facilitator superfamily (MFS) profile domain-containing protein (cds)
+ID 4: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 5: DinB-like domain-containing protein (cds)
+ID 6: kdpD: K+-sensing histidine kinase KdpD (cds)
+ID 7: hypothetical protein (cds)
+ID 8: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)

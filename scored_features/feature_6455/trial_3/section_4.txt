@@ -1,0 +1,10 @@
+Image 4
+ID 1: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 2: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 3: hypothetical protein (cds)
+ID 4: DMSO reductase (cds)
+ID 5: DUF3533 domain-containing protein (cds)
+ID 6: Rhomboid family intramembrane serine protease (cds)
+ID 7: Helix-turn-helix domain-containing protein (cds)
+ID 8: AAA ATPase central domain protein (cds)
+ID 9: yidC: Membrane protein insertase Oxa1/YidC/SpoIIIJ (cds)

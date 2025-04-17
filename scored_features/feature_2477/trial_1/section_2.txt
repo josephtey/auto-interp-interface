@@ -1,0 +1,11 @@
+Image 2
+Organism: Unknown organism
+ID 1: cof: Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases (cds)
+ID 2: ybdK: Gamma-glutamyl:cysteine ligase YbdK, ATP-grasp superfamily (cds)
+ID 3: tlyC: Hemolysin-related protein, contains CBS domains, UPF0053 family (cds)
+ID 4: lacZ: Beta-galactosidase/beta-glucuronidase (cds)
+ID 5: cirA: Outer membrane receptor protein, Fe transport (cds)
+ID 6: tolC: Outer membrane protein TolC (cds)
+ID 7: carA: carbamoyl phosphate synthase small subunit (cds)
+ID 8: nqrF: NADH:ubiquinone reductase (Na(+)-transporting) subunit F (cds)
+ID 9: recB: 3’-5’ helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V) (cds)

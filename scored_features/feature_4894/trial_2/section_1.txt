@@ -1,0 +1,10 @@
+Image 1
+ID 1: ISDvu5, transposase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: gGDEF: GGDEF domain, diguanylate cyclase (c-di-GMP synthetase) or its enzymatically inactive variants (cds)
+ID 4: Minor tail protein (cds)
+ID 5: yesN: Two-component response regulator, YesN/AraC family, consists of REC and AraC-type DNA-binding domains (cds)
+ID 6: CRISPR spacer, sequence CGACAAGATCGGGTCGAAAAATACGCTGATGC (crispr-spacer)
+ID 7: leuD: 3-isopropylmalate dehydratase small subunit (cds)
+ID 8: rfbA: glucose-1-phosphate thymidylyltransferase RfbA (cds)
+ID 9: cheZ: Chemotaxis protein CheZ (cds)

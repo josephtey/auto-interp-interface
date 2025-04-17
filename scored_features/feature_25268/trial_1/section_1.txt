@@ -1,0 +1,12 @@
+Image 1
+ID 1: Hotdog fold thioesterase (cds)
+ID 2: nqrM: (Na+)-NQR maturation NqrM (cds)
+ID 3: SDR family oxidoreductase (cds)
+ID 4: lapB: lipopolysaccharide assembly protein LapB (cds)
+ID 5: mnmA: tRNA 2-thiouridine(34) synthase MnmA (cds)
+ID 6: Aryl-sulfate sulfotransferase (cds)
+ID 7: Periplasmic nitrate reductase, electron transfer subunit (cds)
+ID 8: gspB: General secretion pathway protein GspB (cds)
+ID 9: rpmB: 50S ribosomal protein L28 (cds)
+ID 10: bioH: pimeloyl-ACP methyl ester esterase BioH (cds)
+ID 11: hypothetical protein (cds)

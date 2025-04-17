@@ -1,0 +1,10 @@
+Image 3
+ID 1: cYK3: Cytokinesis protein 3, contains TGc (transglutaminase/protease-like) domain (cds)
+ID 2: wcaA: TIGR04283 family arsenosugar biosynthesis glycosyltransferase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: wbbJ: Acetyltransferase, isoleucine patch superfamily (cds)
+ID 5: Lipoprotein (cds)
+ID 6: DUF1573 domain-containing protein (cds)
+ID 7: rimO: 30S ribosomal protein S12 methylthiotransferase RimO (cds)
+ID 8: norM: Na+-driven multidrug efflux pump, DinF/NorM/MATE family (cds)
+ID 9: baeS: Signal transduction histidine kinase (cds)

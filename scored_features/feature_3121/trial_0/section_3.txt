@@ -1,0 +1,8 @@
+Image 3
+ID 1: rimI: Ribosomal protein S18 acetylase RimI and related acetyltransferases (cds)
+ID 2: nifH: nitrogenase iron protein (cds)
+ID 3: proV: ABC-type proline/glycine betaine transport system, ATPase component (cds)
+ID 4: cDA1: Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family (cds)
+ID 5: TIGR04076 family protein (cds)
+ID 6: 5-bromo-4-chloroindolyl phosphate hydrolysis protein (cds)
+ID 7: ylqF: ribosome biogenesis GTPase YlqF (cds)

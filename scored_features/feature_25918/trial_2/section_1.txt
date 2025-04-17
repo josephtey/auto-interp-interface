@@ -1,0 +1,11 @@
+Image 1
+Organism: Ferrovibrio terrae (a-proteobacteria)
+ID 1: gcvPA: aminomethyl-transferring glycine dehydrogenase subunit GcvPA (cds)
+ID 2: ccrA: crotonyl-CoA carboxylase/reductase (cds)
+ID 3: Bile acid:sodium symporter family protein (cds)
+ID 4: ribonuclease HII (cds)
+ID 5: DAGKc domain-containing protein (cds)
+ID 6: Fumarylacetoacetate hydrolase family protein (cds)
+ID 7: LL-diaminopimelate aminotransferase (cds)
+ID 8: CRISPR array with 4 repeats of length 23, consensus sequence CGACCTGCGTCGTGGTCAGCGCC and spacer length 57 (crispr)
+ID 9: fliL: Flagellar protein FliL (cds)

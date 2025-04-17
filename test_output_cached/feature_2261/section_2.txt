@@ -1,0 +1,7 @@
+ID 1: 2-aminoethylphosphonate--pyruvate transaminase (cds)
+ID 2: SRPBCC family protein (cds)
+ID 3: Glycosyltransferase family 2 protein (cds)
+ID 4: ccoO: cytochrome-c oxidase, cbb3-type subunit II (cds)
+ID 5: F0F1 ATP synthase subunit B (cds)
+ID 6: murD: UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (cds)
+ID 7: origin of replication (oriV)

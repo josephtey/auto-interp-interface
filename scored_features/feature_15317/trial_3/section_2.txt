@@ -1,0 +1,11 @@
+Image 2
+ID 1: ruvA: Holliday junction branch migration protein RuvA (cds)
+ID 2: UTP--glucose-1-phosphate uridylyltransferase (cds)
+ID 3: Sodium-dependent transporter (cds)
+ID 4: nifU: NifU family protein (cds)
+ID 5: DUF779 domain-containing protein (cds)
+ID 6: Ferredoxin (cds)
+ID 7: asnB: asparagine synthase (glutamine-hydrolyzing) (cds)
+ID 8: Undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (cds)
+ID 9: Putative Peptidase (cds)
+ID 10: rpsK: 30S ribosomal protein S11 (cds)

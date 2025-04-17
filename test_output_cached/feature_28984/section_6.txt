@@ -1,0 +1,8 @@
+ID 1: hypothetical protein (cds)
+ID 2: zapE: cell division protein ZapE (cds)
+ID 3: CBS domain protein (cds)
+ID 4: AraC-type DNA-binding domain-containing protein (cds)
+ID 5: NADH-quinone oxidoreductase subunit C (cds)
+ID 6: Outer membrane protein (cds)
+ID 7: Cytotoxic translational repressor of toxin-antitoxin stability system (cds)
+ID 8: Stability determinant (cds)

@@ -1,0 +1,11 @@
+Image 0
+ID 1: moaC: cyclic pyranopterin monophosphate synthase MoaC (cds)
+ID 2: glcD: FAD/FMN-containing lactate dehydrogenase/glycolate oxidase (cds)
+ID 3: Prepilin leader peptidase/N-methyltransferase (cds)
+ID 4: Diguanylate cyclase (cds)
+ID 5: Pseudouridine synthase (cds)
+ID 6: cobO: cob(I)yrinic acid a,c-diamide adenosyltransferase (cds)
+ID 7: Lactoylglutathione lyase and related lyase (cds)
+ID 8: Zn-dependent hydrolase, including glyoxylase (cds)
+ID 9: GGDEF domain protein (cds)
+ID 10: Outer membrane protein (cds)

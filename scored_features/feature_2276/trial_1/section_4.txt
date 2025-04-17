@@ -1,0 +1,4 @@
+Image 4
+ID 1: hxlR: DNA-binding transcriptional regulator, HxlR family (cds)
+ID 2: hypothetical protein (cds)
+ID 3: dapA: 4-hydroxy-tetrahydrodipicolinate synthase (cds)

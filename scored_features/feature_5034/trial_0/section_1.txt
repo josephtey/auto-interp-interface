@@ -1,0 +1,12 @@
+Image 1
+Organism: Jeotgalibacillus malaysiensis (firmicutes)
+ID 1: yhbS: putative N-acetyltransferase YhbS (cds)
+ID 2: DUF1648 domain-containing protein (cds)
+ID 3: Cyclic di-GMP-I riboswitch (ncRNA-region)
+ID 4: nCS2: Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family (cds)
+ID 5: sseA: 3-mercaptopyruvate sulfurtransferase SseA, contains two rhodanese domains (cds)
+ID 6: ccsB: c-type cytochrome biogenesis protein CcsB (cds)
+ID 7: Transposase (cds)
+ID 8: galM: Galactose mutarotase or related enzyme (cds)
+ID 9: bcsA: Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase (cds)
+ID 10: DUF3486 domain-containing protein (cds)

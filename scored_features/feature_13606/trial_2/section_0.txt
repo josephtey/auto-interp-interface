@@ -1,0 +1,13 @@
+Image 0
+ID 1: qdoI: Cupin domain protein related to quercetin dioxygenase (cds)
+ID 2: ddpA: ABC-type transport system, periplasmic component (cds)
+ID 3: istB: IS21-like element helper ATPase IstB (cds)
+ID 4: rfbX: Membrane protein involved in the export of O-antigen and teichoic acid (cds)
+ID 5: hypothetical protein (cds)
+ID 6: phoU: phosphate signaling complex protein PhoU (cds)
+ID 7: Lipoprotein (cds)
+ID 8: CRISPR spacer, sequence GCCCTGCCTTGGACGCGCCAGTCGAGGAGCCCCTGT (crispr-spacer)
+ID 9: CRISPR spacer, sequence CGTGAATCCGGGCGGGATGTTGATATTCAGGTTCT (crispr-spacer)
+ID 10: CRISPR spacer, sequence AAGGGGCCCGTACCGGCTTGGTAACTCGTGGACGT (crispr-spacer)
+ID 11: SnoaL-like domain-containing protein (cds)
+ID 12: bcp: thioredoxin-dependent thiol peroxidase (cds)

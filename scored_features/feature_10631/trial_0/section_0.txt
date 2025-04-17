@@ -1,0 +1,11 @@
+Image 0
+ID 1: DUF2169 domain-containing protein (cds)
+ID 2: rplI: 50S ribosomal protein L9 (cds)
+ID 3: IS630 family transposase (cds)
+ID 4: pheA: bifunctional chorismate mutase/prephenate dehydratase (cds)
+ID 5: Putative membrane protein (cds)
+ID 6: cspB: Cold shock-like protein CspB (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: IS630 family transposase (cds)
+ID 9: slyX: Protein SlyX (cds)
+ID 10: kdtX: Lipopolysaccharide core biosynthesis glycosyltransferase kdtX (cds)

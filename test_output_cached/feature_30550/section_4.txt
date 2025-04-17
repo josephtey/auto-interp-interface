@@ -1,0 +1,4 @@
+ID 1: Phage-related protein (cds)
+ID 2: proA: glutamate-5-semialdehyde dehydrogenase (cds)
+ID 3: ampC: class C beta-lactamase (cds)
+ID 4: Phage protein (cds)

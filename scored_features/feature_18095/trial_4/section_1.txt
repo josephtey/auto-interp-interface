@@ -1,0 +1,13 @@
+Image 1
+ID 1: ABC transporter permease (cds)
+ID 2: padR: PadR family transcriptional regulator (cds)
+ID 3: rnc: ribonuclease III (cds)
+ID 4: mscL: large conductance mechanosensitive channel protein MscL (cds)
+ID 5: demethylmenaquinone methyltransferase (cds)
+ID 6: Xaa-Pro dipeptidase (cds)
+ID 7: Polysaccharide deacetylase (cds)
+ID 8: ftsI: Cell division protein FtsI (cds)
+ID 9: CRISPR spacer, sequence GGCGGCATTATCGACTTTATCACGGGGGTATTCACGG (crispr-spacer)
+ID 10: CRISPR spacer, sequence ATTTTTCCTTCCTCTGTAATAGTATATCTGTTAGA (crispr-spacer)
+ID 11: Aspartate racemase (cds)
+ID 12: hypothetical protein (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: Transposase IS4-like domain-containing protein (cds)
+ID 2: thpR: RNA 2',3'-cyclic phosphodiesterase (cds)
+ID 3: MalT-like TPR region domain-containing protein (cds)
+ID 4: nagC: Sugar kinase of the NBD/HSP70 family, may contain an N-terminal HTH domain (cds)
+ID 5: Helix-turn-helix transcriptional regulator (cds)
+ID 6: Heterodimeric methylmalonyl-CoA mutase small subunit (cds)
+ID 7: trnQ: tRNA-Gln(ctg) (tRNA)
+ID 8: Aliphatic sulfonate ABC transporter substrate-binding protein (cds)
+ID 9: Lipoprotein (cds)
+ID 10: DUF4235 domain-containing protein (cds)
+ID 11: Helix-turn-helix domain-containing protein (cds)

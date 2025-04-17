@@ -1,0 +1,13 @@
+Image 1
+ID 1: trnV: tRNA-Val(tac) (tRNA)
+ID 2: Beta-ketoacyl-[acyl-carrier-protein] synthase III (cds)
+ID 3: fabF: beta-ketoacyl-ACP synthase II (cds)
+ID 4: Ion-translocating oxidoreductase complex subunit E (cds)
+ID 5: rsxB: electron transport complex subunit RsxB (cds)
+ID 6: hutX: heme utilization cystosolic carrier protein HutX (cds)
+ID 7: lysR: LysR family transcriptional regulator (cds)
+ID 8: hypothetical protein (cds)
+ID 9: integration host factor subunit alpha (cds)
+ID 10: Carbohydrate porin (cds)
+ID 11: hypothetical protein (cds)
+ID 12: yidC: membrane protein insertase YidC (cds)

@@ -1,0 +1,10 @@
+Image 1
+ID 1: DNA internalization-related competence protein ComEC/Rec2 (cds)
+ID 2: queC: 7-cyano-7-deazaguanine synthase QueC (cds)
+ID 3: Trimeric autotransporter adhesin YadA-like C-terminal membrane anchor domain-containing protein (cds)
+ID 4: Radical SAM protein (cds)
+ID 5: ABC-2 type transport system permease protein (cds)
+ID 6: rrf: 5S ribosomal RNA (rRNA)
+ID 7: Type II secretion system protein J (cds)
+ID 8: hypothetical protein (cds)
+ID 9: N-acetyltransferase (cds)

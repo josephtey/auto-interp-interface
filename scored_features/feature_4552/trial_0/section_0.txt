@@ -1,0 +1,11 @@
+Image 0
+ID 1: cytR: (pseudo) DNA-binding transcriptional regulator CytR (cds)
+ID 2: Bacteriophage replication protein O (cds)
+ID 3: hypothetical protein (cds)
+ID 4: rnpA: ribonuclease P protein component (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: histidine kinase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: msbA: lipid A ABC transporter ATP-binding protein/permease MsbA (cds)

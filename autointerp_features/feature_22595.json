@@ -1,0 +1,10 @@
+{
+  "reasoning": "I examined each image for patterns of feature activation, noting that the strongest activations consistently appear in relation to non-coding RNA elements or their vicinity. I paid close attention to the genomic context, annotation positions, and activation strength patterns across all examples.",
+  "findings": "The feature exhibits very strong activations specifically at or near non-coding RNA (ncRNA) elements. In section_0.png, there's strong activation directly at ID 7 (5S ribosomal RNA). In section_2.png, activation occurs at ID 1 (tRNA-Arg). In section_5.png, activation is present at ID 9 (tRNA-fMet). In section_9.png, strong activation appears near ID 6 (ar15 ncRNA). The S-element ncRNA in section_3.png also shows association with activation peaks. The feature consistently demonstrates high amplitude (3-4 value) spikes precisely at these functional RNA elements, particularly tRNAs and rRNAs.",
+  "conclusion": "This feature strongly and consistently detects non-coding RNA elements, especially tRNAs and rRNAs, with high specificity and significance.",
+  "title": "Non-coding RNA element detector",
+  "activation-pattern": "spike",
+  "description": "This feature specifically detects functional non-coding RNA elements, particularly transfer RNAs (tRNAs) and ribosomal RNAs (rRNAs), showing consistent, high-amplitude activation directly at these elements. The activation pattern appears as sharp, significant spikes (values 3-4) precisely at the location of the RNA elements. The feature likely captures sequence or structural motifs unique to these critical RNA processing and translation components. The pattern is highly consistent across examples where ncRNAs are present, with 5S rRNA, tRNA-Arg, tRNA-fMet, and alphaproteobacterial ar15 ncRNA all triggering strong responses. This feature appears particularly active in Alphaproteobacteria, especially Allorhizobium pseudoryzae, where most examples are from.",
+  "feature_id": 22595,
+  "score": 0.0
+}

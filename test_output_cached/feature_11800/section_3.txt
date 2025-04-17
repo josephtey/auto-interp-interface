@@ -1,0 +1,8 @@
+ID 1: phnD: ABC-type phosphate/phosphonate transport system, periplasmic component (cds)
+ID 2: Ribosomal-protein-alanine acetyltransferase (cds)
+ID 3: Type IV pilin (cds)
+ID 4: ABC-type amino acid transporter periplasmic binding protein (cds)
+ID 5: ccoQ: Cbb3-type cytochrome oxidase, subunit 3 (cds)
+ID 6: cutA: Divalent-cation tolerance protein CutA (cds)
+ID 7: treC: alpha,alpha-phosphotrehalase (cds)
+ID 8: fliFL: lateral flagellar M-ring protein FliFL (cds)

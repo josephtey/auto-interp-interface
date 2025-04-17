@@ -1,0 +1,11 @@
+Image 2
+ID 1: btuE: Thioredoxin/glutathione peroxidase BtuE, reduces lipid peroxides (cds)
+ID 2: tlyC: Hemolysin-related protein, contains CBS domains, UPF0053 family (cds)
+ID 3: argS: arginine--tRNA ligase (cds)
+ID 4: trnD: tRNA-Asp(gtc) (tRNA)
+ID 5: Phage protein (cds)
+ID 6: norM: Na+-driven multidrug efflux pump, DinF/NorM/MATE family (cds)
+ID 7: lutC: L-lactate utilization protein LutC, contains LUD domain (cds)
+ID 8: Glycosyl transferase family 1 domain-containing protein (cds)
+ID 9: Cytochrome c, class II (cds)
+ID 10: arsR: DNA-binding transcriptional regulator, ArsR family (cds)

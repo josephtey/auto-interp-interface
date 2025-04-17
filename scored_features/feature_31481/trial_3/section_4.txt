@@ -1,0 +1,7 @@
+Image 4
+ID 1: lrgB: Putative effector of murein hydrolase (cds)
+ID 2: trnS: tRNA-Ser(cga) (tRNA)
+ID 3: CRISPR spacer, sequence CTTCAAAGAAAAAAGAGTGATAAATAGATA (crispr-spacer)
+ID 4: appC: Cytochrome bd-type quinol oxidase, subunit 1 (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Helix-turn-helix domain-containing protein (cds)

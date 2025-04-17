@@ -1,0 +1,10 @@
+Image 1
+ID 1: lbtU: LbtU family siderophore porin (cds)
+ID 2: infA: translation initiation factor IF-1 (cds)
+ID 3: hypothetical protein (cds)
+ID 4: comFC: DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain (cds)
+ID 5: dnaK: Molecular chaperone DnaK (HSP70) (cds)
+ID 6: DUF4148 domain-containing protein (cds)
+ID 7: ATP-binding protein (cds)
+ID 8: HEARO: HNH endonuclease-associated RNA and ORF (HEARO) RNA (ncRNA)
+ID 9: CRISPR spacer, sequence GAGATCTCATTTTCTCCATGTGATCTCGGACA (crispr-spacer)

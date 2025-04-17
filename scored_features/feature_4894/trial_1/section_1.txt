@@ -1,0 +1,11 @@
+Image 1
+ID 1: ecfA1: Energy-coupling factor transporter ATP-binding protein EcfA1 (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: hypothetical protein (cds)
+ID 6: CRISPR spacer, sequence GTTCTCATGTGATACCCTCTGGGTTATCGCCGTCATCGATCAAACAAT (crispr-spacer)
+ID 7: hypothetical protein (cds)
+ID 8: Bacterial transcription activator effector binding domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

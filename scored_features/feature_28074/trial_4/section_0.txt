@@ -1,0 +1,12 @@
+Image 0
+ID 1: Helix-turn-helix domain-containing protein (cds)
+ID 2: DUF554 domain-containing protein (cds)
+ID 3: livH: high-affinity branched-chain amino acid ABC transporter permease LivH (cds)
+ID 4: gltS: sodium/glutamate symporter (cds)
+ID 5: purK: 5-(carboxyamino)imidazole ribonucleotide synthase (cds)
+ID 6: parD: Antitoxin ParD (cds)
+ID 7: Cyclic pyranopterin monophosphate synthase (cds)
+ID 8: PyrD leader (ncRNA-region)
+ID 9: hypothetical protein (cds)
+ID 10: FUSC family protein (cds)
+ID 11: citD: citrate lyase acyl carrier protein (cds)

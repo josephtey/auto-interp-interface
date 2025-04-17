@@ -1,0 +1,11 @@
+Image 1
+ID 1: ABC transporter permease (cds)
+ID 2: type III polyketide synthase (cds)
+ID 3: ABC transporter permease subunit (cds)
+ID 4: Calcineurin-like phosphoesterase domain-containing protein (cds)
+ID 5: Thiamine-binding protein domain-containing protein (cds)
+ID 6: Cation transporter (cds)
+ID 7: cheA: Chemotaxis protein CheA (cds)
+ID 8: Endonuclease/exonuclease/phosphatase domain-containing protein (cds)
+ID 9: nuoM: NADH-quinone oxidoreductase subunit M (cds)
+ID 10: DUF4287 domain-containing protein (cds)

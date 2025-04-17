@@ -1,0 +1,11 @@
+Image 0
+ID 1: LETM1-related biofilm-associated protein (cds)
+ID 2: DUF721 domain-containing protein (cds)
+ID 3: ansA: L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D (cds)
+ID 4: pyk: pyruvate kinase (cds)
+ID 5: gldL: Gliding motility protein GldL (cds)
+ID 6: RND transporter (cds)
+ID 7: mnmE: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE (cds)
+ID 8: porT: PorT family protein (cds)
+ID 9: tsaD: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD (cds)
+ID 10: Acyl-CoA reductase (cds)

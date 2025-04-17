@@ -1,0 +1,4 @@
+ID 1: Arabinose metabolism transcriptional repressor (cds)
+ID 2: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 3: Ammonium transporter (cds)
+ID 4: yteT: Putative oxidoreductase YteT (cds)

@@ -1,0 +1,9 @@
+Image 3
+ID 1: Multidrug ABC transporter ATP-binding protein (cds)
+ID 2: Colicin import membrane protein (cds)
+ID 3: racE: glutamate racemase (cds)
+ID 4: spoIVA: stage IV sporulation protein A (cds)
+ID 5: araC: AraC family transcriptional regulator (cds)
+ID 6: rplB: 50S ribosomal protein L2 (cds)
+ID 7: Exopolysaccharide biosynthesis protein (cds)
+ID 8: acnA: aconitate hydratase AcnA (cds)

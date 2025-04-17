@@ -1,0 +1,10 @@
+Image 0
+ID 1: yvaK: Esterase/lipase (cds)
+ID 2: ytvI: sporulation integral membrane protein YtvI (cds)
+ID 3: yoqJ: Uncharacterized SPBc2 prophage-derived protein YoqJ (cds)
+ID 4: spo0A: sporulation transcription factor Spo0A (cds)
+ID 5: sspI: small acid-soluble spore protein SspI (cds)
+ID 6: motS: flagellar motor protein MotS (cds)
+ID 7: Type I site-specific restriction-modification system, R (restriction) subunit and related helicases (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)

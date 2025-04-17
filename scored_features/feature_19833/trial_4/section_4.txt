@@ -1,0 +1,11 @@
+Image 4
+ID 1: DUF1653 domain-containing protein (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR spacer, sequence TTTCATTGATAAACAGACACTGATAAATATTCTTT (crispr-spacer)
+ID 4: thiamine phosphate synthase (cds)
+ID 5: Flagellar biogenesis protein (cds)
+ID 6: eam: glutamate 2,3-aminomutase (cds)
+ID 7: trxA: thioredoxin (cds)
+ID 8: sigma factor-like helix-turn-helix DNA-binding protein (cds)
+ID 9: rsgI: RsgI N-terminal anti-sigma domain-containing protein (cds)
+ID 10: Lipoteichoic acid synthase 2 (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: Sugar ABC transporter substrate-binding protein (cds)
+ID 2: ABC-2 type transport system permease protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: yjbQ: Thiamin phosphate synthase YjbQ, UPF0047 family (cds)
+ID 5: Pentapeptide repeat-containing protein (cds)
+ID 6: MFS transporter (cds)
+ID 7: DUF418 domain-containing protein (cds)
+ID 8: Proline racemase family protein (cds)
+ID 9: Ferredoxin (cds)
+ID 10: Glyoxalase (cds)
+ID 11: nagB: glucosamine-6-phosphate deaminase (cds)

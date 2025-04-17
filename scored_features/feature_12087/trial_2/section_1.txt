@@ -1,0 +1,10 @@
+Image 1
+ID 1: pitrilysin family protein (cds)
+ID 2: pth: aminoacyl-tRNA hydrolase (cds)
+ID 3: DUF5004 domain-containing protein (cds)
+ID 4: class I SAM-dependent methyltransferase (cds)
+ID 5: LlaJI family restriction endonuclease (cds)
+ID 6: transposase (cds)
+ID 7: Cardiolipin synthase N-terminal domain-containing protein (cds)
+ID 8: Sortilin N-terminal domain-containing protein (cds)
+ID 9: thioesterase family protein (cds)

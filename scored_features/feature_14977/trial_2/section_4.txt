@@ -1,0 +1,11 @@
+Image 4
+ID 1: dsrE: DsrE family protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF4440 domain-containing protein (cds)
+ID 4: NADH:flavin oxidoreductase/NADH oxidase (cds)
+ID 5: GNAT family N-acetyltransferase (cds)
+ID 6: DUF4129 domain-containing protein (cds)
+ID 7: ycaO: YcaO domain-containing protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: DUF6492 domain-containing protein (cds)
+ID 10: bla: class A beta-lactamase (cds)

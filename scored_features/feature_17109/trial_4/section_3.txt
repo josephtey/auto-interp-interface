@@ -1,0 +1,12 @@
+Image 3
+ID 1: qseC: Sensor protein QseC (cds)
+ID 2: nikD: nickel import ATP-binding protein NikD (cds)
+ID 3: thrS: threonine--tRNA ligase (cds)
+ID 4: GGDEF domain-containing protein (cds)
+ID 5: SMP-30/gluconolactonase/LRE family protein (cds)
+ID 6: Spermidine synthase (cds)
+ID 7: NAD-dependent epimerase/dehydratase family protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: rpsL: 30S ribosomal protein S12 (cds)
+ID 10: araC: AraC family transcriptional regulator (cds)
+ID 11: hypothetical protein (cds)

@@ -1,0 +1,13 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: histidine kinase (cds)
+ID 3: Uncharacterized protein family (UPF0093) (cds)
+ID 4: Iron complex transport system permease protein (cds)
+ID 5: Glyoxylase, beta-lactamase superfamily II (cds)
+ID 6: histidine kinase (cds)
+ID 7: Cysteine desulfurase (cds)
+ID 8: selB: selenocysteine-specific translation elongation factor (cds)
+ID 9: Fas apoptotic inhibitory molecule (FAIM1) (cds)
+ID 10: hypothetical protein (cds)
+ID 11: nifS: Cysteine desulfurase (cds)
+ID 12: ABC-2 type transport system permease protein (cds)

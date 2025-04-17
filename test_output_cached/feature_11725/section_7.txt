@@ -1,0 +1,7 @@
+ID 1: hypothetical protein (cds)
+ID 2: istA: IS21 family transposase (cds)
+ID 3: A nuclease family of the HNH/ENDO VII superfamily with conserved AHH (cds)
+ID 4: argE: Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase or related deacylase (cds)
+ID 5: DUF4410 domain-containing protein (cds)
+ID 6: DUF4440 domain-containing protein (cds)
+ID 7: Lipoprotein (cds)

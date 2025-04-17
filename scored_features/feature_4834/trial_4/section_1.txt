@@ -1,0 +1,13 @@
+Image 1
+ID 1: ATP-dependent 6-phosphofructokinase (cds)
+ID 2: trnL: tRNA-Leu(taa) (tRNA)
+ID 3: Purine riboswitch (ncRNA-region)
+ID 4: araC: Transcriptional regulator, AraC family (cds)
+ID 5: Glycoside hydrolase family 2 sugar binding protein (cds)
+ID 6: alr: alanine racemase (cds)
+ID 7: Ion-translocating oxidoreductase complex subunit D (cds)
+ID 8: ytfJ: Sporulation protein YtfJ (cds)
+ID 9: Ribonuclease D (cds)
+ID 10: modA: molybdate ABC transporter substrate-binding protein (cds)
+ID 11: trnP: tRNA-Pro(tgg) (tRNA)
+ID 12: rrl: 23S ribosomal RNA (rRNA)

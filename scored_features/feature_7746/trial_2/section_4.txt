@@ -1,0 +1,9 @@
+Image 4
+ID 1: fliS: Flagellar protein FliS (cds)
+ID 2: Apea-like HEPN domain-containing protein (cds)
+ID 3: HDOD domain-containing protein (cds)
+ID 4: cysS: cysteine--tRNA ligase (cds)
+ID 5: SMI1/KNR4 family protein (cds)
+ID 6: NUDIX hydrolase (cds)
+ID 7: Tetratricopeptide repeat protein (cds)
+ID 8: der: ribosome biogenesis GTPase Der (cds)

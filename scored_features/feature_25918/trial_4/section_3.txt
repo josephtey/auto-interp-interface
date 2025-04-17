@@ -1,0 +1,8 @@
+Image 3
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: kdpA: potassium-transporting ATPase subunit KdpA (cds)
+ID 2: gloA: Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ycaP: DUF421 domain-containing protein (cds)
+ID 5: hxlR: DNA-binding transcriptional regulator, HxlR family (cds)
+ID 6: CRISPR repeat (crispr-repeat)

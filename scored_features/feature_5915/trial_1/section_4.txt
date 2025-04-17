@@ -1,0 +1,13 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: alsB: D-allose transporter substrate-binding protein (cds)
+ID 3: Uncharacterized conserved protein, lysophospholipid acyltransferase (LPLAT) superfamily (cds)
+ID 4: rssA: putative acylesterase/phospholipase RssA, containd patatin domain (cds)
+ID 5: rfaE: ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase (cds)
+ID 6: Methyltransferase domain-containing protein (cds)
+ID 7: sfcA: Malic enzyme (cds)
+ID 8: abrB: Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module (cds)
+ID 9: yokD: Aminoglycoside N3'-acetyltransferase (cds)
+ID 10: tex: Transcriptional accessory protein Tex/SPT6 (cds)
+ID 11: lacI: LacI family DNA-binding transcriptional regulator (cds)
+ID 12: DUF937 domain-containing protein (cds)

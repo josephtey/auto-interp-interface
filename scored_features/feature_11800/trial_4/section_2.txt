@@ -1,0 +1,8 @@
+Image 2
+ID 1: ugpE: ABC-type glycerol-3-phosphate transport system, permease component (cds)
+ID 2: Phage protein (cds)
+ID 3: U32 family peptidase (cds)
+ID 4: galE: UDP-glucose 4-epimerase GalE (cds)
+ID 5: tsuA: thiosulfate utilization transporter TsuA/YeeE (cds)
+ID 6: nuoF: NADH-quinone oxidoreductase subunit NuoF (cds)
+ID 7: hypothetical protein (cds)

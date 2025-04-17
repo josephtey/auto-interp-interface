@@ -1,0 +1,11 @@
+Image 4
+ID 1: Virulence factor (cds)
+ID 2: TIGR04211 family SH3 domain-containing protein (cds)
+ID 3: 2-dehydro-3-deoxy-6-phosphogalactonate aldolase (cds)
+ID 4: pldA: phospholipase A (cds)
+ID 5: DUF262 domain-containing protein (cds)
+ID 6: rsmS: pleiotropic regulatory protein RsmS (cds)
+ID 7: ybaB: YbaB/EbfC family nucleoid-associated protein (cds)
+ID 8: Acyl carrier protein (cds)
+ID 9: CRISPR spacer, sequence TGATAAAAAA (crispr-spacer)
+ID 10: tyrP: tyrosine transporter TyrP (cds)

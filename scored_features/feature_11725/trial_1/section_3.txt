@@ -1,0 +1,10 @@
+Image 3
+ID 1: Acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II (cds)
+ID 2: Spore coat protein JA (cds)
+ID 3: Enoyl reductase (ER) domain-containing protein (cds)
+ID 4: Glycerol-3-phosphate dehydrogenase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Cytochrome bd-I ubiquinol oxidase subunit 1 apoprotein (cds)
+ID 7: Thiazole tautomerase (Transcriptional regulator TenI) (cds)
+ID 8: Citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family (cds)
+ID 9: Energy-coupling factor transport system substrate-specific component (cds)

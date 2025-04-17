@@ -1,0 +1,10 @@
+Image 0
+ID 1: flgK: flagellar hook-associated protein FlgK (cds)
+ID 2: betA: Choline dehydrogenase or related flavoprotein (cds)
+ID 3: sspA: stringent starvation protein SspA (cds)
+ID 4: ybjK: DNA-binding transcriptional regulator YbjK (cds)
+ID 5: rimI: Ribosomal protein S18 acetylase RimI and related acetyltransferases (cds)
+ID 6: sraA: sraA (ncRNA)
+ID 7: proP: MFS family permease, includes anhydromuropeptide permease AmpG (cds)
+ID 8: cspC: Cold shock protein, CspA family (cds)
+ID 9: hypothetical protein (cds)

@@ -1,0 +1,12 @@
+Image 0
+ID 1: Outer membrane protein (cds)
+ID 2: MFS transporter (cds)
+ID 3: secF: Protein-export membrane protein SecF (cds)
+ID 4: Diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(S) (cds)
+ID 5: Beta-ketoacyl synthase N-terminal domain-containing protein (cds)
+ID 6: 3-dehydroquinate synthase (cds)
+ID 7: Long-chain-fatty-acid--CoA ligase (cds)
+ID 8: Multidrug DMT transporter permease (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Ethanolamine ammonia-lyase large subunit (cds)
+ID 11: rplJ: 50S ribosomal protein L10 (cds)

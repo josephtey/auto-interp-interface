@@ -1,0 +1,13 @@
+Image 2
+ID 1: Acyl-CoA dehydrogenase domain-containing protein (cds)
+ID 2: Xanthine/uracil/vitamin C permease (cds)
+ID 3: esxS: Type VII secretion protein EsxS (cds)
+ID 4: ErfK/YbiS/YcfS/YnhG family protein (cds)
+ID 5: Putative transmembrane protein (cds)
+ID 6: ABC transporter permease (cds)
+ID 7: Family 3 adenylate cyclase (cds)
+ID 8: Rieske (2Fe-2S) domain-containing protein (cds)
+ID 9: Polyketide cyclase / dehydrase and lipid transport (cds)
+ID 10: arcC: carbamate kinase (cds)
+ID 11: 3-ketoacyl-CoA thiolase/Acetyl-CoA acetyltransferase (cds)
+ID 12: ROK-family transcriptional regulator (cds)

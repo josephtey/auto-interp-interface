@@ -1,0 +1,11 @@
+Image 3
+ID 1: yvaM: AB hydrolase superfamily protein YvaM (cds)
+ID 2: Outer membrane efflux protein (cds)
+ID 3: bamB: Outer membrane protein assembly factor BamB (cds)
+ID 4: Putative tRNA (cytidine(34)-2'-O)-methyltransferase (cds)
+ID 5: Nramp family divalent metal transporter (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Addiction module component (cds)
+ID 8: Peptidase M16 inactive domain protein (cds)
+ID 9: Beta-hexosaminidase bacterial type N-terminal domain-containing protein (cds)
+ID 10: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)

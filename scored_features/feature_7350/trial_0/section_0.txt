@@ -1,0 +1,10 @@
+Image 0
+ID 1: UPF0434 protein TH606_04735 (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR spacer, sequence TTTAAGTTTTGTTATTGTTTCGTAAATTTTAAATAATTCTTG (crispr-spacer)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: CRISPR array with 14 repeats of length 30, consensus sequence GTTAAAATCAGACCGTTTCGGTATGGAAAC and spacer length 39 (crispr)
+ID 9: hypothetical protein (cds)

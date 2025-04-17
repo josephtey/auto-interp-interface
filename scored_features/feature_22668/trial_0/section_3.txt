@@ -1,0 +1,13 @@
+Image 3
+ID 1: pilM: Pilus assembly protein PilM (cds)
+ID 2: 6-phosphogluconate dehydrogenase (cds)
+ID 3: DUF3829 domain-containing protein (cds)
+ID 4: trnK: tRNA-Lys(ctt) (tRNA)
+ID 5: plsY: glycerol-3-phosphate 1-O-acyltransferase PlsY (cds)
+ID 6: Alpha/beta hydrolase (cds)
+ID 7: Acetylhydrolase (cds)
+ID 8: Flavodoxin-like fold domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: 2-oxoacid:ferredoxin oxidoreductase subunit beta (cds)
+ID 11: ATP-binding cassette domain-containing protein (cds)
+ID 12: Anti-Pycsar protein Apyc1 (cds)

@@ -1,0 +1,8 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: rplU: 50S ribosomal protein L21 (cds)
+ID 3: DUF4058 domain-containing protein (cds)
+ID 4: Phage portal protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Putative Flp pilus-assembly TadG-like N-terminal domain-containing protein (cds)
+ID 7: LL-diaminopimelate aminotransferase (cds)

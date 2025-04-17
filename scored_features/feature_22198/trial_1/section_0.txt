@@ -1,0 +1,7 @@
+Image 0
+ID 1: aroC: chorismate synthase (cds)
+ID 2: citE: Citrate lyase beta subunit (cds)
+ID 3: glmU: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU (cds)
+ID 4: hypothetical protein (cds)
+ID 5: recG: ATP-dependent DNA helicase RecG (cds)
+ID 6: Glr2966 protein (cds)

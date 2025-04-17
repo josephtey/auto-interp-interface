@@ -1,0 +1,2 @@
+ID 1: ycfP: putative esterase YcpF, UPF0227 family (cds)
+ID 2: rnpA: ribonuclease P protein component (cds)

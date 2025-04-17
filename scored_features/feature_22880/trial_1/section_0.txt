@@ -1,0 +1,13 @@
+Image 0
+ID 1: DUF488 domain-containing protein (cds)
+ID 2: pdhA: pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha (cds)
+ID 3: Acyl-CoA dehydrogenase (cds)
+ID 4: bifunctional cystathionine gamma-lyase/homocysteine desulfhydrase (cds)
+ID 5: tetR: Transcriptional regulator, TetR family (cds)
+ID 6: Long-chain acyl-CoA synthetase (cds)
+ID 7: steA: putative cytokinetic ring protein SteA (cds)
+ID 8: YtkA-like (cds)
+ID 9: Methyltransferase domain-containing protein (cds)
+ID 10: CRISPR spacer, sequence ATCTTGTGGGATATGAAGAGATTCCGATGGATGGA (crispr-spacer)
+ID 11: Calcineurin-like phosphoesterase domain-containing protein (cds)
+ID 12: histidine kinase (cds)

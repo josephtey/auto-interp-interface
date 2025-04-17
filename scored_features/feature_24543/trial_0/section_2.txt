@@ -1,0 +1,8 @@
+Image 2
+ID 1: hinT: Purine nucleoside phosphoramidase/Ap4A hydrolase, histidine triade (HIT) family (cds)
+ID 2: tolQ: Biopolymer transport protein ExbB/TolQ (cds)
+ID 3: pheA: prephenate dehydratase (cds)
+ID 4: Cytosolic protein (cds)
+ID 5: mrcA: Membrane carboxypeptidase/penicillin-binding protein (cds)
+ID 6: thiG: Thiazole synthase ThiGH, ThiG subunit (thiamin biosynthesis) (cds)
+ID 7: baeS: Signal transduction histidine kinase (cds)

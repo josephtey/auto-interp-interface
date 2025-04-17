@@ -1,0 +1,10 @@
+Image 4
+ID 1: CADD family putative folate metabolism protein (cds)
+ID 2: putative membrane transporter protein (cds)
+ID 3: pstA: phosphate ABC transporter permease PstA (cds)
+ID 4: PH domain-containing protein (cds)
+ID 5: 6-bladed beta-propeller (cds)
+ID 6: NAD-dependent protein deacylase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: DUF3618 domain-containing protein (cds)
+ID 9: cinA: CinA family protein (cds)

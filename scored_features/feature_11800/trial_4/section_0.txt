@@ -1,0 +1,9 @@
+Image 0
+ID 1: corB: Mg2+ and Co2+ transporter CorB, contains DUF21, CBS pair, and CorC-HlyC domains (cds)
+ID 2: Type IV pilin (cds)
+ID 3: DNA gyrase subunit B (cds)
+ID 4: fabG: YciK family oxidoreductase (cds)
+ID 5: rnhA: ribonuclease HI (cds)
+ID 6: dsbC: Protein thiol-disulfide isomerase DsbC (cds)
+ID 7: lafA: lateral flagellin LafA (cds)
+ID 8: trnD: tRNA-Asp(gtc) (tRNA)

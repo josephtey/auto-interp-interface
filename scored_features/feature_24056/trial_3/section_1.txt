@@ -1,0 +1,10 @@
+Image 1
+ID 1: glgC: glucose-1-phosphate adenylyltransferase (cds)
+ID 2: Heavy metal translocating P-type ATPase (cds)
+ID 3: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 4: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 5: exbD: Biopolymer transport protein ExbD (cds)
+ID 6: dctQ: TRAP-type C4-dicarboxylate transport system, large permease component (cds)
+ID 7: hypothetical protein (cds)
+ID 8: siaC: SiaC family regulatory phosphoprotein domain-containing protein (cds)
+ID 9: Phage tail E family protein (cds)

@@ -1,0 +1,8 @@
+Image 1
+ID 1: merR: MerR regulatory family protein (cds)
+ID 2: hutI: imidazolonepropionase (cds)
+ID 3: YGGT family protein (cds)
+ID 4: clpB: ATP-dependent chaperone ClpB (cds)
+ID 5: RNase H family protein (cds)
+ID 6: lysR: Bacterial regulatory helix-turn-helix, lysR family protein (cds)
+ID 7: sdhD: succinate dehydrogenase, hydrophobic membrane anchor protein (cds)

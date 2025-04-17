@@ -1,0 +1,8 @@
+Image 0
+ID 1: WD domain, G-beta repeat (cds)
+ID 2: Chromosome partition protein Smc (cds)
+ID 3: Ferritin-like domain-containing protein (cds)
+ID 4: ABC1 atypical kinase-like domain-containing protein (cds)
+ID 5: Transcriptional regulator PadR-like family protein (cds)
+ID 6: SMI1/KNR4 family protein (cds)
+ID 7: hypothetical protein (cds)

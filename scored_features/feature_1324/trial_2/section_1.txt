@@ -1,0 +1,12 @@
+Image 1
+ID 1: Amidohydrolase-related domain-containing protein (cds)
+ID 2: branched-chain amino acid aminotransferase (cds)
+ID 3: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 4: CoA transferase (cds)
+ID 5: HTH tetR-type domain-containing protein (cds)
+ID 6: Cytochrome P450 (cds)
+ID 7: Putative short chain dehydrogenase/reductase (cds)
+ID 8: Limonene 1,2-monooxygenase (cds)
+ID 9: Putative enoyl-CoA hydratase echA12 (cds)
+ID 10: MBL fold metallo-hydrolase (cds)
+ID 11: Short-chain dehydrogenase/reductase (cds)

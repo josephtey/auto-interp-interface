@@ -1,0 +1,10 @@
+Image 4
+ID 1: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 2: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 3: Methyltransferase type 11 (cds)
+ID 4: sufB: Fe-S cluster assembly protein SufB (cds)
+ID 5: CRISPR spacer, sequence GACGAACAACTCGACCGCGGCCGTGACCCTGTCCGGG (crispr-spacer)
+ID 6: Cytochrome oxidase subunit I profile domain-containing protein (cds)
+ID 7: eutM: ethanolamine utilization microcompartment protein EutM (cds)
+ID 8: pTC1: Serine/threonine protein phosphatase PrpC (cds)
+ID 9: metL1: Aspartate kinase (cds)

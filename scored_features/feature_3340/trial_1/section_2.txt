@@ -1,0 +1,12 @@
+Image 2
+Organism: Jeotgalibacillus malaysiensis (firmicutes)
+ID 1: YaaC-like Protein (cds)
+ID 2: Putative Flp pilus-assembly TadG-like N-terminal domain-containing protein (cds)
+ID 3: purD: Phosphoribosylamine-glycine ligase (cds)
+ID 4: N-acetyltransferase (cds)
+ID 5: glnA: type I glutamate--ammonia ligase (cds)
+ID 6: sufD: Fe-S cluster assembly protein SufD (cds)
+ID 7: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 8: qor: NADPH:quinone reductase or related Zn-dependent oxidoreductase (cds)
+ID 9: Myb-like domain-containing protein (cds)
+ID 10: N-acetyltransferase domain-containing protein (cds)

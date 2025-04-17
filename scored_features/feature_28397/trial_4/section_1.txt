@@ -1,0 +1,10 @@
+Image 1
+ID 1: mlaA: Lipoprotein subunit MlaA of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 2: paaJ: Acetyl-CoA acetyltransferase (cds)
+ID 3: appB: Cytochrome bd-type quinol oxidase, subunit 2 (cds)
+ID 4: trnQ: tRNA-Gln(ttg) (tRNA)
+ID 5: modA: molybdate ABC transporter substrate-binding protein (cds)
+ID 6: CRISPR spacer, sequence TGCCGCAAGCCAGCGCAGCCATTTTGGCGGCCCTGG (crispr-spacer)
+ID 7: petB: Cytochrome b subunit of the bc complex (cds)
+ID 8: perM: putative PurR-regulated permease PerM (cds)
+ID 9: carboxysome shell carbonic anhydrase (cds)

@@ -1,0 +1,10 @@
+Image 0
+ID 1: nrfD: Polysulfide reductase NrfD (cds)
+ID 2: Phospholipid methyltransferase (cds)
+ID 3: L31-Coriobacteria ribosomal protein leader (ncRNA-region)
+ID 4: rutF: FMN reductase RutF, DIM6/NTAB family (cds)
+ID 5: rpsM: Integration host factor (cds)
+ID 6: tusE: Sulfur relay protein, TusE/DsrC/DsvC family (cds)
+ID 7: trnU: tRNA-SeC(tca) (tRNA)
+ID 8: sdhA: Succinate dehydrogenase/fumarate reductase, flavoprotein subunit (cds)
+ID 9: yafY: YafY family transcriptional regulator (cds)

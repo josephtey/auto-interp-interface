@@ -1,0 +1,12 @@
+Image 4
+ID 1: Beta-carbonic anhydrase 1 (cds)
+ID 2: pyrimidine reductase family protein (cds)
+ID 3: Acetyltransferase (GNAT) family protein (cds)
+ID 4: Enoyl reductase (ER) domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: ngg: N-acetylglutaminylglutamine synthetase (cds)
+ID 7: nthB: nitrile hydratase subunit beta (cds)
+ID 8: RNA-binding protein (cds)
+ID 9: Acyl dehydratase (cds)
+ID 10: hcrC: 4-hydroxybenzoyl-CoA reductase subunit gamma (cds)
+ID 11: araC: AraC family transcriptional regulator (cds)

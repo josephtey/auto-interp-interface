@@ -1,0 +1,12 @@
+Image 2
+ID 1: YDG domain-containing protein (cds)
+ID 2: Zinc-type alcohol dehydrogenase-like protein (cds)
+ID 3: secA: preprotein translocase subunit SecA (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: hypothetical protein (cds)
+ID 6: RiboL-PSP-HEPN domain-containing protein (cds)
+ID 7: meaB: methylmalonyl Co-A mutase-associated GTPase MeaB (cds)
+ID 8: hypothetical protein (cds)
+ID 9: VWFA domain-containing protein (cds)
+ID 10: Hint domain-containing protein (cds)
+ID 11: non-specific serine/threonine protein kinase (cds)

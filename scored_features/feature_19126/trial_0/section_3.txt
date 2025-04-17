@@ -1,0 +1,11 @@
+Image 3
+ID 1: CRISPR spacer, sequence AAAACGGACATAGCCGCTGGCGGCGCTGGCCG (crispr-spacer)
+ID 2: ridA: 2-iminobutanoate/2-iminopropanoate deaminase (cds)
+ID 3: Helix-turn-helix domain-containing protein (cds)
+ID 4: atpC: F0F1 ATP synthase subunit epsilon (cds)
+ID 5: argG: argininosuccinate synthase (cds)
+ID 6: hfq: RNA chaperone Hfq (cds)
+ID 7: CRISPR spacer, sequence CGTCTACGTGCTCAGGAATTCCAAAAACGTAG (crispr-spacer)
+ID 8: tolC: TolC family outer membrane protein (cds)
+ID 9: Aminomethyltransferase (cds)
+ID 10: DUF1508 domain-containing protein (cds)

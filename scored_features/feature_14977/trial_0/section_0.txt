@@ -1,0 +1,10 @@
+Image 0
+ID 1: paaI: Acyl-CoA thioesterase PaaI, contains HGG motif (cds)
+ID 2: motB: flagellar motor protein MotB (cds)
+ID 3: ribA: GTP cyclohydrolase II (cds)
+ID 4: pntA: NAD/NADP transhydrogenase alpha subunit (cds)
+ID 5: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 6: livK: ABC-type branched-chain amino acid transport system, periplasmic component (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Phage baseplate assembly protein W (cds)
+ID 9: cheY: CheY-like REC (receiver) domain, includes chemotaxis protein CheY and sporulation regulator Spo0F (cds)

@@ -1,0 +1,13 @@
+Image 0
+ID 1: nuclear transport factor 2 family protein (cds)
+ID 2: HAMP domain-containing histidine kinase (cds)
+ID 3: accB: acetyl-CoA carboxylase biotin carboxyl carrier protein (cds)
+ID 4: pnp: polyribonucleotide nucleotidyltransferase (cds)
+ID 5: tetratricopeptide repeat protein (cds)
+ID 6: petA: ubiquinol-cytochrome c reductase iron-sulfur subunit (cds)
+ID 7: DUF2497 domain-containing protein (cds)
+ID 8: Integrase catalytic domain-containing protein (cds)
+ID 9: mltG: endolytic transglycosylase MltG (cds)
+ID 10: VWA domain-containing protein (cds)
+ID 11: AI-2E family transporter (cds)
+ID 12: hutH: histidine ammonia-lyase (cds)

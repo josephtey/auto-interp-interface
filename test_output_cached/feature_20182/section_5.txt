@@ -1,0 +1,8 @@
+ID 1: pglZ: BREX-1 system phosphatase PglZ type B (cds)
+ID 2: YeeE/YedE family protein (cds)
+ID 3: Enoyl-CoA hydratase (cds)
+ID 4: Carbonic anhydrase, gamma class (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Thioredoxin domain-containing protein (cds)
+ID 7: histidine kinase (cds)
+ID 8: hypothetical protein (cds)

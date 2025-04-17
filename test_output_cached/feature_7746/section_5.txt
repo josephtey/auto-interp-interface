@@ -1,0 +1,7 @@
+ID 1: SusC/RagA family TonB-linked outer membrane protein (cds)
+ID 2: Cytochrome c oxidase subunit III (cds)
+ID 3: asparaginase (cds)
+ID 4: metal-dependent transcriptional regulator (cds)
+ID 5: T9SS type B sorting domain-containing protein (cds)
+ID 6: ATP-binding protein (cds)
+ID 7: response regulator (cds)

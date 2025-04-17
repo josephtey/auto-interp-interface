@@ -1,0 +1,9 @@
+Image 0
+ID 1: gatA: Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase (cds)
+ID 2: Flagellar hook-length control protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ilvE: branched-chain amino acid aminotransferase (cds)
+ID 5: ISDvu5, transposase (cds)
+ID 6: dnaA: Chromosomal replication initiator protein DnaA (cds)
+ID 7: eAL: EAL domain, c-di-GMP-specific phosphodiesterase class I (or its enzymatically inactive variant) (cds)
+ID 8: feoA: Fe2+ transport protein FeoA (cds)

@@ -1,0 +1,9 @@
+Image 4
+ID 1: lolC: ABC-type transport system involved in lipoprotein release, permease component LolC (cds)
+ID 2: cobC: Rv2231c family pyridoxal phosphate-dependent protein CobC (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 5: dapA: 4-hydroxy-tetrahydrodipicolinate synthase (cds)
+ID 6: 3-methyladenine DNA glycosylase (cds)
+ID 7: Secreted protein (cds)
+ID 8: dnaB: replicative DNA helicase (cds)

@@ -1,0 +1,9 @@
+Image 4
+ID 1: DUF4058 domain-containing protein (cds)
+ID 2: Phosphoglycerate kinase (cds)
+ID 3: Chitinase A1 (cds)
+ID 4: Peptidase A2 domain-containing protein (cds)
+ID 5: UMP phosphatase (cds)
+ID 6: RNA polymerase subunit sigma-70 (cds)
+ID 7: clpB: ATP-dependent chaperone ClpB (cds)
+ID 8: O-Antigen ligase (cds)

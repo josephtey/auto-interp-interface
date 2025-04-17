@@ -1,0 +1,11 @@
+Image 4
+ID 1: metS: MetS family NSS transporter small subunit (cds)
+ID 2: yvaK: Esterase/lipase (cds)
+ID 3: CRISPR spacer, sequence CACCTAATTCAACCGTCTTAACGTCGCTATTAGAC (crispr-spacer)
+ID 4: lnt: apolipoprotein N-acyltransferase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 7: trnT: tRNA-Thr(tgt) (tRNA)
+ID 8: trnC: tRNA-Cys(gca) (tRNA)
+ID 9: flgK: flagellar hook-associated protein FlgK (cds)
+ID 10: Cyclic lactone autoinducer peptide (cds)

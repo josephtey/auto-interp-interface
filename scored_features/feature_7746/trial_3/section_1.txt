@@ -1,0 +1,9 @@
+Image 1
+ID 1: pyrD: dihydroorotate dehydrogenase (cds)
+ID 2: TFIIB-type zinc ribbon-containing protein (cds)
+ID 3: trkA: Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain (cds)
+ID 4: V-type ATP synthase subunit K (cds)
+ID 5: rplT: 50S ribosomal protein L20 (cds)
+ID 6: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 7: efp: elongation factor P (cds)
+ID 8: racX: Amino acid racemase YgeA (cds)

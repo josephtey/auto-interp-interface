@@ -1,0 +1,10 @@
+Image 4
+ID 1: gltL: glutamate/aspartate ABC transporter ATP-binding protein GltL (cds)
+ID 2: plsX: phosphate acyltransferase PlsX (cds)
+ID 3: Fimbrial-type adhesion domain-containing protein (cds)
+ID 4: Putative ABC transporter solute-binding protein (cds)
+ID 5: ydgJ: Uncharacterized oxidoreductase YdgJ (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Lysozyme (cds)
+ID 8: Phage protein (cds)
+ID 9: trnfM: tRNA-fMet(cat) (tRNA)

@@ -1,0 +1,13 @@
+Image 4
+ID 1: Putative AraC-family transcriptional regulator (cds)
+ID 2: 2-dehydro-3-deoxyphosphogalactonate aldolase (cds)
+ID 3: gltD: NADPH-dependent glutamate synthase beta chain or related oxidoreductase (cds)
+ID 4: ydaE: D-lyxose ketol-isomerase (cds)
+ID 5: ybhL: Integral membrane protein YbhL, putative Ca2+ regulator, Bax inhibitor (BI-1)/TMBIM family (cds)
+ID 6: hypothetical protein (cds)
+ID 7: merR: Transcriptional regulator, MerR family (cds)
+ID 8: (pseudo) phosphoribosyltransferase family protein (cds)
+ID 9: dps: DNA starvation/stationary phase protection protein Dps (cds)
+ID 10: hypothetical protein (cds)
+ID 11: UDP-N-acetylenolpyruvoylglucosamine reductase (cds)
+ID 12: ABC transporter, periplasmic protein (cds)

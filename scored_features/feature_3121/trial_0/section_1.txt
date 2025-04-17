@@ -1,0 +1,11 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: prmB: 50S ribosomal protein L3 N(5)-glutamine methyltransferase (cds)
+ID 3: nqrD: NADH:ubiquinone reductase (Na(+)-transporting) subunit D (cds)
+ID 4: Transposase (cds)
+ID 5: DUF2132 domain-containing protein (cds)
+ID 6: Sulfite exporter TauE/SafE family protein (cds)
+ID 7: DUF6375 domain-containing protein (cds)
+ID 8: DUF2141 domain-containing protein (cds)
+ID 9: Protein adenylyltransferase (cds)
+ID 10: DUF2750 domain-containing protein (cds)

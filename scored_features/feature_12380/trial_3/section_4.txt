@@ -1,0 +1,13 @@
+Image 4
+ID 1: DUF4400 domain-containing protein (cds)
+ID 2: ABC transporter permease (cds)
+ID 3: pdxI: Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family (cds)
+ID 4: recG: ATP-dependent DNA helicase RecG (cds)
+ID 5: glpP: Glycerol-3-phosphate responsive antiterminator (mRNA-binding) (cds)
+ID 6: glnQ: ABC-type polar amino acid transport system, ATPase component (cds)
+ID 7: hypothetical protein (cds)
+ID 8: pilO: Type IV pilus assembly protein PilO (cds)
+ID 9: iscA: Fe-S cluster assembly iron-binding protein IscA (cds)
+ID 10: Prophage pi2 protein 07 (cds)
+ID 11: Carbohydrate ABC transporter substrate-binding protein (cds)
+ID 12: citA: Sensor histidine kinase DipB regulating citrate/malate metabolism (cds)

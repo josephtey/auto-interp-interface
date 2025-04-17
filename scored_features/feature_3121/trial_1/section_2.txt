@@ -1,0 +1,12 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: gdhA: Glutamate dehydrogenase/leucine dehydrogenase (cds)
+ID 3: der: ribosome biogenesis GTPase Der (cds)
+ID 4: Redox-active disulfide protein 2 (cds)
+ID 5: hypothetical protein (cds)
+ID 6: UDP-glucuronosyltransferase (cds)
+ID 7: pgi: glucose-6-phosphate isomerase (cds)
+ID 8: TIGR03643 family protein (cds)
+ID 9: Anthranilate phosphoribosyltransferase (cds)
+ID 10: glycerate kinase (cds)
+ID 11: dnaA: chromosomal replication initiator protein DnaA (cds)

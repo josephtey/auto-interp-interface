@@ -1,0 +1,13 @@
+Image 3
+ID 1: dNTP triphosphohydrolase (cds)
+ID 2: hsdM: Type I restriction-modification system, DNA methylase subunit (cds)
+ID 3: hypothetical protein (cds)
+ID 4: YbbR-like domain-containing protein (cds)
+ID 5: mreD: rod shape-determining protein MreD (cds)
+ID 6: rrs: 16S ribosomal RNA (rRNA)
+ID 7: hypothetical protein (cds)
+ID 8: M14 family zinc carboxypeptidase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: site-specific integrase (cds)
+ID 11: polysaccharide biosynthesis/export family protein (cds)
+ID 12: ricT: regulatory iron-sulfur-containing complex subunit RicT (cds)

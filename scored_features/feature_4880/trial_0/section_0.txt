@@ -1,0 +1,11 @@
+Image 0
+ID 1: appC: Cytochrome bd-type quinol oxidase, subunit 1 (cds)
+ID 2: cbiZ: Adenosylcobinamide amidohydrolase (cds)
+ID 3: Methyl-accepting chemotaxis sensory transducer (cds)
+ID 4: rrl: 23S ribosomal RNA (rRNA)
+ID 5: hypothetical protein (cds)
+ID 6: DUF748 domain-containing protein (cds)
+ID 7: CRISPR spacer, sequence GGAGGACGGTGCCTCGGCTAAGCCGTTGACCC (crispr-spacer)
+ID 8: gumC: Exopolysaccharide export protein/domain GumC/Wzc1 (cds)
+ID 9: ppc: Phosphoenolpyruvate carboxylase (cds)
+ID 10: Mammalian cell entry related domain protein (cds)

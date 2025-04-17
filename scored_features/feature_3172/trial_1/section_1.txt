@@ -1,0 +1,11 @@
+Image 1
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: class I SAM-dependent methyltransferase (cds)
+ID 2: scpA: methylmalonyl-CoA mutase (cds)
+ID 3: glycosyl hydrolase 53 family protein (cds)
+ID 4: transporter substrate-binding domain-containing protein (cds)
+ID 5: fliN: Flagellar motor switch protein FliN (cds)
+ID 6: Nicotinamidase-related amidase (cds)
+ID 7: cvpA: CvpA family protein (cds)
+ID 8: DUF2256 domain-containing protein (cds)
+ID 9: phage holin family protein (cds)

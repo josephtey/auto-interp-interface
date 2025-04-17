@@ -1,0 +1,12 @@
+Image 4
+ID 1: tRNA_anti-like (cds)
+ID 2: cheY: Chemotaxis protein CheY (cds)
+ID 3: ruvC: crossover junction endodeoxyribonuclease RuvC (cds)
+ID 4: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 5: DUF6708 domain-containing protein (cds)
+ID 6: pheT: phenylalanine--tRNA ligase subunit beta (cds)
+ID 7: uspA: Nucleotide-binding universal stress protein, UspA family (cds)
+ID 8: Lipoprotein (cds)
+ID 9: nhaP: Na+/H+ antiporter (cds)
+ID 10: cirA: Outer membrane receptor protein, Fe transport (cds)
+ID 11: DUF6526 domain-containing protein (cds)

@@ -1,0 +1,7 @@
+ID 1: Methyltransferase domain-containing protein (cds)
+ID 2: DUF1553 domain-containing protein (cds)
+ID 3: DNA polymerase I (cds)
+ID 4: Methyltransferase domain-containing protein (cds)
+ID 5: TIGR03067 domain-containing protein (cds)
+ID 6: xerD: Site-specific recombinase XerD (cds)
+ID 7: hypothetical protein (cds)

@@ -1,0 +1,9 @@
+Image 3
+ID 1: Cytochrome P450 (cds)
+ID 2: DUF4386 domain-containing protein (cds)
+ID 3: Putative monooxygenase, FAD-binding protein (cds)
+ID 4: mnmA: tRNA 2-thiouridine(34) synthase MnmA (cds)
+ID 5: asnC: AsnC family transcriptional regulator (cds)
+ID 6: enoyl-CoA hydratase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Dehydrogenase (cds)

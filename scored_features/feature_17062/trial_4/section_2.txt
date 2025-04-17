@@ -1,0 +1,3 @@
+Image 2
+ID 1: nth: endonuclease III (cds)
+ID 2: ubiB: 2-polyprenylphenol 6-hydroxylase (cds)

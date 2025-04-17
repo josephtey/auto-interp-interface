@@ -1,0 +1,11 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: traB: TraB pilus assembly family protein (cds)
+ID 3: porG: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit (cds)
+ID 4: ytxH: YtxH domain-containing protein (cds)
+ID 5: DUF4468 domain-containing protein (cds)
+ID 6: fadH: 2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family (cds)
+ID 7: secF: Preprotein translocase subunit SecF (cds)
+ID 8: DUF4942 domain-containing protein (cds)
+ID 9: trnR: tRNA-Arg(ccg) (tRNA)
+ID 10: Lipoprotein, putative (cds)

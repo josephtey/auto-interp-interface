@@ -1,0 +1,5 @@
+ID 1: hisI2: Phosphoribosyl-ATP pyrophosphohydrolase (cds)
+ID 2: rpsS: 30S ribosomal protein S19 (cds)
+ID 3: nuoD: NADH-quinone oxidoreductase subunit D (cds)
+ID 4: rpsI: 30S ribosomal protein S9 (cds)
+ID 5: DUF3126 domain-containing protein (cds)

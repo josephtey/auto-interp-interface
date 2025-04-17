@@ -1,0 +1,12 @@
+Image 2
+ID 1: tatB: Sec-independent protein translocase protein TatB (cds)
+ID 2: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 3: hypothetical protein (cds)
+ID 4: nDUFA12: NADH:ubiquinone oxidoreductase subunit NDUFA12 (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 7: hypothetical protein (cds)
+ID 8: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 9: scpA: methylmalonyl-CoA mutase (cds)
+ID 10: ftsW: putative lipid II flippase FtsW (cds)
+ID 11: Phage tail sheath protein FI (cds)

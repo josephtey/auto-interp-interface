@@ -1,0 +1,8 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: stkP: Serine/threonine-protein kinase StkP (cds)
+ID 3: trnS: tRNA-Ser(gga) (tRNA)
+ID 4: Beta-galactosidase trimerization domain protein (cds)
+ID 5: Benzene 1,2-dioxygenase subunit alpha (cds)
+ID 6: ABC-2 family transporter protein (cds)
+ID 7: sigM: RNA polymerase sigma factor SigM (cds)

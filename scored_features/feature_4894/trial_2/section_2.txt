@@ -1,0 +1,11 @@
+Image 2
+ID 1: GGDEF domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: oxidative damage protection protein (cds)
+ID 4: phospholipase A (cds)
+ID 5: sucC: ADP-forming succinate--CoA ligase subunit beta (cds)
+ID 6: DUF1003 domain-containing protein (cds)
+ID 7: pilU: Twitching motility protein PilU (cds)
+ID 8: peptidylprolyl isomerase (cds)
+ID 9: type IV pili methyl-accepting chemotaxis transducer N-terminal domain-containing protein (cds)
+ID 10: nuclear transport factor 2 family protein (cds)

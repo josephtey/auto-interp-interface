@@ -1,0 +1,6 @@
+ID 1: ccoO: cytochrome-c oxidase, cbb3-type subunit II (cds)
+ID 2: lptG: LPS export ABC transporter permease LptG (cds)
+ID 3: pstA: phosphate ABC transporter permease PstA (cds)
+ID 4: aspS: aspartate--tRNA ligase (cds)
+ID 5: mfd: transcription-repair coupling factor (cds)
+ID 6: aroA: 5-enolpyruvylshikimate-3-phosphate synthase (cds)

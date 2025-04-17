@@ -1,0 +1,12 @@
+Image 4
+Organism: Symbiobacterium thermophilum IAM 14863 (firmicutes)
+ID 1: rpiB: ribose 5-phosphate isomerase B (cds)
+ID 2: glmM: phosphoglucosamine mutase (cds)
+ID 3: argH: argininosuccinate lyase (cds)
+ID 4: CRISPR spacer, sequence TTATCGTTGCGGCGTCTAGCTCCTCCAGCACC (crispr-spacer)
+ID 5: gpr: GPR endopeptidase (cds)
+ID 6: cbiB: adenosylcobinamide-phosphate synthase CbiB (cds)
+ID 7: ampC: CubicO group peptidase, beta-lactamase class C family (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Glycerophosphoryl diester phosphodiesterase membrane domain-containing protein (cds)
+ID 10: darA: Cyclic di-AMP receptor DarA/PstA (cds)

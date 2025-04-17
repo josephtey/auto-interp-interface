@@ -1,0 +1,13 @@
+Image 1
+ID 1: Efflux RND transporter periplasmic adaptor subunit (cds)
+ID 2: hypothetical protein (cds)
+ID 3: bioA: adenosylmethionine--8-amino-7-oxononanoate transaminase (cds)
+ID 4: tusD: sulfurtransferase complex subunit TusD (cds)
+ID 5: hypothetical protein (cds)
+ID 6: flgG: flagellar basal-body rod protein FlgG (cds)
+ID 7: Sigma-54-dependent Fis family transcriptional regulator (cds)
+ID 8: Rhodanese-like domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Phosphatase PAP2 family protein (cds)
+ID 11: dapF: diaminopimelate epimerase (cds)
+ID 12: MFS transporter (cds)

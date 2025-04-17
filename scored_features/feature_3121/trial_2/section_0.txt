@@ -1,0 +1,5 @@
+Image 0
+ID 1: DUF2760 domain-containing protein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: Methyl-accepting chemotaxis sensory transducer (cds)
+ID 4: putative methyltransferase (cds)

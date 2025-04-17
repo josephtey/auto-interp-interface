@@ -1,0 +1,12 @@
+Image 1
+ID 1: ABC transporter ATP-binding protein (cds)
+ID 2: 2-oxoadipate dioxygenase/decarboxylase (cds)
+ID 3: lysR: LysR family transcriptional regulator (cds)
+ID 4: era: GTPase Era (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hemF: oxygen-dependent coproporphyrinogen oxidase (cds)
+ID 8: SPOR domain-containing protein (cds)
+ID 9: LTA synthase family protein (cds)
+ID 10: pilV: type IV pilus modification protein PilV (cds)
+ID 11: trnM: tRNA-Met(cat) (tRNA)

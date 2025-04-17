@@ -1,0 +1,5 @@
+Image 3
+ID 1: Tripartite tricarboxylate transporter permease (cds)
+ID 2: rpoA: DNA-directed RNA polymerase subunit alpha (cds)
+ID 3: Glycosyltransferase (cds)
+ID 4: Ku protein (cds)

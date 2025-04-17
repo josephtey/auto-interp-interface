@@ -1,0 +1,9 @@
+Image 3
+ID 1: cheR: Methylase of chemotaxis methyl-accepting proteins (cds)
+ID 2: hypothetical protein (cds)
+ID 3: cooC1: CO dehydrogenase nickel-insertion accessory protein CooC1 (cds)
+ID 4: lysA: diaminopimelate decarboxylase (cds)
+ID 5: pta: Phosphotransacetylase (includes Pta, EutD and phosphobutyryltransferase) (cds)
+ID 6: cobU: Adenosyl cobinamide kinase/adenosyl cobinamide phosphate guanylyltransferase (cds)
+ID 7: rnr: ribonuclease R (cds)
+ID 8: DUF2802 domain-containing protein (cds)

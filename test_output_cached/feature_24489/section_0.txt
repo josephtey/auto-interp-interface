@@ -1,0 +1,4 @@
+ID 1: hypothetical protein (cds)
+ID 2: smpB: SsrA-binding protein SmpB (cds)
+ID 3: cdsA: CDP-diglyceride synthetase (cds)
+ID 4: pgpA: Phosphatidylglycerophosphatase A (cds)

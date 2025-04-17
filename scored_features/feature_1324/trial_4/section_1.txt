@@ -1,0 +1,13 @@
+Image 1
+ID 1: DUF4404 domain-containing protein (cds)
+ID 2: pcnB: Poly(A) polymerase I (cds)
+ID 3: rfbD: dTDP-4-dehydrorhamnose reductase (cds)
+ID 4: nodT: Efflux transporter, outer membrane factor (OMF) lipo, NodT family protein (cds)
+ID 5: Ribonuclease E (cds)
+ID 6: Acyl-CoA dehydrogenase, middle domain protein (cds)
+ID 7: cspD: Cold shock protein, CspA family (cds)
+ID 8: xrtA: XrtA system polysaccharide deacetylase (cds)
+ID 9: H-NS histone family protein (cds)
+ID 10: Tat (Twin-arginine translocation) pathway signal sequence domain protein (cds)
+ID 11: Octaprenyl-diphosphate synthase (cds)
+ID 12: dnaJ: DnaJ domain protein (cds)

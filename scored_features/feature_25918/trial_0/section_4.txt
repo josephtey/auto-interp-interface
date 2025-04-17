@@ -1,0 +1,12 @@
+Image 4
+Organism: Jeotgalibaca porci (firmicutes)
+ID 1: coaBC: bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC (cds)
+ID 2: Lysine riboswitch (ncRNA-region)
+ID 3: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 4: trnN: tRNA-Asn(gtt) (tRNA)
+ID 5: Diacylglycerol kinase family lipid kinase (cds)
+ID 6: Glycosyl hydrolase family 13 catalytic domain-containing protein (cds)
+ID 7: Aldo/keto reductase (cds)
+ID 8: tyrS: tyrosine--tRNA ligase (cds)
+ID 9: SDR family oxidoreductase (cds)
+ID 10: lexA: LexA family transcriptional regulator (cds)

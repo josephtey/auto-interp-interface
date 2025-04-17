@@ -1,0 +1,9 @@
+Image 0
+ID 1: SWIM-type domain-containing protein (cds)
+ID 2: DUF1273 domain-containing protein (cds)
+ID 3: xhlA: Hemolysin XhlA (cds)
+ID 4: N-acetyltransferase (cds)
+ID 5: HAMP domain-containing protein (cds)
+ID 6: catB: Bacterial transferase hexapeptide repeat protein (cds)
+ID 7: Spore coat protein (cds)
+ID 8: Lipoprotein (cds)

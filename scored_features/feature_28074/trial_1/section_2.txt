@@ -1,0 +1,11 @@
+Image 2
+ID 1: ilvB: acetolactate synthase 3 catalytic subunit (cds)
+ID 2: GNAT family N-acetyltransferase (cds)
+ID 3: DUF4197 domain-containing protein (cds)
+ID 4: 3-hydroxybutyrate dehydrogenase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: DUF1840 domain-containing protein (cds)
+ID 7: pilV: type IV pilus modification protein PilV (cds)
+ID 8: gntR: DNA-binding transcriptional regulator, GntR family (cds)
+ID 9: CNP1-like family protein (cds)
+ID 10: Ppx/GppA phosphatase family protein (cds)

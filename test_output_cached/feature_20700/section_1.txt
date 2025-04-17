@@ -1,0 +1,8 @@
+ID 1: Anti-sigma factor antagonist (cds)
+ID 2: Bacteria_small_SRP: Bacterial small signal recognition particle RNA (ncRNA)
+ID 3: PQQ-dependent sugar dehydrogenase (cds)
+ID 4: histidine kinase (cds)
+ID 5: yfhO: Membrane protein YfhO (cds)
+ID 6: N-succinylornithine carbamoyltransferase (cds)
+ID 7: NAD dependent epimerase/dehydratase family protein (cds)
+ID 8: yteR: Unsaturated rhamnogalacturonyl hydrolase YteR (cds)

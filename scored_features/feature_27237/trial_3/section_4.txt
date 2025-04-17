@@ -1,0 +1,11 @@
+Image 4
+ID 1: DNA-binding protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Lipoprotein (cds)
+ID 4: lptF: Lipopolysaccharide export LptBFGC system, permease protein LptF (cds)
+ID 5: hypothetical protein (cds)
+ID 6: lpxP: Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis) (cds)
+ID 7: sfp: Phosphopantetheinyl transferase (cds)
+ID 8: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 9: DUF3127 domain-containing protein (cds)
+ID 10: ftsY: signal recognition particle-docking protein FtsY (cds)

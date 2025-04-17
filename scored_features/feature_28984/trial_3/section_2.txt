@@ -1,0 +1,9 @@
+Image 2
+ID 1: CRISPR spacer, sequence ACAACCCGTTCGCCCAGGCCCTCCCGAATCAGC (crispr-spacer)
+ID 2: HTH-type transcriptional regulator (cds)
+ID 3: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 4: Metal-dependent hydrolase (cds)
+ID 5: resA: Thiol-disulfide oxidoreductase ResA (cds)
+ID 6: comM: Competence protein ComM (cds)
+ID 7: ndk: nucleoside-diphosphate kinase (cds)
+ID 8: tolB: Protein TolB (cds)

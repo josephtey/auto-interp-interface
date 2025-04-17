@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: qdoI: Cupin domain protein related to quercetin dioxygenase (cds)
+ID 2: argD: Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase (cds)
+ID 3: trpS: tryptophan--tRNA ligase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: fepB: ABC-type Fe3+-hydroxamate transport system, periplasmic component (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)

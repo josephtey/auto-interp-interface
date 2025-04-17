@@ -1,0 +1,7 @@
+Image 4
+ID 1: Peptidase M23 (cds)
+ID 2: hlyD: HlyD family efflux transporter periplasmic adaptor subunit (cds)
+ID 3: crotonase/enoyl-CoA hydratase family protein (cds)
+ID 4: rsxB: electron transport complex subunit RsxB (cds)
+ID 5: mcjB: Microcin J25-processing protein McjB C-terminal domain-containing protein (cds)
+ID 6: ATP-binding protein (cds)

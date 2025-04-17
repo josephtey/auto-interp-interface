@@ -1,0 +1,10 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: ImmA/IrrE family metallo-endopeptidase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Peptidase M14 carboxypeptidase A domain-containing protein (cds)
+ID 5: GxxExxY protein (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CHY zinc finger protein (cds)
+ID 9: CBS domain-containing protein (cds)

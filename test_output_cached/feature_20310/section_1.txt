@@ -1,0 +1,8 @@
+ID 1: CRISPR spacer, sequence ACAAAACGCCGGAACTCTACAACGTCATGATC (crispr-spacer)
+ID 2: DUF302 domain-containing protein (cds)
+ID 3: Protein-glutamate methylesterase/protein-glutamine glutaminase (cds)
+ID 4: Flagellin (cds)
+ID 5: Pseudouridine synthase (cds)
+ID 6: Protein disulfide oxidoreductase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: atpC: F0F1 ATP synthase subunit epsilon (cds)

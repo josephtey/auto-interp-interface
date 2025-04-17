@@ -1,0 +1,8 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: caiD: enoyl-CoA hydratase (cds)
+ID 3: cysU: ABC-type sulfate transport system, permease component (cds)
+ID 4: fimB: Integrase/recombinase, includes phage integrase (cds)
+ID 5: pulF: Type II secretory pathway, component PulF (cds)
+ID 6: soxD: Sarcosine oxidase delta subunit (cds)
+ID 7: pucG: Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG (cds)

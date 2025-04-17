@@ -1,0 +1,9 @@
+Image 0
+ID 1: DUF6268 domain-containing protein (cds)
+ID 2: xynC: O-Glycosyl hydrolase (cds)
+ID 3: Nucleotide modification associated domain-containing protein (cds)
+ID 4: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 5: leuB: NADP-dependent isocitrate dehydrogenase (cds)
+ID 6: rfbX: Membrane protein involved in the export of O-antigen and teichoic acid (cds)
+ID 7: rimK: 30S ribosomal protein S6--L-glutamate ligase (cds)
+ID 8: mobA: Molybdopterin-guanine dinucleotide biosynthesis protein A (cds)

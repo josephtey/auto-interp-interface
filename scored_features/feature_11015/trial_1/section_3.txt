@@ -1,0 +1,8 @@
+Image 3
+ID 1: trnI: tRNA-Ile(gat) (tRNA)
+ID 2: hypothetical protein (cds)
+ID 3: Methyltransferase (cds)
+ID 4: Polyprenyl synthetase (cds)
+ID 5: yfkC: Putative MscS family protein YfkC (cds)
+ID 6: Phenylacetate--CoA ligase family protein (cds)
+ID 7: Co-chaperonin GroES (cds)

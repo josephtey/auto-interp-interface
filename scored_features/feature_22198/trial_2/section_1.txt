@@ -1,0 +1,4 @@
+Image 1
+ID 1: Gluconate 2-dehydrogenase flavoprotein (cds)
+ID 2: Deoxyribodipyrimidine photolyase-related family protein (cds)
+ID 3: rrf: 5S ribosomal RNA (rRNA)

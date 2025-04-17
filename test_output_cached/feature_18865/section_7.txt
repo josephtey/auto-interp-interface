@@ -1,0 +1,8 @@
+ID 1: hisG: ATP phosphoribosyltransferase (cds)
+ID 2: dppB: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)
+ID 3: lolD: ABC-type lipoprotein export system, ATPase component (cds)
+ID 4: rplF: 50S ribosomal protein L6 (cds)
+ID 5: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: glgA: glycogen synthase GlgA (cds)

@@ -1,0 +1,10 @@
+Image 4
+ID 1: nifX: putative Fe-Mo cluster-binding protein, NifX family (cds)
+ID 2: lutC: L-lactate utilization protein LutC, contains LUD domain (cds)
+ID 3: acrB: Multidrug efflux pump subunit AcrB (cds)
+ID 4: gdt1: Putative Ca2+/H+ antiporter, TMEM165/GDT1 family (cds)
+ID 5: gmd: GDP-mannose 4,6-dehydratase (cds)
+ID 6: nifB: nitrogenase cofactor biosynthesis protein NifB (cds)
+ID 7: cooS: anaerobic carbon-monoxide dehydrogenase catalytic subunit (cds)
+ID 8: dam: DNA-adenine methylase (cds)
+ID 9: recA: SOS response regulatory protein OraA/RecX, interacts with RecA (cds)

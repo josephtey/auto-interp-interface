@@ -1,0 +1,11 @@
+Image 1
+ID 1: sraL: sraL Hfq binding RNA (ncRNA)
+ID 2: 1,4-beta-xylanase (cds)
+ID 3: dnaJ: molecular chaperone DnaJ (cds)
+ID 4: cydB: cytochrome d ubiquinol oxidase subunit II (cds)
+ID 5: elyC: envelope biogenesis factor ElyC (cds)
+ID 6: rlmA: 23S rRNA (guanine(745)-N(1))-methyltransferase (cds)
+ID 7: ypfM: protein YpfM (sorf)
+ID 8: grpE: nucleotide exchange factor GrpE (cds)
+ID 9: FidL-like membrane protein (cds)
+ID 10: fabG: SDR family oxidoreductase (cds)

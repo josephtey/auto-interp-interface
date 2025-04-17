@@ -1,0 +1,13 @@
+Image 3
+ID 1: CMP/dCMP-type deaminase domain-containing protein (cds)
+ID 2: Mannitol dehydrogenase (cds)
+ID 3: ccmA: Cell shape determination protein CcmA (cds)
+ID 4: ftrA: transcriptional regulator FtrA (cds)
+ID 5: MFS transporter (cds)
+ID 6: lpxR: Lipid A deacylase LpxR family protein (cds)
+ID 7: BON domain-containing protein (cds)
+ID 8: arsC: arsenate reductase (glutaredoxin) (cds)
+ID 9: mutS: DNA mismatch repair protein MutS (cds)
+ID 10: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 11: EAL domain-containing response regulator (cds)
+ID 12: (3' truncated) Phosphoenolpyruvate synthase (cds)

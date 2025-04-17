@@ -1,0 +1,9 @@
+Image 0
+ID 1: O-antigen ligase domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Ribonuclease J (cds)
+ID 4: SMP-30/Gluconolactonase/LRE-like region domain-containing protein (cds)
+ID 5: Cyclic nucleotide-binding domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 8: MmcQ/YjbR family DNA-binding protein (cds)

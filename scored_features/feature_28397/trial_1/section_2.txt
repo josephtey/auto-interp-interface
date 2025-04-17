@@ -1,0 +1,9 @@
+Image 2
+ID 1: Polyketide cyclase / dehydrase and lipid transport (cds)
+ID 2: hypothetical protein (cds)
+ID 3: mlaD: Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 4: Putative hemolysin (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hisM: ABC-type amino acid transport system, permease component (cds)
+ID 7: rlhA: 23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family (cds)
+ID 8: ribE: 6,7-dimethyl-8-ribityllumazine synthase (cds)

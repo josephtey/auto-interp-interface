@@ -1,0 +1,9 @@
+Image 3
+ID 1: menH: 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (cds)
+ID 2: nodU: putative carbamoyl transferase, NodU family (cds)
+ID 3: rpoD: DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32) (cds)
+ID 4: Pvc16 N-terminal domain-containing protein (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: putative ATPase (cds)

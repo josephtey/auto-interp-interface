@@ -1,0 +1,10 @@
+Image 2
+ID 1: Methyltransferase domain-containing protein (cds)
+ID 2: Spore coat protein JA (cds)
+ID 3: modA: molybdate ABC transporter substrate-binding protein (cds)
+ID 4: Uncharacterized domain 1-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Transcriptional regulator (cds)
+ID 7: deoC: deoxyribose-phosphate aldolase (cds)
+ID 8: coxB: cytochrome c oxidase subunit II (cds)
+ID 9: Streptococcal pilin isopeptide linker domain-containing protein (cds)

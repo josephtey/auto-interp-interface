@@ -1,0 +1,10 @@
+Image 2
+ID 1: pseC: UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase (cds)
+ID 2: arginyltransferase (cds)
+ID 3: NADH pyrophosphatase (cds)
+ID 4: Putative hydrolase (cds)
+ID 5: TonB-dependent Receptor Plug domain protein (cds)
+ID 6: ompA: OmpA family protein (cds)
+ID 7: mobB: molybdopterin-guanine dinucleotide biosynthesis protein B (cds)
+ID 8: trnT: tRNA-Thr(ggt) (tRNA)
+ID 9: Bacterial-like globin family protein (cds)

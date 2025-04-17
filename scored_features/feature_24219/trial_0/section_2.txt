@@ -1,0 +1,10 @@
+Image 2
+ID 1: rpe: ribulose-phosphate 3-epimerase (cds)
+ID 2: Mannose-1-phosphate guanylyltransferase (cds)
+ID 3: cyaY: iron donor protein CyaY (cds)
+ID 4: trnG: tRNA-Gly(gcc) (tRNA)
+ID 5: DUF2188 domain-containing protein (cds)
+ID 6: mltB: lytic murein transglycosylase B (cds)
+ID 7: Core-binding (CB) domain-containing protein (cds)
+ID 8: mazG: NTP pyrophosphohydrolase MazG putative catalytic core domain-containing protein (cds)
+ID 9: 5-formyltetrahydrofolate cyclo-ligase (cds)

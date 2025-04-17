@@ -1,0 +1,11 @@
+Image 0
+ID 1: Zinc metalloprotease (cds)
+ID 2: FG-GAP repeat protein (cds)
+ID 3: Hypoxic response protein 1 (cds)
+ID 4: SpoVT-AbrB domain-containing protein (cds)
+ID 5: TIGR03067 domain-containing protein (cds)
+ID 6: argininosuccinate synthase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Folylpolyglutamate synthase (cds)
+ID 9: zraR: Transcriptional regulatory protein ZraR (cds)
+ID 10: emrA: Multidrug export protein EmrA (cds)

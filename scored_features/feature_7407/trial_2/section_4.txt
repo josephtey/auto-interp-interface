@@ -1,0 +1,2 @@
+Image 4
+ID 1: gCD1: NDP-sugar pyrophosphorylase, includes eIF-2Bgamma, eIF-2Bepsilon, and LPS biosynthesis protein s (cds)

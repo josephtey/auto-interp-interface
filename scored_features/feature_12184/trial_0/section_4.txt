@@ -1,0 +1,13 @@
+Image 4
+ID 1: TROVE domain protein (cds)
+ID 2: rplX: 50S ribosomal protein L24 (cds)
+ID 3: DUF4279 domain-containing protein (cds)
+ID 4: 2,5-diketo-D-gluconic acid reductase B (cds)
+ID 5: Cyclic-phosphate processing Receiver domain-containing protein (cds)
+ID 6: Phosphoribosyl transferase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: L-serine ammonia-lyase (cds)
+ID 9: Metallo-beta-lactamase domain-containing protein (cds)
+ID 10: GlcNAc-PI de-N-acetylase (cds)
+ID 11: Phosphorylated carbohydrates phosphatase (cds)
+ID 12: Serine/threonine-protein kinase pkn1 (cds)

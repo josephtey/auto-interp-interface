@@ -1,0 +1,11 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: MOSC domain-containing protein (cds)
+ID 3: NADH-quinone oxidoreductase subunit D (cds)
+ID 4: Prephenate dehydrogenase (cds)
+ID 5: DUF222 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: alpha/beta fold hydrolase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: mutM: bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase (cds)
+ID 10: hypothetical protein (cds)

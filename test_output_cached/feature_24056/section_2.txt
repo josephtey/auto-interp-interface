@@ -1,0 +1,8 @@
+ID 1: ATP-grasp domain-containing protein (cds)
+ID 2: L,D-peptidoglycan transpeptidase YkuD, ErfK/YbiS/YcfS/YnhG family (cds)
+ID 3: ilvC: ketol-acid reductoisomerase (cds)
+ID 4: leucine-rich repeat domain-containing protein (cds)
+ID 5: Response regulator receiver domain protein (CheY) (cds)
+ID 6: hypothetical protein (cds)
+ID 7: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 8: hypothetical protein (cds)

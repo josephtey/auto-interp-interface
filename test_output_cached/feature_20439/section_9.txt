@@ -1,0 +1,3 @@
+ID 1: Cyclic nucleotide-binding domain protein (cds)
+ID 2: rnr: ribonuclease R (cds)
+ID 3: Histone deacetylase domain protein (cds)

@@ -1,0 +1,9 @@
+Image 2
+ID 1: Cyclopropane-fatty-acyl-phospholipid synthase family protein (cds)
+ID 2: HrpD-like protein (cds)
+ID 3: RNA polymerase sigma factor, FliA/WhiG family protein (cds)
+ID 4: lipoprotein-releasing ABC transporter permease subunit (cds)
+ID 5: isovaleryl-CoA dehydrogenase (cds)
+ID 6: Response regulator (cds)
+ID 7: Cytoplasmic protein USSDB7A (cds)
+ID 8: ABC transporter family protein (cds)

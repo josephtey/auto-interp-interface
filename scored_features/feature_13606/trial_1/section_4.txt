@@ -1,0 +1,6 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: hflX: GTPase HflX (cds)
+ID 3: Macrocin-O-methyltransferase (TylF) (cds)
+ID 4: Thiol:disulfide oxidoreductase (cds)
+ID 5: DUF1232 domain-containing protein (cds)

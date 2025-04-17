@@ -1,0 +1,6 @@
+ID 1: MFS transporter (cds)
+ID 2: Pyridine nucleotide-disulfide oxidoreductase (cds)
+ID 3: Dihydrodipicolinate synthase (cds)
+ID 4: iclR: DNA-binding transcriptional regulator, IclR family (cds)
+ID 5: FtsW/RodA/SpoVE family cell cycle protein (cds)
+ID 6: ligA: Aromatic ring-opening dioxygenase LigA (cds)

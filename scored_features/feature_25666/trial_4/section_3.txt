@@ -1,0 +1,9 @@
+Image 3
+ID 1: CoA-binding protein (cds)
+ID 2: aroC: chorismate synthase (cds)
+ID 3: ABC transporter, phosphonate, periplasmic substrate-binding protein (cds)
+ID 4: odhB: 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase (cds)
+ID 5: DUF4395 domain-containing protein (cds)
+ID 6: DUF4148 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)

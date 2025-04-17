@@ -1,0 +1,10 @@
+Image 2
+ID 1: Na+/H+ antiporter subunit D (cds)
+ID 2: PKD domain-containing protein (cds)
+ID 3: lytR: LytR C-terminal domain-containing protein (cds)
+ID 4: trnT: tRNA-Thr(ggt) (tRNA)
+ID 5: Sucrose-6-phosphate hydrolase (cds)
+ID 6: prfA: peptide chain release factor 1 (cds)
+ID 7: ABC transporter ATP-binding protein (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: hypothetical protein (cds)

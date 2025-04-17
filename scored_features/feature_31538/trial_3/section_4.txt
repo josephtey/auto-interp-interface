@@ -1,0 +1,12 @@
+Image 4
+ID 1: hemN: oxygen-independent coproporphyrinogen III oxidase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: eamA: EamA domain-containing protein (cds)
+ID 4: Non-ribosomal peptide synthetase (cds)
+ID 5: rnt: ribonuclease T (cds)
+ID 6: nadD: nicotinate-nucleotide adenylyltransferase (cds)
+ID 7: rsfS: ribosome silencing factor (cds)
+ID 8: Fungal lipase-like domain-containing protein (cds)
+ID 9: CRISPR spacer, sequence GCAGAACTGTCAAAGAAATGTAGCGCCATTCC (crispr-spacer)
+ID 10: maf: dTTP/UTP pyrophosphatase (cds)
+ID 11: IS630 family transposase (cds)

@@ -1,0 +1,5 @@
+Image 1
+ID 1: DUF1707 domain-containing protein (cds)
+ID 2: hisD: Histidinol dehydrogenase (cds)
+ID 3: nitrate- and nitrite sensing domain-containing protein (cds)
+ID 4: TetR/AcrR family transcriptional regulator (cds)

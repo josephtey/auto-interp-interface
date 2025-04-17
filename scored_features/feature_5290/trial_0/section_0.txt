@@ -1,0 +1,9 @@
+Image 0
+ID 1: drrA: Daunorubicin/doxorubicin resistance ATP-binding protein DrrA (cds)
+ID 2: hypothetical protein (cds)
+ID 3: sigE: ECF RNA polymerase sigma factor SigE (cds)
+ID 4: HTH arsR-type domain-containing protein (cds)
+ID 5: Tetratricopeptide repeat protein (cds)
+ID 6: Endonuclease III (cds)
+ID 7: non-specific serine/threonine protein kinase (cds)
+ID 8: rpmF: 50S ribosomal protein L32 (cds)

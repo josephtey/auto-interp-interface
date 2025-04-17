@@ -1,0 +1,13 @@
+Image 1
+ID 1: ABC transmembrane type-1 domain-containing protein (cds)
+ID 2: Methyl-accepting chemotaxis protein (cds)
+ID 3: alr: alanine racemase (cds)
+ID 4: Copper chaperone PCu(A)C (cds)
+ID 5: hypothetical protein (cds)
+ID 6: dnaB: replicative DNA helicase (cds)
+ID 7: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Oxidoreductase (cds)
+ID 10: Tat pathway signal sequence (cds)
+ID 11: resB: Cytochrome C biogenesis protein ResB (cds)
+ID 12: L-threonylcarbamoyladenylate synthase (cds)

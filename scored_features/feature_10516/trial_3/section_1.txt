@@ -1,0 +1,13 @@
+Image 1
+ID 1: FRG domain-containing protein (cds)
+ID 2: lemA: LemA family protein (cds)
+ID 3: TPM domain-containing protein (cds)
+ID 4: M20 aminoacylase family protein (cds)
+ID 5: NAD(P) transhydrogenase subunit alpha (cds)
+ID 6: malQ: 4-alpha-glucanotransferase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Peptide/nickel transport system permease protein (cds)
+ID 9: PKD repeat protein (cds)
+ID 10: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 11: hypothetical protein (cds)
+ID 12: rrs: 16S ribosomal RNA (rRNA)

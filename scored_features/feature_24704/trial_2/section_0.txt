@@ -1,0 +1,7 @@
+Image 0
+ID 1: Intracellular proteinase inhibitor BsuPI domain-containing protein (cds)
+ID 2: ulaE: L-ribulose-5-phosphate 3-epimerase UlaE (cds)
+ID 3: Transcriptional regulator (cds)
+ID 4: hypothetical protein (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)

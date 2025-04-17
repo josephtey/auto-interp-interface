@@ -1,0 +1,13 @@
+Image 1
+ID 1: yjfL: UPF0719 inner membrane protein YjfL (cds)
+ID 2: Uncharacterized membrane protein (cds)
+ID 3: Terminase small subunit (cds)
+ID 4: Rz-like spanin (cds)
+ID 5: Tryptophanase leader peptide (sorf)
+ID 6: hisC: histidinol-phosphate transaminase (cds)
+ID 7: CS1 type fimbrial major subunit (cds)
+ID 8: dhaB: Glycerol dehydratase large subunit (cds)
+ID 9: Putative N-acetylmannosamine-6-phosphate 2-epimerase (cds)
+ID 10: rng: ribonuclease G (cds)
+ID 11: WYL domain-containing protein (cds)
+ID 12: Helicase (cds)

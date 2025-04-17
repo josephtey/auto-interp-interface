@@ -1,0 +1,11 @@
+Image 4
+ID 1: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 2: fliL: Flagellar basal body-associated protein FliL (cds)
+ID 3: rrl: 23S ribosomal RNA (rRNA)
+ID 4: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 5: mutM: DNA-formamidopyrimidine glycosylase (cds)
+ID 6: Putative amidase domain-containing protein (cds)
+ID 7: hflX: GTPase HflX (cds)
+ID 8: amyA: Glycosidase/amylase (phosphorylase) (cds)
+ID 9: cps2a: Anionic cell wall polymer biosynthesis enzyme TagV/TagU, LytR-Cps2A-Psr (LCP) family (peptidoglycan teichoic acid transferase) (cds)
+ID 10: alkA: 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase (cds)

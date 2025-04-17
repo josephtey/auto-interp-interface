@@ -1,0 +1,10 @@
+Image 4
+ID 1: Tryptophan halogenase (cds)
+ID 2: Ribosomal RNA large subunit methyltransferase A, putative (cds)
+ID 3: M61 family metallopeptidase (cds)
+ID 4: tonB: Energy transducer TonB (cds)
+ID 5: Glucan biosynthesis protein G (cds)
+ID 6: Beta-lactamase hydrolase-like protein phosphatase-like domain-containing protein (cds)
+ID 7: Lipoprotein (cds)
+ID 8: Thioesterase superfamily protein (cds)
+ID 9: mog: molybdopterin adenylyltransferase (cds)

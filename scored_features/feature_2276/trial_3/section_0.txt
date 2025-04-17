@@ -1,0 +1,13 @@
+Image 0
+ID 1: NUDIX domain-containing protein (cds)
+ID 2: trnW: tRNA-Trp(cca) (tRNA)
+ID 3: CpXC domain-containing protein (cds)
+ID 4: Transposase (cds)
+ID 5: Lipocalin-like protein (cds)
+ID 6: glycoside hydrolase family protein (cds)
+ID 7: peptidylprolyl isomerase (cds)
+ID 8: TonB-dependent receptor (cds)
+ID 9: endonuclease/exonuclease/phosphatase family protein (cds)
+ID 10: DUF2339 domain-containing protein (cds)
+ID 11: PepSY-associated TM helix domain-containing protein (cds)
+ID 12: head GIN domain-containing protein (cds)

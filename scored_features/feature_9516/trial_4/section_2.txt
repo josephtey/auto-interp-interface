@@ -1,0 +1,10 @@
+Image 2
+ID 1: xylB: xylulokinase (cds)
+ID 2: NADH dehydrogenase subunit 2 (cds)
+ID 3: gutQ: D-arabinose 5-phosphate isomerase GutQ (cds)
+ID 4: clpP: ATP-dependent Clp endopeptidase proteolytic subunit ClpP (cds)
+ID 5: pdxI: Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family (cds)
+ID 6: bcsZ: Endo-1,4-beta-D-glucanase Y (cds)
+ID 7: ecfA2: Energy-coupling factor transporter ATP-binding protein EcfA2 (cds)
+ID 8: Putative zinc ribbon domain-containing protein (cds)
+ID 9: alpha-glucosidase (cds)

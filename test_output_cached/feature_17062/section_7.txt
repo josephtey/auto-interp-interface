@@ -1,0 +1,8 @@
+ID 1: ybgC: tol-pal system-associated acyl-CoA thioesterase (cds)
+ID 2: ATP-binding cassette domain-containing protein (cds)
+ID 3: ABC transporter substrate-binding protein (cds)
+ID 4: CoA ester lyase (cds)
+ID 5: NADP-dependent oxidoreductase (cds)
+ID 6: surE: 5'/3'-nucleotidase SurE (cds)
+ID 7: bamA: outer membrane protein assembly factor BamA (cds)
+ID 8: CRISPR repeat (crispr-repeat)

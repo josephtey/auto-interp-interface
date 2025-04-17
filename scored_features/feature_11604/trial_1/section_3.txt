@@ -1,0 +1,10 @@
+Image 3
+ID 1: VPDSG-CTERM protein sorting domain-containing protein (cds)
+ID 2: Flagellin N-methylase (cds)
+ID 3: Branched-chain alpha-keto acid dehydrogenase subunit E2 (cds)
+ID 4: trnI: tRNA-Ile(gat) (tRNA)
+ID 5: Gfo/Idh/MocA-like oxidoreductase N-terminal domain-containing protein (cds)
+ID 6: DUF262 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: SGNH hydrolase-type esterase domain-containing protein (cds)
+ID 9: Limiting CO2-inducible protein B/C beta carbonyic anhydrase domain-containing protein (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: Sialidase domain-containing protein (cds)
+ID 2: cobB2: NAD-dependent protein deacylase 2 (cds)
+ID 3: CMP/dCMP-type deaminase domain-containing protein (cds)
+ID 4: acnR: HTH-type transcriptional repressor AcnR (cds)
+ID 5: trnG: tRNA-Gly(gcc) (tRNA)
+ID 6: Putative hydrogen peroxide sensing regulator (cds)
+ID 7: Putative PTS fructose-specific enzyme IIABC component (cds)
+ID 8: cobC: Rv2231c family pyridoxal phosphate-dependent protein CobC (cds)
+ID 9: Corrinoid adenosyltransferase (cds)
+ID 10: pckG: phosphoenolpyruvate carboxykinase (GTP) (cds)
+ID 11: Putative membrane protein (cds)

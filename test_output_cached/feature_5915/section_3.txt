@@ -1,0 +1,8 @@
+ID 1: rsmH: 16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH (cds)
+ID 2: Lipoprotein (cds)
+ID 3: SMI1/KNR4 family protein (cds)
+ID 4: murQ: N-acetylmuramic acid 6-phosphate etherase (cds)
+ID 5: YD repeat protein (cds)
+ID 6: bamA: Outer membrane protein assembly factor BamA (cds)
+ID 7: xerD: Site-specific recombinase XerD (cds)
+ID 8: trpA: tryptophan synthase subunit alpha (cds)

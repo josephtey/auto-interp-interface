@@ -1,0 +1,8 @@
+ID 1: SCO2523 family variant P-loop protein (cds)
+ID 2: Pirin N-terminal domain-containing protein (cds)
+ID 3: ATP-binding cassette domain-containing protein (cds)
+ID 4: yvrE: Sugar lactone lactonase YvrE (cds)
+ID 5: Universal stress protein (cds)
+ID 6: HTH lacI-type domain-containing protein (cds)
+ID 7: terD: TerD family protein (cds)
+ID 8: pccA: Acetyl/propionyl-CoA carboxylase, alpha subunit (cds)

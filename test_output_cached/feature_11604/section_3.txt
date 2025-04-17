@@ -1,0 +1,7 @@
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: CRISPR spacer, sequence TGCGAGCGCGCCGAGTTGGCGCTACCGGCCCAGTT (crispr-spacer)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR spacer, sequence ACCGGCACAGCAACCGAAGGCGGCACGCAGGTCTA (crispr-spacer)
+ID 5: livK: ABC-type branched-chain amino acid transport system, periplasmic component (cds)
+ID 6: Lipoprotein (cds)
+ID 7: lysR: DNA-binding transcriptional regulator, LysR family (cds)

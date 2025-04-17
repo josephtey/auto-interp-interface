@@ -1,0 +1,13 @@
+Image 4
+ID 1: glvA: maltose-6'-phosphate glucosidase (cds)
+ID 2: YgaB-like protein (cds)
+ID 3: yhfP: Putative quinone oxidoreductase YhfP (cds)
+ID 4: tnp: IS3 family ISBsu1 transposase ORF A (cds)
+ID 5: ylqD: Uncharacterized protein YlqD (cds)
+ID 6: dhaS: aldehyde dehydrogenase DhaS (cds)
+ID 7: ctpA: carboxy-terminal processing protease CtpA (cds)
+ID 8: yodQ: peptidase (cds)
+ID 9: yqbI: Uncharacterized protein YqbI (cds)
+ID 10: merR: MerR family transcriptional regulator (cds)
+ID 11: Ribosomal protein L21 leader (ncRNA-region)
+ID 12: rbsA: ribose ABC transporter ATP-binding protein RbsA (cds)

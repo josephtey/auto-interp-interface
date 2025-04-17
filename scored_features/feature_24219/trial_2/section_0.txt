@@ -1,0 +1,10 @@
+Image 0
+ID 1: lysM: LysM domain-containing protein (cds)
+ID 2: Mitochondrial cytochrome c oxidase subunit VIc/VIIs domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Site-specific integrase (cds)
+ID 5: Beta-Ig-H3/fasciclin (cds)
+ID 6: IS701 family transposase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Fumarate reductase/succinate dehydrogenase flavoprotein subunit (cds)
+ID 9: SPFH domain-containing protein (cds)

@@ -1,0 +1,11 @@
+Image 2
+ID 1: DUF29 domain-containing protein (cds)
+ID 2: nuoB: NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase (cds)
+ID 3: actP: Na+(or H+)/acetate symporter ActP (cds)
+ID 4: rbsK: Sugar or nucleoside kinase, ribokinase family (cds)
+ID 5: Cytochrome b (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: Glycosyl transferase (cds)
+ID 8: glgC: glucose-1-phosphate adenylyltransferase (cds)
+ID 9: yadH: ABC-type multidrug transport system, permease component (cds)
+ID 10: traH: Conjugal transfer protein TraH (cds)

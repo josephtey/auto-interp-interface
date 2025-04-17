@@ -1,0 +1,9 @@
+Image 4
+ID 1: 3-keto-disaccharide hydrolase domain-containing protein (cds)
+ID 2: uracil-DNA glycosylase (cds)
+ID 3: Thiol:disulfide oxidoreductase (cds)
+ID 4: UPF0761 membrane protein GCM10011289_20000 (cds)
+ID 5: 1-acyl-sn-glycerol-3-phosphate acyltransferase (cds)
+ID 6: Amino acid ABC transporter substrate-binding protein (cds)
+ID 7: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 8: DUF6272 domain-containing protein (cds)

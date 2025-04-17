@@ -1,0 +1,11 @@
+Image 3
+ID 1: Aspartate transaminase (cds)
+ID 2: yrhK: YrhK domain-containing protein (cds)
+ID 3: BRO domain-containing protein (cds)
+ID 4: Sugar ABC transporter permease (cds)
+ID 5: selA: L-seryl-tRNA(Sec) selenium transferase (cds)
+ID 6: Putative glycosyltransferase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: mnmA: tRNA 2-thiouridine(34) synthase MnmA (cds)
+ID 9: Segregation and condensation protein (cds)
+ID 10: DUF5129 domain-containing protein (cds)

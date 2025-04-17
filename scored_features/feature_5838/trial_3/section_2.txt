@@ -1,0 +1,9 @@
+Image 2
+ID 1: aroK: Shikimate kinase (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: arcC: carbamate kinase (cds)
+ID 5: moaB: Molybdopterin biosynthesis enzyme MoaB/MogA (cds)
+ID 6: der: ribosome biogenesis GTPase Der (cds)
+ID 7: CBM6-containing protein (cds)
+ID 8: ltrA: group II intron reverse transcriptase/maturase (cds)

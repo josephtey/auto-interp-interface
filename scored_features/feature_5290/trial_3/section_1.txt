@@ -1,0 +1,12 @@
+Image 1
+ID 1: DUF1579 domain-containing protein (cds)
+ID 2: Spheroidene monooxygenase (cds)
+ID 3: Potassium channel domain-containing protein (cds)
+ID 4: ugd: UDP-glucose 6-dehydrogenase (cds)
+ID 5: Putative hemolysin (cds)
+ID 6: DUF6455 domain-containing protein (cds)
+ID 7: pldB: Lysophospholipase, alpha-beta hydrolase superfamily (cds)
+ID 8: Dihydropteroate synthase (cds)
+ID 9: fadB: carnitine 3-dehydrogenase (cds)
+ID 10: hypothetical protein (cds)
+ID 11: gltB1: Glutamate synthase domain 1 (cds)

@@ -1,0 +1,12 @@
+Image 3
+ID 1: kdsA: 3-deoxy-8-phosphooctulonate synthase (cds)
+ID 2: rpsJ: 30S ribosomal protein S10 (cds)
+ID 3: hsdS: Restriction endonuclease S subunit (cds)
+ID 4: gltX: glutamine--tRNA ligase/YqeY domain fusion protein (cds)
+ID 5: PQQ-like domain-containing protein (cds)
+ID 6: brnQ: branched-chain amino acid transport system II carrier protein (cds)
+ID 7: DUF4286 domain-containing protein (cds)
+ID 8: DUF368 domain-containing protein (cds)
+ID 9: cls: cardiolipin synthase (cds)
+ID 10: yjdB: Uncharacterized conserved protein YjdB, contains Ig-like domain (cds)
+ID 11: kdpD: K+-sensing histidine kinase KdpD (cds)

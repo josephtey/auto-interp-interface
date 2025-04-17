@@ -1,0 +1,13 @@
+Image 0
+ID 1: yabQ: spore cortex biosynthesis protein YabQ (cds)
+ID 2: 2-isopropylmalate synthase (cds)
+ID 3: PEGA domain-containing protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: rpoE: RNA polymerase, sigma-24 subunit, RpoE (cds)
+ID 6: trpC: indole-3-glycerol phosphate synthase TrpC (cds)
+ID 7: flaG: Flagellar biosynthesis protein FlaG (cds)
+ID 8: cbiB: adenosylcobinamide-phosphate synthase CbiB (cds)
+ID 9: CRISPR repeat (crispr-repeat)
+ID 10: YlmC/YmxH family sporulation protein (cds)
+ID 11: Nucleotide pyrophosphohydrolase (cds)
+ID 12: prfA: peptide chain release factor 1 (cds)

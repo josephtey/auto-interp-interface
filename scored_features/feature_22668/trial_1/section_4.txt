@@ -1,0 +1,11 @@
+Image 4
+ID 1: Tetracycline resistance MFS efflux pump (cds)
+ID 2: Secretin (cds)
+ID 3: Methyl-accepting chemotaxis protein (MCP) signalling domain-containing protein (cds)
+ID 4: GGDEF domain-containing protein (cds)
+ID 5: Methyl-accepting transducer domain-containing protein (cds)
+ID 6: Protein-glutamate O-methyltransferase (cds)
+ID 7: Aspartate aminotransferase family protein (cds)
+ID 8: fecR: FecR protein domain-containing protein (cds)
+ID 9: Phosphate transporter (cds)
+ID 10: groES: co-chaperone GroES (cds)

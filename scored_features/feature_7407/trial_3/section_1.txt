@@ -1,0 +1,12 @@
+Image 1
+ID 1: kynU: kynureninase (cds)
+ID 2: megL: methionine gamma-lyase (cds)
+ID 3: YqgE/AlgH family protein (cds)
+ID 4: SsuA/THI5-like domain-containing protein (cds)
+ID 5: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 6: potassium/proton antiporter (cds)
+ID 7: Bacterial protein of unknown function (Gcw_chp) (cds)
+ID 8: putative membrane transporter protein (cds)
+ID 9: Guanylate cyclase domain-containing protein (cds)
+ID 10: Sensor domain-containing diguanylate cyclase (cds)
+ID 11: hypothetical protein (cds)

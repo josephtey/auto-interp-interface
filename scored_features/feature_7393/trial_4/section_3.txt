@@ -1,0 +1,8 @@
+Image 3
+ID 1: gsiA: ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain (cds)
+ID 2: sbcC: DNA repair exonuclease SbcCD ATPase subunit (cds)
+ID 3: thioredoxin family protein (cds)
+ID 4: Lysine riboswitch (ncRNA-region)
+ID 5: rplF: 50S ribosomal protein L6 (cds)
+ID 6: hypothetical protein (cds)
+ID 7: trnP: tRNA-Pro(tgg) (tRNA)

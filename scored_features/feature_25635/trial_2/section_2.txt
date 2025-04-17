@@ -1,0 +1,9 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: DUF402 domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: lysM: LysM domain-containing protein (cds)
+ID 5: N(6)-L-threonylcarbamoyladenine synthase (cds)
+ID 6: Type II secretion system protein I (GspI) (cds)
+ID 7: Iron complex transport system permease protein (cds)
+ID 8: xylA: xylose isomerase (cds)

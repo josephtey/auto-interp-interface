@@ -1,0 +1,12 @@
+Image 4
+ID 1: mazF: mRNA-degrading endonuclease MazF, toxin component of the MazEF toxin-antitoxin module (cds)
+ID 2: metallophosphoesterase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: fadL: Long-chain fatty acid transport protein (cds)
+ID 5: moxR: MoxR-like ATPase (cds)
+ID 6: rbfA: 30S ribosome-binding factor RbfA (cds)
+ID 7: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)
+ID 8: DUF6747 domain-containing protein (cds)
+ID 9: nrnA: nanoRNase/pAp phosphatase, hydrolyzes c-di-AMP and oligoRNAs (cds)
+ID 10: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 11: Rhs element Vgr protein (cds)

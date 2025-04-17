@@ -1,0 +1,12 @@
+Image 1
+ID 1: Polysaccharide deacetylase family protein (cds)
+ID 2: Lipid/polyisoprenoid-binding YceI-like domain-containing protein (cds)
+ID 3: Monoamine oxidase (cds)
+ID 4: DUF1203 domain-containing protein (cds)
+ID 5: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 6: Glycosyltransferase family 2 protein (cds)
+ID 7: ABC transporter permease (cds)
+ID 8: Tyrosine-type recombinase/integrase family protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: ftsY: signal recognition particle-docking protein FtsY (cds)
+ID 11: Sensor histidine kinase (cds)

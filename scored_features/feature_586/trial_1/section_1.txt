@@ -1,0 +1,9 @@
+Image 1
+ID 1: Arsenate reductase-like protein (cds)
+ID 2: gntR: Transcriptional regulator, GntR family (cds)
+ID 3: gltA: NADPH-dependent glutamate synthase (cds)
+ID 4: Nucleoside-triphosphatase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Transporter (cds)
+ID 7: DUF4317 domain-containing protein (cds)
+ID 8: tet: tetracycline resistance ribosomal protection protein (cds)

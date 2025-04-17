@@ -1,0 +1,13 @@
+Image 0
+Organism: Xanthomonas hyacinthi (g-proteobacteria)
+ID 1: pstS: phosphate ABC transporter substrate-binding protein PstS (cds)
+ID 2: TetR/AcrR family transcriptional regulator (cds)
+ID 3: TonB-dependent receptor (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: GtrA/DPMS transmembrane domain-containing protein (cds)
+ID 6: trnI: tRNA-Ile2(cat) (tRNA)
+ID 7: mreB: Cell shape-determining ATPase MreB, actin-like superfamily (cds)
+ID 8: Alanine:cation symporter family protein (cds)
+ID 9: metH: methionine synthase (cds)
+ID 10: Secreted protein (cds)
+ID 11: Cytosine-specific methyltransferase (cds)

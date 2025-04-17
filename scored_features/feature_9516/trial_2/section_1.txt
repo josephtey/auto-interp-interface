@@ -1,0 +1,8 @@
+Image 1
+ID 1: metK: methionine adenosyltransferase (cds)
+ID 2: Transcriptional regulator (cds)
+ID 3: NUDIX domain-containing protein (cds)
+ID 4: DUF6163 domain-containing protein (cds)
+ID 5: Molybdopterin-binding protein (cds)
+ID 6: BMP family ABC transporter substrate-binding protein (cds)
+ID 7: tnp: IS3 family ISKpn11 transposase ORF A (cds)

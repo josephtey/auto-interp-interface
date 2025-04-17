@@ -1,0 +1,11 @@
+Image 3
+ID 1: purF: amidophosphoribosyltransferase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: guaB1: GuaB1 family IMP dehydrogenase-related protein (cds)
+ID 4: rsmD: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD (cds)
+ID 5: type ISP restriction/modification enzyme (cds)
+ID 6: Cytochrome bc1 complex cytochrome b subunit (cds)
+ID 7: Alpha-1,4 glucan phosphorylase (cds)
+ID 8: AAA family ATPase (cds)
+ID 9: aminodeoxychorismate/anthranilate synthase component II (cds)
+ID 10: Glycerate kinase (cds)

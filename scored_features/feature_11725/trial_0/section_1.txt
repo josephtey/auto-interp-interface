@@ -1,0 +1,11 @@
+Image 1
+ID 1: tRNA nucleotidyltransferase/poly(A) polymerase RNA and SrmB- binding domain-containing protein (cds)
+ID 2: uxuA: mannonate dehydratase (cds)
+ID 3: mglA: ABC-type sugar transport system, ATPase component (cds)
+ID 4: ugpE: ABC-type glycerol-3-phosphate transport system, permease component (cds)
+ID 5: Methyltransferase domain-containing protein (cds)
+ID 6: rpoZ: DNA-directed RNA polymerase subunit omega (cds)
+ID 7: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 8: ATP-binding cassette domain-containing protein (cds)
+ID 9: rplC: 50S ribosomal protein L3 (cds)
+ID 10: ykwD: Spore germination protein YkwD and related proteins with CAP (CSP/antigen 5/PR1) domain (cds)

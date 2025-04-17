@@ -1,0 +1,13 @@
+Image 4
+ID 1: trnM: tRNA-Met(cat) (tRNA)
+ID 2: hypothetical protein (cds)
+ID 3: blaR1: BlaR1 family beta-lactam sensor/signal transducer (cds)
+ID 4: Flavoprotein, HI0933 family (cds)
+ID 5: thrC: threonine synthase (cds)
+ID 6: yunB: sporulation protein YunB (cds)
+ID 7: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 8: hypothetical protein (cds)
+ID 9: glpK: glycerol kinase GlpK (cds)
+ID 10: trnF: tRNA-Phe(gaa) (tRNA)
+ID 11: DUF6114 domain-containing protein (cds)
+ID 12: hypothetical protein (cds)

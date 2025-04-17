@@ -1,0 +1,5 @@
+Image 3
+ID 1: DUF4241 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Translation elongation factor EFTu/EF1A C-terminal domain-containing protein (cds)
+ID 4: hypothetical protein (cds)

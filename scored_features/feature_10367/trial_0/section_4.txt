@@ -1,0 +1,9 @@
+Image 4
+ID 1: ddpA: ABC-type transport system, periplasmic component (cds)
+ID 2: Transposase IS200-like domain-containing protein (cds)
+ID 3: Lipoprotein (cds)
+ID 4: alsT: Na+/alanine symporter (cds)
+ID 5: mtlD: Mannitol-1-phosphate/altronate dehydrogenases (cds)
+ID 6: rocR: RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains (cds)
+ID 7: hypothetical protein (cds)
+ID 8: yyaL: Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains (cds)

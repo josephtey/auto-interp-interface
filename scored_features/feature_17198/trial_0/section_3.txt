@@ -1,0 +1,11 @@
+Image 3
+ID 1: ahpC: alkyl hydroperoxide reductase subunit C (cds)
+ID 2: hypothetical protein (cds)
+ID 3: lolE: lipoprotein-releasing ABC transporter permease subunit LolE (cds)
+ID 4: Haloalkane dehalogenase (cds)
+ID 5: prfA: peptide chain release factor 1 (cds)
+ID 6: cydX: cytochrome bd-I oxidase subunit CydX (cds)
+ID 7: aspartate-semialdehyde dehydrogenase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: brnQ: branched-chain amino acid transport system II carrier protein (cds)
+ID 10: Aryl-sulfate sulfotransferase (cds)

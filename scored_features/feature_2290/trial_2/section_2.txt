@@ -1,0 +1,6 @@
+Image 2
+ID 1: gmk: guanylate kinase (cds)
+ID 2: uspA: Nucleotide-binding universal stress protein, UspA family (cds)
+ID 3: psd: phosphatidylserine decarboxylase (cds)
+ID 4: cpdA: 3',5'-cyclic AMP phosphodiesterase CpdA (cds)
+ID 5: murF: UDP-N-acetylmuramyl pentapeptide synthase (cds)

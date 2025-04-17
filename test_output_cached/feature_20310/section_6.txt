@@ -1,0 +1,7 @@
+ID 1: Transcriptional regulator (cds)
+ID 2: abrB: Bifunctional DNA-binding transcriptional regulator of stationary/sporulation/toxin gene expression and antitoxin component of the YhaV-PrlF toxin-antitoxin module (cds)
+ID 3: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 4: tPR: Tetratricopeptide (TPR) repeat (cds)
+ID 5: plsC: 1-acyl-sn-glycerol-3-phosphate acyltransferase (cds)
+ID 6: ecfA2: energy-coupling factor transporter ATPase (cds)
+ID 7: manB: Phosphomannomutase (cds)

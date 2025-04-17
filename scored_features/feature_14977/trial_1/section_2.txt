@@ -1,0 +1,12 @@
+Image 2
+ID 1: acyl-homoserine-lactone synthase (cds)
+ID 2: Copper resistance protein B (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ABC transporter permease (cds)
+ID 5: BAX inhibitor protein (cds)
+ID 6: Lipoprotein (cds)
+ID 7: UPF0056 membrane protein (cds)
+ID 8: Outer membrane efflux protein (cds)
+ID 9: polyamine aminopropyltransferase (cds)
+ID 10: dTTP/UTP pyrophosphatase (cds)
+ID 11: mnmG: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG (cds)

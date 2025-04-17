@@ -1,0 +1,11 @@
+Image 1
+ID 1: ECF transporter S component (cds)
+ID 2: dctP: TRAP-type C4-dicarboxylate transport system, periplasmic component (cds)
+ID 3: yIH1: Putative translation regulator, IMPACT (imprinted ancient) protein family (cds)
+ID 4: MMPL family transporter (cds)
+ID 5: DUF3231 domain-containing protein (cds)
+ID 6: pfkA: 6-phosphofructokinase (cds)
+ID 7: ugpA: ABC-type sugar transport system, permease component (cds)
+ID 8: dcd: dCTP deaminase (cds)
+ID 9: rpsD: 30S ribosomal protein S4 (cds)
+ID 10: glnA: type I glutamate--ammonia ligase (cds)

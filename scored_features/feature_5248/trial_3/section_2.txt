@@ -1,0 +1,8 @@
+Image 2
+ID 1: atpE: F0F1 ATP synthase subunit C (cds)
+ID 2: uvrC: excinuclease ABC subunit UvrC (cds)
+ID 3: ftsK: DNA segregation ATPase FtsK/SpoIIIE or related protein (cds)
+ID 4: rfbX: Membrane protein involved in the export of O-antigen and teichoic acid (cds)
+ID 5: fetB: ABC-type iron transport system FetAB, permease component (cds)
+ID 6: ymdB: 2',3'- and 3',5'-cNMP phosphodiesterase YmdB, calcineurin family (cds)
+ID 7: Water Stress and Hypersensitive response domain protein (cds)

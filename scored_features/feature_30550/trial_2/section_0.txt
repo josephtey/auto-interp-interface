@@ -1,0 +1,10 @@
+Image 0
+ID 1: TonB-linked outer membrane protein, SusC/RagA family (cds)
+ID 2: pyridoxine 5'-phosphate synthase (cds)
+ID 3: xerD: Site-specific recombinase XerD (cds)
+ID 4: dnaE: DNA polymerase III subunit alpha (cds)
+ID 5: 2TM domain-containing protein (cds)
+ID 6: rhodanese-like domain-containing protein (cds)
+ID 7: Holin (cds)
+ID 8: alpha-ketoacid dehydrogenase subunit alpha/beta (cds)
+ID 9: DUF4340 domain-containing protein (cds)

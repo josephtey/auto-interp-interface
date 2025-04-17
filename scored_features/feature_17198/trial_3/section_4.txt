@@ -1,0 +1,11 @@
+Image 4
+ID 1: serS: serine--tRNA ligase (cds)
+ID 2: lysM: LysM domain-containing protein (cds)
+ID 3: carB: carbamoyl-phosphate synthase large subunit (cds)
+ID 4: ssgB: Sporulation-specific cell division protein SsgB (cds)
+ID 5: glmU: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU (cds)
+ID 6: Mycothiol-dependent maleylpyruvate isomerase metal-binding domain-containing protein (cds)
+ID 7: GGDEF domain-containing protein (cds)
+ID 8: DUF4037 domain-containing protein (cds)
+ID 9: YrdC-like domain-containing protein (cds)
+ID 10: CBM2 domain-containing protein (cds)

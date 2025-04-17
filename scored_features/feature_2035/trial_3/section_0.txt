@@ -1,0 +1,9 @@
+Image 0
+ID 1: DUF2950 domain-containing protein (cds)
+ID 2: trnF: tRNA-Phe(gaa) (tRNA)
+ID 3: napB: Nitrate reductase cytochrome c-type subunit NapB (cds)
+ID 4: trnS: tRNA-Ser(gga) (tRNA)
+ID 5: DUF1439 domain-containing protein (cds)
+ID 6: flavodoxin (cds)
+ID 7: lafX: LafX (cds)
+ID 8: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)

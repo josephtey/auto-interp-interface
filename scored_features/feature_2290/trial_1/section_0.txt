@@ -1,0 +1,11 @@
+Image 0
+ID 1: Transcriptional regulator, XRE family (cds)
+ID 2: osmC: OsmC family protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Aminoglycoside phosphotransferase (cds)
+ID 5: Flp pilus-assembly TadG-like N-terminal domain-containing protein (cds)
+ID 6: Binding-protein-dependent transport systems inner membrane component (cds)
+ID 7: Nucleotidyltransferase-like protein (cds)
+ID 8: thiD: Phosphomethylpyrimidine kinase (cds)
+ID 9: rlmD: 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD (cds)
+ID 10: ATPase AAA-type core domain-containing protein (cds)

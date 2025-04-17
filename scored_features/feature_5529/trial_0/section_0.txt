@@ -1,0 +1,11 @@
+Image 0
+ID 1: S9 family peptidase (cds)
+ID 2: dinB: DinB family protein (cds)
+ID 3: DKNYY domain-containing protein (cds)
+ID 4: universal stress protein (cds)
+ID 5: ABC transporter ATP-binding protein (cds)
+ID 6: M3 family metallopeptidase (cds)
+ID 7: 3-isopropylmalate dehydratase large subunit (cds)
+ID 8: hypothetical protein (cds)
+ID 9: DUF4251 domain-containing protein (cds)
+ID 10: MFS transporter (cds)

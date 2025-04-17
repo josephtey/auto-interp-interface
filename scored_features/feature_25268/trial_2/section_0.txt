@@ -1,0 +1,9 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: yqfA: putative membrane channel-forming protein YqfA, hemolysin III family (cds)
+ID 3: efiE: putative lantabiotic-exporting membrane pepmease, EfiE/EfiG/ABC2 family (cds)
+ID 4: mnmA: tRNA 2-thiouridine(34) synthase MnmA (cds)
+ID 5: thrA: Homoserine dehydrogenase (cds)
+ID 6: plsY: glycerol-3-phosphate 1-O-acyltransferase PlsY (cds)
+ID 7: mreB: Cell shape-determining ATPase MreB, actin-like superfamily (cds)
+ID 8: rlmL: 23S rRNA G2445 N2-methylase RlmL (cds)

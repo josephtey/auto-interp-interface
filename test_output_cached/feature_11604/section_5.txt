@@ -1,0 +1,6 @@
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 4: fAA1: Long-chain acyl-CoA synthetase (AMP-forming) (cds)
+ID 5: CRISPR spacer, sequence CGGATACTGTTTTCCGCGCGCTCGCGCGCTGGTCAT (crispr-spacer)
+ID 6: pTC1: Stp1/IreP family PP2C-type Ser/Thr phosphatase (cds)

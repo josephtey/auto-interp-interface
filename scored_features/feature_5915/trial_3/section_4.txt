@@ -1,0 +1,10 @@
+Image 4
+ID 1: FAD-binding protein (cds)
+ID 2: Response regulator transcription factor (cds)
+ID 3: 2-keto-4-pentenoate hydratase (cds)
+ID 4: Adenylate/guanylate cyclase domain-containing protein (cds)
+ID 5: Class II aldolase/adducin family protein (cds)
+ID 6: SDR family oxidoreductase (cds)
+ID 7: Helix-turn-helix transcriptional regulator (cds)
+ID 8: MFS transporter (cds)
+ID 9: Multicopper oxidase family protein (cds)

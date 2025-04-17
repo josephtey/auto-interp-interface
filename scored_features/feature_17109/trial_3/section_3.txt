@@ -1,0 +1,13 @@
+Image 3
+ID 1: Type II toxin-antitoxin system PemK/MazF family toxin (cds)
+ID 2: Transposase (cds)
+ID 3: Spore gernimation protein (cds)
+ID 4: spoVG: septation regulator SpoVG (cds)
+ID 5: rpoB: DNA-directed RNA polymerase subunit beta (cds)
+ID 6: DMT family transporter (cds)
+ID 7: upp: uracil phosphoribosyltransferase (cds)
+ID 8: IS1380 family transposase (cds)
+ID 9: NH(3)-dependent NAD(+) synthetase (cds)
+ID 10: IS1182 family transposase (cds)
+ID 11: bshA: N-acetyl-alpha-D-glucosaminyl L-malate synthase BshA (cds)
+ID 12: fliG: flagellar motor switch protein FliG (cds)

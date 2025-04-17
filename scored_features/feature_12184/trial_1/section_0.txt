@@ -1,0 +1,11 @@
+Image 0
+ID 1: pleD: Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain (cds)
+ID 2: cyoE: heme o synthase (cds)
+ID 3: DUF6497 domain-containing protein (cds)
+ID 4: tesA: Lysophospholipase L1 or related esterase Includes spore coat protein LipC/YcsK (cds)
+ID 5: TPR repeat protein, SEL1 subfamily (cds)
+ID 6: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 7: hisI: phosphoribosyl-AMP cyclohydrolase (cds)
+ID 8: Putative hemolysin (cds)
+ID 9: livF: ABC-type branched-chain amino acid transport system, ATPase component LivF (cds)
+ID 10: malK: ABC-type sugar transport system, ATPase component MalK (cds)

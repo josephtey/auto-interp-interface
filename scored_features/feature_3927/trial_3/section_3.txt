@@ -1,0 +1,10 @@
+Image 3
+ID 1: aroB: 3-dehydroquinate synthase (cds)
+ID 2: yihA: ribosome biogenesis GTP-binding protein YihA/YsxC (cds)
+ID 3: hypothetical protein (cds)
+ID 4: NADH-quinone oxidoreductase subunit E (cds)
+ID 5: sdhA: succinate dehydrogenase flavoprotein subunit (cds)
+ID 6: Peptidase M20 (cds)
+ID 7: trnL: tRNA-Leu(caa) (tRNA)
+ID 8: nadA: quinolinate synthase NadA (cds)
+ID 9: ligA: NAD-dependent DNA ligase LigA (cds)

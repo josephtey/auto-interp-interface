@@ -1,0 +1,8 @@
+Image 4
+ID 1: pilF: Type IV pilus assembly protein PilF/PilW (cds)
+ID 2: F5/8 type C domain-containing protein (cds)
+ID 3: rpsN: 30S ribosomal protein S14 (cds)
+ID 4: tolQ: Biopolymer transport protein ExbB/TolQ (cds)
+ID 5: ispF: 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (cds)
+ID 6: trnD: tRNA-Asp(gtc) (tRNA)
+ID 7: mlaD: Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla (cds)

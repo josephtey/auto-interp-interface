@@ -1,0 +1,13 @@
+Image 1
+ID 1: sigE: ECF RNA polymerase sigma factor SigE (cds)
+ID 2: NHL repeat protein (cds)
+ID 3: ybhA: Pyridoxal phosphate phosphatase YbhA (cds)
+ID 4: Glycosyl hydrolase family 57 (cds)
+ID 5: DUF3006 domain-containing protein (cds)
+ID 6: Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase (cds)
+ID 7: ybaN: Inner membrane protein YbaN (cds)
+ID 8: DUF2262 domain-containing protein (cds)
+ID 9: DUF5615 domain-containing protein (cds)
+ID 10: DUF4145 domain-containing protein (cds)
+ID 11: Phage protein (cds)
+ID 12: Carbohydrate binding domain protein (cds)

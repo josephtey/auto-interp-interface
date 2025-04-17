@@ -1,0 +1,10 @@
+Image 2
+ID 1: Methyltransferase domain-containing protein (cds)
+ID 2: amidase (cds)
+ID 3: hisC: histidinol-phosphate transaminase (cds)
+ID 4: UPF0311 protein FNB15_08555 (cds)
+ID 5: amidase (cds)
+ID 6: Metapyrocatechase (cds)
+ID 7: trnK: tRNA-Lys(ttt) (tRNA)
+ID 8: cobU: bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase (cds)
+ID 9: FAD-dependent oxidoreductase (cds)

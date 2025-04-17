@@ -1,0 +1,13 @@
+Image 0
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: flgD: Basal-body rod modification protein FlgD (cds)
+ID 2: cheZ: Phosphoaspartate phosphatase CheZ, dephosphorylates CheY~P (cds)
+ID 3: glgX: glycogen debranching protein GlgX (cds)
+ID 4: sufC: Fe-S cluster assembly ATPase SufC (cds)
+ID 5: menE: O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming) (cds)
+ID 6: traF: Type IV secretory pathway, protease TraF (cds)
+ID 7: Dnd system-associated protein 4 (cds)
+ID 8: emrB: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 9: irrE: IrrE N-terminal-like domain-containing protein (cds)
+ID 10: meaB: methylmalonyl Co-A mutase-associated GTPase MeaB (cds)
+ID 11: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)

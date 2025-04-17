@@ -1,0 +1,12 @@
+Image 2
+ID 1: abcC: ABC-type methionine transport system, ATPase component (cds)
+ID 2: folD: Bifunctional protein FolD (cds)
+ID 3: cfa: cyclopropane fatty acyl phospholipid synthase (cds)
+ID 4: Anaerobic dimethyl sulfoxide reductase chain C (cds)
+ID 5: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 6: sirB1: invasion regulator SirB1 (cds)
+ID 7: pRha: Phage regulatory protein Rha (cds)
+ID 8: grcA: autonomous glycyl radical cofactor GrcA (cds)
+ID 9: Carbonic anhydrase (cds)
+ID 10: uca: urea carboxylase (cds)
+ID 11: DUF2534 domain-containing protein (cds)

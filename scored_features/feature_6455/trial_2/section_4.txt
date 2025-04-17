@@ -1,0 +1,11 @@
+Image 4
+ID 1: spoIIAA: Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor) (cds)
+ID 2: DUF4136 domain-containing protein (cds)
+ID 3: Secretion system C-terminal sorting domain-containing protein (cds)
+ID 4: Secreted protein (cds)
+ID 5: nadE: NH3-dependent NAD+ synthetase (cds)
+ID 6: mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase (cds)
+ID 7: thiE: Thiamine monophosphate synthase (cds)
+ID 8: acs: acetate--CoA ligase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Secretion system C-terminal sorting domain-containing protein (cds)

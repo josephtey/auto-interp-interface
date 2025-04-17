@@ -1,0 +1,10 @@
+Image 4
+ID 1: Flavo-1: Flavo-1 RNA (ncRNA)
+ID 2: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 3: DUF4260 domain-containing protein (cds)
+ID 4: rbsK: Sugar or nucleoside kinase, ribokinase family (cds)
+ID 5: topA: type I DNA topoisomerase (cds)
+ID 6: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 7: O-antigen ligase (cds)
+ID 8: DUF1704 domain-containing protein (cds)
+ID 9: DNA primase (cds)

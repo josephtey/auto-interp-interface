@@ -1,0 +1,5 @@
+ID 1: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 2: susC: TonB-dependent receptor SusC (cds)
+ID 3: Pseudouridine synthase (cds)
+ID 4: Lipoprotein (cds)
+ID 5: relE: mRNA-degrading endonuclease RelE of RelBE toxin-antitoxin system (cds)

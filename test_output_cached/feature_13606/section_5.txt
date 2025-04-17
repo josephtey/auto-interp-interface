@@ -1,0 +1,4 @@
+ID 1: DUF2516 domain-containing protein (cds)
+ID 2: Integrase (cds)
+ID 3: Abortive infection protein (cds)
+ID 4: SDR family oxidoreductase (cds)

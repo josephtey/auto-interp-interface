@@ -1,0 +1,5 @@
+ID 1: L-fucose-proton symporter (cds)
+ID 2: PliI/PliC-like inhibitor of I-type lysozyme (cds)
+ID 3: arbA: Extracellular exo-alpha-(1->5)-L-arabinofuranosidase ArbA (cds)
+ID 4: Succinyl-diaminopimelate desuccinylase (cds)
+ID 5: HTH-type transcriptional activator Btr (cds)

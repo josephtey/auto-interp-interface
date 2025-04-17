@@ -1,0 +1,9 @@
+Image 1
+ID 1: ribE: riboflavin synthase (cds)
+ID 2: Roadblock/LAMTOR2 domain-containing protein (cds)
+ID 3: Polymerase nucleotidyl transferase domain-containing protein (cds)
+ID 4: racX: Amino acid racemase YgeA (cds)
+ID 5: Concanavalin A-like lectin/glucanase superfamily protein (cds)
+ID 6: Immunity protein 50 (cds)
+ID 7: hypothetical protein (cds)
+ID 8: gpV: Phage P2 baseplate assembly protein gpV (cds)

@@ -1,0 +1,10 @@
+Image 1
+ID 1: rplC: 50S ribosomal protein L3 (cds)
+ID 2: rpsQ: 30S ribosomal protein S17 (cds)
+ID 3: gltA: citrate synthase (cds)
+ID 4: pksG: 3-hydroxy-3-methylglutaryl CoA synthase (cds)
+ID 5: rpmB: 50S ribosomal protein L28 (cds)
+ID 6: ybiB: DNA-binding protein YbiB (cds)
+ID 7: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 8: holB: DNA polymerase III, delta prime subunit (cds)
+ID 9: trnV: tRNA-Val(gac) (tRNA)

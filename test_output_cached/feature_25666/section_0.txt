@@ -1,0 +1,6 @@
+ID 1: hypothetical protein (cds)
+ID 2: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 3: arsA: arsenical pump-driving ATPase (cds)
+ID 4: glpG: Membrane-associated serine protease, rhomboid family (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: hypothetical protein (cds)

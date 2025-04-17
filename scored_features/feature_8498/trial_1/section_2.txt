@@ -1,0 +1,12 @@
+Image 2
+ID 1: xerD: Tyrosine recombinase XerD (cds)
+ID 2: Iron transporter (cds)
+ID 3: DUF4384 domain-containing protein (cds)
+ID 4: Thioesterase (cds)
+ID 5: YdhG-like domain-containing protein (cds)
+ID 6: Acyl-CoA thioesterase (cds)
+ID 7: hlyD: Secretion protein HlyD (cds)
+ID 8: DNA-binding protein (cds)
+ID 9: Phytase-like domain-containing protein (cds)
+ID 10: coxB: cytochrome c oxidase subunit II (cds)
+ID 11: DNA-binding protein (cds)

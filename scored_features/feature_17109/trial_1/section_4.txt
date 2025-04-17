@@ -1,0 +1,12 @@
+Image 4
+ID 1: putative membrane transporter protein (cds)
+ID 2: Peptide synthetase (cds)
+ID 3: fabG: 3-oxoacyl-ACP reductase FabG (cds)
+ID 4: Transposase (cds)
+ID 5: SMI1/KNR4 family protein (cds)
+ID 6: Putative Rossmann-fold-type glycoside hydrolase (cds)
+ID 7: tpiA: triose-phosphate isomerase (cds)
+ID 8: XRE family transcriptional regulator (cds)
+ID 9: SMI1/KNR4 family protein (cds)
+ID 10: AcrB/AcrD/AcrF family protein (cds)
+ID 11: clpS: ATP-dependent Clp protease adaptor ClpS (cds)

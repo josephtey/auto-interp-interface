@@ -1,0 +1,8 @@
+Image 2
+ID 1: DEAD/DEAH box helicase family protein (cds)
+ID 2: Response regulator (cds)
+ID 3: flagellar motor protein (cds)
+ID 4: trnA: tRNA-Ala(ggc) (tRNA)
+ID 5: Phasin family domain protein (cds)
+ID 6: GTPase (cds)
+ID 7: Putative DNA-binding protein (cds)

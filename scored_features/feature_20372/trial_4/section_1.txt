@@ -1,0 +1,10 @@
+Image 1
+ID 1: ribD: bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD (cds)
+ID 2: Penicillin acylase family protein (cds)
+ID 3: GGDEF domain-containing protein (cds)
+ID 4: Short-chain dehydrogenase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: HEAT repeat domain-containing protein (cds)
+ID 7: TPR domain/sulfotransferase domain protein (cds)
+ID 8: SnoaL-like domain-containing protein (cds)
+ID 9: Orphan protein (cds)

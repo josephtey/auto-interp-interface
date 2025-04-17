@@ -1,0 +1,7 @@
+ID 1: Histidine kinase/HSP90-like ATPase domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: rnhA: ribonuclease HI (cds)
+ID 4: Transcriptional regulator (cds)
+ID 5: Transglutaminase-like domain-containing protein (cds)
+ID 6: cheD: putative chemoreceptor glutamine deamidase CheD (cds)
+ID 7: yaaA: peroxide stress protein YaaA (cds)

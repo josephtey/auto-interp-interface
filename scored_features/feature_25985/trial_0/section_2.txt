@@ -1,0 +1,9 @@
+Image 2
+ID 1: crp: cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases (cds)
+ID 2: hypothetical protein (cds)
+ID 3: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 4: ubiX: Flavin prenyltransferase UbiX (cds)
+ID 5: crp: cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases (cds)
+ID 6: cutC: Copper homeostasis protein CutC (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Chromosome partition protein Smc (cds)

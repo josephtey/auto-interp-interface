@@ -1,0 +1,11 @@
+Image 0
+ID 1: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 2: Tryptophan-rich sensory protein (cds)
+ID 3: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 4: frhG: Coenzyme F420-reducing hydrogenase, gamma subunit (cds)
+ID 5: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 6: hypothetical protein (cds)
+ID 7: acoA: TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha (cds)
+ID 8: Deacylase (cds)
+ID 9: ltrA: Low temperature requirement protein LtrA (function unknown) (cds)
+ID 10: DUF6090 domain-containing protein (cds)

@@ -1,0 +1,13 @@
+Image 2
+ID 1: Glycoside hydrolase family 79 (cds)
+ID 2: nupP: ABC-type guanosine uptake system NupNOPQ, permease component NupP (cds)
+ID 3: trnL: tRNA-Leu(tag) (tRNA)
+ID 4: Uncharacterized conserved protein, contains caspase domain (cds)
+ID 5: tatD: 3'->5' ssDNA/RNA exonuclease TatD (cds)
+ID 6: tlyC: Hemolysin-related protein, contains CBS domains, UPF0053 family (cds)
+ID 7: NLP/P60 protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: metH2: Methionine synthase I, cobalamin-binding domain (cds)
+ID 10: coaE: dephospho-CoA kinase (cds)
+ID 11: gpmI: Phosphoglycerate mutase (BPG-independent), AlkP superfamily (cds)
+ID 12: DNA polymerase beta domain protein region (cds)

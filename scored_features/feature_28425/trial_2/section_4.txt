@@ -1,0 +1,9 @@
+Image 4
+ID 1: osmY: Osmotically-inducible protein OsmY, contains BON domain (cds)
+ID 2: abrB: Uncharacterized membrane protein AbrB, regulator of aidB expression (cds)
+ID 3: EAL domain-containing protein (cds)
+ID 4: cysM: cysteine synthase CysM (cds)
+ID 5: Amino acid ABC transporter permease (cds)
+ID 6: trnV: tRNA-Val(gac) (tRNA)
+ID 7: rlmI: 23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI (cds)
+ID 8: rhlE: ATP-dependent RNA helicase RhlE (cds)

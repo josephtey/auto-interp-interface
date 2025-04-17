@@ -1,0 +1,10 @@
+Image 0
+ID 1: Cytochrome c-type protein (cds)
+ID 2: UPF0145 protein HER31_04270 (cds)
+ID 3: Formate dehydrogenase (cds)
+ID 4: Dehalogenase (cds)
+ID 5: trnI: tRNA-Ile(gat) (tRNA)
+ID 6: ppk1: polyphosphate kinase 1 (cds)
+ID 7: Guanosine-inosine kinase (cds)
+ID 8: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 9: gltS: sodium/glutamate symporter (cds)

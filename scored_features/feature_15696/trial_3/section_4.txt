@@ -1,0 +1,13 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: accA: acetyl-CoA carboxylase carboxyltransferase subunit alpha (cds)
+ID 3: rrf: 5S ribosomal RNA (rRNA)
+ID 4: moxR: MoxR-like ATPase (cds)
+ID 5: LTXXQ motif family protein (cds)
+ID 6: rpsO: 30S ribosomal protein S15 (cds)
+ID 7: pspE: Rhodanese-related sulfurtransferase (cds)
+ID 8: terC: Tellurite resistance membrane protein TerC (cds)
+ID 9: mazF: mRNA-degrading endonuclease MazF, toxin component of the MazEF toxin-antitoxin module (cds)
+ID 10: ycgL: putative nucleotidyltransferase YcgL (cds)
+ID 11: aTM1: ABC-type transport system involved in Fe-S cluster assembly, permease and ATPase components (cds)
+ID 12: feoC: Transcriptional regulator HTH-type FeoC domain-containing protein (cds)

@@ -1,0 +1,11 @@
+Image 3
+ID 1: yuxK: putative thiol-disulfide oxidoreductase YuxK, DCC family (cds)
+ID 2: trpS: tryptophan--tRNA ligase (cds)
+ID 3: proC: pyrroline-5-carboxylate reductase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: aroGA: bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase (cds)
+ID 6: trnV: tRNA-Val(tac) (tRNA)
+ID 7: arsD: arsenite efflux transporter metallochaperone ArsD (cds)
+ID 8: 4-hydroxytetrahydrobiopterin dehydratase (cds)
+ID 9: ldcA: Muramoyltetrapeptide carboxypeptidase LdcA (peptidoglycan recycling) (cds)
+ID 10: hypothetical protein (cds)

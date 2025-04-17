@@ -1,0 +1,8 @@
+Image 0
+ID 1: MtrB/PioB family decaheme-associated outer membrane protein (cds)
+ID 2: Alkene reductase (cds)
+ID 3: FAD-binding oxidoreductase (cds)
+ID 4: uroporphyrinogen-III C-methyltransferase (cds)
+ID 5: cheA: Chemotaxis protein CheA (cds)
+ID 6: Peptidase M17, leucyl aminopeptidase domain protein (cds)
+ID 7: Lipoprotein (cds)

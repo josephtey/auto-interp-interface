@@ -1,0 +1,13 @@
+Image 1
+ID 1: Sugar kinase (cds)
+ID 2: Flagellar hook associated protein (cds)
+ID 3: hlyD: HlyD family efflux transporter periplasmic adaptor subunit (cds)
+ID 4: Nucleoside hydrolase (cds)
+ID 5: Helix-turn-helix domain-containing protein (cds)
+ID 6: DUF6455 domain-containing protein (cds)
+ID 7: queD: 6-carboxytetrahydropterin synthase QueD (cds)
+ID 8: ABC transporter substrate-binding protein PnrA-like domain-containing protein (cds)
+ID 9: GNAT family N-acetyltransferase (cds)
+ID 10: peptidoglycan-binding protein (cds)
+ID 11: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 12: nikE: nickel import ATP-binding protein NikE (cds)

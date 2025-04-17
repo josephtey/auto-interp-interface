@@ -1,0 +1,7 @@
+Image 2
+ID 1: Lipoprotein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: trxA: Thiol-disulfide isomerase or thioredoxin (cds)
+ID 4: trnE: tRNA-Glu(ctc) (tRNA)
+ID 5: pta: Malic enzyme (cds)
+ID 6: Metallophosphoesterase (cds)

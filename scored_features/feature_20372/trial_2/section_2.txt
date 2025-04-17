@@ -1,0 +1,12 @@
+Image 2
+ID 1: Malonyl CoA-acyl carrier protein transacylase (cds)
+ID 2: Quinone oxidoreductase (cds)
+ID 3: Flp pilus-assembly TadG-like N-terminal domain-containing protein (cds)
+ID 4: PD-(D/E)XK endonuclease-like domain-containing protein (cds)
+ID 5: Citrate transporter-like domain-containing protein (cds)
+ID 6: dop: depupylase/deamidase Dop (cds)
+ID 7: PTS lactose transporter subunit IIC (cds)
+ID 8: HTH hxlR-type domain-containing protein (cds)
+ID 9: Sodium/calcium exchanger membrane region domain-containing protein (cds)
+ID 10: trnT: tRNA-Thr(tgt) (tRNA)
+ID 11: Triacylglycerol lipase (cds)

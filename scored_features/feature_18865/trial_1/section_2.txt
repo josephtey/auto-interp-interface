@@ -1,0 +1,8 @@
+Image 2
+ID 1: tACO1: YebC/PmpR family DNA-binding transcriptional regulator (cds)
+ID 2: rplQ: 50S ribosomal protein L17 (cds)
+ID 3: rrl: 23S ribosomal RNA (rRNA)
+ID 4: pksD: Acyl transferase domain in polyketide synthase (PKS) enzymes (cds)
+ID 5: rsmI: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase (cds)
+ID 6: pnp: polyribonucleotide nucleotidyltransferase (cds)
+ID 7: birA2: Biotin-(acetyl-CoA carboxylase) ligase (cds)

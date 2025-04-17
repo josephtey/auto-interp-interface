@@ -1,0 +1,11 @@
+Image 4
+ID 1: Antibiotic biosynthesis monooxygenase (cds)
+ID 2: CRISPR spacer, sequence AAAAAACCGACTGGGTGCAGATCGGGGTTTT (crispr-spacer)
+ID 3: Lipoprotein (cds)
+ID 4: Tyrosine-type recombinase/integrase (cds)
+ID 5: rpmF: 50S ribosomal protein L32 (cds)
+ID 6: Prephenate dehydrogenase/arogenate dehydrogenase family protein (cds)
+ID 7: dcd: dCTP deaminase (cds)
+ID 8: eutC: ethanolamine ammonia-lyase subunit EutC (cds)
+ID 9: DUF2817 domain-containing protein (cds)
+ID 10: lysophospholipid acyltransferase family protein (cds)

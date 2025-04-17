@@ -1,0 +1,13 @@
+Image 1
+Organism: Limnoglobus roseus (bacteria)
+ID 1: dapA: 4-hydroxy-tetrahydrodipicolinate synthase (cds)
+ID 2: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 3: Prepilin-type N-terminal cleavage/methylation domain-containing protein (cds)
+ID 4: Exosortase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: IS5/IS1182 family transposase (cds)
+ID 7: Site-specific DNA-methyltransferase (cds)
+ID 8: SMI1/KNR4 family protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: trpB: tryptophan synthase subunit beta (cds)
+ID 11: Alkaline phosphatase family protein (cds)

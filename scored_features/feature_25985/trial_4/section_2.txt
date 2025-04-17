@@ -1,0 +1,9 @@
+Image 2
+ID 1: putative protein N(5)-glutamine methyltransferase (cds)
+ID 2: THUMP-like domain-containing protein (cds)
+ID 3: Lipoprotein (cds)
+ID 4: gabT: 4-aminobutyrate--2-oxoglutarate transaminase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: NUDIX domain-containing protein (cds)
+ID 7: LmbE-like protein (cds)
+ID 8: Poly(3-hydroxybutyrate) depolymerase (cds)

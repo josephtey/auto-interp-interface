@@ -1,0 +1,13 @@
+Image 4
+ID 1: rplE: 50S ribosomal protein L5 (cds)
+ID 2: energy-coupling factor transporter ATPase (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: pheT: phenylalanine--tRNA ligase subunit beta (cds)
+ID 5: tyrS: tyrosine--tRNA ligase (cds)
+ID 6: gatA: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA (cds)
+ID 7: N-acetylmuramoyl-L-alanine amidase (cds)
+ID 8: purL: phosphoribosylformylglycinamidine synthase subunit PurL (cds)
+ID 9: HTH luxR-type domain-containing protein (cds)
+ID 10: L-2-amino-thiazoline-4-carboxylic acid hydrolase (cds)
+ID 11: serine-type D-Ala-D-Ala carboxypeptidase (cds)
+ID 12: Four helix bundle protein (cds)

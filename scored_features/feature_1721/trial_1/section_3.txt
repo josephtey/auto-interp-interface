@@ -1,0 +1,11 @@
+Image 3
+ID 1: Adenylate/guanylate cyclase domain-containing protein (cds)
+ID 2: Peptidoglycan glycosyltransferase (cds)
+ID 3: acyl carrier protein (cds)
+ID 4: Branched-chain amino acid ABC transporter permease (cds)
+ID 5: hypothetical protein (cds)
+ID 6: rplR: 50S ribosomal protein L18 (cds)
+ID 7: folP: dihydropteroate synthase (cds)
+ID 8: YebC/PmpR family DNA-binding transcriptional regulator (cds)
+ID 9: petA: ubiquinol-cytochrome c reductase iron-sulfur subunit (cds)
+ID 10: Glyoxalase (cds)

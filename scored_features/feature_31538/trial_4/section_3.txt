@@ -1,0 +1,12 @@
+Image 3
+ID 1: hPtr: HPt (histidine-containing phosphotransfer) domain (cds)
+ID 2: Cyclic nucleotide-binding domain (CNMP-BD) protein (cds)
+ID 3: clpP: ATP-dependent protease ClpP, protease subunit (cds)
+ID 4: dnaN: DNA polymerase III subunit beta (cds)
+ID 5: recF: DNA replication and repair protein RecF (cds)
+ID 6: tesA: Lysophospholipase L1 or related esterase Includes spore coat protein LipC/YcsK (cds)
+ID 7: trpS: tryptophan--tRNA ligase (cds)
+ID 8: rdgB: RdgB/HAM1 family non-canonical purine NTP pyrophosphatase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Iron-sulfur cluster binding protein (cds)
+ID 11: trpA: tryptophan synthase subunit alpha (cds)

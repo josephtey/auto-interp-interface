@@ -1,0 +1,13 @@
+Image 0
+ID 1: rrf: 5S ribosomal RNA (rRNA)
+ID 2: trnV: tRNA-Val(tac) (tRNA)
+ID 3: hypothetical protein (cds)
+ID 4: xapA: purine-nucleoside phosphorylase (cds)
+ID 5: spo0E: Stage 0 sporulation regulatory phosphatase Spo0E (cds)
+ID 6: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 7: CRISPR spacer, sequence AATAAGTGATGAAATAAGTGTGACAGCTGGCAAGA (crispr-spacer)
+ID 8: hisH: imidazole glycerol phosphate synthase subunit HisH (cds)
+ID 9: mntP: Putative Mn2+ efflux pump MntP (cds)
+ID 10: rpmA: 50S ribosomal protein L27 (cds)
+ID 11: flgF: flagellar basal-body rod protein FlgF (cds)
+ID 12: xapX: Xanthosine utilization system component, XapX domain (cds)

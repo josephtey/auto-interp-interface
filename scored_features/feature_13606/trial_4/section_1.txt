@@ -1,0 +1,5 @@
+Image 1
+ID 1: TetR/AcrR family transcriptional regulator (cds)
+ID 2: alpha/beta hydrolase (cds)
+ID 3: helix-turn-helix domain-containing protein (cds)
+ID 4: glycoside hydrolase family 13 protein (cds)

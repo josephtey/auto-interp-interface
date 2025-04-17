@@ -1,0 +1,9 @@
+Image 1
+ID 1: DUF1348 domain-containing protein (cds)
+ID 2: AHH domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: propionate--CoA ligase (cds)
+ID 5: zinc-dependent peptidase (cds)
+ID 6: Co-chaperonin GroES (cds)
+ID 7: pilI: Twitching motility protein PilI (cds)
+ID 8: Cytochrome c-552/4 domain-containing protein (cds)

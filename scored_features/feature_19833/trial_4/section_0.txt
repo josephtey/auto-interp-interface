@@ -1,0 +1,8 @@
+Image 0
+ID 1: Lipoprotein (cds)
+ID 2: MOSC domain-containing protein (cds)
+ID 3: 1,4-dihydroxy-2-naphthoate polyprenyltransferase (cds)
+ID 4: Inner membrane protein (cds)
+ID 5: Nuclear transport factor 2 family protein (cds)
+ID 6: bfr: bacterioferritin (cds)
+ID 7: acnB: bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase (cds)

@@ -1,0 +1,11 @@
+Image 4
+ID 1: dnaG: DNA primase (bacterial type) (cds)
+ID 2: cspC: Cold shock protein, CspA family (cds)
+ID 3: fepC: ABC-type cobalamin/Fe3+-siderophores transport system, ATPase component (cds)
+ID 4: ribE: riboflavin synthase (cds)
+ID 5: nifU: Fe-S cluster assembly protein NifU (cds)
+ID 6: gumC: XrtA system polysaccharide chain length determinant (cds)
+ID 7: arnT: PMT family glycosyltransferase ArnT/Agl22, involved in glycosylation of proteins and lipid IVA (cds)
+ID 8: exeA: Type II secretory pathway ATPase component GspA/ExeA/MshM (cds)
+ID 9: nuoK: NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K) (cds)
+ID 10: ParB-related ThiF-related cassette protein E domain-containing protein (cds)

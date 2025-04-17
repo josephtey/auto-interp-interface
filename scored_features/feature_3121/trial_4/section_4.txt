@@ -1,0 +1,8 @@
+Image 4
+ID 1: ISLre2 family transposase (cds)
+ID 2: Tetratricopeptide repeat-containing protein (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: msrC: GAF domain-containing protein, putative methionine-R-sulfoxide reductase (cds)
+ID 7: Deacetylase (cds)

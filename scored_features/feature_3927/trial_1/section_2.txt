@@ -1,0 +1,5 @@
+Image 2
+ID 1: ykuD: YkuD domain-containing protein (cds)
+ID 2: Endoglucanase (cds)
+ID 3: Hydrolase (cds)
+ID 4: addB: double-strand break repair protein AddB (cds)

@@ -1,0 +1,8 @@
+ID 1: cGGC: putative metal-binding protein, contains CGGC domain (cds)
+ID 2: hypothetical protein (cds)
+ID 3: suhB: Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family (cds)
+ID 4: livM: ABC-type branched-chain amino acid transport system, permease component (cds)
+ID 5: Formate dehydrogenase-N subunit alpha (cds)
+ID 6: psd: phosphatidylserine decarboxylase family protein (cds)
+ID 7: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 8: argJ: bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ (cds)

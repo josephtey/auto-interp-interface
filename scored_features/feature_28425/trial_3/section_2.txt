@@ -1,0 +1,6 @@
+Image 2
+ID 1: rsmA: 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA (cds)
+ID 2: ftsK: DNA segregation ATPase FtsK/SpoIIIE or related protein (cds)
+ID 3: rpsC: 30S ribosomal protein S3 (cds)
+ID 4: pth: aminoacyl-tRNA hydrolase (cds)
+ID 5: Outer membrane protein (cds)

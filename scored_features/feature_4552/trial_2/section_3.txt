@@ -1,0 +1,11 @@
+Image 3
+ID 1: Adenine-specific DNA methylase, N12 class (cds)
+ID 2: nhaC: Na+/H+ antiporter NhaC (cds)
+ID 3: nimA: Nitroimidazole reductase NimA or a related FMN-containing flavoprotein, pyridoxamine 5'-phosphate oxidase superfamily (cds)
+ID 4: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 5: rpmC: 50S ribosomal protein L29 (cds)
+ID 6: ruvC: crossover junction endodeoxyribonuclease RuvC (cds)
+ID 7: hypothetical protein (cds)
+ID 8: helix-turn-helix transcriptional regulator (cds)
+ID 9: skfB: Radical SAM superfamily maturase, SkfB/NifB/PqqE family (cds)
+ID 10: uvrA: excinuclease ABC subunit UvrA (cds)

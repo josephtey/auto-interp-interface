@@ -1,0 +1,4 @@
+Image 0
+ID 1: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 2: LPXTG-motif cell wall anchor domain-containing protein (cds)
+ID 3: gyrA: DNA gyrase/topoisomerase IV subunit A (cds)

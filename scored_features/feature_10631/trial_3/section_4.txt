@@ -1,0 +1,11 @@
+Image 4
+ID 1: trnA: tRNA-Ala(tgc) (tRNA)
+ID 2: hypothetical protein (cds)
+ID 3: enoyl-CoA hydratase (cds)
+ID 4: Magnesium transporter (cds)
+ID 5: hypothetical protein (cds)
+ID 6: thiL: thiamine-phosphate kinase (cds)
+ID 7: acyl carrier protein (cds)
+ID 8: Prepilin peptidase (cds)
+ID 9: Nucleoside triphosphate hydrolase (cds)
+ID 10: Galactokinase (cds)

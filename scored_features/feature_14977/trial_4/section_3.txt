@@ -1,0 +1,12 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Protease HtpX-like protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Glutamate dehydrogenase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: cspD: Cold shock-like protein CspD (cds)
+ID 11: hypothetical protein (cds)

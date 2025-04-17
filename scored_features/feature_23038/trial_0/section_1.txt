@@ -1,0 +1,9 @@
+Image 1
+ID 1: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 2: DUF559 domain-containing protein (cds)
+ID 3: Glycosyl transferase group 1 (cds)
+ID 4: Cation acetate symporter (cds)
+ID 5: fhuB: Fe(3+)-hydroxamate ABC transporter permease FhuB (cds)
+ID 6: beta-N-acetylhexosaminidase (cds)
+ID 7: rplQ: 50S ribosomal protein L17 (cds)
+ID 8: murC: UDP-N-acetylmuramate--L-alanine ligase (cds)

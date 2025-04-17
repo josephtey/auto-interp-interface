@@ -1,0 +1,9 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: DUF35 domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: tRNA-specific adenosine deaminase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)

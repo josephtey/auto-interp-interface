@@ -1,0 +1,9 @@
+Image 0
+ID 1: rpsI: 30S ribosomal protein S9 (cds)
+ID 2: abgB: Metal-dependent amidase/aminoacylase/carboxypeptidase (cds)
+ID 3: O-antigen ligase family protein (cds)
+ID 4: gsiA: ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Polysaccharide biosynthesis protein (cds)
+ID 7: MFS transporter (cds)
+ID 8: mscL: large conductance mechanosensitive channel protein MscL (cds)

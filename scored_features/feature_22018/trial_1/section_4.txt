@@ -1,0 +1,10 @@
+Image 4
+ID 1: hemG: menaquinone-dependent protoporphyrinogen IX dehydrogenase (cds)
+ID 2: rpsJ: 30S ribosomal protein S10 (cds)
+ID 3: SDR family oxidoreductase (cds)
+ID 4: rnc: ribonuclease III (cds)
+ID 5: cobU: bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase (cds)
+ID 6: ATP-binding protein (cds)
+ID 7: slyX: SlyX family protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Sigma-54-dependent Fis family transcriptional regulator (cds)

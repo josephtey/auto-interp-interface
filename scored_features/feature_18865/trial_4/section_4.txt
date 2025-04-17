@@ -1,0 +1,9 @@
+Image 4
+ID 1: hisG: ATP phosphoribosyltransferase (cds)
+ID 2: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 3: Sugar ABC transporter substrate-binding protein (cds)
+ID 4: deoR: DeoR family transcriptional regulator (cds)
+ID 5: Branched chain amino acid ABC transporter substrate-binding protein (cds)
+ID 6: map: type I methionyl aminopeptidase (cds)
+ID 7: Electron transfer flavoprotein subunit beta (cds)
+ID 8: miaB: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB (cds)

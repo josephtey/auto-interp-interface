@@ -1,0 +1,10 @@
+Image 1
+ID 1: Metallopeptidase domain-containing protein (cds)
+ID 2: frmR: DNA-binding transcriptional regulator, FrmR family (cds)
+ID 3: AIG2 family protein (cds)
+ID 4: dsbC: Protein thiol-disulfide isomerase DsbC (cds)
+ID 5: CRISPR spacer, sequence CGCAGCCAAATCCTGCCGTCTCGGGTGTCCGAAATCAC (crispr-spacer)
+ID 6: ompA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins (cds)
+ID 7: LTD domain-containing protein (cds)
+ID 8: greB: transcription elongation factor GreB (cds)
+ID 9: pAS: PAS domain (cds)

@@ -1,0 +1,6 @@
+ID 1: DUF2279 domain-containing protein (cds)
+ID 2: lptE: LPS-assembly lipoprotein LptE (cds)
+ID 3: ABC transporter ATP-binding protein (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: ftsH: Modulator of FtsH protease (cds)
+ID 6: ggt: gamma-glutamyltransferase (cds)

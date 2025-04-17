@@ -1,0 +1,8 @@
+Image 2
+ID 1: rimL: Protein N-acetyltransferase, RimJ/RimL family (cds)
+ID 2: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 3: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 4: nuoH: NADH-quinone oxidoreductase subunit NuoH (cds)
+ID 5: cysE: serine O-acetyltransferase (cds)
+ID 6: putative DNA-binding protein, contains ribbon-helix-helix (RHH) domain (cds)
+ID 7: ydbL: DUF1318 domain-containing protein (cds)

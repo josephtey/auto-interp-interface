@@ -1,0 +1,5 @@
+Image 3
+ID 1: gap (gap)
+ID 2: Cholesterol oxidase (cds)
+ID 3: AI-2E family transporter (cds)
+ID 4: Tetratricopeptide repeat family protein (cds)

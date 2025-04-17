@@ -1,0 +1,12 @@
+Image 3
+ID 1: zorC: Zorya protein ZorC EH domain-containing protein (cds)
+ID 2: flgK: flagellar hook-associated protein FlgK (cds)
+ID 3: pdxI: Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family (cds)
+ID 4: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 5: corA: magnesium/cobalt transporter CorA (cds)
+ID 6: aroF: bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase (cds)
+ID 7: ydeI: DUF1801 domain-containing protein (cds)
+ID 8: trpD: Anthranilate phosphoribosyltransferase, glycosyltransferase domain (cds)
+ID 9: DUF4440 domain-containing protein (cds)
+ID 10: DinB-like domain-containing protein (cds)
+ID 11: ampC: CubicO group peptidase, beta-lactamase class C family (cds)

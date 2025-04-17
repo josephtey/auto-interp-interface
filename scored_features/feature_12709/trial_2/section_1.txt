@@ -1,0 +1,8 @@
+Image 1
+ID 1: rplP: 50S ribosomal protein L16 (cds)
+ID 2: rpsH: 30S ribosomal protein S8 (cds)
+ID 3: thyA: thymidylate synthase (cds)
+ID 4: nusA: Transcription antitermination factor NusA, contains S1 and KH domains (cds)
+ID 5: trnL: tRNA-Leu(taa) (tRNA)
+ID 6: dnaE: DNA polymerase III subunit alpha (cds)
+ID 7: trnK: tRNA-Lys(ctt) (tRNA)

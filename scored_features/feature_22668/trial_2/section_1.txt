@@ -1,0 +1,11 @@
+Image 1
+ID 1: prfA: peptide chain release factor 1 (cds)
+ID 2: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 3: Transposase (cds)
+ID 4: ompA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins (cds)
+ID 5: DUF2132 domain-containing protein (cds)
+ID 6: pnp: polyribonucleotide nucleotidyltransferase (cds)
+ID 7: Lipoprotein (cds)
+ID 8: pldA: Outer membrane phospholipase A (cds)
+ID 9: tfoX: TfoX N-terminal domain-containing protein (cds)
+ID 10: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)

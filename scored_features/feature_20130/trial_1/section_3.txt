@@ -1,0 +1,13 @@
+Image 3
+ID 1: pdxT: pyridoxal 5'-phosphate synthase glutaminase subunit PdxT (cds)
+ID 2: AMP-dependent synthetase (cds)
+ID 3: Carbohydrate kinase (cds)
+ID 4: AAA family ATPase (cds)
+ID 5: Glycine riboswitch (ncRNA-region)
+ID 6: NAD(P)-binding domain-containing protein (cds)
+ID 7: Oxidoreductase (cds)
+ID 8: CRISPR spacer, sequence CGCTACGCGCCATGACGTGCTCAACACGCATTC (crispr-spacer)
+ID 9: Small CPxCG-related zinc finger protein (cds)
+ID 10: Acetate--CoA ligase (cds)
+ID 11: mauE: Methylamine utilization protein MauE (cds)
+ID 12: GNAT family N-acetyltransferase (cds)

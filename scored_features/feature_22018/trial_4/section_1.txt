@@ -1,0 +1,10 @@
+Image 1
+ID 1: aTS1: Alpha-tubulin suppressor ATS1 and related RCC1 domain-containing proteins (cds)
+ID 2: ygiQ: Radical SAM superfamily enzyme YgiQ, UPF0313 family (cds)
+ID 3: von Willebrand factor type A (cds)
+ID 4: pleD: Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain (cds)
+ID 5: Polymerase nucleotidyl transferase domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: ala: Ornithine cyclodeaminase/archaeal alanine dehydrogenase, mu-crystallin family (cds)
+ID 8: purA: adenylosuccinate synthase (cds)
+ID 9: tolA: Membrane protein TolA involved in colicin uptake (cds)

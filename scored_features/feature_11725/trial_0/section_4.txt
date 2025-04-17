@@ -1,0 +1,9 @@
+Image 4
+ID 1: abrB: Transcriptional regulator, AbrB family domain protein (cds)
+ID 2: SURF1-like protein (cds)
+ID 3: Transducer protein car (cds)
+ID 4: Sugar transporter (cds)
+ID 5: hypothetical protein (cds)
+ID 6: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 7: NAD(P)/FAD-dependent oxidoreductase (cds)
+ID 8: traJ: (3' truncated) conjugal transfer transcriptional regulator TraJ (cds)

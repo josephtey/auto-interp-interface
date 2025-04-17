@@ -1,0 +1,11 @@
+Image 2
+ID 1: tadB: Flp pilus assembly protein TadB (cds)
+ID 2: Alpha/beta hydrolase (cds)
+ID 3: Serine kinase (cds)
+ID 4: padR: DNA-binding transcriptional regulator, PadR family (cds)
+ID 5: cdd: cytidine deaminase (cds)
+ID 6: iscR: DNA-binding transcriptional regulator, IscR family (cds)
+ID 7: xkdP: Cytoplasmic potassium-binding protein Kbp/XkdP/YgaU, contains LysM domain (cds)
+ID 8: Uncharacterized conserved protein YoxC, contains an MCP-like domain (cds)
+ID 9: tra5: IS3 family transposase (cds)
+ID 10: SAM riboswitch (S box leader) (ncRNA-region)

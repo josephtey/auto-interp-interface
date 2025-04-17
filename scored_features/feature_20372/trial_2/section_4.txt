@@ -1,0 +1,13 @@
+Image 4
+ID 1: mazG: nucleoside triphosphate pyrophosphohydrolase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Cellulosome-anchoring protein (cds)
+ID 4: dinB: DNA polymerase IV (cds)
+ID 5: CRISPR spacer, sequence AAGTCTTTCAGGAAGTTTTTTATGATTTGGCTATAA (crispr-spacer)
+ID 6: IS6 family transposase (cds)
+ID 7: calcium-translocating P-type ATPase, PMCA-type (cds)
+ID 8: Transposase (cds)
+ID 9: Mannan endo-1,4-beta-mannosidase A and B (cds)
+ID 10: Multiple sugar transport system substrate-binding protein (cds)
+ID 11: RNA methyltransferase (cds)
+ID 12: NUDIX hydrolase (cds)

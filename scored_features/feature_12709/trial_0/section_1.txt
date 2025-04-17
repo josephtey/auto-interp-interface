@@ -1,0 +1,9 @@
+Image 1
+ID 1: double-cubane-cluster-containing anaerobic reductase (cds)
+ID 2: Uncharacterized Zn-finger protein (cds)
+ID 3: dapF: diaminopimelate epimerase (cds)
+ID 4: NHL repeat containing protein (cds)
+ID 5: ylqF: ribosome biogenesis GTPase YlqF (cds)
+ID 6: lrgB: LrgB family protein (cds)
+ID 7: gltB: glutamate synthase large subunit (cds)
+ID 8: degV: DegV family protein (cds)

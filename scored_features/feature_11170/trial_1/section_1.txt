@@ -1,0 +1,6 @@
+Image 1
+ID 1: LamG-like jellyroll fold domain-containing protein (cds)
+ID 2: DUF4822 domain-containing protein (cds)
+ID 3: lysE: Lysine transporter LysE (cds)
+ID 4: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)
+ID 5: miaA: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA (cds)

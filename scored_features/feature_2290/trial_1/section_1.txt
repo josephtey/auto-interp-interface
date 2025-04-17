@@ -1,0 +1,12 @@
+Image 1
+ID 1: Hsp20/alpha crystallin family protein (cds)
+ID 2: ompA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins (cds)
+ID 3: leuS: leucine--tRNA ligase (cds)
+ID 4: srmB: Superfamily II DNA and RNA helicase (cds)
+ID 5: IS1595 family transposase (cds)
+ID 6: Dynamin N-terminal domain-containing protein (cds)
+ID 7: gatA: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA (cds)
+ID 8: hypothetical protein (cds)
+ID 9: WYL domain-containing protein (cds)
+ID 10: cmr4: type III-B CRISPR module RAMP protein Cmr4 (cds)
+ID 11: yqaJ: YqaJ viral recombinase family protein (cds)

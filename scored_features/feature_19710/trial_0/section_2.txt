@@ -1,0 +1,10 @@
+Image 2
+ID 1: hflK: FtsH protease activity modulator HflK (cds)
+ID 2: Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains (cds)
+ID 3: ppro0129: putative flavin-containing amine oxidase (cds)
+ID 4: Transglutaminase-like (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Antenna complex alpha/beta subunit domain-containing protein (cds)
+ID 7: Hemolysin A (cds)
+ID 8: tyrB: Aspartate/aromatic aminotransferase (cds)
+ID 9: Zinc finger CHC2-type domain-containing protein (cds)

@@ -1,0 +1,9 @@
+Image 0
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: yicI: Alpha-glucosidase/xylosidase, GH31 family (cds)
+ID 3: putative nucleotide-binding protein, sugar kinase/HSP70/actin superfamily (cds)
+ID 4: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 5: aCH1: Propionyl CoA:succinate CoA transferase (cds)
+ID 6: upp: uracil phosphoribosyltransferase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: menF: Isochorismate synthase EntC (cds)

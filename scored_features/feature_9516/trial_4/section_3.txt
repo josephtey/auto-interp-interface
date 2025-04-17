@@ -1,0 +1,7 @@
+Image 3
+ID 1: acs: acetate--CoA ligase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Septum formation initiator (cds)
+ID 5: GT2 and GT4 families glycosyltransferase (cds)
+ID 6: D-glycerate dehydrogenase (cds)

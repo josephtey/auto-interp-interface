@@ -1,0 +1,9 @@
+Image 3
+ID 1: luxR: LuxR family two component transcriptional regulator (cds)
+ID 2: Carbohydrate kinase (cds)
+ID 3: Alpha-ketoacid dehydrogenase subunit beta (cds)
+ID 4: ccsB: c-type cytochrome biogenesis protein CcsB (cds)
+ID 5: bcp: thioredoxin-dependent thiol peroxidase (cds)
+ID 6: DUF2200 domain-containing protein (cds)
+ID 7: gcvH: glycine cleavage system protein GcvH (cds)
+ID 8: cinA: CinA family protein (cds)

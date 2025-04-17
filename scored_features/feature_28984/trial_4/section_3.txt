@@ -1,0 +1,9 @@
+Image 3
+ID 1: scdA: Iron-sulfur cluster repair protein ScdA (cds)
+ID 2: Aminopeptidase-like domain-containing protein (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR spacer, sequence TATTTTCACCGAAACAAATTACTTCATTTATTCTTCT (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: T-box leader (ncRNA-region)
+ID 7: epsG: Transmembrane protein EpsG (cds)
+ID 8: O-Antigen ligase (cds)

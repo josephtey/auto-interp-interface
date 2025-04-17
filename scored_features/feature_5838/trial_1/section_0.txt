@@ -1,0 +1,10 @@
+Image 0
+ID 1: tctA: TctA family transporter (cds)
+ID 2: hflX: GTPase HflX (cds)
+ID 3: hisP: ABC-type histidine transport system, ATPase component (cds)
+ID 4: Uncharacterized protein conserved in bacteria (cds)
+ID 5: lolD: lipoprotein-releasing ABC transporter ATP-binding protein LolD (cds)
+ID 6: pyrE: Orotate phosphoribosyltransferase (cds)
+ID 7: ABC-type uncharacterized transport system, periplasmic component (cds)
+ID 8: yejR: Zinc metallochaperone YeiR/ZagA and related GTPases, G3E family (cds)
+ID 9: pspE: Rhodanese-related sulfurtransferase (cds)

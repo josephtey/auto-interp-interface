@@ -1,0 +1,5 @@
+Image 4
+ID 1: Arylsulfatase (cds)
+ID 2: trnA: tRNA-Ala(tgc) (tRNA)
+ID 3: hypothetical protein (cds)
+ID 4: gabT: 4-aminobutyrate aminotransferase GabT (cds)

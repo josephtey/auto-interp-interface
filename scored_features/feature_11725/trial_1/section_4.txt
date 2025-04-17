@@ -1,0 +1,10 @@
+Image 4
+ID 1: Thioredoxin reductase (cds)
+ID 2: UDP-D-quinovosamine 4-dehydrogenase (cds)
+ID 3: purN: phosphoribosylglycinamide formyltransferase (cds)
+ID 4: prfB: peptide chain release factor 2 (cds)
+ID 5: Bifunctional NAD(P)H-hydrate repair enzyme (cds)
+ID 6: Aldo/keto reductase family protein (cds)
+ID 7: marR: MarR family protein (cds)
+ID 8: phbB: 3-oxoacyl-[acyl-carrier-protein] reductase FabG (cds)
+ID 9: prfA: peptide chain release factor 1 (cds)

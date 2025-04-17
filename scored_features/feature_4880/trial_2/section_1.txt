@@ -1,0 +1,10 @@
+Image 1
+ID 1: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 2: Transport permease protein (cds)
+ID 3: Copper amine oxidase N-terminal domain-containing protein (cds)
+ID 4: Acid sugar phosphatase (cds)
+ID 5: lysE: LysE family translocator (cds)
+ID 6: DJ-1/PfpI family protein (cds)
+ID 7: Sugar ABC transporter permease (cds)
+ID 8: L,D-transpeptidase (cds)
+ID 9: Transcriptional repressor (cds)

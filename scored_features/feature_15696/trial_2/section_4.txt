@@ -1,0 +1,9 @@
+Image 4
+ID 1: trnQ: tRNA-Gln(ttg) (tRNA)
+ID 2: UPF0033 domain-containing protein (cds)
+ID 3: Ferric uptake regulation protein (cds)
+ID 4: flgE: flagellar hook protein FlgE (cds)
+ID 5: Fungal lipase-like domain-containing protein (cds)
+ID 6: gpA1: Phage terminase, large subunit GpA (cds)
+ID 7: Glycosyl transferase (cds)
+ID 8: araC: AraC family transcriptional regulator (cds)

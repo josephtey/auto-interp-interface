@@ -1,0 +1,11 @@
+Image 4
+ID 1: Uncharacterized Fe-S cluster protein (cds)
+ID 2: tolB: Periplasmic component TolB of the Tol biopolymer transport system (cds)
+ID 3: aspB: LL-diaminopimelate aminotransferase (cds)
+ID 4: nifX: putative Fe-Mo cluster-binding protein, NifX family (cds)
+ID 5: mtbC1: Methanogenic corrinoid protein MtbC1 (cds)
+ID 6: mET17: O-acetylhomoserine/O-acetylserine sulfhydrylase, pyridoxal phosphate-dependent (cds)
+ID 7: rocR: RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains (cds)
+ID 8: hypothetical protein (cds)
+ID 9: rplX: 50S ribosomal protein L24 (cds)
+ID 10: rlpA: Peptidoglycan lytic transglycosylase RlpA, contains C-terminal SPOR domain (cds)

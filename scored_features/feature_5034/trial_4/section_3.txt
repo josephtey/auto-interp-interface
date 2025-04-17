@@ -1,0 +1,9 @@
+Image 3
+Organism: Pedobacter aquae (CFB group bacteria)
+ID 1: Chondroitinase-B (cds)
+ID 2: DUF3347 domain-containing protein (cds)
+ID 3: HTH-type transcriptional activator Btr (cds)
+ID 4: IS4/IS5 family transposase (cds)
+ID 5: rrf: 5S ribosomal RNA (rRNA)
+ID 6: lpdA: dihydrolipoyl dehydrogenase (cds)
+ID 7: hypothetical protein (cds)

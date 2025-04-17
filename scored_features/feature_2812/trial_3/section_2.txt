@@ -1,0 +1,11 @@
+Image 2
+ID 1: atpF: F0F1 ATP synthase subunit B (cds)
+ID 2: doxX: Uncharacterized membrane protein YphA, DoxX/SURF4 family (cds)
+ID 3: recJ: single-stranded-DNA-specific exonuclease RecJ (cds)
+ID 4: Fluoride riboswitch (crcB) (ncRNA-region)
+ID 5: T-box leader (ncRNA-region)
+ID 6: trkA: Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain (cds)
+ID 7: hypothetical protein (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: yabQ: spore cortex biosynthesis protein YabQ (cds)
+ID 10: pth: aminoacyl-tRNA hydrolase (cds)

@@ -1,0 +1,10 @@
+Image 4
+ID 1: ABC transporter permease subunit (cds)
+ID 2: ddpX: D-alanyl-D-alanine dipeptidase (cds)
+ID 3: TIGR03936 family radical SAM-associated protein (cds)
+ID 4: cof: Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases (cds)
+ID 5: Alpha/beta hydrolase (cds)
+ID 6: rimI: N-acetyltransferase (cds)
+ID 7: mviM: putative dehydrogenase (cds)
+ID 8: T-box leader (ncRNA-region)
+ID 9: gcvT: glycine cleavage system aminomethyltransferase GcvT (cds)

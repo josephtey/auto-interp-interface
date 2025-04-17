@@ -1,0 +1,12 @@
+Image 0
+ID 1: Membrane insertase YidC/Oxa/ALB C-terminal domain-containing protein (cds)
+ID 2: rpoA: DNA-directed RNA polymerase subunit alpha (cds)
+ID 3: Lactate utilization protein C (cds)
+ID 4: CRISPR spacer, sequence ATGAAGTTGCAAGGATGAACTGCATACTTTAATGAAC (crispr-spacer)
+ID 5: Peptidase C69 (cds)
+ID 6: Formiminotransferase-cyclodeaminase (cds)
+ID 7: rimO: 30S ribosomal protein S12 methylthiotransferase RimO (cds)
+ID 8: mreC: rod shape-determining protein MreC (cds)
+ID 9: PBS lyase (cds)
+ID 10: tetR: TetR family transcriptional regulator (cds)
+ID 11: sleB: spore cortex-lytic enzyme (cds)

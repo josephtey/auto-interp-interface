@@ -1,0 +1,5 @@
+ID 1: marP: MarP family serine protease (cds)
+ID 2: Polyphosphate glucokinase (cds)
+ID 3: gatC: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC (cds)
+ID 4: HNH endonuclease (cds)
+ID 5: hypothetical protein (cds)

@@ -1,0 +1,12 @@
+Image 4
+ID 1: prs: Phosphoribosylpyrophosphate synthetase (cds)
+ID 2: phyH: Ectoine hydroxylase-related dioxygenase, phytanoyl-CoA dioxygenase (PhyH) family (cds)
+ID 3: tlyC: Hemolysin-related protein, contains CBS domains, UPF0053 family (cds)
+ID 4: DNA binding domain protein, excisionase family (cds)
+ID 5: FHA domain containing protein (cds)
+ID 6: mutT: 8-oxo-dGTP pyrophosphatase MutT and related house-cleaning NTP pyrophosphohydrolases, NUDIX family (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CRISPR spacer, sequence GATCAACCGAGCTATCTCCTTTCGCAGTGATGGT (crispr-spacer)
+ID 9: Phage holin family protein (cds)
+ID 10: trnV: tRNA-Val(cac) (tRNA)
+ID 11: Methyltransferase (cds)

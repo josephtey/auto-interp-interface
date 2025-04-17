@@ -1,0 +1,8 @@
+Image 4
+ID 1: mgtE: Magnesium transporter MgtE intracellular domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Mannosyl oligosaccharide glucosidase (cds)
+ID 5: ycjR: Sugar phosphate isomerase/epimerase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Type 1 glutamine amidotransferase (GATase1)-like domain (cds)

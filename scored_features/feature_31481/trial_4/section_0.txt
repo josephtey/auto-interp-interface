@@ -1,0 +1,11 @@
+Image 0
+ID 1: Heat shock protein 15 (cds)
+ID 2: atpA: F0F1 ATP synthase subunit alpha (cds)
+ID 3: tnpB: IS66 family insertion sequence element accessory protein TnpB (cds)
+ID 4: CRISPR spacer, sequence TTTGGTTACAGCTTGGAACAAAGAGGTTTGGGAACTC (crispr-spacer)
+ID 5: yabG: Sporulation-specific protease YabG (cds)
+ID 6: Acetyl-CoA carboxylase biotin carboxyl carrier protein subunit (cds)
+ID 7: Cysteine-rich secretory protein family protein (cds)
+ID 8: ACT domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: ABC-type uncharacterized transport system (cds)

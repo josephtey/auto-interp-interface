@@ -1,0 +1,9 @@
+Image 3
+ID 1: GNAT family N-acetyltransferase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: speB: agmatinase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: padR: PadR family transcriptional regulator (cds)
+ID 6: rimI: ribosomal protein S18-alanine N-acetyltransferase (cds)
+ID 7: CoA-transferase subunit beta (cds)
+ID 8: Twin-arginine translocation signal domain-containing protein (cds)

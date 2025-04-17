@@ -1,0 +1,9 @@
+Image 0
+ID 1: 2-dehydro-3-deoxygluconokinase (cds)
+ID 2: Helix-turn-helix domain protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ABC-type transporter, integral membrane subunit (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Lacal_2735 family protein (cds)
+ID 7: lmbE: LmbE family protein (cds)
+ID 8: SMP-30/Gluconolaconase/LRE-like region-containing protein (cds)

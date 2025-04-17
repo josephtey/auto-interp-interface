@@ -1,0 +1,12 @@
+Image 0
+ID 1: DUF3303 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 4: tagH: ABC-type polysaccharide/polyol phosphate transport system, ATPase component (cds)
+ID 5: dhaL: DhaL domain-containing protein (cds)
+ID 6: Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant domain-containing protein (cds)
+ID 7: atpG: FoF1-type ATP synthase, gamma subunit (cds)
+ID 8: minC: septum site-determining protein MinC (cds)
+ID 9: DZANK-type domain-containing protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: Next to BRCA1 central domain-containing protein (cds)

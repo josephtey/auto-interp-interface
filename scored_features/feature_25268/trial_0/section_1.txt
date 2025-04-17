@@ -1,0 +1,13 @@
+Image 1
+ID 1: Aldo/keto reductase (cds)
+ID 2: 3-keto-5-aminohexanoate cleavage protein (cds)
+ID 3: Efflux transporter outer membrane subunit (cds)
+ID 4: histidine kinase (cds)
+ID 5: AB hydrolase-1 domain-containing protein (cds)
+ID 6: gntR: GntR family transcriptional regulator (cds)
+ID 7: pcaC: 4-carboxymuconolactone decarboxylase (cds)
+ID 8: Helix-turn-helix domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: ATP-binding protein (cds)
+ID 11: PAS domain-containing protein (cds)
+ID 12: PA0069 family radical SAM protein (cds)

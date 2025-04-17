@@ -1,0 +1,13 @@
+Image 3
+ID 1: AAA family ATPase (cds)
+ID 2: Stage 0 sporulation A-like protein (cds)
+ID 3: cas5b: type I-B CRISPR-associated protein Cas5b (cds)
+ID 4: CRISPR spacer, sequence ACACTGCTTTGATGGGCAATTTCATCAGTCTGGATG (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: degV: Fatty acid-binding protein DegV (cds)
+ID 7: mutM: bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase (cds)
+ID 8: rqcH: Rqc2-like protein RqcH (cds)
+ID 9: priA: primosomal protein N' (cds)
+ID 10: trnL: tRNA-Leu(cag) (tRNA)
+ID 11: gatC: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC (cds)
+ID 12: rimI: ribosomal protein S18-alanine N-acetyltransferase (cds)

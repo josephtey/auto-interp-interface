@@ -1,0 +1,2 @@
+Image 1
+ID 1: Putative exported protein (cds)

@@ -1,0 +1,11 @@
+Image 1
+ID 1: Nitrate ABC transporter ATP-binding protein (cds)
+ID 2: rpsI: 30S ribosomal protein S9 (cds)
+ID 3: AsmA-like C-terminal domain-containing protein (cds)
+ID 4: NADH-quinone oxidoreductase subunit M (cds)
+ID 5: nusB: transcription antitermination factor NusB (cds)
+ID 6: dnaX: DNA polymerase III subunit gamma/tau (cds)
+ID 7: rpsJ: 30S ribosomal protein S10 (cds)
+ID 8: rplB: 50S ribosomal protein L2 (cds)
+ID 9: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 10: tmk: dTMP kinase (cds)

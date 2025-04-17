@@ -1,0 +1,11 @@
+Image 3
+ID 1: secY: preprotein translocase subunit SecY (cds)
+ID 2: Lipoprotein (cds)
+ID 3: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 4: lplB: ABC-type polysaccharide transport system, permease component (cds)
+ID 5: trnN: tRNA-Asn(gtt) (tRNA)
+ID 6: ggt: Gamma-glutamyltranspeptidase (cds)
+ID 7: galU: UTP--glucose-1-phosphate uridylyltransferase GalU (cds)
+ID 8: Uncharacterized conserved protein, related to short-chain dehydrogenases (cds)
+ID 9: Nucleoside 2-deoxyribosyltransferase (cds)
+ID 10: DUF2892 domain-containing protein (cds)

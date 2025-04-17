@@ -1,0 +1,8 @@
+Image 3
+ID 1: eno: phosphopyruvate hydratase (cds)
+ID 2: atpG: ATP synthase F1 subunit gamma (cds)
+ID 3: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 4: ypfH: putative esterase (cds)
+ID 5: Outer membrane lipoprotein-sorting protein (cds)
+ID 6: uvrA: excinuclease ABC subunit UvrA (cds)
+ID 7: Outer membrane protein beta-barrel domain-containing protein (cds)

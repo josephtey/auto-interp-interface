@@ -1,0 +1,10 @@
+Image 1
+ID 1: SRPBCC family protein (cds)
+ID 2: adenosine deaminase (cds)
+ID 3: yaaA: Peroxide stress protein YaaA (cds)
+ID 4: Type II secretion system F family protein (cds)
+ID 5: Aminopeptidase P family protein (cds)
+ID 6: Amylo-alpha-1,6-glucosidase (cds)
+ID 7: cysS: cysteine--tRNA ligase (cds)
+ID 8: NAD(P)-dependent alcohol dehydrogenase (cds)
+ID 9: ATP-binding cassette domain-containing protein (cds)

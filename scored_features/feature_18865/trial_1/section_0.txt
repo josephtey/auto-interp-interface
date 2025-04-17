@@ -1,0 +1,13 @@
+Image 0
+ID 1: SDR family oxidoreductase (cds)
+ID 2: fecR: FecR family protein (cds)
+ID 3: GLUG motif-containing protein (cds)
+ID 4: Transmembrane protein (cds)
+ID 5: pgsA: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (cds)
+ID 6: dcd: dCTP deaminase (cds)
+ID 7: HAMP domain-containing sensor histidine kinase (cds)
+ID 8: Mannose-1-phosphate guanylyltransferase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: phytanoyl-CoA dioxygenase family protein (cds)
+ID 11: ABC transporter substrate-binding protein (cds)
+ID 12: coaE: dephospho-CoA kinase (cds)

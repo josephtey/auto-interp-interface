@@ -1,0 +1,8 @@
+Image 4
+ID 1: fadA: acetyl-CoA C-acyltransferase FadA (cds)
+ID 2: trnT: tRNA-Thr(tgt) (tRNA)
+ID 3: Putative Gp14 (cds)
+ID 4: Restriction endonuclease (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Putative [Acyl-carrier-protein] S-malonyltransferase (cds)
+ID 7: cspA thermoregulator (ncRNA-region)

@@ -1,0 +1,8 @@
+Image 0
+ID 1: pnp: polyribonucleotide nucleotidyltransferase (cds)
+ID 2: cigR: anti-virulence regulator CigR family protein (cds)
+ID 3: mmsA: multiple monosaccharide ABC transporter ATP-binding protein (cds)
+ID 4: response regulator (cds)
+ID 5: DUF4397 domain-containing protein (cds)
+ID 6: NAD(P)H-dependent oxidoreductase (cds)
+ID 7: serine/threonine protein kinase (cds)

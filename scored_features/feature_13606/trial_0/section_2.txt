@@ -1,0 +1,5 @@
+Image 2
+ID 1: DUF6308 domain-containing protein (cds)
+ID 2: HNH nuclease domain-containing protein (cds)
+ID 3: prfB: peptide chain release factor 2 (cds)
+ID 4: ndk: nucleoside-diphosphate kinase (cds)

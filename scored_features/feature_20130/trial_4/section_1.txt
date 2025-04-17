@@ -1,0 +1,9 @@
+Image 1
+ID 1: GNAT family N-acetyltransferase (cds)
+ID 2: N-acetyltransferase (cds)
+ID 3: merR: MerR family DNA-binding transcriptional regulator (cds)
+ID 4: Transporter (cds)
+ID 5: czcA: Cation efflux system protein CzcA (cds)
+ID 6: Response regulatory domain-containing protein (cds)
+ID 7: crotonase/enoyl-CoA hydratase family protein (cds)
+ID 8: DUF3995 domain-containing protein (cds)

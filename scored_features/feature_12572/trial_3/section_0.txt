@@ -1,0 +1,13 @@
+Image 0
+ID 1: Lipid/polyisoprenoid-binding YceI-like domain-containing protein (cds)
+ID 2: bioD: dethiobiotin synthase (cds)
+ID 3: piuB: PepSY-associated TM region (cds)
+ID 4: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 5: entF: EntF, seryl-AMP synthase component of non-ribosomal peptide synthetase (cds)
+ID 6: Nucleotide-diphospho-sugar transferase (cds)
+ID 7: rsbW: Anti-sigma regulatory factor (Ser/Thr protein kinase) (cds)
+ID 8: Phage protein (cds)
+ID 9: Ribonuclease E (cds)
+ID 10: Thioredoxin family protein (cds)
+ID 11: Bacteroides conjugative transposon BmgA/MocA-like protein (cds)
+ID 12: ypfJ: putative metalloprotease (cds)

@@ -1,0 +1,3 @@
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: DegT/DnrJ/EryC1/StrS aminotransferase (cds)
+ID 3: Phosphotyrosine protein phosphatase I domain-containing protein (cds)

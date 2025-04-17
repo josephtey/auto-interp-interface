@@ -1,0 +1,12 @@
+Image 0
+ID 1: Flagellin (cds)
+ID 2: TIGR01621 family pseudouridine synthase (cds)
+ID 3: CDP-alcohol phosphatidyltransferase family protein (cds)
+ID 4: Glutamate 5-kinase (cds)
+ID 5: rrs: 16S ribosomal RNA (rRNA)
+ID 6: MATE family efflux transporter (cds)
+ID 7: Prepilin-type N-terminal cleavage/methylation domain-containing protein (cds)
+ID 8: prkB: phosphoribulokinase (cds)
+ID 9: Urease (cds)
+ID 10: DUF2834 domain-containing protein (cds)
+ID 11: IS110 family transposase (cds)

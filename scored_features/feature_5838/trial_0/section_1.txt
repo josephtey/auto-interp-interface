@@ -1,0 +1,10 @@
+Image 1
+ID 1: tRNA-binding protein (cds)
+ID 2: DUF4382 domain-containing protein (cds)
+ID 3: 2-oxoglutarate dehydrogenase E1 component (cds)
+ID 4: ftsY: signal recognition particle-docking protein FtsY (cds)
+ID 5: tlpA: TlpA disulfide reductase family protein (cds)
+ID 6: groES: Co-chaperonin GroES (HSP10) (cds)
+ID 7: hypothetical protein (cds)
+ID 8: 6-bladed beta-propeller protein (cds)
+ID 9: 2-amino-3-ketobutyrate coenzyme A ligase (cds)

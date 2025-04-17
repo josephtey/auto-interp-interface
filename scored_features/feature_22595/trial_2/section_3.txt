@@ -1,0 +1,8 @@
+Image 3
+Organism: Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628 (b-proteobacteria)
+ID 1: pyrG: CTP synthase (cds)
+ID 2: merR: MerR regulatory family protein (cds)
+ID 3: ilvB: acetolactate synthase 3 catalytic subunit (cds)
+ID 4: PEP-CTERM putative exosortase interaction domain protein (cds)
+ID 5: ttcA: tRNA 2-thiocytidine(32) synthetase TtcA (cds)
+ID 6: Rhs element Vgr domain protein (cds)

@@ -1,0 +1,10 @@
+Image 1
+ID 1: stbD: Antitoxin component YafN of the YafNO toxin-antitoxin module, PHD/YefM family (cds)
+ID 2: ilvE: branched-chain amino acid transaminase (cds)
+ID 3: actP: Na+(or H+)/acetate symporter ActP (cds)
+ID 4: gdhA: NADP-specific glutamate dehydrogenase (cds)
+ID 5: mnhB: Multisubunit Na+/H+ antiporter, MnhB subunit (cds)
+ID 6: tnp: IS3 family transposase ORF A (cds)
+ID 7: modA: ABC-type molybdate transport system, periplasmic Mo-binding protein ModA (cds)
+ID 8: sbp: ABC-type sulfate transport system, periplasmic component (cds)
+ID 9: rsmA: 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA (cds)

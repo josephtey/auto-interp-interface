@@ -1,0 +1,12 @@
+Image 0
+ID 1: slmA: nucleoid occlusion factor SlmA (cds)
+ID 2: CRISPR spacer, sequence TTATGAAAACTATTACTTCTGCTACTAGCAGAAG (crispr-spacer)
+ID 3: Transposase (cds)
+ID 4: pabC: aminodeoxychorismate lyase (cds)
+ID 5: YcaO-domain protein (cds)
+ID 6: rpmI: 50S ribosomal protein L35 (cds)
+ID 7: hypothetical protein (cds)
+ID 8: ABC-type amino acid transport substrate-binding protein (cds)
+ID 9: raiA: Sigma 54 modulation protein/ribosomal protein S30EA (cds)
+ID 10: tetR: Regulatory protein TetR (cds)
+ID 11: hypothetical protein (cds)

@@ -1,0 +1,13 @@
+Image 4
+ID 1: ER-bound oxygenase mpaB/mpaB'/Rubber oxygenase catalytic domain-containing protein (cds)
+ID 2: DUF805b RNA (ncRNA-region)
+ID 3: Zinc-type alcohol dehydrogenase-like protein SA1988 (cds)
+ID 4: hypothetical protein (cds)
+ID 5: Iron complex transport system ATP-binding protein (cds)
+ID 6: Lipocalin-like domain-containing protein (cds)
+ID 7: NIPSNAP (cds)
+ID 8: CBS-domain-containing membrane protein (cds)
+ID 9: Spermidine N1-acetyltransferase (cds)
+ID 10: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 11: OmpA-like domain-containing protein (cds)
+ID 12: ER-bound oxygenase mpaB/mpaB'/Rubber oxygenase catalytic domain-containing protein (cds)

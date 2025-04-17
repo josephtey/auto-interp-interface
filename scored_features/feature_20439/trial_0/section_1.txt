@@ -1,0 +1,6 @@
+Image 1
+ID 1: Fibronectin attachment protein (cds)
+ID 2: cypX: Cytochrome P450 (cds)
+ID 3: PH (Pleckstrin-like y) domain-containing protein (cds)
+ID 4: tetR: TetR family transcriptional regulator (cds)
+ID 5: LLM class F420-dependent oxidoreductase (cds)

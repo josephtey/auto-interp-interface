@@ -1,0 +1,5 @@
+ID 1: tauC: ABC-type nitrate/sulfonate/bicarbonate transport system, permease component (cds)
+ID 2: hypothetical protein (cds)
+ID 3: proA: glutamate-5-semialdehyde dehydrogenase (cds)
+ID 4: gerAC: Spore germination receptor GerABC, GerC subunit (cds)
+ID 5: dacC: D-alanyl-D-alanine carboxypeptidase (cds)

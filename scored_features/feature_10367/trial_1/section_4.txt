@@ -1,0 +1,8 @@
+Image 4
+ID 1: Uma2 family endonuclease (cds)
+ID 2: hemH: ferrochelatase (cds)
+ID 3: Aspartate aminotransferase family protein (cds)
+ID 4: treY: malto-oligosyltrehalose synthase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: MFS transporter (cds)
+ID 7: HD domain-containing protein (cds)

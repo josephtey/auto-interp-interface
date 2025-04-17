@@ -1,0 +1,12 @@
+Image 1
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 2: AAA family ATPase (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: Nucleic acid-binding protein (cds)
+ID 7: NodB-like y domain-containing protein (cds)
+ID 8: CRISPR spacer, sequence AATATTGCACTTATCTCTATGACAGAGGCTTTCGACA (crispr-spacer)
+ID 9: putative membrane transporter protein (cds)
+ID 10: DUF5693 domain-containing protein (cds)

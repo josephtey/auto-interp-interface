@@ -1,0 +1,13 @@
+Image 3
+ID 1: Lrp/AsnC family transcriptional regulator (cds)
+ID 2: plsY: glycerol-3-phosphate 1-O-acyltransferase PlsY (cds)
+ID 3: Transglycosylase SLT domain-containing protein (cds)
+ID 4: Cysteine desulfurase (cds)
+ID 5: Protease inhibitor Inh (cds)
+ID 6: Glycosyltransferase family 4 protein (cds)
+ID 7: SDR family oxidoreductase (cds)
+ID 8: NAD(P)-binding protein (cds)
+ID 9: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 10: Isochorismatase family protein (cds)
+ID 11: Sugar kinase (cds)
+ID 12: histidine kinase (cds)

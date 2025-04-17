@@ -1,0 +1,8 @@
+Image 2
+ID 1: motB: Flagellar motor protein MotB (cds)
+ID 2: icd: NADP-dependent isocitrate dehydrogenase (cds)
+ID 3: gloB: hydroxyacylglutathione hydrolase (cds)
+ID 4: Acyltransferase (cds)
+ID 5: DNA-binding protein (cds)
+ID 6: Cytochrome C biosynthesis protein (cds)
+ID 7: hypothetical protein (cds)

@@ -1,0 +1,11 @@
+Image 0
+ID 1: Thiazole synthase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: napF: ferredoxin-type protein NapF (cds)
+ID 4: trnD: tRNA-Asp(gtc) (tRNA)
+ID 5: nuclease-related domain-containing protein (cds)
+ID 6: ccsA: Cytochrome c biogenesis protein CcsA (cds)
+ID 7: zapA: Cell division protein ZapA (cds)
+ID 8: Tetratricopeptide repeat protein (cds)
+ID 9: AAA family ATPase (cds)
+ID 10: hypothetical protein (cds)

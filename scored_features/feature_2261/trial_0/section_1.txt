@@ -1,0 +1,10 @@
+Image 1
+ID 1: asnB: asparagine synthase (glutamine-hydrolyzing) (cds)
+ID 2: Putative cation efflux system protein (cds)
+ID 3: trnE: tRNA-Glu(ttc) (tRNA)
+ID 4: recO: DNA repair protein RecO (cds)
+ID 5: cnrH: RNA polymerase sigma factor CnrH (cds)
+ID 6: ethA: FAD-containing monooxygenase EthA (cds)
+ID 7: CYTH domain protein (cds)
+ID 8: Cytochrome c domain-containing protein (cds)
+ID 9: queG: tRNA epoxyqueuosine(34) reductase QueG (cds)

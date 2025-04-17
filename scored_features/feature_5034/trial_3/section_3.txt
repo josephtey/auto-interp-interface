@@ -1,0 +1,10 @@
+Image 3
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 3: atoC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)
+ID 4: Argininosuccinate lyase (cds)
+ID 5: Capsular polysaccharide biosynthesis protein (cds)
+ID 6: cHASE1: Extracytoplasmic sensor domain CHASE1 (specificity unknown) (cds)
+ID 7: ybjN: YbjN domain-containing protein (cds)
+ID 8: trnL: tRNA-Leu(cag) (tRNA)

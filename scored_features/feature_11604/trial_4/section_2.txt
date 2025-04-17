@@ -1,0 +1,10 @@
+Image 2
+ID 1: pksD: Acyl transferase domain in polyketide synthase (PKS) enzymes (cds)
+ID 2: DUF3501 domain-containing protein (cds)
+ID 3: rocR: RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains (cds)
+ID 4: ubiH: 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases (cds)
+ID 5: rocR: RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains (cds)
+ID 6: PEGA domain-containing protein (cds)
+ID 7: Stress responsive alpha-beta barrel domain protein (cds)
+ID 8: fhlA: FhlA-type transcriptional regulator, contains GAF, AAA-type ATPase, and DNA-binding Fis domains (cds)
+ID 9: CRISPR repeat (crispr-repeat)

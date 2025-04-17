@@ -1,0 +1,10 @@
+Image 3
+ID 1: ASCH domain-containing protein (cds)
+ID 2: pilX: PilX N-terminal (cds)
+ID 3: Multidrug transporter (cds)
+ID 4: Long-chain fatty acid transport protein 1 (cds)
+ID 5: fabA: 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA (cds)
+ID 6: nuoE: NADH-quinone oxidoreductase subunit NuoE (cds)
+ID 7: Phage protein (cds)
+ID 8: nudC: NAD(+) diphosphatase (cds)
+ID 9: afuA: ABC-type Fe3+ transport system, periplasmic component (cds)

@@ -1,0 +1,13 @@
+Image 2
+ID 1: Vitamin K epoxide reductase domain-containing protein (cds)
+ID 2: Transposase DDE domain-containing protein (cds)
+ID 3: serS: serine--tRNA ligase (cds)
+ID 4: nth: endonuclease III (cds)
+ID 5: Phage protein (cds)
+ID 6: Outer membrane protein (cds)
+ID 7: Dienelactone hydrolase domain-containing protein (cds)
+ID 8: DNA-binding protein HU-beta (cds)
+ID 9: htpG: molecular chaperone HtpG (cds)
+ID 10: icd: NADP-dependent isocitrate dehydrogenase (cds)
+ID 11: fabZ: 3-hydroxyacyl-ACP dehydratase FabZ (cds)
+ID 12: ftsI: Peptidoglycan D,D-transpeptidase FtsI (cds)

@@ -1,0 +1,9 @@
+Image 1
+ID 1: rsbT: Serine/threonine-protein kinase RsbT (cds)
+ID 2: Periplasmic binding protein domain-containing protein (cds)
+ID 3: DUF1795 domain-containing protein (cds)
+ID 4: nagD: Ribonucleotide monophosphatase NagD (cds)
+ID 5: Antitoxin SocA-like Panacea domain-containing protein (cds)
+ID 6: Putative peptidase (cds)
+ID 7: CRISPR spacer, sequence AGGCAATATCCGCAGCTTAACTCTTGGATAGACACCGA (crispr-spacer)
+ID 8: galT: galactose-1-phosphate uridylyltransferase (cds)

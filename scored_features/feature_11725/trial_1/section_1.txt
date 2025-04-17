@@ -1,0 +1,9 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: Flagellar hook-length control protein-like C-terminal domain-containing protein (cds)
+ID 3: cyclic-guanylate-specific phosphodiesterase (cds)
+ID 4: Alpha/beta hydrolase domain-containing protein (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Lysoplasmalogenase (cds)
+ID 7: PhoH-like protein domain-containing protein (cds)
+ID 8: potC: ABC-type spermidine/putrescine transport system, permease component II (cds)

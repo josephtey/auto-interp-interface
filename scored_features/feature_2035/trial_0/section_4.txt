@@ -1,0 +1,9 @@
+Image 4
+ID 1: Glycosyl transferase family 2 (cds)
+ID 2: DNA primase (cds)
+ID 3: dadA: Glycine/D-amino acid oxidase (deaminating) (cds)
+ID 4: wza: Periplasmic protein Wza involved in polysaccharide export, contains SLBB domain of the beta-grasp fold (cds)
+ID 5: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 6: DNA-binding protein HU (cds)
+ID 7: ntrY: Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation (cds)
+ID 8: ABC-type uncharacterized transport system, periplasmic component (cds)

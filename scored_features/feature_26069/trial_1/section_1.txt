@@ -1,0 +1,9 @@
+Image 1
+ID 1: VOC family protein (cds)
+ID 2: N-6 DNA methylase (cds)
+ID 3: Transposase (cds)
+ID 4: Dioxygenase (cds)
+ID 5: tolB: Tol-Pal system beta propeller repeat protein TolB (cds)
+ID 6: DUF2147 domain-containing protein (cds)
+ID 7: ubiB: ubiquinone biosynthesis regulatory protein kinase UbiB (cds)
+ID 8: Late embryogenesis abundant protein (cds)

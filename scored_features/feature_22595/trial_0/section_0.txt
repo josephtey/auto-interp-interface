@@ -1,0 +1,6 @@
+Image 0
+Organism: Georhizobium profundi (a-proteobacteria)
+ID 1: jmjC: JmjC domain-containing protein (cds)
+ID 2: NusG-like N-terminal domain-containing protein (cds)
+ID 3: Acyl-CoA synthetase (cds)
+ID 4: Transcription factor (cds)

@@ -1,0 +1,11 @@
+Image 0
+ID 1: DUF3581 domain-containing protein (cds)
+ID 2: ruvX: Holliday junction resolvase RuvX (cds)
+ID 3: trnfM: tRNA-fMet(cat) (tRNA)
+ID 4: Permease (cds)
+ID 5: Polyphosphate polymerase domain-containing protein (cds)
+ID 6: trnL: tRNA-Leu(taa) (tRNA)
+ID 7: rrf: 5S ribosomal RNA (rRNA)
+ID 8: argR: transcriptional regulator ArgR (cds)
+ID 9: Lipoprotein (cds)
+ID 10: mshL: pilus (MSHA type) biogenesis protein MshL (cds)

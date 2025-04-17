@@ -1,0 +1,10 @@
+Image 2
+ID 1: rlmN: Adenine C2-methylase RlmN of 23S rRNA A2503 and tRNA A37 (cds)
+ID 2: hypothetical protein (cds)
+ID 3: TRAP-type uncharacterized transport system, fused permease components (cds)
+ID 4: nit2: Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate (cds)
+ID 5: Cna B-type domain-containing protein (cds)
+ID 6: trnA: tRNA-Ala(tgc) (tRNA)
+ID 7: tldD: Zn-dependent protease PmbA/TldA or its inactivated-like protein (cds)
+ID 8: trnK: tRNA-Lys(ttt) (tRNA)
+ID 9: adaB: DNA repair enzyme Ada (O6-methylguanine-DNA--protein-cysteine methyltransferase) (cds)

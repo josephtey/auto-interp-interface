@@ -1,0 +1,7 @@
+Image 0
+ID 1: Transposase (cds)
+ID 2: Cellulose binding domain-containing protein (cds)
+ID 3: ATP-binding protein (cds)
+ID 4: Aldolase (cds)
+ID 5: Nitrate- and nitrite sensing domain-containing protein (cds)
+ID 6: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)

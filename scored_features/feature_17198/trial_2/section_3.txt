@@ -1,0 +1,12 @@
+Image 3
+ID 1: DUF302 domain-containing protein (cds)
+ID 2: Bacterial type II secretion system protein E domain-containing protein (cds)
+ID 3: bifunctional 2-methylcitrate synthase/citrate synthase (cds)
+ID 4: Oxidoreductase (cds)
+ID 5: ecsC: EcsC family protein (cds)
+ID 6: L-lysine transport protein (cds)
+ID 7: serA: phosphoglycerate dehydrogenase (cds)
+ID 8: ytpA: YtpA (cds)
+ID 9: polyadenylate-specific 3'-exoribonuclease AS (cds)
+ID 10: hypothetical protein (cds)
+ID 11: cydD: ATP-binding/permease protein cydD (cds)

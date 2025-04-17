@@ -1,0 +1,11 @@
+Image 4
+ID 1: rrl: 23S ribosomal RNA (rRNA)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: trnA: tRNA-Ala(ggc) (tRNA)
+ID 5: Phosphinothricin N-acetyltransferase (cds)
+ID 6: nifU: NIF system FeS cluster assembly NifU N-terminal domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Aminotransferase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

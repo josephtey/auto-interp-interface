@@ -1,0 +1,13 @@
+Image 0
+ID 1: malate dehydrogenase (cds)
+ID 2: Citrate synthase (cds)
+ID 3: Colicin import membrane protein (cds)
+ID 4: YCII-related domain-containing protein (cds)
+ID 5: dedA: DedA family protein (cds)
+ID 6: Pyridoxamine 5'-phosphate oxidase putative domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: MogA/MoaB family molybdenum cofactor biosynthesis protein (cds)
+ID 9: gabT: 4-aminobutyrate--2-oxoglutarate transaminase (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hypothetical protein (cds)
+ID 12: gtrA: GtrA family protein (cds)

@@ -1,0 +1,12 @@
+Image 4
+ID 1: dnaB: replicative DNA helicase (cds)
+ID 2: istB: IS21-like element helper ATPase IstB (cds)
+ID 3: ISLre2 family transposase (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence GATTCCCTAGAAAAAGAAGTTGACTACTGTCCAGGGTG (crispr-spacer)
+ID 6: CRISPR spacer, sequence CAACGGCAAAGAAATTGAAACGACAGCGAAGCAAATCA (crispr-spacer)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: Phage protein (cds)
+ID 9: ATPase (cds)
+ID 10: coaD: pantetheine-phosphate adenylyltransferase (cds)
+ID 11: secB: Preprotein translocase subunit SecB (cds)

@@ -1,0 +1,8 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: sigE: ECF RNA polymerase sigma factor SigE (cds)
+ID 3: Lactate utilization protein A (cds)
+ID 4: Penicillin-binding protein 4 (cds)
+ID 5: ruvX: Holliday junction resolvase RuvX (cds)
+ID 6: NADH-quinone oxidoreductase subunit I (cds)
+ID 7: mprA: Response regulator MprA (cds)

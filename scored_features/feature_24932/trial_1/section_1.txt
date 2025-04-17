@@ -1,0 +1,12 @@
+Image 1
+ID 1: copG: CopG family transcriptional regulator (cds)
+ID 2: hypothetical protein (cds)
+ID 3: rutF: FMN reductase RutF, DIM6/NTAB family (cds)
+ID 4: glgB: 1,4-alpha-glucan branching protein GlgB (cds)
+ID 5: afuA: ABC-type Fe3+ transport system, periplasmic component (cds)
+ID 6: Tranposon-transfer assisting protein (cds)
+ID 7: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 8: mgtA: magnesium-translocating P-type ATPase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: CRISPR spacer, sequence GAAGAATGTAGCAAACTTGAAACTGCAAATGCAAA (crispr-spacer)
+ID 11: CRISPR repeat (crispr-repeat)

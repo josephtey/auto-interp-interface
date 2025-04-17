@@ -1,0 +1,8 @@
+Image 3
+ID 1: sPS1: Serine/threonine protein kinase (cds)
+ID 2: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 3: chb: N-acetyl-beta-hexosaminidase (cds)
+ID 4: amtB: Ammonia channel protein AmtB (cds)
+ID 5: pyrR: bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR (cds)
+ID 6: mviM: putative dehydrogenase (cds)
+ID 7: hypothetical protein (cds)

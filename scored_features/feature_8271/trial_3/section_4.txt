@@ -1,0 +1,10 @@
+Image 4
+ID 1: recF: DNA replication/repair protein RecF (cds)
+ID 2: PepSY domain-containing protein (cds)
+ID 3: Hemolysin C (cds)
+ID 4: rpoS: RNA polymerase sigma factor RpoS (cds)
+ID 5: tusC: sulfurtransferase complex subunit TusC (cds)
+ID 6: PspA/IM30 family protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: rpoH: RNA polymerase sigma factor RpoH (cds)
+ID 9: fdh3B: formate dehydrogenase FDH3 subunit beta (cds)

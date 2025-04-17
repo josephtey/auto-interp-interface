@@ -1,0 +1,11 @@
+Image 1
+ID 1: rpoE: RNA polymerase sigma factor (cds)
+ID 2: CarboxypepD-reg-like domain-containing protein (cds)
+ID 3: cphB: cyanophycinase (cds)
+ID 4: oppF: murein tripeptide/oligopeptide ABC transporter ATP binding protein OppF (cds)
+ID 5: motB: Flagellar motor protein MotB (cds)
+ID 6: hypothetical protein (cds)
+ID 7: bcsA: Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase (cds)
+ID 8: ald: Alanine dehydrogenase (includes sporulation protein SpoVN) (cds)
+ID 9: yCII: 5-chloro-2-hydroxyhydroquinone dehydrochlorinase TtfG, YCII superfamily (cds)
+ID 10: Polyketide cyclase (cds)

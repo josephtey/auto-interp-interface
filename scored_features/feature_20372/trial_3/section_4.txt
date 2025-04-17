@@ -1,0 +1,11 @@
+Image 4
+ID 1: (Deoxy)nucleoside triphosphate pyrophosphohydrolase (cds)
+ID 2: rplL: 50S ribosomal protein L7/L12 (cds)
+ID 3: map: type I methionyl aminopeptidase (cds)
+ID 4: nirD: Nitrite reductase small subunit NirD (cds)
+ID 5: ROK family protein (cds)
+ID 6: gntR: GntR family transcriptional regulator (cds)
+ID 7: hypothetical protein (cds)
+ID 8: PknH-like extracellular domain-containing protein (cds)
+ID 9: radA: DNA repair protein RadA (cds)
+ID 10: Sigma-70 family RNA polymerase sigma factor (cds)

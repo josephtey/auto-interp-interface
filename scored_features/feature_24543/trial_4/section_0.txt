@@ -1,0 +1,7 @@
+Image 0
+ID 1: Lipoprotein (cds)
+ID 2: brxE: BREX-6 system BrxE protein (cds)
+ID 3: ampD: N-acetyl-anhydromuramyl-L-alanine amidase AmpD (cds)
+ID 4: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: gadA: Glutamate or tyrosine decarboxylase or a related PLP-dependent protein (cds)

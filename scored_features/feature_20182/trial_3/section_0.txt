@@ -1,0 +1,12 @@
+Image 0
+ID 1: Efflux transporter, RND family, MFP subunit (cds)
+ID 2: HAMP domain protein (cds)
+ID 3: Antitoxin Xre/MbcA/ParS-like toxin-binding domain-containing protein (cds)
+ID 4: moaD: molybdopterin converting factor subunit 1 (cds)
+ID 5: Hydrolase-like 2, exosortase system type 1 associated (cds)
+ID 6: acid phosphatase (cds)
+ID 7: hppD: 4-hydroxyphenylpyruvate dioxygenase (cds)
+ID 8: yhbY: RNA-binding YhbY domain protein (cds)
+ID 9: merR: Transcriptional regulatory protein, MerR family (cds)
+ID 10: dusA: tRNA dihydrouridine(20/20a) synthase DusA (cds)
+ID 11: syrM: HTH-type transcriptional regulator SyrM 1 (cds)

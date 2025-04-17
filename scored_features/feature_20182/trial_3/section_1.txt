@@ -1,0 +1,10 @@
+Image 1
+ID 1: N-6 DNA methylase (cds)
+ID 2: gntA: guanitoxin biosynthesis heme-dependent pre-guanitoxin N-hydroxylase GntA (cds)
+ID 3: Copper oxidase (cds)
+ID 4: Type-4 uracil-DNA glycosylase (cds)
+ID 5: rpmA: 50S ribosomal protein L27 (cds)
+ID 6: Ferritin-like domain-containing protein (cds)
+ID 7: Redoxin domain-containing protein (cds)
+ID 8: cyclase family protein (cds)
+ID 9: Semialdehyde dehydrogenase (cds)

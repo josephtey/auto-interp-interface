@@ -1,0 +1,5 @@
+Organism: Georhizobium profundi (a-proteobacteria)
+ID 1: trnR: tRNA-Arg(acg) (tRNA)
+ID 2: Catalase (cds)
+ID 3: ABC transporter substrate-binding protein (cds)
+ID 4: tkt: transketolase (cds)

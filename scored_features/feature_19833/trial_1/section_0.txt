@@ -1,0 +1,8 @@
+Image 0
+ID 1: tssA: type VI secretion system protein TssA (cds)
+ID 2: artP: arginine ABC transporter ATP-binding protein ArtP (cds)
+ID 3: insA: Insertion element iso-IS1N protein insA (cds)
+ID 4: tnp: IS5 family ISXbo1 transposase ORF A (cds)
+ID 5: yacG: DNA gyrase inhibitor YacG (cds)
+ID 6: cspA thermoregulator (ncRNA-region)
+ID 7: L31-Gammaproteobacteria ribosomal protein leader (ncRNA-region)

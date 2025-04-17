@@ -1,0 +1,8 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: wbbJ: Acetyltransferase, isoleucine patch superfamily (cds)
+ID 3: app1: Phosphatidate phosphatase APP1 (cds)
+ID 4: frmB: S-formylglutathione hydrolase FrmB (cds)
+ID 5: Lipoprotein (cds)
+ID 6: clpB: ATP-dependent chaperone ClpB (cds)
+ID 7: tnp: IS1595 family ISCal1 transposase (cds)

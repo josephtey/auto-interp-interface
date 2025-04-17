@@ -1,0 +1,13 @@
+Image 2
+ID 1: spoIVCA: Site-specific DNA recombinase SpoIVCA/DNA invertase PinE (cds)
+ID 2: phoE: Broad specificity phosphatase PhoE (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Signal transduction histidine kinase regulating C4-dicarboxylate transport system (cds)
+ID 5: DUF481 domain-containing protein (cds)
+ID 6: pldB: Lysophospholipase, alpha-beta hydrolase superfamily (cds)
+ID 7: hEAT: HEAT repeat (cds)
+ID 8: ruvB: Holliday junction branch migration DNA helicase RuvB (cds)
+ID 9: bglS: Beta-glucanase, GH16 family (cds)
+ID 10: TIGR04283 family arsenosugar biosynthesis glycosyltransferase (cds)
+ID 11: CRISPR repeat (crispr-repeat)
+ID 12: DUF1844 domain-containing protein (cds)

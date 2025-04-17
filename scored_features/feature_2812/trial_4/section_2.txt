@@ -1,0 +1,13 @@
+Image 2
+ID 1: HAMP domain-containing sensor histidine kinase (cds)
+ID 2: MFS transporter (cds)
+ID 3: gerKB: Spore germination protein KB (cds)
+ID 4: pcrA: DNA helicase PcrA (cds)
+ID 5: glcP: glucose/mannose transporter GlcP (cds)
+ID 6: xkdB: Phage-like element PBSX protein XkdB (cds)
+ID 7: bshB2: bacillithiol biosynthesis deacetylase BshB2 (cds)
+ID 8: pbuO: hypoxanthine/guanine permease PbuO (cds)
+ID 9: bioW: 6-carboxyhexanoate--CoA ligase (cds)
+ID 10: bceS: Sensor protein BceS (cds)
+ID 11: mdoB: Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily (cds)
+ID 12: yviE: Uncharacterized protein YviE (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: corA: magnesium/cobalt transporter CorA (cds)
+ID 3: SMI1/KNR4 family protein (cds)
+ID 4: Terminase large subunit (cds)
+ID 5: Polyprenyl synthetase (cds)
+ID 6: tnpB: IS66 family insertion sequence element accessory protein TnpB (cds)
+ID 7: Class I SAM-dependent methyltransferase (cds)
+ID 8: Dicarboxylate/amino acid:cation symporter (cds)
+ID 9: rsfS: ribosome silencing factor (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hypothetical protein (cds)

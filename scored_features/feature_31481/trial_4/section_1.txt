@@ -1,0 +1,7 @@
+Image 1
+ID 1: Integrase, catalytic region (cds)
+ID 2: Transmembrane protein (cds)
+ID 3: Uncharacterized domain protein (cds)
+ID 4: Transposase (cds)
+ID 5: Methylmalonate-semialdehyde dehydrogenase (cds)
+ID 6: hypothetical protein (cds)

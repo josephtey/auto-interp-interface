@@ -1,0 +1,11 @@
+Image 1
+ID 1: hpnC: squalene synthase HpnC (cds)
+ID 2: rpsI: 30S ribosomal protein S9 (cds)
+ID 3: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 4: Glycine-zipper-containing OmpA-like membrane domain-containing protein (cds)
+ID 5: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 6: Nitrogen fixation-related protein (cds)
+ID 7: azlC: putative branched-chain amino acid permease (azaleucine resistance) (cds)
+ID 8: csa3: CRISPR-associated protein Csa3, CARF domain (cds)
+ID 9: Autotransporter adhesin (cds)
+ID 10: fIST: FIST domain protein MJ1623, contains FIST_N and FIST_C domains (cds)

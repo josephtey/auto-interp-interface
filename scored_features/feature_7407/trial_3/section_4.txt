@@ -1,0 +1,12 @@
+Image 4
+ID 1: DUF4446 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Peptide ABC transporter ATP-binding protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence CCTTTTGCTAAAGTCAGTTTGCATTATGGCTGTGT (crispr-spacer)
+ID 6: CRISPR spacer, sequence CTCATATACACAACTATAATATATCAATACTATTT (crispr-spacer)
+ID 7: mutS2: endonuclease MutS2 (cds)
+ID 8: nuoE: NADH-quinone oxidoreductase subunit NuoE (cds)
+ID 9: Nitrogenase (cds)
+ID 10: hypothetical protein (cds)
+ID 11: Cyclic di-GMP-I riboswitch (ncRNA-region)

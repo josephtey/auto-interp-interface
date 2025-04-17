@@ -1,0 +1,9 @@
+Image 1
+ID 1: ycbB: Murein L,D-transpeptidase YcbB/YkuD (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF1828 domain-containing protein (cds)
+ID 4: mlaE: Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 5: DUF736 domain-containing protein (cds)
+ID 6: Signal-transduction protein containing cAMP-binding, CBS, and nucleotidyltransferase domains (cds)
+ID 7: zapB: Cell division protein ZapB (cds)
+ID 8: ssrA: transfer-messenger RNA, SsrA (tmRNA)

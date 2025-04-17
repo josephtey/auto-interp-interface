@@ -1,0 +1,12 @@
+Image 4
+ID 1: lldP: L-lactate permease (cds)
+ID 2: putative ATPase, AAA+ superfamily (cds)
+ID 3: gpA1: Phage terminase, large subunit GpA (cds)
+ID 4: Prophage minor tail protein Z (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CarD-like/TRCF RNAP-interacting domain-containing protein (cds)
+ID 7: SnoaL-like domain protein (cds)
+ID 8: ygiQ: Radical SAM superfamily enzyme YgiQ, UPF0313 family (cds)
+ID 9: xerC: tyrosine recombinase XerC (cds)
+ID 10: acrB: Multidrug efflux pump subunit AcrB (cds)
+ID 11: pksD: Acyl transferase domain in polyketide synthase (PKS) enzymes (cds)

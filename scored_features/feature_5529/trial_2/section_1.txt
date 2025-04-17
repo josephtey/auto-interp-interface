@@ -1,0 +1,7 @@
+Image 1
+ID 1: SIR2 family protein (cds)
+ID 2: livF: ABC-type branched-chain amino acid transport system, ATPase component LivF (cds)
+ID 3: cutA1: CutA1 divalent ion tolerance protein (cds)
+ID 4: bcp: Peroxiredoxin (cds)
+ID 5: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 6: SPOR domain-containing protein (cds)

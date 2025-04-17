@@ -1,0 +1,13 @@
+Image 4
+ID 1: DUF2207 domain-containing protein (cds)
+ID 2: Polysaccharide chain length determinant N-terminal domain-containing protein (cds)
+ID 3: Cell wall protein (cds)
+ID 4: MFS transporter (cds)
+ID 5: DEAD/DEAH box helicase (cds)
+ID 6: arfB: alternative ribosome rescue aminoacyl-tRNA hydrolase ArfB (cds)
+ID 7: paaJ: Acetyl-CoA acetyltransferase (cds)
+ID 8: tadE: TadE family protein (cds)
+ID 9: ABC transporter ATP-binding protein (cds)
+ID 10: Copper-translocating P-type ATPase (cds)
+ID 11: DUF1877 domain-containing protein (cds)
+ID 12: MATE family efflux transporter (cds)

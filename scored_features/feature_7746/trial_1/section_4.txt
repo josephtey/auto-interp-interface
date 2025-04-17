@@ -1,0 +1,11 @@
+Image 4
+ID 1: adeB: Efflux pump membrane transporter (cds)
+ID 2: hypothetical protein (cds)
+ID 3: murE: UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (cds)
+ID 4: Thioredoxin domain-containing protein (cds)
+ID 5: betI: transcriptional regulator BetI (cds)
+ID 6: rsgA: ribosome small subunit-dependent GTPase A (cds)
+ID 7: Lipoprotein (cds)
+ID 8: panP: putative pyridoxal-dependent aspartate 1-decarboxylase (cds)
+ID 9: Aldehyde dehydrogenase (cds)
+ID 10: hypothetical protein (cds)

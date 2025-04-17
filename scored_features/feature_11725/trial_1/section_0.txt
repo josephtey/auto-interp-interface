@@ -1,0 +1,13 @@
+Image 0
+ID 1: gcvT: glycine cleavage system aminomethyltransferase GcvT (cds)
+ID 2: hypothetical protein (cds)
+ID 3: sLT: putative transglycosylase, contains SLT domain (cds)
+ID 4: Uncharacterized conserved protein containing a Zn-ribbon-like motif, possibly RNA-binding (cds)
+ID 5: N-deacetylase/N-sulfotransferase, putative (cds)
+ID 6: ATP-binding protein (cds)
+ID 7: cobQ: cobyric acid synthase (cds)
+ID 8: znuC: ABC-type Mn2+/Zn2+ transport system, ATPase component (cds)
+ID 9: nupN: Lipoprotein Med, regulator of KinD/Spo0A, PBP1-ABC superfamily, includes NupN (cds)
+ID 10: spoT: (p)ppGpp synthase/hydrolase, HD superfamily (cds)
+ID 11: aes: Acetyl esterase/lipase (cds)
+ID 12: bepA: Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains (cds)

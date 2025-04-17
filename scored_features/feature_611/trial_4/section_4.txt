@@ -1,0 +1,13 @@
+Image 4
+ID 1: putative RNA polymerase sigma factor, contains C-terminal TPR domain (cds)
+ID 2: Transmembrane protein (cds)
+ID 3: marR: DNA-binding transcriptional regulator, MarR family (cds)
+ID 4: porB: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit (cds)
+ID 5: dnaC: DNA replication protein DnaC (cds)
+ID 6: glmS: Glucosamine 6-phosphate synthetase, contains amidotransferase and phosphosugar isomerase domains (cds)
+ID 7: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 8: livG: ABC-type branched-chain amino acid transport system, ATPase component LivG (cds)
+ID 9: Uncharacterized membrane protein (cds)
+ID 10: Sensory transduction regulator (cds)
+ID 11: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 12: ubiH: 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases (cds)

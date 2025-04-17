@@ -1,0 +1,13 @@
+Image 4
+ID 1: hrcA: heat-inducible transcriptional repressor HrcA (cds)
+ID 2: Molybdopterin molybdenumtransferase (cds)
+ID 3: SNARE associated Golgi protein-related protein (cds)
+ID 4: NADPH-dependent glutamate synthase beta chain (cds)
+ID 5: sigE: RNA polymerase sporulation sigma factor SigE (cds)
+ID 6: Transcriptional regulator, PadR-like family (cds)
+ID 7: Polar amino acid ABC transporter, inner membrane subunit (cds)
+ID 8: Thymidylate synthase (cds)
+ID 9: Flagellar hook capping protein (cds)
+ID 10: Motility protein (cds)
+ID 11: Acyl-CoA dehydrogenase domain protein (cds)
+ID 12: Glycoside hydrolase family 18 (cds)

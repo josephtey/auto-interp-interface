@@ -1,0 +1,12 @@
+Image 1
+ID 1: Permease (cds)
+ID 2: crotonase/enoyl-CoA hydratase family protein (cds)
+ID 3: Kef-type K+ transport system membrane protein (cds)
+ID 4: Major facilitator transporter (cds)
+ID 5: pepD: Serine protease PepD (cds)
+ID 6: Thioesterase superfamily protein (cds)
+ID 7: alpha-(1->6)-mannopyranosyltransferase A (cds)
+ID 8: Acetyltransferase, ribosomal protein N-acetylase (cds)
+ID 9: Carboxymuconolactone decarboxylase (cds)
+ID 10: xerC: Site-specific recombinase XerC (cds)
+ID 11: mglA: ABC-type sugar transport system, ATPase component (cds)

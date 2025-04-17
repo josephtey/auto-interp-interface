@@ -1,0 +1,12 @@
+Image 2
+ID 1: proC: pyrroline-5-carboxylate reductase (cds)
+ID 2: sH3: SH3-like domain (cds)
+ID 3: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 4: Pseudouridine synthase (cds)
+ID 5: putative permease (cds)
+ID 6: mET17: O-acetylhomoserine aminocarboxypropyltransferase (cds)
+ID 7: depA: Poly-beta-hydroxyalkanoate depolymerase (cds)
+ID 8: smc: chromosome segregation protein SMC (cds)
+ID 9: CheY-like receiver protein (cds)
+ID 10: CRISPR repeat (crispr-repeat)
+ID 11: Site-specific recombinase (cds)

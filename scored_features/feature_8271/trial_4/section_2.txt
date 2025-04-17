@@ -1,0 +1,9 @@
+Image 2
+ID 1: ribonucleotide-diphosphate reductase subunit beta (cds)
+ID 2: energy-coupling factor transporter ATPase (cds)
+ID 3: Phage portal protein (cds)
+ID 4: Sugar ABC transporter ATP-binding protein (cds)
+ID 5: Nucleotidyltransferase family protein (cds)
+ID 6: Radical SAM protein (cds)
+ID 7: trnE: tRNA-Glu(ttc) (tRNA)
+ID 8: Gfo/Idh/MocA family oxidoreductase (cds)

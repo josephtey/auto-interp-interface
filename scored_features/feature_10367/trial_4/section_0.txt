@@ -1,0 +1,12 @@
+Image 0
+ID 1: Histidine-containing phosphocarrier protein HPr of PTS system (cds)
+ID 2: DUF1446 domain-containing protein (cds)
+ID 3: Prepilin-type cleavage/methylation domain-containing protein (cds)
+ID 4: Methyltransferase (cds)
+ID 5: DUF6677 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: TIGR03067 domain-containing protein (cds)
+ID 8: Fimbrial assembly family protein (cds)
+ID 9: IcmF-related N-terminal domain-containing protein (cds)
+ID 10: Alpha/beta hydrolase (cds)
+ID 11: hypothetical protein (cds)

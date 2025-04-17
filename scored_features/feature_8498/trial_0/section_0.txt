@@ -1,0 +1,8 @@
+Image 0
+ID 1: SNARE associated Golgi protein-related protein (cds)
+ID 2: Microcompartments protein (cds)
+ID 3: pspC: Phage shock protein C, PspC (cds)
+ID 4: Sugar ABC transporter (cds)
+ID 5: Cell wall hydrolase/autolysin (cds)
+ID 6: Transposase IS3/IS911 family protein (cds)
+ID 7: Nucleotidyltransferase-like protein (cds)

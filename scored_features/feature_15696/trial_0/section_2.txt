@@ -1,0 +1,11 @@
+Image 2
+ID 1: pyrG: CTP synthase (cds)
+ID 2: trpC: indole-3-glycerol phosphate synthase TrpC (cds)
+ID 3: rpsQ: 30S ribosomal protein S17 (cds)
+ID 4: adk: adenylate kinase (cds)
+ID 5: trmN6: tRNA1(Val) A37 N6-methylase TrmN6 (cds)
+ID 6: alaS: alanine--tRNA ligase (cds)
+ID 7: Lipoprotein (cds)
+ID 8: 2-dehydro-3-deoxyphosphooctonate aldolase (cds)
+ID 9: ytxJ: Bacillithiol system redox-active protein YtxJ (cds)
+ID 10: fur: Fe2+ or Zn2+ uptake regulation protein Fur/Zur (cds)

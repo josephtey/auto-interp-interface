@@ -1,0 +1,12 @@
+Image 2
+ID 1: Methyltransferase type 11 (cds)
+ID 2: Transposase IS200-like domain-containing protein (cds)
+ID 3: odhB: 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase (cds)
+ID 4: ycgR: Flagellar brake protein YcgR (cds)
+ID 5: Sulfurtransferase (cds)
+ID 6: Guanylate cyclase (cds)
+ID 7: Glyoxalase (cds)
+ID 8: Putative 2-nitropropane dioxygenase, NPD (cds)
+ID 9: Head decoration protein (cds)
+ID 10: DUF5666 domain-containing protein (cds)
+ID 11: iS5: IS5 family transposase (cds)

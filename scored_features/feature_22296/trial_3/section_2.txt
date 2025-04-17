@@ -1,0 +1,10 @@
+Image 2
+ID 1: dnaN: DNA polymerase III subunit beta (cds)
+ID 2: ccsB: c-type cytochrome biogenesis protein CcsB (cds)
+ID 3: lldD: FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase (cds)
+ID 4: Iron-sulfur cluster carrier protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: coxB: cytochrome c oxidase subunit II (cds)
+ID 7: Spheroidene monooxygenase (cds)
+ID 8: Endonuclease/Exonuclease/phosphatase family proptein (cds)
+ID 9: hypothetical protein (cds)

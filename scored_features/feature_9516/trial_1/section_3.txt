@@ -1,0 +1,8 @@
+Image 3
+ID 1: NAD(P)H-dependent oxidoreductase (cds)
+ID 2: Xaa-Pro aminopeptidase (cds)
+ID 3: nicotinic acid mononucleotide adenyltransferase (cds)
+ID 4: araC: AraC family transcriptional regulator (cds)
+ID 5: Lipoprotein (cds)
+ID 6: DUF4138 domain-containing protein (cds)
+ID 7: Macroglobulin domain-containing protein (cds)

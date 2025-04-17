@@ -1,0 +1,8 @@
+Image 1
+ID 1: CRISPR spacer, sequence GATGAGGGGCGGATGGTTCGACGGGGGAAGGACA (crispr-spacer)
+ID 2: csrA: carbon storage regulator CsrA (cds)
+ID 3: PH domain-containing protein (cds)
+ID 4: dsbD: Thiol:disulfide interchange protein DsbD (cds)
+ID 5: Cyclic-di-GMP-binding biofilm dispersal mediator protein (cds)
+ID 6: Putative major pilin subunit (cds)
+ID 7: FHA domain protein (cds)

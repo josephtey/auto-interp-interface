@@ -1,0 +1,12 @@
+Image 1
+ID 1: Dihydroorotate dehydrogenase electron transfer subunit (cds)
+ID 2: hisS: histidine--tRNA ligase (cds)
+ID 3: lipB: lipoyl(octanoyl) transferase LipB (cds)
+ID 4: MBL fold metallo-hydrolase (cds)
+ID 5: Iron ABC transporter permease (cds)
+ID 6: hypothetical protein (cds)
+ID 7: UDP-glucose 6-dehydrogenase (cds)
+ID 8: XdhC/CoxI family protein (cds)
+ID 9: Endonuclease/exonuclease/phosphatase domain-containing protein (cds)
+ID 10: mrdA: penicillin-binding protein 2 (cds)
+ID 11: DUF308 domain-containing protein (cds)

@@ -1,0 +1,10 @@
+Image 3
+ID 1: secF: Protein-export membrane protein SecF (cds)
+ID 2: ssrA: transfer-messenger RNA, SsrA (tmRNA)
+ID 3: DNA polymerase III subunit delta' (cds)
+ID 4: DUF2189 domain-containing protein (cds)
+ID 5: feoB: ferrous iron transport protein B (cds)
+ID 6: Rieske 2Fe-2S domain-containing protein (cds)
+ID 7: ispG: flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (cds)
+ID 8: glutathione S-transferase N-terminal domain-containing protein (cds)
+ID 9: lysophospholipid acyltransferase family protein (cds)

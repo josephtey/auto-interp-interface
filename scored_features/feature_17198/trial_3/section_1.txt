@@ -1,0 +1,12 @@
+Image 1
+ID 1: class I SAM-dependent methyltransferase (cds)
+ID 2: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 3: terB: Tellurite resistance protein TerB (cds)
+ID 4: hspQ: heat shock protein HspQ (cds)
+ID 5: mrdA: penicillin-binding protein 2 (cds)
+ID 6: bcp: Peroxiredoxin (cds)
+ID 7: CRISPR spacer, sequence TCTTCCTGGA (crispr-spacer)
+ID 8: leuD: 3-isopropylmalate dehydratase small subunit (cds)
+ID 9: trnA: tRNA-Ala(ggc) (tRNA)
+ID 10: Lipoprotein (cds)
+ID 11: cHASE3: Extracytoplasmic sensor domain CHASE3 (specificity unknown) (cds)

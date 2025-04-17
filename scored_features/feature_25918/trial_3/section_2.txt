@@ -1,0 +1,10 @@
+Image 2
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: N-6 DNA methylase (cds)
+ID 2: tenA: thiaminase II (cds)
+ID 3: rseP: RIP metalloprotease RseP (cds)
+ID 4: Flavin reductase like domain-containing protein (cds)
+ID 5: replication-associated recombination protein A (cds)
+ID 6: multicopper oxidase domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Hydantoinase/oxoprolinase family protein (cds)

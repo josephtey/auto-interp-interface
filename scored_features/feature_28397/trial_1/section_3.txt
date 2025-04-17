@@ -1,0 +1,12 @@
+Image 3
+ID 1: CRISPR spacer, sequence AAAAAAATGCCTGCGATTGTTGATAAAGAAA (crispr-spacer)
+ID 2: TonB-dependent siderophore receptor (cds)
+ID 3: dbpA: ATP-dependent RNA helicase DbpA (cds)
+ID 4: EAL domain-containing protein (cds)
+ID 5: MtN3 and saliva related transmembrane protein (cds)
+ID 6: DUF2339 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: purL: phosphoribosylformylglycinamidine synthase (cds)
+ID 9: SDR family oxidoreductase (cds)
+ID 10: aspartate kinase (cds)
+ID 11: Histone deacetylase (cds)

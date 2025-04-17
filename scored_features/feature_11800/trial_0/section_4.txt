@@ -1,0 +1,12 @@
+Image 4
+ID 1: def: peptide deformylase (cds)
+ID 2: rluA: bifunctional tRNA pseudouridine(32) synthase/23S rRNA pseudouridine(746) synthase RluA (cds)
+ID 3: GFA family protein (cds)
+ID 4: kfrA: KfrA N-terminal DNA-binding domain-containing protein (cds)
+ID 5: trnP: tRNA-Pro(tgg) (tRNA)
+ID 6: fur: ferric iron uptake transcriptional regulator (cds)
+ID 7: SM-20 domain protein (cds)
+ID 8: RNA polymerase sigma factor (cds)
+ID 9: ATPase (cds)
+ID 10: Membrane fusion protein (MFP) family protein (cds)
+ID 11: creD: cell envelope integrity protein CreD (cds)

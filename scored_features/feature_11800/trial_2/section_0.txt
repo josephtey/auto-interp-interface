@@ -1,0 +1,11 @@
+Image 0
+ID 1: CRISPR spacer, sequence AGCAGCCCATTTAACAAACTCACAACTACGCTTAAT (crispr-spacer)
+ID 2: UPF0352 protein HER31_04255 (cds)
+ID 3: MotA/TolQ/ExbB proton channel family protein (cds)
+ID 4: 6-phosphogluconolactonase (cds)
+ID 5: Response regulator transcription factor (cds)
+ID 6: VWA domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Arabinose 5-phosphate isomerase (cds)
+ID 9: trnI: tRNA-Ile(gat) (tRNA)
+ID 10: rluF: 23S rRNA pseudouridine(2604) synthase RluF (cds)

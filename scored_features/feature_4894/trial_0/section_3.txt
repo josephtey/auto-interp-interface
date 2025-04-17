@@ -1,0 +1,11 @@
+Image 3
+ID 1: fHA: Forkhead associated (FHA) domain, binds pSer, pThr, pTyr (cds)
+ID 2: ligA: Aromatic ring-opening dioxygenase LigA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Toxin-antitoxin system, toxin component (cds)
+ID 5: glcD: FAD/FMN-containing lactate dehydrogenase/glycolate oxidase (cds)
+ID 6: udk: Uridine kinase (cds)
+ID 7: sufI: Multicopper oxidase with three cupredoxin domains (includes cell division protein FtsP and spore coat protein CotA) (cds)
+ID 8: truB: tRNA pseudouridine(55) synthase TruB (cds)
+ID 9: fadH2: NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase (cds)
+ID 10: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)

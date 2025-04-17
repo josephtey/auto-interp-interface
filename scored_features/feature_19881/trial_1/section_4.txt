@@ -1,0 +1,9 @@
+Image 4
+ID 1: DUF1232 domain-containing protein (cds)
+ID 2: Winged helix-turn-helix transcriptional regulator (cds)
+ID 3: 1,4-dihydroxy-2-naphthoyl-CoA synthase (cds)
+ID 4: Glutathione S-transferase family protein (cds)
+ID 5: ABC transporter permease (cds)
+ID 6: secD: Protein translocase subunit SecD (cds)
+ID 7: DUF2846 domain-containing protein (cds)
+ID 8: RNA degradosome polyphosphate kinase (cds)

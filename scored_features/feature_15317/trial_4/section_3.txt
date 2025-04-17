@@ -1,0 +1,11 @@
+Image 3
+ID 1: traG: TraG N-terminal Proteobacteria domain-containing protein (cds)
+ID 2: xerC: Site-specific recombinase XerC (cds)
+ID 3: phoA: Alkaline phosphatase (cds)
+ID 4: helix-turn-helix domain-containing protein (cds)
+ID 5: hypC: Hydrogenase maturation factor HybG, HypC/HupF family (cds)
+ID 6: wbbJ: Acetyltransferase, isoleucine patch superfamily (cds)
+ID 7: pstC: phosphate ABC transporter permease subunit PstC (cds)
+ID 8: cspC: Cold shock protein, CspA family (cds)
+ID 9: terC: Tellurite resistance membrane protein TerC (cds)
+ID 10: hypothetical protein (cds)

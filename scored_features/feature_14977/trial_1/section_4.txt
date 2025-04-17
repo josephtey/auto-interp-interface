@@ -1,0 +1,12 @@
+Image 4
+ID 1: trnfM: tRNA-fMet(cat) (tRNA)
+ID 2: ATP-binding cassette domain-containing protein (cds)
+ID 3: hscA: Fe-S protein assembly chaperone HscA (cds)
+ID 4: araC: AraC family transcriptional regulator (cds)
+ID 5: Short-chain dehydrogenase/reductase SDR (cds)
+ID 6: Putative transporter, BCCT family protein (cds)
+ID 7: Methyltransferase domain-containing protein (cds)
+ID 8: DUF3551 domain-containing protein (cds)
+ID 9: Pseudouridine synthase (cds)
+ID 10: O-succinylbenzoic acid--CoA ligase (cds)
+ID 11: menB: 1,4-dihydroxy-2-naphthoyl-CoA synthase (cds)

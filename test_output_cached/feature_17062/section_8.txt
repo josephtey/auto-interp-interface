@@ -1,0 +1,6 @@
+ID 1: Stress protein (cds)
+ID 2: phnC: phosphonate ABC transporter ATP-binding protein (cds)
+ID 3: Cytochrome bc1 complex cytochrome c subunit (cds)
+ID 4: rfbF: Glucose-1-phosphate cytidylyltransferase (cds)
+ID 5: rlmB: 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB (cds)
+ID 6: DUF3263 domain-containing protein (cds)

@@ -1,0 +1,11 @@
+Image 4
+ID 1: Glycosyl transferase (cds)
+ID 2: Transposase (cds)
+ID 3: tetR: TetR family transcriptional regulator (cds)
+ID 4: SAM-dependent methyltransferase (cds)
+ID 5: trnR: tRNA-Arg(acg) (tRNA)
+ID 6: HTH lacI-type domain-containing protein (cds)
+ID 7: rpoA: DNA-directed RNA polymerase subunit alpha (cds)
+ID 8: rpsM: 30S ribosomal protein S13 (cds)
+ID 9: Short-chain dehydrogenase (cds)
+ID 10: Polysaccharide chain length determinant N-terminal domain-containing protein (cds)

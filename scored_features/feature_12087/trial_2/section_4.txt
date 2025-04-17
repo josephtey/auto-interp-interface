@@ -1,0 +1,12 @@
+Image 4
+ID 1: DUF6487 domain-containing protein (cds)
+ID 2: copG: CopG family transcriptional regulator (cds)
+ID 3: tnsA: Transposon Tn7 transposition protein TnsA (cds)
+ID 4: atpC: ATP synthase F1 subunit epsilon (cds)
+ID 5: transglutaminase domain-containing protein (cds)
+ID 6: CRISPR spacer, sequence CAGTGTGACAAGTAACATTAAAGAGGATAATAACAA (crispr-spacer)
+ID 7: HAD family hydrolase (cds)
+ID 8: Spore germination protein KA (cds)
+ID 9: CCA-adding enzyme (cds)
+ID 10: Acyl carrier protein (cds)
+ID 11: hisZ: ATP phosphoribosyltransferase regulatory subunit (cds)

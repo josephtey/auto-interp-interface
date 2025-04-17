@@ -1,0 +1,7 @@
+Image 3
+Organism: Limnoglobus roseus (bacteria)
+ID 1: Soluble ligand binding domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: MFS transporter (cds)
+ID 4: non-specific serine/threonine protein kinase (cds)
+ID 5: ABC transporter (cds)

@@ -1,0 +1,8 @@
+ID 1: astC: Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase (cds)
+ID 2: appC: Cytochrome bd-type quinol oxidase, subunit 1 (cds)
+ID 3: fdhD: formate dehydrogenase accessory sulfurtransferase FdhD (cds)
+ID 4: von Willebrand factor A (cds)
+ID 5: Baseplate assembly protein (cds)
+ID 6: DUF2789 domain-containing protein (cds)
+ID 7: thiB: thiamine ABC transporter substrate binding subunit (cds)
+ID 8: sspA: stringent starvation protein SspA (cds)

@@ -1,0 +1,10 @@
+Image 4
+ID 1: Asparagine synthetase B (cds)
+ID 2: bamA: Outer membrane protein assembly factor BamA (cds)
+ID 3: DUF4231 domain-containing protein (cds)
+ID 4: rhsA: Uncharacterized conserved protein RhaS, contains 28 RHS repeats (cds)
+ID 5: DNA binding domain, excisionase family (cds)
+ID 6: Thioredoxin family protein (cds)
+ID 7: yidJ: putative acetyltransferase, GNAT superfamily (cds)
+ID 8: cirA: Outer membrane receptor protein, Fe transport (cds)
+ID 9: meaB: methylmalonyl Co-A mutase-associated GTPase MeaB (cds)

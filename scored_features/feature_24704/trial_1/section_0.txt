@@ -1,0 +1,10 @@
+Image 0
+ID 1: Methyl-accepting chemotaxis protein (cds)
+ID 2: trnM: tRNA-Met(cat) (tRNA)
+ID 3: fumarate hydratase (cds)
+ID 4: Acyltransferase (cds)
+ID 5: ilvG: acetolactate synthase 2 catalytic subunit (cds)
+ID 6: paaB: 1,2-phenylacetyl-CoA epoxidase subunit PaaB (cds)
+ID 7: Methylated-DNA--protein-cysteine methyltransferase (cds)
+ID 8: argS: arginine--tRNA ligase (cds)
+ID 9: adk: adenylate kinase (cds)

@@ -1,0 +1,13 @@
+Image 4
+ID 1: ABC transporter permease (cds)
+ID 2: rlmH: 23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH (cds)
+ID 3: nuoG: NADH-quinone oxidoreductase subunit NuoG (cds)
+ID 4: Oxidoreductase (cds)
+ID 5: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)
+ID 6: hutD: HutD family protein (cds)
+ID 7: CYTH domain-containing protein (cds)
+ID 8: ruvC: crossover junction endodeoxyribonuclease RuvC (cds)
+ID 9: Methyl-accepting transducer domain-containing protein (cds)
+ID 10: Alkyl hydroperoxide reductase (cds)
+ID 11: hypothetical protein (cds)
+ID 12: Aminoglycoside phosphotransferase domain-containing protein (cds)

@@ -1,0 +1,9 @@
+Image 4
+ID 1: ribE: riboflavin synthase (cds)
+ID 2: DNA repair ATPase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Polyketide cyclase/dehydrase/lipid transport protein (cds)
+ID 5: NAD-dependent epimerase/dehydratase (cds)
+ID 6: trnU: tRNA-SeC(tca) (tRNA)
+ID 7: gltA: citrate synthase (cds)
+ID 8: DUF1330 domain-containing protein (cds)

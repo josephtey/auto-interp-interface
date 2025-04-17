@@ -1,0 +1,13 @@
+Image 4
+ID 1: Thiol:disulfide interchange protein (cds)
+ID 2: CRISPR spacer, sequence ATTCGTCGATGACGGTGGATAGCCAGACGGAT (crispr-spacer)
+ID 3: hypothetical protein (cds)
+ID 4: DUF1841 domain-containing protein (cds)
+ID 5: DUF927 domain-containing protein (cds)
+ID 6: sRNA-Xcc1: sRNA-Xcc1 (ncRNA)
+ID 7: rnhB: ribonuclease HII (cds)
+ID 8: MEMO1 family protein HQN79_06720 (cds)
+ID 9: Prenyltransferase (cds)
+ID 10: 5-formyltetrahydrofolate cyclo-ligase (cds)
+ID 11: dcd: dCTP deaminase (cds)
+ID 12: EAL domain-containing protein (cds)

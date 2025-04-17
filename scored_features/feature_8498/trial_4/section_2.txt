@@ -1,0 +1,12 @@
+Image 2
+ID 1: coaBC: bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC (cds)
+ID 2: alaS: alanine--tRNA ligase (cds)
+ID 3: Peptidase M20 domain-containing protein 2 (cds)
+ID 4: PQQ-dependent sugar dehydrogenase (cds)
+ID 5: map: type I methionyl aminopeptidase (cds)
+ID 6: Histidine triad nucleotide-binding protein (cds)
+ID 7: hrpE: Flagellar assembly protein FliH/Type III secretion system HrpE domain-containing protein (cds)
+ID 8: Dicarboxylate/amino acid:cation symporter (cds)
+ID 9: Sulfotransferase domain-containing protein (cds)
+ID 10: Heme-binding protein (cds)
+ID 11: ssrA: transfer-messenger RNA, SsrA (tmRNA)

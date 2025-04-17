@@ -1,0 +1,12 @@
+Image 3
+ID 1: mreB: Cell shape-determining ATPase MreB, actin-like superfamily (cds)
+ID 2: map: type I methionyl aminopeptidase (cds)
+ID 3: UPF0434 protein B1F76_01075 (cds)
+ID 4: rpsL: 30S ribosomal protein S12 (cds)
+ID 5: rplC: 50S ribosomal protein L3 (cds)
+ID 6: rpmD: 50S ribosomal protein L30 (cds)
+ID 7: pepN: aminopeptidase N (cds)
+ID 8: dnaK: molecular chaperone DnaK (cds)
+ID 9: guaB: IMP dehydrogenase (cds)
+ID 10: trnL: tRNA-Leu(caa) (tRNA)
+ID 11: trnF: tRNA-Phe(gaa) (tRNA)

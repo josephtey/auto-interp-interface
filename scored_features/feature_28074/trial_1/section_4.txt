@@ -1,0 +1,10 @@
+Image 4
+ID 1: glyA: Glycine/serine hydroxymethyltransferase (cds)
+ID 2: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)
+ID 3: Amino acid racemase (cds)
+ID 4: rluA: Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific (cds)
+ID 5: dxr: 1-deoxy-D-xylulose-5-phosphate reductoisomerase (cds)
+ID 6: trnL: tRNA-Leu(taa) (tRNA)
+ID 7: thiF: Molybdopterin or thiamine biosynthesis adenylyltransferase (cds)
+ID 8: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 9: 2-keto-3-deoxygluconate permease (cds)

@@ -1,0 +1,6 @@
+ID 1: DUF2076 domain-containing protein (cds)
+ID 2: atoC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: trnH: tRNA-His(gtg) (tRNA)
+ID 5: coxL: Aldehyde, CO or xanthine dehydrogenase, Mo-binding subunit (cds)
+ID 6: aF2118: putative transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair) (cds)

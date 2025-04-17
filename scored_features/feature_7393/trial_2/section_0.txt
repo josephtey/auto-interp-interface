@@ -1,0 +1,8 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: araC: AraC family transcriptional regulator (cds)
+ID 3: hypothetical protein (cds)
+ID 4: YcxB-like protein domain-containing protein (cds)
+ID 5: NADH dehydrogenase (cds)
+ID 6: GAF domain-containing protein (cds)
+ID 7: Phosphoribosylformylglycinamidine cyclo-ligase (cds)

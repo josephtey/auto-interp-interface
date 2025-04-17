@@ -1,0 +1,10 @@
+Image 1
+ID 1: barstar family protein (cds)
+ID 2: [protein-PII] uridylyltransferase (cds)
+ID 3: S1 motif domain-containing protein (cds)
+ID 4: beta-ketoacyl-ACP synthase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: carbohydrate-binding protein (cds)
+ID 7: Transmembrane protein (cds)
+ID 8: cbiB: adenosylcobinamide-phosphate synthase CbiB (cds)
+ID 9: hypothetical protein (cds)

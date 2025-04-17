@@ -1,0 +1,10 @@
+Image 4
+ID 1: fhuE: Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid (cds)
+ID 2: Translation initiation factor IF-2 (cds)
+ID 3: putative metal-dependent hydrolase (cds)
+ID 4: IraD/Gp25-like domain-containing protein (cds)
+ID 5: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 6: DUF4141 domain-containing protein (cds)
+ID 7: General stress protein 14 (cds)
+ID 8: pagL: Lipid A 3-O-deacylase PagL (cds)
+ID 9: hypothetical protein (cds)

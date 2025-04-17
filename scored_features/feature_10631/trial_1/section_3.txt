@@ -1,0 +1,11 @@
+Image 3
+ID 1: vOC: Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family (cds)
+ID 2: hisIE: bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE (cds)
+ID 3: eRG9: Phytoene/squalene synthetase (cds)
+ID 4: Cytochrome b562 (cds)
+ID 5: serA: Phosphoglycerate dehydrogenase or related dehydrogenase (cds)
+ID 6: tldD: Zn-dependent protease PmbA/TldA or its inactivated-like protein (cds)
+ID 7: lolA: Outer membrane lipoprotein-sorting protein (cds)
+ID 8: dcd: dCTP deaminase (cds)
+ID 9: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 10: trxB: thioredoxin-disulfide reductase (cds)

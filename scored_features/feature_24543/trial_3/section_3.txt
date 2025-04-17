@@ -1,0 +1,5 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Phage protein (cds)
+ID 4: RNA polymerase sigma factor (cds)

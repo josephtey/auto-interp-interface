@@ -1,0 +1,11 @@
+Image 2
+ID 1: gorA: glutathione-disulfide reductase (cds)
+ID 2: nusG: transcription termination/antitermination protein NusG (cds)
+ID 3: Response regulator (cds)
+ID 4: nuoL: NADH-quinone oxidoreductase subunit L (cds)
+ID 5: DNA-binding protein (cds)
+ID 6: yegQ: tRNA 5-hydroxyuridine modification protein YegQ (cds)
+ID 7: MotA/TolQ/ExbB proton channel family protein (cds)
+ID 8: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 9: exbB: TonB-system energizer ExbB (cds)
+ID 10: prmC: peptide chain release factor N(5)-glutamine methyltransferase (cds)

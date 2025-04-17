@@ -1,0 +1,10 @@
+Image 4
+ID 1: CHASE2 domain-containing protein (cds)
+ID 2: yfhL: YfhL family 4Fe-4S dicluster ferredoxin (cds)
+ID 3: Ribosomal RNA large subunit methyltransferase J (cds)
+ID 4: ispE: 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (cds)
+ID 5: nusG: transcription termination/antitermination protein NusG (cds)
+ID 6: rplK: 50S ribosomal protein L11 (cds)
+ID 7: (pseudo) EscU/YscU/HrcU family type III secretion system export apparatus switch protein (cds)
+ID 8: metG: methionine--tRNA ligase (cds)
+ID 9: Alpha-ketoacid dehydrogenase subunit beta (cds)

@@ -1,0 +1,10 @@
+Image 3
+ID 1: rpoA: DNA-directed RNA polymerase subunit alpha (cds)
+ID 2: Nitroreductase (cds)
+ID 3: coaE: dephospho-CoA kinase (cds)
+ID 4: sigF: RNA polymerase sporulation sigma factor SigF (cds)
+ID 5: FMN riboswitch (RFN element) (ncRNA-region)
+ID 6: bioF: glycine C-acetyltransferase (cds)
+ID 7: mtaB: tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB (cds)
+ID 8: DUF2642 domain-containing protein (cds)
+ID 9: hypothetical protein (cds)

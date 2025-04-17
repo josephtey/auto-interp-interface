@@ -1,0 +1,12 @@
+Image 1
+ID 1: Transposase (cds)
+ID 2: ilvC: ketol-acid reductoisomerase (cds)
+ID 3: trpE: anthranilate synthase component I (cds)
+ID 4: fHA: Forkhead associated (FHA) domain, binds pSer, pThr, pTyr (cds)
+ID 5: hypothetical protein (cds)
+ID 6: cas3: CRISPR-Cas type I system-associated endonuclease/helicase Cas3 (cds)
+ID 7: mJ0435: putative nucleotidyltransferase MJ0435 (cds)
+ID 8: plsX: phosphate acyltransferase PlsX (cds)
+ID 9: pheB: ACT domain-containing protein (cds)
+ID 10: flgN: FlgN protein (cds)
+ID 11: ccmA: ABC-type multidrug transport system, ATPase component (cds)

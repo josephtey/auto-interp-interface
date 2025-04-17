@@ -1,0 +1,9 @@
+Image 1
+ID 1: pyrF: orotidine-5'-phosphate decarboxylase (cds)
+ID 2: fliS: Flagellin-specific chaperone FliS (cds)
+ID 3: GpW (cds)
+ID 4: mMPL: putative exporter protein, RND superfamily (cds)
+ID 5: Putative component of the toxin-antitoxin plasmid stabilization module (cds)
+ID 6: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 7: gltP: Na+/H+-dicarboxylate symporter (cds)
+ID 8: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (cds)

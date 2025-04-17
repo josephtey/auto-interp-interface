@@ -1,0 +1,8 @@
+ID 1: Copper amine oxidase-like N-terminal domain-containing protein (cds)
+ID 2: pglZ: BREX-1 system phosphatase PglZ type A (cds)
+ID 3: PPC domain-containing protein (cds)
+ID 4: CRISPR spacer, sequence GCTTCATCACTAACTAAACATCTACCTTTATTCGTTG (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR spacer, sequence AAAATCAGCTCCTTATTTAATTATTTAAGGTACTT (crispr-spacer)
+ID 7: hydF: [FeFe] hydrogenase H-cluster maturation GTPase HydF (cds)
+ID 8: dppC: Dipeptide transport system permease protein DppC (cds)

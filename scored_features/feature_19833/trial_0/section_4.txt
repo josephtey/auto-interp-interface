@@ -1,0 +1,11 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: Transposase (cds)
+ID 3: tgt: tRNA guanosine(34) transglycosylase Tgt (cds)
+ID 4: dgcA: N-acetyl-D-Glu racemase DgcA (cds)
+ID 5: motA: Flagellar motor protein MotA (cds)
+ID 6: sYLF: Lipid-binding SYLF domain, Ysc84/FYVE family (cds)
+ID 7: pleD: Two-component response regulator, PleD family, consists of two REC domains and a diguanylate cyclase (GGDEF) domain (cds)
+ID 8: fepA: Outer membrane receptor for ferrienterochelin and colicins (cds)
+ID 9: purD: Phosphoribosylamine-glycine ligase (cds)
+ID 10: ada: bifunctional DNA-binding transcriptional regulator/O6-methylguanine-DNA methyltransferase Ada (cds)

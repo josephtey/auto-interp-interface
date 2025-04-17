@@ -1,0 +1,8 @@
+Image 1
+ID 1: menE: O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming) (cds)
+ID 2: paaJ: acetyl-CoA C-acetyltransferase (cds)
+ID 3: rdgC: Recombination-associated protein RdgC (cds)
+ID 4: cypX: Cytochrome P450 (cds)
+ID 5: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 6: ugd: UDP-glucose 6-dehydrogenase (cds)
+ID 7: Secreted protein (cds)

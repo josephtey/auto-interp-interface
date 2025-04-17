@@ -1,0 +1,12 @@
+Image 4
+ID 1: Inner-membrane translocator (cds)
+ID 2: Glucan-binding domain (YG repeat)-like protein (cds)
+ID 3: Ferric uptake regulator, Fur family (cds)
+ID 4: xdhC: xanthine dehydrogenase subunit XdhC (cds)
+ID 5: tag: DNA-3-methyladenine glycosylase I (cds)
+ID 6: T-box leader (ncRNA-region)
+ID 7: Isochorismatase hydrolase (cds)
+ID 8: ABC transporter related protein (cds)
+ID 9: Periplasmic binding protein/LacI transcriptional regulator (cds)
+ID 10: MATE efflux family protein (cds)
+ID 11: Permease IIC component (cds)

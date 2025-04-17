@@ -1,0 +1,11 @@
+Image 0
+ID 1: Bacteroidetes-specific membrane protein (cds)
+ID 2: doxX: DoxX family protein (cds)
+ID 3: Delta-60 repeat domain (cds)
+ID 4: pspE: Thiosulfate sulfurtransferase PspE (cds)
+ID 5: cusC: Cation efflux system protein CusC (cds)
+ID 6: Carboxypeptidase-like regulatory domain-containing protein (cds)
+ID 7: Trimeric autotransporter adhesin YadA-like head domain-containing protein (cds)
+ID 8: clcA: H+/Cl- antiporter ClcA (cds)
+ID 9: pepN: DUF3458 domain-containing protein (cds)
+ID 10: Trans-aconitate 2-methyltransferase (cds)

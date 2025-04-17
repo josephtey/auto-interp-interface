@@ -1,0 +1,11 @@
+Image 0
+ID 1: trnF: tRNA-Phe(gaa) (tRNA)
+ID 2: SLC13 family permease (cds)
+ID 3: flgC: flagellar basal body rod protein FlgC (cds)
+ID 4: rrl: 23S ribosomal RNA (rRNA)
+ID 5: pyrI: aspartate carbamoyltransferase regulatory subunit (cds)
+ID 6: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 7: lysR: LysR family transcriptional regulator (cds)
+ID 8: FAD-dependent 2-octaprenylphenol hydroxylase (cds)
+ID 9: pepB: aminopeptidase PepB (cds)
+ID 10: gspC: type II secretion system protein GspC (cds)

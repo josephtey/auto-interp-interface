@@ -1,0 +1,9 @@
+Image 1
+ID 1: rrs: 16S ribosomal RNA (rRNA)
+ID 2: pyruvate, water dikinase regulatory protein (cds)
+ID 3: znuA: ABC-type Zn2+ transport system, periplasmic component/surface adhesin ZnuA (cds)
+ID 4: gloA: Catechol 2,3-dioxygenase or related enzyme, vicinal oxygen chelate (VOC) family (cds)
+ID 5: IS5 family transposase (cds)
+ID 6: dnaJ: molecular chaperone DnaJ (cds)
+ID 7: DUF1178 domain-containing protein (cds)
+ID 8: addA: double-strand break repair helicase AddA (cds)

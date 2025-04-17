@@ -1,0 +1,13 @@
+Image 0
+ID 1: gltX: glutamate--tRNA ligase (cds)
+ID 2: xseB: exodeoxyribonuclease VII small subunit (cds)
+ID 3: HEARO: HNH endonuclease-associated RNA and ORF (HEARO) RNA (ncRNA)
+ID 4: IS607 family transposase (cds)
+ID 5: nuoF: NADH-quinone oxidoreductase subunit NuoF (cds)
+ID 6: metG: methionine--tRNA ligase (cds)
+ID 7: CBS domain-containing protein (cds)
+ID 8: nadC: carboxylating nicotinate-nucleotide diphosphorylase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: bfr: Bacterioferritin (cytochrome b1) (cds)
+ID 11: fliQ: flagellar biosynthesis protein FliQ (cds)
+ID 12: CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6 (cds)

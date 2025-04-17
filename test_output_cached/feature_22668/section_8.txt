@@ -1,0 +1,8 @@
+ID 1: STAS domain-containing protein (cds)
+ID 2: lspA: signal peptidase II (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: Sugar ABC transporter permease (cds)
+ID 5: Ribonuclease (cds)
+ID 6: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 7: ftsX: permease-like cell division protein FtsX (cds)
+ID 8: Multidrug ABC transporter ATP-binding protein (cds)

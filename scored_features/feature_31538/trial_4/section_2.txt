@@ -1,0 +1,11 @@
+Image 2
+ID 1: helix-turn-helix transcriptional regulator (cds)
+ID 2: Transposase (cds)
+ID 3: miaA: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA (cds)
+ID 4: short chain dehydrogenase (cds)
+ID 5: trnG: tRNA-Gly(gcc) (tRNA)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Stress responsive A/B Barrel domain protein (cds)
+ID 9: pilZ: PilZ domain protein (cds)
+ID 10: ligase-associated DNA damage response exonuclease (cds)

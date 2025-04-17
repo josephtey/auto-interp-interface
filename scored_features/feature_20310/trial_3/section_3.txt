@@ -1,0 +1,11 @@
+Image 3
+ID 1: Biotin/lipoyl-binding protein (cds)
+ID 2: GNAT family N-acetyltransferase (cds)
+ID 3: trnV: tRNA-Val(tac) (tRNA)
+ID 4: pilZ: PilZ domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: cheW: Chemotaxis protein CheW (cds)
+ID 7: hypothetical protein (cds)
+ID 8: DUF2986 domain-containing protein (cds)
+ID 9: Methyl-accepting chemotaxis protein (cds)
+ID 10: hypothetical protein (cds)

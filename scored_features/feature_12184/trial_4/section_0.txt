@@ -1,0 +1,9 @@
+Image 0
+ID 1: MATE efflux family protein (cds)
+ID 2: histidine kinase (cds)
+ID 3: ectB: diaminobutyrate--2-oxoglutarate transaminase (cds)
+ID 4: secD: Protein translocase subunit SecD (cds)
+ID 5: Integral membrane protein (cds)
+ID 6: Salicylaldehyde dehydrogenase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Diguanylate cyclase/phosphodiesterase (cds)

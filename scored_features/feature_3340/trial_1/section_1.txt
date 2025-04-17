@@ -1,0 +1,11 @@
+Image 1
+Organism: Unknown organism
+ID 1: UDP-N-acetyl-D-glucosamine 6-dehydrogenase (cds)
+ID 2: S-methyl-5'-thioadenosine phosphorylase (cds)
+ID 3: czcA: Cobalt-zinc-cadmium resistance protein CzcA (cds)
+ID 4: NADPH dehydrogenase (cds)
+ID 5: Alpha/beta hydrolase family protein (cds)
+ID 6: terC: Integral membrane protein TerC family protein (cds)
+ID 7: DNA topoisomerase (ATP-hydrolyzing) (cds)
+ID 8: Sulfatase (cds)
+ID 9: hypothetical protein (cds)

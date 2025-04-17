@@ -1,0 +1,10 @@
+Image 3
+ID 1: Phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein (cds)
+ID 2: ABC-type spermidine/putrescine transport system, permease component I (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Luciferase-like domain-containing protein (cds)
+ID 5: miaB: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB (cds)
+ID 6: FAD-binding protein (cds)
+ID 7: HNH endonuclease (cds)
+ID 8: Type 11 methyltransferase (cds)
+ID 9: Putative cobalt transporter subunit (CbtA) (cds)

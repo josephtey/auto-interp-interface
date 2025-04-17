@@ -1,0 +1,4 @@
+Image 4
+ID 1: brxC: BREX system P-loop protein BrxC (cds)
+ID 2: Right handed beta helix domain-containing protein (cds)
+ID 3: yfbK: Secreted protein containing bacterial Ig-like domain and vWFA domain (cds)

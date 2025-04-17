@@ -1,0 +1,13 @@
+Image 2
+ID 1: PE-PGRS family protein (cds)
+ID 2: gmk: guanylate kinase (cds)
+ID 3: Esterase family protein (cds)
+ID 4: Alpha/beta hydrolase (cds)
+ID 5: DUF937 domain-containing protein (cds)
+ID 6: Cytochrome P450 (cds)
+ID 7: Integral membrane protein (cds)
+ID 8: Enoyl-CoA hydratase (cds)
+ID 9: Antibiotic biosynthesis monooxygenase (cds)
+ID 10: Acyl-CoA dehydrogenase (cds)
+ID 11: Peptidase A4 family (cds)
+ID 12: sigI: RNA polymerase sigma factor SigI (cds)

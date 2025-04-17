@@ -1,0 +1,13 @@
+Image 0
+ID 1: rlhA: U32 family peptidase (cds)
+ID 2: tra8: IS481 family transposase (cds)
+ID 3: lpxP: lysophospholipid acyltransferase family protein (cds)
+ID 4: yqjQ: Short-chain dehydrogenase (cds)
+ID 5: fliN: Flagellar motor switch/type III secretory pathway protein FliN (cds)
+ID 6: phoE: Broad specificity phosphatase PhoE (cds)
+ID 7: leuB: tartrate dehydrogenase (cds)
+ID 8: walK: Sensor histidine kinase WalK (cds)
+ID 9: Uncharacterized membrane protein (cds)
+ID 10: CRISPR repeat (crispr-repeat)
+ID 11: CRISPR repeat (crispr-repeat)
+ID 12: Methyl-accepting chemotaxis protein (cds)

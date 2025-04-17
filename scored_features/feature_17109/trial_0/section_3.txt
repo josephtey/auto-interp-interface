@@ -1,0 +1,10 @@
+Image 3
+ID 1: CRISPR spacer, sequence ATGCGCCCGGATCCTGAACGTTCTGGCGAAAC (crispr-spacer)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: flgL: flagellar hook-associated protein FlgL (cds)
+ID 4: mutL: DNA mismatch repair endonuclease MutL (cds)
+ID 5: fabA: bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase (cds)
+ID 6: ychF: redox-regulated ATPase YchF (cds)
+ID 7: hypothetical protein (cds)
+ID 8: aspS: aspartate--tRNA ligase (cds)
+ID 9: ccmK: Carboxysome shell and ethanolamine utilization microcompartment protein CcmL/EutN (cds)

@@ -1,0 +1,9 @@
+Image 1
+ID 1: rsfS: ribosome silencing factor (cds)
+ID 2: ATP synthase protein I (cds)
+ID 3: bioD: dethiobiotin synthase (cds)
+ID 4: pepE: dipeptidase PepE (cds)
+ID 5: RNA polymerase sigma factor (cds)
+ID 6: restriction endonuclease subunit S (cds)
+ID 7: SusC/RagA family TonB-linked outer membrane protein (cds)
+ID 8: 4Fe-4S dicluster domain-containing protein (cds)

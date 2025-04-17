@@ -1,0 +1,10 @@
+Image 4
+ID 1: HTH cro/C1-type domain-containing protein (cds)
+ID 2: Phosphohydrolase (cds)
+ID 3: AAA domain-containing protein (cds)
+ID 4: menB: 1,4-dihydroxy-2-naphthoyl-CoA synthase (cds)
+ID 5: Serine protease, heat shock protein (cds)
+ID 6: Glycine/D-amino acid oxidase, deaminating (cds)
+ID 7: lspA: signal peptidase II (cds)
+ID 8: Major facilitator superfamily (MFS) profile domain-containing protein (cds)
+ID 9: rsmG: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG (cds)

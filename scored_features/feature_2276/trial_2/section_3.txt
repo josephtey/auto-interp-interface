@@ -1,0 +1,12 @@
+Image 3
+ID 1: trkA: Trk system potassium transporter TrkA (cds)
+ID 2: Serine--pyruvate transaminase (cds)
+ID 3: arsJ: organoarsenical effux MFS transporter ArsJ (cds)
+ID 4: ABC-type transporter, periplasmic subunit (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Diguanylate cyclase/phosphodiesterase (cds)
+ID 7: FAD linked oxidase domain protein (cds)
+ID 8: cspA thermoregulator (ncRNA-region)
+ID 9: Ion transport 2 domain protein (cds)
+ID 10: 3-hydroxybutyrate dehydrogenase (cds)
+ID 11: Tail sheath protein subtilisin-like domain-containing protein (cds)

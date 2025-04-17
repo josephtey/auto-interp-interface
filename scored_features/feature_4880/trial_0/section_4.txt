@@ -1,0 +1,9 @@
+Image 4
+ID 1: thiL: thiamine-phosphate kinase (cds)
+ID 2: Site-specific integrase (cds)
+ID 3: Tetratricopeptide repeat protein (cds)
+ID 4: gmd: GDP-mannose 4,6-dehydratase (cds)
+ID 5: tnpB: IS66 family insertion sequence element accessory protein TnpB (cds)
+ID 6: Methyltransferase (cds)
+ID 7: DNA-binding response regulator (cds)
+ID 8: hypothetical protein (cds)

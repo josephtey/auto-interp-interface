@@ -1,0 +1,10 @@
+Image 1
+ID 1: Type 1 glutamine amidotransferase (GATase1)-like domain (cds)
+ID 2: elyC: DUF218 domain-containing protein (cds)
+ID 3: cpoB: Cell division protein CpoB, coordinates peptidoglycan biosynthesis and outer membrane constriction (cds)
+ID 4: Lipoprotein (cds)
+ID 5: CpXC domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 9: lhr: Lhr-like helicase (cds)

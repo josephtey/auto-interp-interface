@@ -1,0 +1,11 @@
+Image 1
+ID 1: nusA: Transcription antitermination factor NusA, contains S1 and KH domains (cds)
+ID 2: gliding motility protein (cds)
+ID 3: Multiple inositol polyphosphate histidine phosphatase 1 (cds)
+ID 4: Glutamine synthetase (cds)
+ID 5: Proteasome-type protease (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: trnM: tRNA-Met(cat) (tRNA)
+ID 9: Protein NO VEIN C-terminal domain-containing protein (cds)
+ID 10: MBL fold metallo-hydrolase (cds)

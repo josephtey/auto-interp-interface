@@ -1,0 +1,10 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: flgI: Flagellar basal body P-ring protein FlgI (cds)
+ID 3: hypothetical protein (cds)
+ID 4: gerAA: Spore germination receptor GerABC, GerA subunit (L-alanine receptor) (cds)
+ID 5: trnfM: tRNA-fMet(cat) (tRNA)
+ID 6: pnp: polyribonucleotide nucleotidyltransferase (cds)
+ID 7: ylbF: DUF963 domain-containing protein (cds)
+ID 8: ecfT: Energy-coupling factor transporter transmembrane protein EcfT (cds)
+ID 9: cas1b: type I-B CRISPR-associated endonuclease Cas1b (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: Cytoplasmic protein (cds)
+ID 2: Phage derived protein Gp49-like (cds)
+ID 3: yaiI: YaiI/YqxD family protein (cds)
+ID 4: wcaE: Glycosyltransferase, GT2 family (cds)
+ID 5: mqnC: cyclic dehypoxanthinyl futalosine synthase (cds)
+ID 6: cdsB: L-cysteine desulfidase YhaM (cds)
+ID 7: citT: Di- and tricarboxylate antiporter (cds)
+ID 8: PEP-CTERM protein-sorting domain-containing protein (cds)
+ID 9: Fic family protein (cds)
+ID 10: phd: Antitoxin component of toxin-antitoxin stability system, DNA-binding transcriptional repressor (cds)
+ID 11: higA: HigA family addiction module antitoxin (cds)

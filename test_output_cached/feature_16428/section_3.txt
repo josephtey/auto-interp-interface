@@ -1,0 +1,7 @@
+ID 1: SDR family oxidoreductase (cds)
+ID 2: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 3: bifunctional 2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase (cds)
+ID 4: radA: DNA repair protein RadA (cds)
+ID 5: fhuA: ferrichrome porin FhuA (cds)
+ID 6: mbtH: MbtH family NRPS accessory protein (cds)
+ID 7: sdhB: Succinate dehydrogenase iron-sulfur subunit (cds)

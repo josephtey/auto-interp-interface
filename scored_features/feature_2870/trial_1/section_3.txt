@@ -1,0 +1,12 @@
+Image 3
+ID 1: copZ: Copper chaperone CopZ (cds)
+ID 2: peptide chain release factor 3 (cds)
+ID 3: Radical SAM protein (cds)
+ID 4: Type I restriction enzyme EcoKI subunit R (cds)
+ID 5: CRISPR spacer, sequence TTTCCTTGAACCCGAAGGCCTTCCTGAACCACAGGA (crispr-spacer)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: rplT: 50S ribosomal protein L20 (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Dockerin domain-containing protein (cds)
+ID 10: DUF2383 domain-containing protein (cds)
+ID 11: histidine kinase (cds)

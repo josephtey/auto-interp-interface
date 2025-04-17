@@ -1,0 +1,2 @@
+ID 1: Tetratricopeptide repeat protein (cds)
+ID 2: bamA: outer membrane protein assembly factor BamA (cds)

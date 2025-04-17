@@ -1,0 +1,13 @@
+Image 2
+ID 1: secD: Preprotein translocase subunit SecD (cds)
+ID 2: DNA primase/polymerase bifunctional N-terminal domain-containing protein (cds)
+ID 3: glnK: Nitrogen regulatory protein PII (cds)
+ID 4: ytoQ: YtoQ family protein (cds)
+ID 5: azlC: putative branched-chain amino acid permease (azaleucine resistance) (cds)
+ID 6: ibpA: Small heat shock protein IbpA, HSP20 family (cds)
+ID 7: Cytochrome c oxidase assembly protein (cds)
+ID 8: (pseudo) DMT family transporter (cds)
+ID 9: msrB: Peptide methionine sulfoxide reductase MsrB (cds)
+ID 10: RDD family protein (cds)
+ID 11: Sulfotransferase family protein (cds)
+ID 12: DUF2256 domain-containing protein (cds)

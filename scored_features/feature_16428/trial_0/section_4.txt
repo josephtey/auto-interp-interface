@@ -1,0 +1,12 @@
+Image 4
+ID 1: serA: phosphoglycerate dehydrogenase (cds)
+ID 2: Pyridoxal phosphate homeostasis protein (cds)
+ID 3: trpS: tryptophan--tRNA ligase (cds)
+ID 4: mioC: FMN-binding protein MioC (cds)
+ID 5: dgoR: D-galactonate utilization transcriptional regulator DgoR (cds)
+ID 6: mbtH: MbtH family NRPS accessory protein (cds)
+ID 7: Glucose/quinate/shikimate family membrane-bound PQQ-dependent dehydrogenase (cds)
+ID 8: Fimbrial protein (cds)
+ID 9: AI-2E family transporter (cds)
+ID 10: raiA: ribosome-associated translation inhibitor RaiA (cds)
+ID 11: ssrA: transfer-messenger RNA, SsrA (tmRNA)

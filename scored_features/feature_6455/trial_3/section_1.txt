@@ -1,0 +1,12 @@
+Image 1
+ID 1: nifB: nitrogenase cofactor biosynthesis protein NifB (cds)
+ID 2: hdrB: Heterodisulfide reductase, subunit B (cds)
+ID 3: tatC: twin-arginine translocase subunit TatC (cds)
+ID 4: cHASE2: Extracytoplasmic sensor domain CHASE2 (specificity unknown) (cds)
+ID 5: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 6: hDGYP: HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant) (cds)
+ID 7: trnY: tRNA-Tyr(gta) (tRNA)
+ID 8: nrdR: transcriptional regulator NrdR (cds)
+ID 9: pksG: 3-hydroxy-3-methylglutaryl CoA synthase (cds)
+ID 10: lolC: ABC-type transport system involved in lipoprotein release, permease component LolC (cds)
+ID 11: cas5b: type I-B CRISPR-associated protein Cas5b (cds)

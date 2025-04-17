@@ -1,0 +1,13 @@
+Image 0
+ID 1: bla: class A beta-lactamase (cds)
+ID 2: maiA: maleylacetoacetate isomerase (cds)
+ID 3: RND transporter (cds)
+ID 4: egtD: L-histidine N(alpha)-methyltransferase (cds)
+ID 5: Acyl-CoA thioesterase (cds)
+ID 6: Glyoxalase (cds)
+ID 7: Nitrogen regulatory protein P-II (cds)
+ID 8: DUF2134 domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: cobyric acid synthase (cds)
+ID 11: Polysaccharide deacetylase (cds)
+ID 12: rrs: 16S ribosomal RNA (rRNA)

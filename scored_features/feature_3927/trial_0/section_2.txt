@@ -1,0 +1,13 @@
+Image 2
+ID 1: yidJ: putative acetyltransferase, GNAT superfamily (cds)
+ID 2: Glycosyl transferase family 11 (cds)
+ID 3: DUF1653 domain-containing protein (cds)
+ID 4: Phage tail protein (cds)
+ID 5: fsa: fructose-6-phosphate aldolase (cds)
+ID 6: yqeK: Diadenosine tetraphosphatase YqeK or a related HD superfamily phosphohydrolase (cds)
+ID 7: manB: Phosphomannomutase (cds)
+ID 8: Addiction module component (cds)
+ID 9: lepA: translation elongation factor 4 (cds)
+ID 10: cheB: Chemotaxis response regulator CheB, contains REC and protein-glutamate methylesterase domains (cds)
+ID 11: btuB: Outer membrane cobalamin receptor protein BtuB (cds)
+ID 12: hypothetical protein (cds)

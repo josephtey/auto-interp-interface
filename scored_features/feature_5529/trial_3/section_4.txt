@@ -1,0 +1,8 @@
+Image 4
+ID 1: DUF4139 domain-containing protein (cds)
+ID 2: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 3: hypothetical protein (cds)
+ID 4: msrA: Peptide methionine sulfoxide reductase MsrA (cds)
+ID 5: pspE: Rhodanese-related sulfurtransferase (cds)
+ID 6: sTE14: Protein-S-isoprenylcysteine O-methyltransferase Ste14 (cds)
+ID 7: serA: Phosphoglycerate dehydrogenase or related dehydrogenase (cds)

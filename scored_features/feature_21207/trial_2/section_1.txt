@@ -1,0 +1,10 @@
+Image 1
+ID 1: Carboxylesterase 2 (cds)
+ID 2: Amino acid permease/ SLC12A domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: dsbA: Disulfide bond formation protein DsbA (cds)
+ID 5: pilZ: PilZ domain-containing protein (cds)
+ID 6: PepSY domain-containing protein (cds)
+ID 7: galU: UTP--glucose-1-phosphate uridylyltransferase GalU (cds)
+ID 8: Mannose-1-phosphate guanylyltransferase (cds)
+ID 9: trnG: tRNA-Gly(gcc) (tRNA)

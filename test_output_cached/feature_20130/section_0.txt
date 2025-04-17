@@ -1,0 +1,8 @@
+ID 1: Transmembrane protein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: pyc: pyruvate carboxylase (cds)
+ID 5: pyrC: dihydroorotase (cds)
+ID 6: lldD: FMN-dependent dehydrogenase, includes L-lactate dehydrogenase and type II isopentenyl diphosphate isomerase (cds)
+ID 7: pncC: Nicotinamide mononucleotide (NMN) deamidase PncC (cds)
+ID 8: Phosphoribosylglycinamide formyltransferase (cds)

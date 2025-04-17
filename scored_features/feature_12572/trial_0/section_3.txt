@@ -1,0 +1,12 @@
+Image 3
+ID 1: Bacteriophage protein (cds)
+ID 2: secE: preprotein translocase subunit SecE (cds)
+ID 3: Putative anti-sigma regulatory factor (cds)
+ID 4: Type 11 methyltransferase (cds)
+ID 5: Carbon-monoxide dehydrogenase (cds)
+ID 6: opcA: glucose-6-phosphate dehydrogenase assembly protein OpcA (cds)
+ID 7: acetylornithine transaminase (cds)
+ID 8: Methylase involved in ubiquinone/menaquinone biosynthesis (cds)
+ID 9: Acyl-ACP desaturase (cds)
+ID 10: Polar amino acid ABC transporter inner membrane subunit (cds)
+ID 11: Major facilitator superfamily transporter (cds)

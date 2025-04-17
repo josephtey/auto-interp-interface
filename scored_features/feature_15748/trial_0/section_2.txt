@@ -1,0 +1,11 @@
+Image 2
+ID 1: Beta-lactamase family protein (cds)
+ID 2: lgt: prolipoprotein diacylglyceryl transferase (cds)
+ID 3: DUF1013 domain-containing protein (cds)
+ID 4: proS: proline--tRNA ligase (cds)
+ID 5: kpsF: KpsF protein (cds)
+ID 6: Sodium/pantothenate symporter domain protein (cds)
+ID 7: tyrS: tyrosine--tRNA ligase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

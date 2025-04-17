@@ -1,0 +1,8 @@
+Image 3
+ID 1: glgC: glucose-1-phosphate adenylyltransferase (cds)
+ID 2: ycgE: HTH-type transcriptional repressor YcgE (cds)
+ID 3: Transmembrane protein (PGPGW) (cds)
+ID 4: tolB: Translocation protein TolB (cds)
+ID 5: hypothetical protein (cds)
+ID 6: glgB: 1,4-alpha-glucan branching protein GlgB (cds)
+ID 7: All-trans-zeta-carotene desaturase (cds)

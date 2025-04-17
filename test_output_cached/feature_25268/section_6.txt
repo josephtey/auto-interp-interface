@@ -1,0 +1,8 @@
+ID 1: DUF1206 domain-containing protein (cds)
+ID 2: aceF: Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component (cds)
+ID 3: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 4: lpd: Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase (cds)
+ID 5: ypwA: Zn-dependent carboxypeptidase, M32 family (cds)
+ID 6: DUF2507 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: NACHT domain-containing protein (cds)

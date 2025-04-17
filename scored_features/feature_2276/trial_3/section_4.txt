@@ -1,0 +1,11 @@
+Image 4
+ID 1: DUF4190 domain-containing protein (cds)
+ID 2: Sugar phosphate isomerase/epimerase (cds)
+ID 3: gcvP: aminomethyl-transferring glycine dehydrogenase (cds)
+ID 4: Zn-dependent protease with chaperone function (cds)
+ID 5: Propionyl-CoA carboxylase (cds)
+ID 6: ABC-2 type transport system ATP-binding protein (cds)
+ID 7: Sulfate permease (cds)
+ID 8: Putative sensory transduction regulator (cds)
+ID 9: Cutinase (cds)
+ID 10: Glycoside hydrolase family 5 domain-containing protein (cds)

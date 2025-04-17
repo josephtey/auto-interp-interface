@@ -1,0 +1,6 @@
+Image 1
+Organism: Sulfurimicrobium lacus (b-proteobacteria)
+ID 1: Lipoprotein (cds)
+ID 2: glnK: Nitrogen regulatory protein PII (cds)
+ID 3: AsmA-like C-terminal domain-containing protein (cds)
+ID 4: Four helix bundle protein (cds)

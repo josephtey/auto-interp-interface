@@ -1,0 +1,9 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: ytfP: putative gamma-glutamylamine cyclotransferase YtfP, GGCT/AIG2-like family (cds)
+ID 3: skfB: Radical SAM superfamily maturase, SkfB/NifB/PqqE family (cds)
+ID 4: Phosphodiester glycosidase domain-containing protein (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: Thrombospondin type 3 repeat protein (cds)
+ID 8: dksA: RNA polymerase-binding transcription factor DksA (cds)

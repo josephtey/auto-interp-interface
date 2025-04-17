@@ -1,0 +1,9 @@
+Image 0
+ID 1: Plasmid stabilization system protein (cds)
+ID 2: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 3: PIN domain-containing protein (cds)
+ID 4: ndk: nucleoside-diphosphate kinase (cds)
+ID 5: CRISPR array with 26 repeats of length 29, consensus sequence GGGTCTATCCCCGCTTGCGCGGGGGAACC and spacer length 32 (crispr)
+ID 6: corC: Mg2+ and Co2+ transporter CorC, contains CBS pair and CorC-HlyC domains (cds)
+ID 7: Chemotaxis protein CheC, inhibitor of MCP methylation (cds)
+ID 8: raiA: Ribosome-associated translation inhibitor RaiA (cds)

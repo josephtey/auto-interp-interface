@@ -1,0 +1,13 @@
+Image 4
+ID 1: DUF2634 domain-containing protein (cds)
+ID 2: ushA: 2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family (cds)
+ID 3: Polysaccharide pyruvyl transferase domain-containing protein (cds)
+ID 4: fliF: flagellar basal-body MS-ring/collar protein FliF (cds)
+ID 5: ltrA: group II intron reverse transcriptase/maturase (cds)
+ID 6: Reverse transcriptase domain-containing protein (cds)
+ID 7: GNAT family N-acetyltransferase (cds)
+ID 8: murG: undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase (cds)
+ID 9: Phage tail baseplate hub (GPD) (cds)
+ID 10: CRISPR spacer, sequence CCCAATATTT (crispr-spacer)
+ID 11: Maltose/maltodextrin transport system permease protein (cds)
+ID 12: Transposase zinc-binding domain-containing protein (cds)

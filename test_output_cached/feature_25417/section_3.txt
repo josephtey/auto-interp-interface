@@ -1,0 +1,7 @@
+ID 1: cas2e: type I-E CRISPR-associated endoribonuclease Cas2e (cds)
+ID 2: rsmB: 16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB (cds)
+ID 3: Transcriptional regulator (cds)
+ID 4: Linear amide C-N hydrolase (cds)
+ID 5: agp: bifunctional glucose-1-phosphatase/inositol phosphatase (cds)
+ID 6: yfaE: class I ribonucleotide reductase maintenance protein YfaE (cds)
+ID 7: Phage protein (cds)

@@ -1,0 +1,13 @@
+Image 1
+ID 1: Rhamnosyl O-methyltransferase (cds)
+ID 2: nlhH: Carboxylesterase NlhH (cds)
+ID 3: gspD: type II secretion system secretin GspD (cds)
+ID 4: hbdH: 3-hydroxybutyrate dehydrogenase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: SMODS and SLOG-associating 2TM effector domain-containing protein (cds)
+ID 7: Peptide synthetase (cds)
+ID 8: Metal-chelation protein CHAD (cds)
+ID 9: rgsA: RgsA sRNA (ncRNA)
+ID 10: CS1 type fimbrial major subunit (cds)
+ID 11: Periplasmic protein (cds)
+ID 12: cadR: Cd(II)/Pb(II)-responsive transcriptional regulator (cds)

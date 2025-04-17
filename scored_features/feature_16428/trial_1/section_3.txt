@@ -1,0 +1,8 @@
+Image 3
+ID 1: yajC: preprotein translocase subunit YajC (cds)
+ID 2: vapC: Ribonuclease/mRNA interferase VapC, contains PIN domain (cds)
+ID 3: ampD: 1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD (cds)
+ID 4: aceE: pyruvate dehydrogenase (acetyl-transferring), homodimeric type (cds)
+ID 5: CRISPR spacer, sequence ACAAAATCGGGCTTCGGCAACTGTCCCTGCCATA (crispr-spacer)
+ID 6: gAF: GAF domain (cds)
+ID 7: sbp: ABC-type sulfate transport system, periplasmic component (cds)

@@ -1,0 +1,10 @@
+Image 2
+ID 1: CAIB/BAIF family acyl-CoA thioesterase (cds)
+ID 2: gntR: GntR family transcriptional regulator (cds)
+ID 3: Coenzyme Q-binding protein COQ10 START domain-containing protein (cds)
+ID 4: DNA repair ATPase (cds)
+ID 5: dhaL: DhaL domain-containing protein (cds)
+ID 6: dnaK: molecular chaperone DnaK (cds)
+ID 7: Carbohydrate esterase (cds)
+ID 8: leuS: leucine--tRNA ligase (cds)
+ID 9: DUF2771 domain-containing protein (cds)

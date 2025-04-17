@@ -1,0 +1,6 @@
+Image 0
+ID 1: phzF: PhzF family phenazine biosynthesis protein (cds)
+ID 2: CD225/dispanin family protein (cds)
+ID 3: terC: Tellurite resistance protein TerC (cds)
+ID 4: Alpha-2-macroglobulin (cds)
+ID 5: HTH tetR-type domain-containing protein (cds)

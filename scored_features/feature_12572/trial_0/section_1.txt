@@ -1,0 +1,12 @@
+Image 1
+ID 1: serine/threonine protein kinase (cds)
+ID 2: Response regulator (cds)
+ID 3: DNA polymerase III subunit epsilon (cds)
+ID 4: Gamma carbonic anhydrase family protein (cds)
+ID 5: pgm: phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent) (cds)
+ID 6: GGDEF domain-containing protein (cds)
+ID 7: rrl: 23S ribosomal RNA (rRNA)
+ID 8: arsJ: organoarsenical effux MFS transporter ArsJ (cds)
+ID 9: hisB: bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB (cds)
+ID 10: DNA-binding response regulator (cds)
+ID 11: L-cystine transporter (cds)

@@ -1,0 +1,9 @@
+Image 4
+ID 1: mshJ: MSHA biogenesis protein MshJ (cds)
+ID 2: Peptidase M23 (cds)
+ID 3: nuoN: NADH-quinone oxidoreductase subunit NuoN (cds)
+ID 4: EfeO-type cupredoxin-like domain-containing protein (cds)
+ID 5: HDOD domain-containing protein (cds)
+ID 6: Dystroglycan-type cadherin-like domain-containing protein (cds)
+ID 7: DUF4198 domain-containing protein (cds)
+ID 8: DUF2628 domain-containing protein (cds)

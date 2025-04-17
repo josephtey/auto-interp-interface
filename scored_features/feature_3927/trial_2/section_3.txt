@@ -1,0 +1,8 @@
+Image 3
+ID 1: Amino acid carrier protein (cds)
+ID 2: Succinylglutamate desuccinylase (cds)
+ID 3: 2-hydroxy-3-oxopropionate reductase (cds)
+ID 4: rnhB: ribonuclease HII (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Cupin 2 conserved barrel domain protein (cds)
+ID 7: priA: primosomal protein N' (cds)

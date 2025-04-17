@@ -1,0 +1,11 @@
+Image 0
+ID 1: DUF5681 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ytfP: putative gamma-glutamylamine cyclotransferase YtfP, GGCT/AIG2-like family (cds)
+ID 5: DUF6508 domain-containing protein (cds)
+ID 6: murG: UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: yicC: Uncharacterized stationary-phase protein YicC, UPF0701 family (cds)
+ID 10: xapA: purine-nucleoside phosphorylase (cds)

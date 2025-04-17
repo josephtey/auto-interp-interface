@@ -1,0 +1,13 @@
+Image 4
+ID 1: Serine hydrolase (cds)
+ID 2: ABC transporter ATP-binding protein (cds)
+ID 3: DUF4429 domain-containing protein (cds)
+ID 4: uvrA: excinuclease ABC subunit UvrA (cds)
+ID 5: TetR/AcrR family transcriptional regulator (cds)
+ID 6: Two pore domain potassium channel family protein (cds)
+ID 7: ANTAR domain-containing protein (cds)
+ID 8: ATP-dependent DNA ligase (cds)
+ID 9: Integral membrane protein (cds)
+ID 10: Oxidoreductase (cds)
+ID 11: UPF0145 protein C1703_22070 (cds)
+ID 12: Putative bifunctional UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase/UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase (cds)

@@ -1,0 +1,12 @@
+Image 3
+ID 1: iclR: DNA-binding transcriptional regulator, IclR family (cds)
+ID 2: pseC: UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase (cds)
+ID 3: ispA: Geranylgeranyl pyrophosphate synthase (cds)
+ID 4: MMPL family transporter (cds)
+ID 5: AB hydrolase-1 domain-containing protein (cds)
+ID 6: rplS: 50S ribosomal protein L19 (cds)
+ID 7: TIGR04076 family protein (cds)
+ID 8: Spore coat protein (cds)
+ID 9: ispF: 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (cds)
+ID 10: rrs: 16S ribosomal RNA (rRNA)
+ID 11: degV: Fatty acid-binding protein DegV (function unknown) (cds)

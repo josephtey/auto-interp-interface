@@ -1,0 +1,12 @@
+Image 0
+ID 1: Peptidylprolyl isomerase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: ubiB: 2-polyprenylphenol 6-hydroxylase (cds)
+ID 4: CRISPR spacer, sequence CCCATAGAAACATTGAATCAAATTGGCTCTATCAATA (crispr-spacer)
+ID 5: CRISPR spacer, sequence CCGTAG (crispr-spacer)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: DUF5704 domain-containing protein (cds)
+ID 8: Cysteine desulfurase (cds)
+ID 9: Cell division initiation protein (cds)
+ID 10: Rx N-terminal domain-containing protein (cds)
+ID 11: Glycine zipper family protein (cds)

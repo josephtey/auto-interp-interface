@@ -1,0 +1,13 @@
+Image 2
+ID 1: 5-bromo-4-chloroindolyl phosphate hydrolysis protein (cds)
+ID 2: trnR: tRNA-Arg(acg) (tRNA)
+ID 3: hypothetical protein (cds)
+ID 4: Rubrerythrin (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: yukD: WXG100 protein secretion system (Wss), protein YukD (cds)
+ID 7: Copper amine oxidase-like N-terminal domain-containing protein (cds)
+ID 8: metA: homoserine O-succinyltransferase (cds)
+ID 9: cytidine deaminase (cds)
+ID 10: miaA: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA (cds)
+ID 11: rplP: 50S ribosomal protein L16 (cds)
+ID 12: DUF2089 domain-containing protein (cds)

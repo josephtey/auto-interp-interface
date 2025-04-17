@@ -1,0 +1,13 @@
+Image 0
+ID 1: DUF488 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: algI: Alginate O-acetyltransferase complex protein AlgI (cds)
+ID 4: Glycine betaine/proline transport system permease protein/glycine betaine/proline transport system substrate-binding protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: dpsA: dipicolinate synthase subunit DpsA (cds)
+ID 7: rpiR: Transcriptional regulator, RpiR family (cds)
+ID 8: Membrane-anchored protein (cds)
+ID 9: putative toxin-antitoxin system toxin component, PIN family (cds)
+ID 10: hypothetical protein (cds)
+ID 11: DUF963 domain-containing protein (cds)
+ID 12: DUF2383 domain-containing protein (cds)

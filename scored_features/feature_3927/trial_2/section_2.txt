@@ -1,0 +1,13 @@
+Image 2
+ID 1: Restriction endonuclease (cds)
+ID 2: Zinc-binding dehydrogenase (cds)
+ID 3: DUF3185 domain-containing protein (cds)
+ID 4: DeoR/GlpR family DNA-binding transcription regulator (cds)
+ID 5: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 6: EAL domain-containing protein (cds)
+ID 7: Phosphatidylserine/phosphatidylglycerophosphate/ cardiolipin synthase family protein (cds)
+ID 8: Thiamine-binding protein domain-containing protein (cds)
+ID 9: Phasin domain-containing protein (cds)
+ID 10: 4-oxalocrotonate tautomerase family protein (cds)
+ID 11: Deoxyribodipyrimidine photolyase (cds)
+ID 12: tartrate dehydrogenase (cds)

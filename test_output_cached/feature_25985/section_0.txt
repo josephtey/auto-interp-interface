@@ -1,0 +1,5 @@
+ID 1: flgJ1: Rod binding protein domain (cds)
+ID 2: Phage portal protein (cds)
+ID 3: DUF2231 domain-containing protein (cds)
+ID 4: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 5: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)

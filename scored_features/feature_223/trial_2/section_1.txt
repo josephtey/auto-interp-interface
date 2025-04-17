@@ -1,0 +1,5 @@
+Image 1
+ID 1: rimL: Protein N-acetyltransferase, RimJ/RimL family (cds)
+ID 2: Relaxase/Mobilisation nuclease domain (cds)
+ID 3: ureE: urease accessory protein UreE (cds)
+ID 4: Alpha/beta hydrolase (cds)

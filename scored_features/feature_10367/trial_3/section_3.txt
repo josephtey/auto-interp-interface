@@ -1,0 +1,10 @@
+Image 3
+ID 1: ftsX: permease-like cell division protein FtsX (cds)
+ID 2: trpS: tryptophan--tRNA ligase (cds)
+ID 3: ilvM: acetolactate synthase 2 small subunit (cds)
+ID 4: Integron integrase (cds)
+ID 5: serine-type D-Ala-D-Ala carboxypeptidase (cds)
+ID 6: flgB: flagellar basal body rod protein FlgB (cds)
+ID 7: mutH: DNA mismatch repair endonuclease MutH (cds)
+ID 8: Diguanylate cyclase (cds)
+ID 9: MBL fold metallo-hydrolase (cds)

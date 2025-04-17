@@ -1,0 +1,10 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: phosphatidylserine decarboxylase (cds)
+ID 3: PPIase (cds)
+ID 4: Endoglucanase E (cds)
+ID 5: nth: endonuclease III (cds)
+ID 6: Polysaccharide deacetylase (cds)
+ID 7: Integrase catalytic domain-containing protein (cds)
+ID 8: ABC-2 type transporter transmembrane domain-containing protein (cds)
+ID 9: rsmA: 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA (cds)

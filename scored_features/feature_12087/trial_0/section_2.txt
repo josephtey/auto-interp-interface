@@ -1,0 +1,8 @@
+Image 2
+ID 1: glgP: Glucan phosphorylase (cds)
+ID 2: znuC: ABC-type Mn2+/Zn2+ transport system, ATPase component (cds)
+ID 3: gAF: GAF domain (cds)
+ID 4: purA: adenylosuccinate synthase (cds)
+ID 5: DUF4276 domain-containing protein (cds)
+ID 6: smrA: DNA-nicking endonuclease, Smr domain (cds)
+ID 7: cHASE1: Extracytoplasmic sensor domain CHASE1 (specificity unknown) (cds)

@@ -1,0 +1,13 @@
+Image 0
+ID 1: rplQ: 50S ribosomal protein L17 (cds)
+ID 2: cGGC: putative metal-binding protein, contains CGGC domain (cds)
+ID 3: argR: arginine repressor (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: C4-dicarboxylate transporter (cds)
+ID 6: pulK: Type II secretory pathway, component PulK (cds)
+ID 7: hemW: radical SAM family heme chaperone HemW (cds)
+ID 8: trkA: Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain (cds)
+ID 9: trnW: tRNA-Trp(cca) (tRNA)
+ID 10: zntA: Cation-transporting P-type ATPase (cds)
+ID 11: ycaP: DUF421 domain-containing protein (cds)
+ID 12: glpR: DNA-binding transcriptional regulator of sugar metabolism, DeoR/GlpR family (cds)

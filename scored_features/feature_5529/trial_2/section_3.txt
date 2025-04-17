@@ -1,0 +1,2 @@
+Image 3
+ID 1: DUF1573 domain-containing protein (cds)

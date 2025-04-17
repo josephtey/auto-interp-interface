@@ -1,0 +1,11 @@
+Image 0
+ID 1: AbiEi antitoxin C-terminal domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Peroxidase (cds)
+ID 4: fusA: elongation factor G (cds)
+ID 5: ER-bound oxygenase mpaB/mpaB'/Rubber oxygenase catalytic domain-containing protein (cds)
+ID 6: Carboxymuconolactone decarboxylase (cds)
+ID 7: Cytochrome (cds)
+ID 8: UPF0310 protein BST21_02750 (cds)
+ID 9: purH: bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (cds)
+ID 10: cysQ: 3'(2'),5'-bisphosphate nucleotidase CysQ (cds)

@@ -1,0 +1,11 @@
+Image 4
+ID 1: recR: recombination mediator RecR (cds)
+ID 2: Isoleucyl-tRNA synthetase (cds)
+ID 3: DUF481 domain-containing protein (cds)
+ID 4: GNAT family N-acetyltransferase (cds)
+ID 5: Beta-lactamase-inhibitor-like PepSY-like domain-containing protein (cds)
+ID 6: ATPase F1 subunit delta/epsilon subunit (cds)
+ID 7: gldL: Gliding motility-associated protein GldL (cds)
+ID 8: hypothetical protein (cds)
+ID 9: chalcone isomerase family protein (cds)
+ID 10: rpsR: 30S ribosomal protein S18 (cds)

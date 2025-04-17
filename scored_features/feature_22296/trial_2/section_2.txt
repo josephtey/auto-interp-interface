@@ -1,0 +1,11 @@
+Image 2
+ID 1: flgI: Flagellar basal body P-ring protein FlgI (cds)
+ID 2: tsaD: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD (cds)
+ID 3: msrA: Peptide methionine sulfoxide reductase MsrA (cds)
+ID 4: MFS transporter permease (cds)
+ID 5: ibpA: Small heat shock protein IbpA, HSP20 family (cds)
+ID 6: Uncharacterized conserved protein (cds)
+ID 7: DNA segregation ATPase FtsK/SpoIIIE and related protein (cds)
+ID 8: iorA: TPP-dependent indolepyruvate ferredoxin oxidoreductase, alpha subunit (cds)
+ID 9: DUF4390 domain-containing protein (cds)
+ID 10: ABC-type sulfate transport system, periplasmic component (cds)

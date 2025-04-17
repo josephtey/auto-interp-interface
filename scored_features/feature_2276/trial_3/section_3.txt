@@ -1,0 +1,7 @@
+Image 3
+ID 1: Phosphate-selective porin O and P (cds)
+ID 2: Prepilin-type N-terminal cleavage/methylation domain-containing protein (cds)
+ID 3: lpdA: dihydrolipoyl dehydrogenase (cds)
+ID 4: Periplasmic protein (cds)
+ID 5: DNA-directed RNA polymerase specialized sigma subunit, sigma24 (cds)
+ID 6: non-specific serine/threonine protein kinase (cds)

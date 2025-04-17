@@ -1,0 +1,10 @@
+Image 3
+ID 1: trnD: tRNA-Asp(gtc) (tRNA)
+ID 2: slyD: peptidylprolyl isomerase (cds)
+ID 3: rlmE: 23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE (cds)
+ID 4: Acetyltransferase, GNAT family (cds)
+ID 5: rimK: 30S ribosomal protein S6--L-glutamate ligase (cds)
+ID 6: sucD: succinate--CoA ligase subunit alpha (cds)
+ID 7: Succinyl-CoA:coenzyme A transferase (cds)
+ID 8: fis: DNA-binding transcriptional regulator Fis (cds)
+ID 9: Aldehyde dehydrogenase (NAD(+)) (cds)

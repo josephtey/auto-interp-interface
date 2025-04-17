@@ -1,0 +1,9 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: serine hydrolase domain-containing protein (cds)
+ID 3: thrC: threonine synthase (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: DUF2490 domain-containing protein (cds)
+ID 6: HAMP domain-containing sensor histidine kinase (cds)
+ID 7: Galactowaldenase (cds)
+ID 8: metallophosphoesterase family protein (cds)

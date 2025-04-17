@@ -1,0 +1,13 @@
+Image 1
+ID 1: pTR2: Dipeptide/tripeptide permease (cds)
+ID 2: glyA: Serine hydroxymethyltransferase (cds)
+ID 3: norM: Na+-driven multidrug efflux pump, DinF/NorM/MATE family (cds)
+ID 4: Alpha/beta hydrolase (cds)
+ID 5: pseH: UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase (cds)
+ID 6: Electron transfer flavoprotein alpha-subunit (cds)
+ID 7: guaB: IMP dehydrogenase (cds)
+ID 8: Cytosol aminopeptidase (cds)
+ID 9: ndk: nucleoside-diphosphate kinase (cds)
+ID 10: rlhA: 23S rRNA C2501 and tRNA U34 5'-hydroxylation protein RlhA/YrrN/YrrO, U32 peptidase family (cds)
+ID 11: lolC: ABC-type transport system involved in lipoprotein release, permease component LolC (cds)
+ID 12: tatD: 3'->5' ssDNA/RNA exonuclease TatD (cds)

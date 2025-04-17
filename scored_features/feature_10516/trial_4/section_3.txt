@@ -1,0 +1,13 @@
+Image 3
+ID 1: DUF1501 domain-containing protein (cds)
+ID 2: ulaE: L-ribulose-5-phosphate 3-epimerase UlaE (cds)
+ID 3: hypothetical protein (cds)
+ID 4: NHL repeat protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Type II secretion system protein G (cds)
+ID 7: irrE: IrrE N-terminal-like domain-containing protein (cds)
+ID 8: ygaP: Inner membrane protein YgaP (cds)
+ID 9: Secreted protein (cds)
+ID 10: GH10 domain-containing protein (cds)
+ID 11: hypothetical protein (cds)
+ID 12: Arylsulfatase (cds)

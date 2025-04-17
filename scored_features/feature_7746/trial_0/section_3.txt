@@ -1,0 +1,10 @@
+Image 3
+ID 1: PPOX class putative F420-dependent enzyme (cds)
+ID 2: Transport permease protein (cds)
+ID 3: 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (cds)
+ID 4: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 5: yaeQ: Uncharacterized conserved protein YaeQ, suppresses RfaH defect (cds)
+ID 6: Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain (cds)
+ID 7: DNA-binding protein (cds)
+ID 8: Putative secreted protein (cds)
+ID 9: Virulence factor Mce family protein (cds)

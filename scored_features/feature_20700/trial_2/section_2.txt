@@ -1,0 +1,13 @@
+Image 2
+ID 1: gatA: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA (cds)
+ID 2: NADH-quinone oxidoreductase subunit D (cds)
+ID 3: NADH-quinone oxidoreductase subunit J (cds)
+ID 4: trnS: tRNA-Ser(gga) (tRNA)
+ID 5: ATP-dependent Clp protease proteolytic subunit (cds)
+ID 6: rplW: 50S ribosomal protein L23 (cds)
+ID 7: rpsP: 30S ribosomal protein S16 (cds)
+ID 8: tsaB: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB (cds)
+ID 9: rplI: 50S ribosomal protein L9 (cds)
+ID 10: pdxH: pyridoxamine 5'-phosphate oxidase (cds)
+ID 11: ABC transporter (cds)
+ID 12: ybeY: rRNA maturation RNase YbeY (cds)

@@ -1,0 +1,8 @@
+ID 1: Na+/H+ antiporter NhaC-like C-terminal domain-containing protein (cds)
+ID 2: rplR: 50S ribosomal protein L18 (cds)
+ID 3: tnpC: Transposase TnpC homeodomain domain-containing protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: Copper amine oxidase (cds)
+ID 6: Methyl-accepting chemotaxis protein (cds)
+ID 7: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 8: Peptidase S41 (cds)

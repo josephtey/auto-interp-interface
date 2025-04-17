@@ -1,0 +1,12 @@
+Image 2
+ID 1: malT: HTH-type transcriptional regulator MalT (cds)
+ID 2: ghoS: type V toxin-antitoxin system endoribonuclease antitoxin GhoS (cds)
+ID 3: hypothetical protein (cds)
+ID 4: gsiB: General stress protein YciG, contains tandem KGG domains (cds)
+ID 5: higB: Plasmid maintenance system killer protein (cds)
+ID 6: gsiB: General stress protein YciG, contains tandem KGG domains (cds)
+ID 7: lpfB: LpfB protein (cds)
+ID 8: pyrH: UMP kinase (cds)
+ID 9: carB: carbamoyl-phosphate synthase large subunit (cds)
+ID 10: sok: sok antitoxin (CssrC) (ncRNA)
+ID 11: Calcineurin-like phosphoesterase domain-containing protein (cds)

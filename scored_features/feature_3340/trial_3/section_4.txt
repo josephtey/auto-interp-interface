@@ -1,0 +1,4 @@
+Image 4
+Organism: Unknown organism
+ID 1: trnP: tRNA-Pro(tgg) (tRNA)
+ID 2: recQ: ATP-dependent DNA helicase, RecQ family (cds)

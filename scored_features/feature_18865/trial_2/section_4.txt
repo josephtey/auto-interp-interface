@@ -1,0 +1,13 @@
+Image 4
+ID 1: F0F1 ATP synthase subunit epsilon (cds)
+ID 2: tsf: translation elongation factor Ts (cds)
+ID 3: trnS: tRNA-Ser(gga) (tRNA)
+ID 4: dapD: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (cds)
+ID 5: Anthranilate/para-aminobenzoate synthases component I (cds)
+ID 6: kdsC: 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC (cds)
+ID 7: trnL: tRNA-Leu(tag) (tRNA)
+ID 8: Major facilitator transporter (cds)
+ID 9: folP: dihydropteroate synthase (cds)
+ID 10: NifU-like protein (cds)
+ID 11: RNA-binding protein (cds)
+ID 12: 3'-5' exonuclease (cds)

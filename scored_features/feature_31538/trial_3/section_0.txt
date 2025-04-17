@@ -1,0 +1,10 @@
+Image 0
+ID 1: fhaB: FHA domain-containing protein FhaB (cds)
+ID 2: HTH tetR-type domain-containing protein (cds)
+ID 3: DUF1877 domain-containing protein (cds)
+ID 4: Cullin, a subunit of E3 ubiquitin ligase (cds)
+ID 5: Conserved Mce associated membrane protein (cds)
+ID 6: PE-PPE domain-containing protein (cds)
+ID 7: ruvB: Holliday junction branch migration DNA helicase RuvB (cds)
+ID 8: DEAD/DEAH box helicase (cds)
+ID 9: hrpA: ATP-dependent RNA helicase HrpA (cds)

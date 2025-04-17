@@ -1,0 +1,13 @@
+Image 4
+ID 1: DUF2892 domain-containing protein (cds)
+ID 2: trnL: tRNA-Leu(tag) (tRNA)
+ID 3: recX: recombination regulator RecX (cds)
+ID 4: ftsK: DNA translocase FtsK (cds)
+ID 5: mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase (cds)
+ID 6: tpx: thiol peroxidase (cds)
+ID 7: trnV: tRNA-Val(tac) (tRNA)
+ID 8: rplX: 50S ribosomal protein L24 (cds)
+ID 9: xanthine phosphoribosyltransferase (cds)
+ID 10: PTS sugar transporter subunit IIC (cds)
+ID 11: DUF2187 domain-containing protein (cds)
+ID 12: Potassium transporter (cds)

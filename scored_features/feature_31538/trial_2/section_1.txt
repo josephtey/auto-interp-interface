@@ -1,0 +1,8 @@
+Image 1
+ID 1: ureF: Urease accessory protein UreF (cds)
+ID 2: uspA: Nucleotide-binding universal stress protein, UspA family (cds)
+ID 3: cheY: CheY-like REC (receiver) domain, includes chemotaxis protein CheY and sporulation regulator Spo0F (cds)
+ID 4: CRISPR spacer, sequence CGTGAAAACTTCGCTCATGCTGCGTCCCGTAGGCGG (crispr-spacer)
+ID 5: Bifunctional DNase/RNase (cds)
+ID 6: sdaA: L-serine ammonia-lyase (cds)
+ID 7: PepSY domain-containing protein (cds)

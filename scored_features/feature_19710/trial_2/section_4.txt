@@ -1,0 +1,9 @@
+Image 4
+ID 1: Binding-protein-dependent transport systems inner membrane component (cds)
+ID 2: rfbB: dTDP-glucose 4,6-dehydratase (cds)
+ID 3: yhcF: DNA-binding transcriptional regulator YhcF, GntR family (cds)
+ID 4: T-box leader (ncRNA-region)
+ID 5: T-box leader (ncRNA-region)
+ID 6: HlyC/CorC family transporter (cds)
+ID 7: Energy-coupling factor transport system substrate-specific component (cds)
+ID 8: ABC transporter related protein (cds)

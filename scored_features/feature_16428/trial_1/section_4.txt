@@ -1,0 +1,8 @@
+Image 4
+ID 1: Formate dehydrogenase H (cds)
+ID 2: nhaR: transcriptional activator NhaR (cds)
+ID 3: glnP: glutamine ABC transporter permease GlnP (cds)
+ID 4: rimJ: ribosomal protein S5-alanine N-acetyltransferase (cds)
+ID 5: Zn-dependent oxidoreductase (cds)
+ID 6: DUF202 domain-containing protein (cds)
+ID 7: GDP-mannose mannosyl hydrolase (cds)

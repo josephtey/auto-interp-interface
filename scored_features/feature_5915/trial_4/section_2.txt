@@ -1,0 +1,13 @@
+Image 2
+ID 1: plsC: 1-acyl-sn-glycerol-3-phosphate acyltransferase (cds)
+ID 2: yohJ: Putative effector of murein hydrolase LrgA, UPF0299 family (cds)
+ID 3: Glycoside hydrolase (cds)
+ID 4: plsC: 1-acyl-sn-glycerol-3-phosphate acyltransferase (cds)
+ID 5: fepA: Outer membrane receptor for ferrienterochelin and colicins (cds)
+ID 6: metH: methionine synthase (cds)
+ID 7: Acetyltransferase GNAT family (cds)
+ID 8: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 9: sbsA: SbsA Ig-like domain-containing protein (cds)
+ID 10: tolC: Outer membrane protein TolC (cds)
+ID 11: nadK: NAD kinase (cds)
+ID 12: Heavy metal-associated protein (cds)

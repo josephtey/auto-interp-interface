@@ -1,0 +1,11 @@
+Image 0
+ID 1: DUF1489 domain-containing protein (cds)
+ID 2: Cold-shock protein (cds)
+ID 3: trnA: tRNA-Ala(tgc) (tRNA)
+ID 4: Alpha/beta hydrolase (cds)
+ID 5: Prolyl oligopeptidase family serine peptidase (cds)
+ID 6: cpaE: Pilus assembly protein CpaE (cds)
+ID 7: Cold-shock protein (cds)
+ID 8: Amidohydrolase (cds)
+ID 9: marR: MarR family transcriptional regulator (cds)
+ID 10: murC: UDP-N-acetylmuramate--L-alanine ligase (cds)

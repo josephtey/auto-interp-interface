@@ -1,0 +1,6 @@
+Image 0
+Organism: Georhizobium profundi (a-proteobacteria)
+ID 1: hemC: hydroxymethylbilane synthase (cds)
+ID 2: Acyl-CoA dehydrogenase (cds)
+ID 3: Diguanylate cyclase (cds)
+ID 4: cystathionine beta-lyase (cds)

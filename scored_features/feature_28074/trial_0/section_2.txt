@@ -1,0 +1,12 @@
+Image 2
+ID 1: DUF2179 domain-containing protein (cds)
+ID 2: Transcriptional regulator (cds)
+ID 3: yedF: sulfurtransferase-like selenium metabolism protein YedF (cds)
+ID 4: Dienelactone hydrolase (cds)
+ID 5: dapF: diaminopimelate epimerase (cds)
+ID 6: Ger(X)C family spore germination protein (cds)
+ID 7: Copper amine oxidase-like N-terminal domain-containing protein (cds)
+ID 8: hemL: glutamate-1-semialdehyde 2,1-aminomutase (cds)
+ID 9: gltX: glutamate--tRNA ligase (cds)
+ID 10: DUF2768 domain-containing protein (cds)
+ID 11: AarF/ABC1/UbiB kinase family protein (cds)

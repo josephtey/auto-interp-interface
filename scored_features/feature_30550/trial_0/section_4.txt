@@ -1,0 +1,13 @@
+Image 4
+ID 1: SMI1-KNR4 cell-wall (cds)
+ID 2: rplR: 50S ribosomal protein L18 (cds)
+ID 3: Hydrophobic/amphiphilic exporter-1, HAE1 family (cds)
+ID 4: thiC: phosphomethylpyrimidine synthase ThiC (cds)
+ID 5: Transport system permease protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Cysteine synthase A/argininosuccinate lyase (cds)
+ID 8: Peptide/nickel transport system permease protein (cds)
+ID 9: spoVB: stage V sporulation protein B (cds)
+ID 10: hypothetical protein (cds)
+ID 11: Glutamate synthase domain-containing protein 2 (cds)
+ID 12: eno: phosphopyruvate hydratase (cds)

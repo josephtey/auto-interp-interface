@@ -1,0 +1,10 @@
+Image 3
+ID 1: pilU: Type IV pilus assembly protein, ATPase PilU (cds)
+ID 2: srmB: Superfamily II DNA and RNA helicase (cds)
+ID 3: slpA: Peptidyl-prolyl cis-trans isomerase, FKBP type (cds)
+ID 4: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 5: tango2: Uncharacterized stress-responsive protein, TANGO2 (Transport and Golgi organisation 2) family, contains NRDE motif (cds)
+ID 6: moaE: Molybdopterin synthase catalytic subunit MoaE (cds)
+ID 7: tsaC: L-threonylcarbamoyladenylate synthase (cds)
+ID 8: hDGYP: HD-GYP domain, c-di-GMP phosphodiesterase class II (or its inactivated variant) (cds)
+ID 9: purB: adenylosuccinate lyase (cds)

@@ -1,0 +1,13 @@
+Image 4
+ID 1: cysQ: 3'(2'),5'-bisphosphate nucleotidase CysQ (cds)
+ID 2: Hydrolase, carbon-nitrogen family (cds)
+ID 3: DUF304 domain-containing protein (cds)
+ID 4: Major outer membrane protein P-IB (cds)
+ID 5: DUF2062 domain-containing protein (cds)
+ID 6: Zinc carboxypeptidase domain protein (cds)
+ID 7: serC: 3-phosphoserine/phosphohydroxythreonine transaminase (cds)
+ID 8: Glycine cleavage system transcriptional repressor (cds)
+ID 9: NADP-dependent isocitrate dehydrogenase (cds)
+ID 10: DUF2884 domain-containing protein (cds)
+ID 11: DUF4405 domain-containing protein (cds)
+ID 12: prpB: methylisocitrate lyase (cds)

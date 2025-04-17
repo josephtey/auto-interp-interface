@@ -1,0 +1,13 @@
+Image 0
+ID 1: DUF3300 domain-containing protein (cds)
+ID 2: Type I restriction enzyme endonuclease subunit (cds)
+ID 3: DUF1761 domain-containing protein (cds)
+ID 4: Putative nucleic acid-binding protein, contains PIN domain (cds)
+ID 5: Heparan-alpha-glucosaminide N-acetyltransferase catalytic domain-containing protein (cds)
+ID 6: DUF5362 domain-containing protein (cds)
+ID 7: susC: TonB-dependent receptor SusC (cds)
+ID 8: LamG-like jellyroll fold domain-containing protein (cds)
+ID 9: DUF2147 domain-containing protein (cds)
+ID 10: Cold-shock protein (cds)
+ID 11: Peptidase family M23 (cds)
+ID 12: BsSco (cds)

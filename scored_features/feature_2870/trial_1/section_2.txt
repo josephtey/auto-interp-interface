@@ -1,0 +1,13 @@
+Image 2
+ID 1: rpsJ: 30S ribosomal protein S10 (cds)
+ID 2: Lipoprotein (cds)
+ID 3: metN: Methionine import ATP-binding protein MetN (cds)
+ID 4: Histone deacetylase-like amidohydrolase (cds)
+ID 5: histidine kinase (cds)
+ID 6: vspR: Transcriptional regulator VspR (cds)
+ID 7: Putative ammonia monooxygenase (cds)
+ID 8: fliS: flagellar export chaperone FliS (cds)
+ID 9: 2,3-dehydroadipyl-CoA hydratase (cds)
+ID 10: Methyl-accepting chemotaxis protein IV (cds)
+ID 11: yhbY: ribosome assembly RNA-binding protein YhbY (cds)
+ID 12: gap (gap)

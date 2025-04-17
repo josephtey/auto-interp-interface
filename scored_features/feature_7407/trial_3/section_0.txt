@@ -1,0 +1,11 @@
+Image 0
+ID 1: soxD: Sarcosine oxidase delta subunit (cds)
+ID 2: hypothetical protein (cds)
+ID 3: mltB: Membrane-bound lytic murein transglycosylase B (cds)
+ID 4: zwf: glucose-6-phosphate dehydrogenase (cds)
+ID 5: aes: Acetyl esterase/lipase (cds)
+ID 6: aspA: aspartate ammonia-lyase (cds)
+ID 7: dadA: Glycine/D-amino acid oxidase (deaminating) (cds)
+ID 8: gatA: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA (cds)
+ID 9: Chorismate synthase (cds)
+ID 10: natB: ABC-type Na+ efflux pump, permease component NatB (cds)

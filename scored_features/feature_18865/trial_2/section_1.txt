@@ -1,0 +1,9 @@
+Image 1
+ID 1: thymidine kinase (cds)
+ID 2: Lipoprotein (cds)
+ID 3: 6-bladed beta-propeller (cds)
+ID 4: Lipoprotein (cds)
+ID 5: miaB: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB (cds)
+ID 6: hypothetical protein (cds)
+ID 7: fabH: 3-oxoacyl-[acyl-carrier-protein] synthase III (cds)
+ID 8: BlaI/MecI/CopY family transcriptional regulator (cds)

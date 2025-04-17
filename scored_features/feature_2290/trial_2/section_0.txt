@@ -1,0 +1,9 @@
+Image 0
+ID 1: yiaY: L-threonine dehydrogenase (cds)
+ID 2: lCB5: Phosphatidylglycerol kinase, diacylglycerol kinase family (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: aroA: 3-phosphoshikimate 1-carboxyvinyltransferase (cds)
+ID 5: Mutator family transposase (cds)
+ID 6: acpP: Acyl carrier protein (cds)
+ID 7: lpxD: UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase (cds)
+ID 8: mnhE: Multisubunit Na+/H+ antiporter, MnhE subunit (cds)

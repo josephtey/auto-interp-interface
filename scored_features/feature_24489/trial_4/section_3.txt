@@ -1,0 +1,10 @@
+Image 3
+ID 1: NAD(P)H-quinone oxidoreductase (cds)
+ID 2: DUF2721 domain-containing protein (cds)
+ID 3: High-affinity choline transport protein (cds)
+ID 4: Ppx/GppA phosphatase (cds)
+ID 5: rluB: 23S rRNA pseudouridine(2605) synthase RluB (cds)
+ID 6: xseB: exodeoxyribonuclease VII small subunit (cds)
+ID 7: adrA: Putative diguanylate cyclase AdrA (cds)
+ID 8: sce7726 family protein (cds)
+ID 9: hypothetical protein (cds)

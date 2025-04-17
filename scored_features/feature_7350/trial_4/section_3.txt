@@ -1,0 +1,10 @@
+Image 3
+ID 1: histidine kinase (cds)
+ID 2: Chitinase C (cds)
+ID 3: Barstar (barnase inhibitor) domain-containing protein (cds)
+ID 4: trnC: tRNA-Cys(gca) (tRNA)
+ID 5: Amino acid/peptide transporter family protein (cds)
+ID 6: rpmI: 50S ribosomal protein L35 (cds)
+ID 7: Abortive phage infection protein (cds)
+ID 8: phosphoglycolate phosphatase (cds)
+ID 9: CHRD domain-containing protein (cds)

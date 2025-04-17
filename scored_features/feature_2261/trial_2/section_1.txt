@@ -1,0 +1,11 @@
+Image 1
+ID 1: hemL: glutamate-1-semialdehyde 2,1-aminomutase (cds)
+ID 2: rpoD: RNA polymerase sigma factor (cds)
+ID 3: rfbB: dTDP-glucose 4,6-dehydratase (cds)
+ID 4: AMP-dependent synthetase and ligase (cds)
+ID 5: Prephenate dehydrogenase (cds)
+ID 6: CoA-binding (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: DUF3117 domain-containing protein (cds)
+ID 10: ABC transporter (cds)

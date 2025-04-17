@@ -1,0 +1,9 @@
+Image 2
+ID 1: cynT: Carbonic anhydrase (cds)
+ID 2: xth: exodeoxyribonuclease III (cds)
+ID 3: cBS: CBS domain (cds)
+ID 4: Lipoprotein (cds)
+ID 5: motA: Flagellar motor component MotA (cds)
+ID 6: acrB: Multidrug efflux pump subunit AcrB (cds)
+ID 7: Fumarate reductase respiratory complex transmembrane subunit (cds)
+ID 8: pilW: Type IV pilus assembly protein PilW (cds)

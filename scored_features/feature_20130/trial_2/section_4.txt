@@ -1,0 +1,9 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: Glutamine cyclotransferase (cds)
+ID 3: rsmA: 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA (cds)
+ID 4: RES domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: DUF2157 domain-containing protein (cds)
+ID 8: hypothetical protein (cds)

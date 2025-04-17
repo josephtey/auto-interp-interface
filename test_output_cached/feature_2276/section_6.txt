@@ -1,0 +1,6 @@
+ID 1: cysS: cysteine--tRNA ligase (cds)
+ID 2: uvrD: Superfamily I DNA or RNA helicase (cds)
+ID 3: rplP: 50S ribosomal protein L16 (cds)
+ID 4: prmC: peptide chain release factor N(5)-glutamine methyltransferase (cds)
+ID 5: ald: alanine dehydrogenase (cds)
+ID 6: nadK: NAD kinase (cds)

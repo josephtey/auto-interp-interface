@@ -1,0 +1,10 @@
+Image 4
+ID 1: folE: GTP cyclohydrolase I FolE (cds)
+ID 2: beta-ketoacyl-ACP synthase (cds)
+ID 3: Dipeptidyl-peptidase IV Serine peptidase MEROPS family S09B (cds)
+ID 4: Alkaline phosphatase (cds)
+ID 5: Aromatic amino acid permease (cds)
+ID 6: M48 family metallopeptidase (cds)
+ID 7: pabB: aminodeoxychorismate synthase component I (cds)
+ID 8: mscS: MscS Mechanosensitive ion channel (cds)
+ID 9: rpmF: 50S ribosomal protein L32 (cds)

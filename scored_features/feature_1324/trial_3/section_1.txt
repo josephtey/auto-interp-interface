@@ -1,0 +1,12 @@
+Image 1
+ID 1: rplI: 50S ribosomal protein L9 (cds)
+ID 2: Thioredoxin-disulfide reductase (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: tadB: Pilus assembly protein TadB (cds)
+ID 5: Enterocin A Immunity (cds)
+ID 6: ABC transporter permease (cds)
+ID 7: Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit (cds)
+ID 8: TIGR03936 family radical SAM-associated protein (cds)
+ID 9: Antitoxin Phd (cds)
+ID 10: tnp: IS256 family ISCth5 transposase (cds)
+ID 11: yycF: response regulator YycF (cds)

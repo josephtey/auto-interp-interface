@@ -1,0 +1,10 @@
+Image 2
+ID 1: insF: Transposase InsF for insertion sequence IS3 (cds)
+ID 2: PQQ-dependent dehydrogenase, methanol/ethanol family (cds)
+ID 3: lpxL: LpxL/LpxP family Kdo(2)-lipid IV(A) lauroyl/palmitoleoyl acyltransferase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: ALIL pseudoknot (ncRNA-region)
+ID 6: nagZ: beta-N-acetylhexosaminidase (cds)
+ID 7: RES domain-containing protein (cds)
+ID 8: trnR: tRNA-Arg(acg) (tRNA)
+ID 9: hypothetical protein (cds)

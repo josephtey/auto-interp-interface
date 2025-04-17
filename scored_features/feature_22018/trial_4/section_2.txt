@@ -1,0 +1,10 @@
+Image 2
+ID 1: Arginine deiminase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Alkene reductase (cds)
+ID 4: Filamentous haemagglutinin FhaB/tRNA nuclease CdiA-like TPS domain-containing protein (cds)
+ID 5: clpX: ATP-dependent Clp protease ATP-binding subunit ClpX (cds)
+ID 6: Thiazole synthase (cds)
+ID 7: deoR: DeoR family transcriptional regulator (cds)
+ID 8: Lysophospholipase (cds)
+ID 9: histidine kinase (cds)

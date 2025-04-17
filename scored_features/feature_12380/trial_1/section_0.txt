@@ -1,0 +1,11 @@
+Image 0
+ID 1: Anti-sigma factor antagonist (cds)
+ID 2: Hydrolase (cds)
+ID 3: metG: methionine--tRNA ligase (cds)
+ID 4: Acyl-CoA dehydrogenase (cds)
+ID 5: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 6: SDR family oxidoreductase (cds)
+ID 7: Hydrogenase maturation protease (cds)
+ID 8: O-succinylhomoserine sulfhydrylase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: tetR: TetR family transcriptional regulator (cds)

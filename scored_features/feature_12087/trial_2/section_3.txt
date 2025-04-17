@@ -1,0 +1,9 @@
+Image 3
+ID 1: trnN: tRNA-Asn(gtt) (tRNA)
+ID 2: nth: endonuclease III (cds)
+ID 3: lysR: LysR family transcriptional regulator (cds)
+ID 4: Phage protein (cds)
+ID 5: Transposase (cds)
+ID 6: 6-phosphogluconolactonase (cds)
+ID 7: SnoaL-like domain (cds)
+ID 8: PAP2 family protein (cds)

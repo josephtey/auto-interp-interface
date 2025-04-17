@@ -1,0 +1,11 @@
+Image 0
+ID 1: zipA: cell division protein ZipA (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: tkt: transketolase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: apaH: bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH (cds)
+ID 8: Membrane fusion protein (MFP) family protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

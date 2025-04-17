@@ -1,0 +1,11 @@
+Image 0
+ID 1: adoK: Adenosine kinase AdoK (cds)
+ID 2: folD: bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD (cds)
+ID 3: Alkanesulfonate monooxygenase (cds)
+ID 4: TonB-dependent Receptor Plug domain protein (cds)
+ID 5: DUF1090 domain-containing protein (cds)
+ID 6: trnN: tRNA-Asn(gtt) (tRNA)
+ID 7: Chromosome segregation ATPase (cds)
+ID 8: Rickettsia surface antigen family protein (cds)
+ID 9: xapA: xanthosine phosphorylase (cds)
+ID 10: Patatin-like phospholipase family protein (cds)

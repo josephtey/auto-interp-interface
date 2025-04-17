@@ -1,0 +1,8 @@
+Image 0
+ID 1: M48 family metallopeptidase (cds)
+ID 2: DUF1080 domain-containing protein (cds)
+ID 3: Lipoprotein (cds)
+ID 4: CRISPR spacer, sequence CAGGTGACCAAATTAGTTCTTACACGCTATCAGGAA (crispr-spacer)
+ID 5: Lipoprotein (cds)
+ID 6: WYL domain-containing protein (cds)
+ID 7: lepA: translation elongation factor 4 (cds)

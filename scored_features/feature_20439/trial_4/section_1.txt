@@ -1,0 +1,10 @@
+Image 1
+ID 1: CRISPR spacer, sequence CTCAATATAG (crispr-spacer)
+ID 2: rpoC: DNA-directed RNA polymerase subunit beta' (cds)
+ID 3: urea amidolyase associated protein UAAP2 (cds)
+ID 4: ilvN: acetolactate synthase small subunit (cds)
+ID 5: Tyrosine-type recombinase/integrase (cds)
+ID 6: lpxD: UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase (cds)
+ID 7: rpsP: 30S ribosomal protein S16 (cds)
+ID 8: SgcJ/EcaC family oxidoreductase (cds)
+ID 9: rpe: ribulose-phosphate 3-epimerase (cds)

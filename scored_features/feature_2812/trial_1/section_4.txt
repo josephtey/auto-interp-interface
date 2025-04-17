@@ -1,0 +1,11 @@
+Image 4
+ID 1: amrS: Pyruvate-formate lyase-activating enzyme (cds)
+ID 2: xerC: Site-specific recombinase XerC (cds)
+ID 3: alkP: Arylsulfatase A or related enzyme, AlkP superfamily (cds)
+ID 4: TIGR02677 family protein (cds)
+ID 5: Vesicular transport-associated repeat protein (cds)
+ID 6: CRISPR spacer, sequence GAGGCCTTCTCAACGCGGAACCCGCGCTCGGTCCA (crispr-spacer)
+ID 7: malE: Maltose-binding periplasmic protein MalE (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Lipoprotein (cds)
+ID 10: gstA: Glutathione S-transferase (cds)

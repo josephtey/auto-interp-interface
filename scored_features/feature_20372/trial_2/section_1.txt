@@ -1,0 +1,10 @@
+Image 1
+ID 1: Uncharacterized enzyme of heme biosynthesis (cds)
+ID 2: Chemotaxis protein histidine kinase and related kinase (cds)
+ID 3: nadB: L-aspartate oxidase (cds)
+ID 4: putative nucleic acid-binding protein, contains PIN domain (cds)
+ID 5: leuA: Isopropylmalate/homocitrate/citramalate synthases (cds)
+ID 6: Permease of the major facilitator superfamily (cds)
+ID 7: yaeQ: Uncharacterized conserved protein YaeQ, suppresses RfaH defect (cds)
+ID 8: Uncharacterized conserved protein (cds)
+ID 9: rrl: 23S ribosomal RNA (rRNA)

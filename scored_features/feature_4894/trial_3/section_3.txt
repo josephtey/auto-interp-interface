@@ -1,0 +1,11 @@
+Image 3
+ID 1: Phage protein D (cds)
+ID 2: adhE: bifunctional acetaldehyde-CoA/alcohol dehydrogenase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: GFA family protein (cds)
+ID 5: RNA methyltransferase (cds)
+ID 6: nifA: nif-specific transcriptional activator NifA (cds)
+ID 7: DUF1631 domain-containing protein (cds)
+ID 8: TIGR00266 family protein (cds)
+ID 9: transglycosylase domain-containing protein (cds)
+ID 10: dusA: tRNA dihydrouridine(20/20a) synthase DusA (cds)

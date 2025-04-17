@@ -1,0 +1,12 @@
+Image 2
+ID 1: hadA: (3R)-hydroxyacyl-ACP dehydratase subunit HadA (cds)
+ID 2: padR: DNA-binding transcriptional regulator, PadR family (cds)
+ID 3: Gas vesicle protein (cds)
+ID 4: Mce-associated membrane protein (cds)
+ID 5: Integral membrane protein (cds)
+ID 6: rimM: ribosome maturation factor RimM (cds)
+ID 7: wzb: Protein-tyrosine-phosphatase (cds)
+ID 8: fadR: DNA-binding transcriptional regulator, FadR family (cds)
+ID 9: dnaJ: molecular chaperone DnaJ (cds)
+ID 10: Restriction endonuclease (cds)
+ID 11: MinD-like ATPase involved in chromosome partitioning or flagellar assembly (cds)

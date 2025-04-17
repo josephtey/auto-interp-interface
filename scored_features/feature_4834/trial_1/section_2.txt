@@ -1,0 +1,12 @@
+Image 2
+ID 1: ureE: urease accessory protein UreE (cds)
+ID 2: hypothetical protein (cds)
+ID 3: monovalent cation:proton antiporter family protein (cds)
+ID 4: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 5: porin (cds)
+ID 6: acnB: bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase (cds)
+ID 7: nifZ: Nitrogen fixation protein NifZ (cds)
+ID 8: AI-2E family transporter (cds)
+ID 9: Branched-chain amino acid transport system substrate-binding protein (cds)
+ID 10: pilM: Type IV pilus assembly protein PilM (cds)
+ID 11: response regulator transcription factor (cds)

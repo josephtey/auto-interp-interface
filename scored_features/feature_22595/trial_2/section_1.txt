@@ -1,0 +1,11 @@
+Image 1
+Organism: Kroppenstedtia eburnea (firmicutes)
+ID 1: Replication-relaxation (cds)
+ID 2: rpsE: 30S ribosomal protein S5 (cds)
+ID 3: S-(Hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase (cds)
+ID 4: putative thioesterase (cds)
+ID 5: aspartate kinase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: aspartate carbamoyltransferase catalytic subunit (cds)
+ID 8: Mutator family transposase (cds)
+ID 9: hypothetical protein (cds)

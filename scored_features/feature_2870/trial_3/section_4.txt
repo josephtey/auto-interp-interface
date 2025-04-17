@@ -1,0 +1,12 @@
+Image 4
+ID 1: non-specific serine/threonine protein kinase (cds)
+ID 2: aceE: pyruvate dehydrogenase (acetyl-transferring), homodimeric type (cds)
+ID 3: WYL domain-containing protein (cds)
+ID 4: acnR: HTH-type transcriptional repressor AcnR (cds)
+ID 5: Inner membrane protein alx (cds)
+ID 6: TspO/MBR family protein (cds)
+ID 7: hcaR: DNA-binding transcriptional regulator HcaR (cds)
+ID 8: mglA: Galactose/methyl galactoside import ATP-binding protein MglA (cds)
+ID 9: yfiY: Putative siderophore-binding lipoprotein YfiY (cds)
+ID 10: aspartate-semialdehyde dehydrogenase (cds)
+ID 11: recR: recombination mediator RecR (cds)

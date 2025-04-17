@@ -1,0 +1,12 @@
+Image 4
+ID 1: Glycosyl transferase, group 2 family protein (cds)
+ID 2: eMpr: V8-like Glu-specific endopeptidase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: tauB: ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component (cds)
+ID 5: ykgO: type B 50S ribosomal protein L36 (cds)
+ID 6: hypothetical protein (cds)
+ID 7: lys9: Saccharopine dehydrogenase, NADP-dependent (cds)
+ID 8: Uncharacterized conserved protein, contains a phytase-like domain (cds)
+ID 9: Argininosuccinate lyase (cds)
+ID 10: TRAP transporter small permease protein (cds)
+ID 11: lomR: Opacity protein LomR and related surface antigens (cds)

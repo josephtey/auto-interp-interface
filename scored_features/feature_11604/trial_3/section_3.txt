@@ -1,0 +1,13 @@
+Image 3
+ID 1: Metallophosphoesterase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF3099 domain-containing protein (cds)
+ID 4: FAD dependent oxidoreductase (cds)
+ID 5: murE: UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (cds)
+ID 6: Zn-dependent hydrolase, glyoxylase (cds)
+ID 7: ABC-type multidrug transport system, ATPase component (cds)
+ID 8: Putative restriction endonuclease domain-containing protein (cds)
+ID 9: Thiolase (cds)
+ID 10: Adenylate kinase (cds)
+ID 11: carbamoyl phosphate synthase small subunit (cds)
+ID 12: YbaK/aminoacyl-tRNA synthetase-associated domain-containing protein (cds)

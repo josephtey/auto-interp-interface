@@ -1,0 +1,8 @@
+ID 1: rpmC: 50S ribosomal protein L29 (cds)
+ID 2: prfB: peptide chain release factor 2 (cds)
+ID 3: mltG: Endolytic transglycosylase MltG, terminates peptidoglycan polymerization (cds)
+ID 4: fepD: ABC-type Fe3+-siderophore transport system, permease component (cds)
+ID 5: rdgB: Inosine/xanthosine triphosphate pyrophosphatase, all-alpha NTP-PPase family (cds)
+ID 6: ndk: nucleoside-diphosphate kinase (cds)
+ID 7: trxB: thioredoxin-disulfide reductase (cds)
+ID 8: gloB: hydroxyacylglutathione hydrolase (cds)

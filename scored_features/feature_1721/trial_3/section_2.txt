@@ -1,0 +1,7 @@
+Image 2
+ID 1: Response regulator transcription factor (cds)
+ID 2: fabG: 3-oxoacyl-(Acyl-carrier-protein) reductase FabG (cds)
+ID 3: Histidine phosphatase family protein (cds)
+ID 4: Sugar kinase (cds)
+ID 5: pyrH: UMP kinase (cds)
+ID 6: SDR family oxidoreductase (cds)

@@ -1,0 +1,9 @@
+Image 4
+ID 1: potC: ABC-type spermidine/putrescine transport system, permease component II (cds)
+ID 2: pncA: Nicotinamidase-related amidase (cds)
+ID 3: nrfG: Cytochrome c-type biogenesis protein CcmH/NrfG (cds)
+ID 4: rimM: ribosome maturation factor RimM (cds)
+ID 5: hypothetical protein (cds)
+ID 6: nifQ: NifQ protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: TRAP transporter small permease protein (cds)

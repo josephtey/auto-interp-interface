@@ -1,0 +1,12 @@
+Image 3
+ID 1: cytC5: Cytochrome c5 (cds)
+ID 2: Uncharacterized conserved protein Alr0986 (cds)
+ID 3: cheY: CheY-like REC (receiver) domain, includes chemotaxis protein CheY and sporulation regulator Spo0F (cds)
+ID 4: comEA: DNA uptake protein ComE or related DNA-binding protein (cds)
+ID 5: IS3 family transposase (cds)
+ID 6: Uncharacterized conserved protein, contains a C-terminal ATPase domain (cds)
+ID 7: pgsA: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (cds)
+ID 8: pstA: phosphate ABC transporter permease PstA (cds)
+ID 9: proB: Glutamate 5-kinase (cds)
+ID 10: Histone (cds)
+ID 11: soxR: DNA-binding transcriptional regulator, MerR family (cds)

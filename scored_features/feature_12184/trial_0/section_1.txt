@@ -1,0 +1,10 @@
+Image 1
+ID 1: lpd: Dihydrolipoamide dehydrogenase (E3) component of pyruvate/2-oxoglutarate dehydrogenase complex or glutathione oxidoreductase (cds)
+ID 2: Extra-large guanine nucleotide-binding protein (cds)
+ID 3: scl1: LPXTG-anchored collagen-like adhesin Scl1/SclA (cds)
+ID 4: ndh: NADH dehydrogenase, FAD-containing subunit (cds)
+ID 5: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 6: Nuclear transport factor 2 family protein (cds)
+ID 7: YD repeat-containing protein (cds)
+ID 8: WD40 repeat protein (cds)
+ID 9: pcm: protein-L-isoaspartate(D-aspartate) O-methyltransferase (cds)

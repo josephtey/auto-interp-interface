@@ -1,0 +1,9 @@
+Image 3
+ID 1: CBS-domain-containing membrane protein (cds)
+ID 2: dctM: TRAP-type C4-dicarboxylate transport system, small permease component YiaM (cds)
+ID 3: hypothetical protein (cds)
+ID 4: degV: Fatty acid-binding protein DegV (function unknown) (cds)
+ID 5: rnc: ribonuclease III (cds)
+ID 6: rutF: FMN reductase RutF, DIM6/NTAB family (cds)
+ID 7: ycjR: Sugar phosphate isomerase/epimerase (cds)
+ID 8: gcvPA: aminomethyl-transferring glycine dehydrogenase subunit GcvPA (cds)

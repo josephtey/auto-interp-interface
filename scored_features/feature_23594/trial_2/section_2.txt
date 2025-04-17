@@ -1,0 +1,12 @@
+Image 2
+ID 1: Iron transporter (cds)
+ID 2: altronate dehydratase family protein (cds)
+ID 3: rho: transcription termination factor Rho (cds)
+ID 4: acyl-CoA desaturase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: fasciclin domain-containing protein (cds)
+ID 7: lruC: LruC domain-containing protein (cds)
+ID 8: DUF5017 domain-containing protein (cds)
+ID 9: prokaryotic E2 ligase family D protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hypothetical protein (cds)

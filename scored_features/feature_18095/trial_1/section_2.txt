@@ -1,0 +1,2 @@
+Image 2
+ID 1: dnaK: molecular chaperone DnaK (cds)

@@ -1,0 +1,10 @@
+Image 0
+ID 1: ycnE: Putative monooxygenase YcnE (cds)
+ID 2: cysZ: sulfate transporter CysZ (cds)
+ID 3: csrA: carbon storage regulator CsrA (cds)
+ID 4: ppsC: Phthiocerol synthesis polyketide synthase type I PpsC (cds)
+ID 5: cdhR: HTH-type transcriptional regulator CdhR (cds)
+ID 6: DUF3077 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: multicopper oxidase domain-containing protein (cds)
+ID 9: flgN: Flagella synthesis protein FlgN (cds)

@@ -1,0 +1,12 @@
+Image 3
+ID 1: trnP: tRNA-Pro(tgg) (tRNA)
+ID 2: tuf: elongation factor Tu (cds)
+ID 3: rsmC: 16S rRNA G1207 methylase RsmC (cds)
+ID 4: pulO: Prepilin signal peptidase PulO (type II secretory pathway) or related peptidase (cds)
+ID 5: yrzE: DUF3792 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: ylmC: Sporulation protein YlmC, YlmC/YmxH family, contains PRC-barrel domain (cds)
+ID 9: SLH domain-containing protein (cds)
+ID 10: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 11: yxiS: YxiS (cds)

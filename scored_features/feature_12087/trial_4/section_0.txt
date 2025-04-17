@@ -1,0 +1,10 @@
+Image 0
+ID 1: rplA: 50S ribosomal protein L1 (cds)
+ID 2: Putative transcription regulator (cds)
+ID 3: coaBC: bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC (cds)
+ID 4: Secreted protein (cds)
+ID 5: Membrane-associated protein (cds)
+ID 6: rrs: 16S ribosomal RNA (rRNA)
+ID 7: diaminopimelate dehydrogenase (cds)
+ID 8: pknG: Putative serine/threonine-protein kinase PknG (cds)
+ID 9: Voltage-dependent anion channel (cds)

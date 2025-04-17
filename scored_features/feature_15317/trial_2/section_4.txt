@@ -1,0 +1,13 @@
+Image 4
+ID 1: trnI: tRNA-Ile(gat) (tRNA)
+ID 2: DUF6468 domain-containing protein (cds)
+ID 3: Signal transduction histidine kinase (cds)
+ID 4: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)
+ID 5: paaD: Metal-sulfur cluster biosynthetic enzyme (cds)
+ID 6: speE: polyamine aminopropyltransferase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family (cds)
+ID 9: pucG: Archaeal aspartate aminotransferase or a related aminotransferase, includes purine catabolism protein PucG (cds)
+ID 10: PBS lyase HEAT-like repeat (cds)
+ID 11: trnL: tRNA-Leu(cag) (tRNA)
+ID 12: KpsF/GutQ (cds)

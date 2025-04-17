@@ -1,0 +1,12 @@
+Image 4
+ID 1: recF: DNA replication/repair protein RecF (cds)
+ID 2: Virulence protein (cds)
+ID 3: Helix-turn-helix (cds)
+ID 4: lolD: ABC-type lipoprotein export system, ATPase component (cds)
+ID 5: trnR: tRNA-Arg(ccg) (tRNA)
+ID 6: rpsK: 30S ribosomal protein S11 (cds)
+ID 7: trnC: tRNA-Cys(gca) (tRNA)
+ID 8: znuB: ABC-type Mn2+/Zn2+ transport system, permease component (cds)
+ID 9: ileS: isoleucine--tRNA ligase (cds)
+ID 10: ORF6N domain-containing protein (cds)
+ID 11: talA: transaldolase (cds)

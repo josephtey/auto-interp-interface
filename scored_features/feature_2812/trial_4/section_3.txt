@@ -1,0 +1,10 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence CCTGACTCTCAGCAATTCGGCAACTGAATCAGGAG (crispr-spacer)
+ID 6: hypothetical protein (cds)
+ID 7: Sodium:alanine symporter family protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)

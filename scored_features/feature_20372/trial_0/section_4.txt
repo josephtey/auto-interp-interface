@@ -1,0 +1,11 @@
+Image 4
+ID 1: AmmeMemoRadiSam system protein A (cds)
+ID 2: bcp: Peroxiredoxin (cds)
+ID 3: vacB: Exoribonuclease R (cds)
+ID 4: putative membrane transporter protein (cds)
+ID 5: rplR: 50S ribosomal protein L18 (cds)
+ID 6: hypothetical protein (cds)
+ID 7: SPOR domain-containing protein (cds)
+ID 8: menF: Isochorismate synthase EntC (cds)
+ID 9: CRISPR repeat (crispr-repeat)
+ID 10: DUF4942 domain-containing protein (cds)

@@ -1,0 +1,11 @@
+Image 0
+ID 1: ChbG/HpnK family deacetylase (cds)
+ID 2: dedA: DedA family protein (cds)
+ID 3: Polysaccharide biosynthesis tyrosine autokinase (cds)
+ID 4: Flavin reductase family protein (cds)
+ID 5: winged helix-turn-helix domain-containing protein (cds)
+ID 6: Bifunctional (P)ppGpp synthetase/guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase (cds)
+ID 7: DUF1501 domain-containing protein (cds)
+ID 8: Sensor domain-containing diguanylate cyclase (cds)
+ID 9: ubiT: Ubiquinone biosynthesis accessory factor UbiT (cds)
+ID 10: asmA: AsmA family protein (cds)

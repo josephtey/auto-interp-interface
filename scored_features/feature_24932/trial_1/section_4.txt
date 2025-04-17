@@ -1,0 +1,11 @@
+Image 4
+ID 1: coaA: type I pantothenate kinase (cds)
+ID 2: DUF6531 domain-containing protein (cds)
+ID 3: trkA: Trk system potassium uptake protein TrkA (cds)
+ID 4: dut: dUTP diphosphatase (cds)
+ID 5: DUF3093 domain-containing protein (cds)
+ID 6: D-inositol 3-phosphate glycosyltransferase (cds)
+ID 7: whiB: Transcriptional regulator WhiB (cds)
+ID 8: trimeric intracellular cation channel family protein (cds)
+ID 9: cytochrome P450 (cds)
+ID 10: recombinase family protein (cds)

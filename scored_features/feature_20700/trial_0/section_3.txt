@@ -1,0 +1,8 @@
+Image 3
+ID 1: ihfA: integration host factor subunit alpha (cds)
+ID 2: virD4: Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase (cds)
+ID 3: ssb: Single-stranded DNA-binding protein (cds)
+ID 4: aarF: putative protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family (cds)
+ID 5: wrbA: Multimeric flavodoxin WrbA, includes NAD(P)H:quinone oxidoreductase (cds)
+ID 6: aspS: aspartate--tRNA ligase (cds)
+ID 7: trnM: tRNA-Met(cat) (tRNA)

@@ -1,0 +1,13 @@
+Image 2
+ID 1: ctaA: Heme A synthase (cds)
+ID 2: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 3: rpsD: 30S ribosomal protein S4 (cds)
+ID 4: pth: aminoacyl-tRNA hydrolase (cds)
+ID 5: DUF4255 domain-containing protein (cds)
+ID 6: IPExxxVDY family protein (cds)
+ID 7: argE: dipeptidase (cds)
+ID 8: DUF3784 domain-containing protein (cds)
+ID 9: spoU: tRNA G18 (ribose-2'-O)-methylase SpoU (cds)
+ID 10: Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant domain-containing protein (cds)
+ID 11: nhaC: Na+/H+ antiporter NhaC (cds)
+ID 12: rluA: Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific (cds)

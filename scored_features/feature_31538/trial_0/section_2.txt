@@ -1,0 +1,13 @@
+Image 2
+ID 1: rplF: 50S ribosomal protein L6 (cds)
+ID 2: fldA: Flavodoxin (cds)
+ID 3: nhaC: Na+/H+ antiporter NhaC/MleN (cds)
+ID 4: yciV: 5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain (cds)
+ID 5: Dynamin family protein (cds)
+ID 6: ypzJ: putative nucleic-acid-binding protein, contains Zn-ribbon domain (cds)
+ID 7: xynB2: Beta-xylosidase (cds)
+ID 8: dgkA: Diacylglycerol kinase (cds)
+ID 9: hIS2: Histidinol phosphatase or related hydrolase of the PHP family (cds)
+ID 10: Hut operon positive regulatory protein (cds)
+ID 11: rho: transcription termination factor Rho (cds)
+ID 12: rssA: putative acylesterase/phospholipase RssA, containd patatin domain (cds)

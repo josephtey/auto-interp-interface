@@ -1,0 +1,11 @@
+Image 0
+ID 1: Phage minor structural protein, N-terminal region (cds)
+ID 2: fusA: elongation factor G (cds)
+ID 3: hypothetical protein (cds)
+ID 4: YheC/D like ATP-grasp (cds)
+ID 5: ilvB: biosynthetic-type acetolactate synthase large subunit (cds)
+ID 6: histidine kinase (cds)
+ID 7: hslV: ATP-dependent protease subunit HslV (cds)
+ID 8: fadH: 2,4-dienoyl-CoA reductase (cds)
+ID 9: fba: class II fructose-1,6-bisphosphate aldolase (cds)
+ID 10: acetyl-CoA C-acetyltransferase (cds)

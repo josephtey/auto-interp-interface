@@ -1,0 +1,7 @@
+Image 3
+Organism: Jejubacter calystegiae (enterobacteria)
+ID 1: phage portal protein (cds)
+ID 2: trnI: tRNA-Ile(gat) (tRNA)
+ID 3: Alpha/beta hydrolase (cds)
+ID 4: Amidohydrolase (cds)
+ID 5: Transcriptional regulator (cds)

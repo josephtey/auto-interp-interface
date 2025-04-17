@@ -1,0 +1,12 @@
+Image 0
+ID 1: wecC: UDP-N-acetyl-D-mannosaminuronate dehydrogenase (cds)
+ID 2: herA: Archaeal DNA helicase HerA or a related bacterial ATPase, contains HAS-barrel and ATPase domains (cds)
+ID 3: Prophage pi2 protein 40 (cds)
+ID 4: putative transcriptional regulator, contains HTH domain (cds)
+ID 5: fliA: DNA-directed RNA polymerase specialized sigma subunit (cds)
+ID 6: pstC: phosphate ABC transporter permease subunit PstC (cds)
+ID 7: greA: transcription elongation factor GreA (cds)
+ID 8: nit2: Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate (cds)
+ID 9: oadA1: Pyruvate/oxaloacetate carboxyltransferase (cds)
+ID 10: ddaH: N-Dimethylarginine dimethylaminohydrolase (cds)
+ID 11: rrl: (5' truncated) 23S ribosomal RNA (rRNA)

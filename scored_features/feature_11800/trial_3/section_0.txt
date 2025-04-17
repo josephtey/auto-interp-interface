@@ -1,0 +1,11 @@
+Image 0
+ID 1: phosphoglycolate phosphatase (cds)
+ID 2: Yip1 domain-containing protein (cds)
+ID 3: trnN: tRNA-Asn(gtt) (tRNA)
+ID 4: acrB: Multidrug transporter AcrB (cds)
+ID 5: kfrA: KfrA N-terminal DNA-binding domain-containing protein (cds)
+ID 6: exbD: Biopolymer transporter ExbD (cds)
+ID 7: YHYH protein (cds)
+ID 8: Two component transcriptional regulator, winged helix family (cds)
+ID 9: PH domain-containing protein (cds)
+ID 10: dksA: RNA polymerase-binding protein DksA (cds)

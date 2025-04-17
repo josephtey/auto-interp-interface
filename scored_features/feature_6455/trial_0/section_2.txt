@@ -1,0 +1,10 @@
+Image 2
+ID 1: Transglycosylase (cds)
+ID 2: Membrane protein (cds)
+ID 3: Phage tail protein (cds)
+ID 4: ABC transporter ATP-binding protein (cds)
+ID 5: Secreted protein (cds)
+ID 6: lysA: diaminopimelate decarboxylase (cds)
+ID 7: Heavy metal transporter (cds)
+ID 8: VWFA domain-containing protein (cds)
+ID 9: MFS transporter (cds)

@@ -1,0 +1,12 @@
+Image 0
+ID 1: IS110 family transposase (cds)
+ID 2: VWFA domain-containing protein (cds)
+ID 3: Iron complex transport system permease protein (cds)
+ID 4: CRISPR spacer, sequence TAAGCGAAATCTCAATAAAGAAATTCATCCAGGTAC (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: TadE-like protein (cds)
+ID 7: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 8: pdxS: pyridoxal 5'-phosphate synthase lyase subunit PdxS (cds)
+ID 9: Copper amine oxidase-like N-terminal domain-containing protein (cds)
+ID 10: ytrB: ABC transporter ATP-binding protein YtrB (cds)
+ID 11: ruvC: crossover junction endodeoxyribonuclease RuvC (cds)

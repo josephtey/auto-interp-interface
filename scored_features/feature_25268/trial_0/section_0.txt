@@ -1,0 +1,9 @@
+Image 0
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: ATPases involved in chromosome partitioning-like (cds)
+ID 3: Secreted protein (cds)
+ID 4: Transcriptional regulator (cds)
+ID 5: panD: aspartate 1-decarboxylase (cds)
+ID 6: NodB-like y domain-containing protein (cds)
+ID 7: thiamine pyrophosphate-requiring protein (cds)
+ID 8: Coenzyme Q-binding protein COQ10 START domain-containing protein (cds)

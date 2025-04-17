@@ -1,0 +1,8 @@
+Image 3
+ID 1: gndA: NADP-dependent phosphogluconate dehydrogenase (cds)
+ID 2: CRISPR spacer, sequence CCGAATCCCAAATACTACTCATAACATTTTCCTTTC (crispr-spacer)
+ID 3: pyk: pyruvate kinase (cds)
+ID 4: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Ferredoxin (cds)
+ID 7: Next to BRCA1 central domain-containing protein (cds)

@@ -1,0 +1,10 @@
+Image 1
+ID 1: 3-keto-disaccharide hydrolase domain-containing protein (cds)
+ID 2: Beta-ketoacyl-[acyl-carrier-protein] synthase III (cds)
+ID 3: SMI1/KNR4 family protein (cds)
+ID 4: rimO: 30S ribosomal protein S12 methylthiotransferase RimO (cds)
+ID 5: VOC family protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Uroporphyrinogen decarboxylase (cds)
+ID 8: DUF1592 domain-containing protein (cds)
+ID 9: Acyltransferase (cds)

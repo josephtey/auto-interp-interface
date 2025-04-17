@@ -1,0 +1,12 @@
+Image 0
+ID 1: Spermidine/putrescine-binding periplasmic protein (cds)
+ID 2: monovalent cation/H+ antiporter complex subunit F (cds)
+ID 3: sugB: Trehalose transport system permease protein SugB (cds)
+ID 4: Transglycosylase domain-containing protein (cds)
+ID 5: mdh: malate dehydrogenase (cds)
+ID 6: DUF1023 domain-containing protein (cds)
+ID 7: sbm: Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding) (cds)
+ID 8: Dehydrogenase of uncharacterized specificity, short-chain alcohol dehydrogenase like protein (cds)
+ID 9: Aldo/keto reductase (cds)
+ID 10: Nucleoid-associated protein Lsr2 (cds)
+ID 11: Actin-like ATPase involved in cell division (cds)

@@ -1,0 +1,10 @@
+Image 2
+ID 1: Acetyl-CoA acetyltransferase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DNA primase (cds)
+ID 4: Major Facilitator Superfamily protein (cds)
+ID 5: rapZ: RNase adapter RapZ (cds)
+ID 6: TIGR02569 family protein (cds)
+ID 7: DUF304 domain-containing protein (cds)
+ID 8: Error-prone DNA polymerase (cds)
+ID 9: topA: type I DNA topoisomerase (cds)

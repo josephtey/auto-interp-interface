@@ -1,0 +1,13 @@
+Image 2
+Organism: Unknown organism
+ID 1: (S)-ureidoglycine aminohydrolase cupin domain-containing protein (cds)
+ID 2: rpsU: 30S ribosomal protein S21 (cds)
+ID 3: ErfK/YbiS/YcfS/YnhG family protein (cds)
+ID 4: Electron transfer flavoprotein-ubiquinone oxidoreductase (cds)
+ID 5: motA: flagellar motor stator protein MotA (cds)
+ID 6: hypothetical protein (cds)
+ID 7: rnhA: ribonuclease HI (cds)
+ID 8: upp: uracil phosphoribosyltransferase (cds)
+ID 9: TRAP transporter small permease protein (cds)
+ID 10: Putative glucose-6-phosphate 1-epimerase (cds)
+ID 11: Glutathione S-transferase domain (cds)

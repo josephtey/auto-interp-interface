@@ -1,0 +1,8 @@
+ID 1: icd: NADP-dependent isocitrate dehydrogenase (cds)
+ID 2: Photosystem reaction center subunit H (cds)
+ID 3: Glycoside hydrolase family 38 N-terminal domain-containing protein (cds)
+ID 4: ABC transporter permease (cds)
+ID 5: rpmC: 50S ribosomal protein L29 (cds)
+ID 6: S1 domain-containing RNA-binding protein (cds)
+ID 7: dnaB: replicative DNA helicase (cds)
+ID 8: Flavoprotein (cds)

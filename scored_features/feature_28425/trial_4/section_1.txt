@@ -1,0 +1,10 @@
+Image 1
+ID 1: htpX: Zn-dependent protease with chaperone function (cds)
+ID 2: spoVS: Stage V sporulation protein SpoVS, putative DNA-binding, AlbA superfamily (cds)
+ID 3: DUF3054 domain-containing protein (cds)
+ID 4: infA: translation initiation factor IF-1 (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR spacer, sequence TATACATAACATCACCTCCAGGTGGTGGCTCTACGGGTGGAGTA (crispr-spacer)
+ID 7: wecE: dTDP-4-amino-4,6-dideoxygalactose transaminase (cds)
+ID 8: putative helicase (cds)
+ID 9: ycjR: Sugar phosphate isomerase/epimerase (cds)

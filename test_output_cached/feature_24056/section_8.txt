@@ -1,0 +1,7 @@
+ID 1: M20/M25/M40 family metallo-hydrolase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: gph: Phosphoglycolate phosphatase, HAD superfamily (cds)
+ID 4: emrB: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 5: abrB: Uncharacterized membrane protein AbrB, regulator of aidB expression (cds)
+ID 6: nifQ: NifQ protein (cds)
+ID 7: caiD: p-hydroxycinnamoyl CoA hydratase/lyase (cds)

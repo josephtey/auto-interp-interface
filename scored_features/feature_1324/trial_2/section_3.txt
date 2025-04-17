@@ -1,0 +1,7 @@
+Image 3
+ID 1: Prolyl oligopeptidase family protein (cds)
+ID 2: PD-(D/E)XK nuclease family transposase (cds)
+ID 3: Sodium/pantothenate symporter (cds)
+ID 4: rplQ: 50S ribosomal protein L17 (cds)
+ID 5: nuoJ: NADH-quinone oxidoreductase subunit J (cds)
+ID 6: NADH dehydrogenase subunit G (cds)

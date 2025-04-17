@@ -1,0 +1,11 @@
+Image 1
+ID 1: tsaC: L-threonylcarbamoyladenylate synthase type 1 TsaC (cds)
+ID 2: Outer membrane lipoprotein (cds)
+ID 3: yggL: DUF469 domain-containing protein (cds)
+ID 4: ygaA: Uncharacterized membrane protein YqaA, VTT domain (cds)
+ID 5: znuC: zinc ABC transporter ATP-binding protein ZnuC (cds)
+ID 6: pth: aminoacyl-tRNA hydrolase (cds)
+ID 7: urtC: urea ABC transporter permease subunit UrtC (cds)
+ID 8: CRISPR spacer, sequence CTGATTTTCGGCATCCCGTCGTACGCGGTCTG (crispr-spacer)
+ID 9: DUF2950 domain-containing protein (cds)
+ID 10: trnY: tRNA-Tyr(gta) (tRNA)

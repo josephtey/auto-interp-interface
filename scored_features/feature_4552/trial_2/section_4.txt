@@ -1,0 +1,13 @@
+Image 4
+ID 1: gntR: GntR family transcriptional regulator (cds)
+ID 2: endopeptidase La (cds)
+ID 3: wapA: tRNA3(Ser)-specific nuclease WapA (cds)
+ID 4: CRISPR spacer, sequence TCGAATTTCCCTTTCAACTACTACATCCTGCTTACAG (crispr-spacer)
+ID 5: CRISPR spacer, sequence ACACGATGTAACCGCAAAGGATTTTATGGACACACTTG (crispr-spacer)
+ID 6: CRISPR spacer, sequence ATAAGTACAAAATGAACATTGAACATTGAAAATTCAA (crispr-spacer)
+ID 7: Lipoprotein (cds)
+ID 8: recA: recombinase RecA (cds)
+ID 9: scpB: SMC-Scp complex subunit ScpB (cds)
+ID 10: Zinc-ribbon domain-containing protein (cds)
+ID 11: Transposase/IS protein (cds)
+ID 12: HEAT repeat domain-containing protein (cds)

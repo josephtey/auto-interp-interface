@@ -1,0 +1,10 @@
+Image 2
+ID 1: pqqL: Putative zinc protease PqqL (cds)
+ID 2: ushA: bifunctional UDP-sugar hydrolase/5'-nucleotidase UshA (cds)
+ID 3: Transporter, divalent anion:sodium symporter family (cds)
+ID 4: lpxB: lipid-A-disaccharide synthase (cds)
+ID 5: trmJ: tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ (cds)
+ID 6: rpoB: DNA-directed RNA polymerase subunit beta (cds)
+ID 7: Transposase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: traG: conjugal transfer mating-pair stabilization protein TraG (cds)

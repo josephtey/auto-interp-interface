@@ -1,0 +1,8 @@
+ID 1: CoA-binding domain-containing protein (cds)
+ID 2: psiE: Protein PsiE (cds)
+ID 3: Tetratricopeptide repeat-like domain-containing protein (cds)
+ID 4: UPF0114 protein GGR36_000148 (cds)
+ID 5: glxA: GlxA family transcriptional regulator (cds)
+ID 6: Acyl carrier protein (cds)
+ID 7: DUF2065 domain-containing protein (cds)
+ID 8: Nitrate/nitrite transport system substrate-binding protein (cds)

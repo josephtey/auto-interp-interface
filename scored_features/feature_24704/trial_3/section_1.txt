@@ -1,0 +1,9 @@
+Image 1
+ID 1: Two-component response regulator (NarL subfamily) (cds)
+ID 2: virJ: Type IV secretory pathway, VirJ component (cds)
+ID 3: DNA polymerase III subunit delta' (cds)
+ID 4: bchY: chlorophyllide a reductase subunit Y (cds)
+ID 5: ABC-three component (ABC-3C) system Middle Component 8 (cds)
+ID 6: Branched-chain amino acid transport (cds)
+ID 7: mdh: malate dehydrogenase (cds)
+ID 8: ycbK: DUF882 domain-containing protein (cds)

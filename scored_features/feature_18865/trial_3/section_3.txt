@@ -1,0 +1,12 @@
+Image 3
+ID 1: argE: acetylornithine deacetylase (cds)
+ID 2: Glutamine synthetase (cds)
+ID 3: Tetratricopeptide repeat protein (cds)
+ID 4: Hint domain-containing protein (cds)
+ID 5: Transposase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: ahcY: adenosylhomocysteinase (cds)
+ID 8: RNA polymerase sigma factor (cds)
+ID 9: hypothetical protein (cds)
+ID 10: trnN: tRNA-Asn(gtt) (tRNA)
+ID 11: Fasciclin domain-containing protein (cds)

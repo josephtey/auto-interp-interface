@@ -1,0 +1,12 @@
+Image 0
+ID 1: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)
+ID 2: Txe/YoeB family addiction module toxin (cds)
+ID 3: purL: phosphoribosylformylglycinamidine synthase (cds)
+ID 4: ybbP: putative ABC-type transport system involved in lysophospholipase L1 biosynthesis, permease component (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 7: algH: YqgE/AlgH family protein (cds)
+ID 8: era: GTPase Era (cds)
+ID 9: ubiH: 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases (cds)
+ID 10: amtB: Ammonia channel protein AmtB (cds)
+ID 11: secE: preprotein translocase subunit SecE (cds)

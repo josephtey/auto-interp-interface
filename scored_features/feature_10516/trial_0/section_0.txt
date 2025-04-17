@@ -1,0 +1,11 @@
+Image 0
+ID 1: ClpXP protease specificity-enhancing factor (cds)
+ID 2: DUF1653 domain-containing protein (cds)
+ID 3: GAF domain-containing protein (cds)
+ID 4: pgsA: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (cds)
+ID 5: flgK: flagellar hook-associated protein FlgK (cds)
+ID 6: histidine kinase (cds)
+ID 7: Transmembrane protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Metallophosphoesterase (cds)
+ID 10: Translesion error-prone DNA polymerase V autoproteolytic subunit (cds)

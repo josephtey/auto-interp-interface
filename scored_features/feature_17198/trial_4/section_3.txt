@@ -1,0 +1,11 @@
+Image 3
+ID 1: atpB: F0F1 ATP synthase subunit A (cds)
+ID 2: aroE: shikimate dehydrogenase (cds)
+ID 3: glmS: glutamine--fructose-6-phosphate transaminase (isomerizing) (cds)
+ID 4: dapD: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (cds)
+ID 5: hslV: ATP-dependent protease subunit HslV (cds)
+ID 6: trnA: tRNA-Ala(tgc) (tRNA)
+ID 7: tsaB: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB (cds)
+ID 8: guaA: glutamine-hydrolyzing GMP synthase (cds)
+ID 9: ABC transporter (cds)
+ID 10: Peptide ABC transporter permease (cds)

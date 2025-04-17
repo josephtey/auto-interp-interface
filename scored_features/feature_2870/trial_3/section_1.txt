@@ -1,0 +1,13 @@
+Image 1
+ID 1: ftcD: Formiminotetrahydrofolate cyclodeaminase (cds)
+ID 2: minD: MinD superfamily P-loop ATPase, contains an inserted ferredoxin domain (cds)
+ID 3: ansP: L-asparagine transporter or related permease (cds)
+ID 4: amiC: N-acetylmuramoyl-L-alanine amidase (cds)
+ID 5: kdsA: 3-deoxy-8-phosphooctulonate synthase (cds)
+ID 6: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 7: frmR: DNA-binding transcriptional regulator, FrmR family (cds)
+ID 8: Immunoglobulin e-set (cds)
+ID 9: nuoE: NADH:ubiquinone oxidoreductase 24 kD subunit (chain E) (cds)
+ID 10: pksD: Acyl transferase domain in polyketide synthase (PKS) enzymes (cds)
+ID 11: pksD: Acyl transferase domain in polyketide synthase (PKS) enzymes (cds)
+ID 12: CRISPR repeat (crispr-repeat)

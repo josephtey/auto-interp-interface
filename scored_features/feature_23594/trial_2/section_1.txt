@@ -1,0 +1,13 @@
+Image 1
+ID 1: DUF4383 domain-containing protein (cds)
+ID 2: Xaa-Pro dipeptidase (cds)
+ID 3: ABC transporter ATP-binding protein (cds)
+ID 4: Zn-dependent protease with chaperone function (cds)
+ID 5: TspO/MBR related protein (cds)
+ID 6: Xaa-Pro aminopeptidase (cds)
+ID 7: yndB: Uncharacterized protein YndB with AHSA1/START domain (cds)
+ID 8: Undecaprenyl-phosphate galactosephosphotransferase (cds)
+ID 9: DUF91 domain-containing protein (cds)
+ID 10: Acetyltransferase (cds)
+ID 11: Uncharacterized protein with LGFP repeats (cds)
+ID 12: Oxidoreductase (cds)

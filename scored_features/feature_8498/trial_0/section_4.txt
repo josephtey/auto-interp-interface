@@ -1,0 +1,6 @@
+Image 4
+ID 1: tolC: Outer membrane protein TolC (cds)
+ID 2: Type IV secretion protein Rhs (cds)
+ID 3: mgtE: magnesium transporter (cds)
+ID 4: yafD: Uncharacterized conserved protein YafD, endonuclease/exonuclease/phosphatase (EEP) superfamily (cds)
+ID 5: phoA: Alkaline phosphatase (cds)

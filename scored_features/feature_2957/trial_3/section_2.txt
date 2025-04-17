@@ -1,0 +1,9 @@
+Image 2
+ID 1: HAMP domain-containing sensor histidine kinase (cds)
+ID 2: PIN domain-containing protein (cds)
+ID 3: rpoA: DNA-directed RNA polymerase subunit alpha (cds)
+ID 4: SAM riboswitch (S box leader) (ncRNA-region)
+ID 5: serA: phosphoglycerate dehydrogenase (cds)
+ID 6: DUF4249 domain-containing protein (cds)
+ID 7: transglutaminase-like domain-containing protein (cds)
+ID 8: adhE: Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase (cds)

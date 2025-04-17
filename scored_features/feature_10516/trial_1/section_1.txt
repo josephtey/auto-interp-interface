@@ -1,0 +1,10 @@
+Image 1
+ID 1: aroGA: bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase (cds)
+ID 2: phnP: Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase (cds)
+ID 3: srmB: Superfamily II DNA and RNA helicase (cds)
+ID 4: paaK: Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family (cds)
+ID 5: FAD-dependent dehydrogenase (cds)
+ID 6: flgN: FlgN protein (cds)
+ID 7: acrA: Multidrug efflux pump subunit AcrA (membrane-fusion protein) (cds)
+ID 8: cas5b: type I-B CRISPR-associated protein Cas5b (cds)
+ID 9: CRISPR repeat (crispr-repeat)

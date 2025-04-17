@@ -1,0 +1,12 @@
+Image 0
+ID 1: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)
+ID 2: Type I restriction enzyme R protein N-terminal domain-containing protein (cds)
+ID 3: cvfB: putative RNA-binding protein YitL, contains S1 domains, virulence factor B family (cds)
+ID 4: yktD: O-Methyltransferase involved in polyketide biosynthesis (cds)
+ID 5: CRISPR spacer, sequence TCCAAGTTGGTGAATGTGCATAAGAGTGA (crispr-spacer)
+ID 6: Right handed beta helix domain-containing protein (cds)
+ID 7: ruvA: Holliday junction branch migration protein RuvA (cds)
+ID 8: alr: bifunctional UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase/alanine racemase (cds)
+ID 9: fucP: Fucose permease (cds)
+ID 10: hypothetical protein (cds)
+ID 11: nurA: NurA domain-containing protein (cds)

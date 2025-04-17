@@ -1,0 +1,9 @@
+Image 0
+ID 1: CRISPR spacer, sequence GATGGGGTGATTATCGCAGGGCATGGCCGCCT (crispr-spacer)
+ID 2: DUF5678 domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: 7-methyl-GTP pyrophosphatase (cds)
+ID 5: HAD-IA family hydrolase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: ychF: redox-regulated ATPase YchF (cds)
+ID 8: speE: polyamine aminopropyltransferase (cds)

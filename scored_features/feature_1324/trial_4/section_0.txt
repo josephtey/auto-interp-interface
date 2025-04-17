@@ -1,0 +1,10 @@
+Image 0
+ID 1: fusA: elongation factor G (cds)
+ID 2: Helix-turn-helix domain-containing protein (cds)
+ID 3: vapC: Ribonuclease VapC (cds)
+ID 4: nadD: nicotinate-nucleotide adenylyltransferase (cds)
+ID 5: pilN: PilN domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: UBP-type domain-containing protein (cds)
+ID 8: Hotdog fold thioesterase (cds)
+ID 9: hypothetical protein (cds)

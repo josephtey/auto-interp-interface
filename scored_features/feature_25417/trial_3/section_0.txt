@@ -1,0 +1,9 @@
+Image 0
+ID 1: Dissimilatory sulfite reductase (cds)
+ID 2: CRISPR array with 3 repeats of length 30, consensus sequence TGTGAACTGCCGTATAGGCAGCTGGGAAAT and spacer length 30 (crispr)
+ID 3: HAD-IA family hydrolase (cds)
+ID 4: CHAD domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Carboxypeptidase family protein (cds)
+ID 8: tolC: TolC family protein (cds)

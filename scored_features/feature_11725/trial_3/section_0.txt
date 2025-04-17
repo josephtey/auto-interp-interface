@@ -1,0 +1,8 @@
+Image 0
+ID 1: rhodanese-like domain-containing protein (cds)
+ID 2: tlpA: TlpA disulfide reductase family protein (cds)
+ID 3: DUF4197 domain-containing protein (cds)
+ID 4: porin (cds)
+ID 5: type I restriction-modification system subunit M (cds)
+ID 6: folE: GTP cyclohydrolase I FolE (cds)
+ID 7: TIGR00266 family protein (cds)

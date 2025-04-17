@@ -1,0 +1,10 @@
+Image 0
+ID 1: Porin (cds)
+ID 2: DUF3078 domain-containing protein (cds)
+ID 3: mrdA: penicillin-binding protein 2 (cds)
+ID 4: NAD(P)-dependent oxidoreductase (cds)
+ID 5: purN: phosphoribosylglycinamide formyltransferase (cds)
+ID 6: serS: serine--tRNA ligase (cds)
+ID 7: rpsM: 30S ribosomal protein S13 (cds)
+ID 8: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 9: pspC: Phage shock protein PspC (stress-responsive transcriptional regulator) (cds)

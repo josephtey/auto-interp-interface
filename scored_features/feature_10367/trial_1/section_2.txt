@@ -1,0 +1,7 @@
+Image 2
+ID 1: shcO1: Type III chaperone ShcO1 (cds)
+ID 2: 6S: 6S / SsrS RNA (ncRNA)
+ID 3: IS256 family transposase (cds)
+ID 4: cas3f: type I-F CRISPR-associated helicase Cas3f (cds)
+ID 5: glnL: nitrogen regulation protein NR(II) (cds)
+ID 6: histidine kinase (cds)

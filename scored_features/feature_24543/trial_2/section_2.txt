@@ -1,0 +1,9 @@
+Image 2
+ID 1: polynucleotide kinase-phosphatase (cds)
+ID 2: Lysozyme (cds)
+ID 3: Alkene reductase (cds)
+ID 4: Peptidase A2 domain-containing protein (cds)
+ID 5: MFS transporter (cds)
+ID 6: DUF2244 domain-containing protein (cds)
+ID 7: Glycosyl hydrolase (cds)
+ID 8: hypothetical protein (cds)

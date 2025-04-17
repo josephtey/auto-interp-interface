@@ -1,0 +1,8 @@
+Image 2
+ID 1: sigE: ECF RNA polymerase sigma factor SigE (cds)
+ID 2: garA: Glycogen accumulation regulator GarA (cds)
+ID 3: Flagellin N-methylase (cds)
+ID 4: GDP-mannose-dependent alpha-mannosyltransferase (cds)
+ID 5: flgM: Anti-sigma-28 factor, FlgM (cds)
+ID 6: ygcS: Inner membrane metabolite transport protein YgcS (cds)
+ID 7: Glycerol-1-phosphate dehydrogenase [NAD(P)+] (cds)

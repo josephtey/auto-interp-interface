@@ -1,0 +1,11 @@
+Image 3
+ID 1: DUF427 domain-containing protein (cds)
+ID 2: rodA: Rod shape-determining protein RodA (cds)
+ID 3: fabG: L-iditol 2-dehydrogenase (cds)
+ID 4: trmA: tRNA/tmRNA/rRNA uracil-C5-methylase, TrmA/RlmC/RlmD family (cds)
+ID 5: flgI: Flagellar basal body P-ring protein FlgI (cds)
+ID 6: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 7: MotA/TolQ/ExbB proton channel family protein, probably associated with flagella (cds)
+ID 8: DUF1440 domain-containing protein (cds)
+ID 9: ebsC: Cys-tRNA(Pro) deacylase, prolyl-tRNA editing enzyme YbaK/EbsC (cds)
+ID 10: glyA: Glycine/serine hydroxymethyltransferase (cds)

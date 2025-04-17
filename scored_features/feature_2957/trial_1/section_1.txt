@@ -1,0 +1,13 @@
+Image 1
+ID 1: esterase-like activity of phytase family protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: pirin family protein (cds)
+ID 4: kdpA: potassium-transporting ATPase subunit KdpA (cds)
+ID 5: SAM-dependent methyltransferase (cds)
+ID 6: osmC: OsmC family protein (cds)
+ID 7: glycosyltransferase family 2 protein (cds)
+ID 8: NAD(P)-dependent oxidoreductase (cds)
+ID 9: Efflux pump membrane transporter (cds)
+ID 10: cls: cardiolipin synthase (cds)
+ID 11: CidA/LrgA family protein (cds)
+ID 12: hypothetical protein (cds)

@@ -1,0 +1,9 @@
+Image 3
+ID 1: fmt: methionyl-tRNA formyltransferase (cds)
+ID 2: Orphan protein (cds)
+ID 3: Peptidase M16 domain protein (cds)
+ID 4: pilZ: PilZ domain-containing protein (cds)
+ID 5: bioC: Methyltransferase type 11 (cds)
+ID 6: TonB-dependent receptor plug (cds)
+ID 7: cpdA: 3',5'-cyclic-AMP phosphodiesterase (cds)
+ID 8: Phage integrase (cds)

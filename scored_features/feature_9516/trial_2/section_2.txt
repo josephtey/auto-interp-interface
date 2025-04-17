@@ -1,0 +1,10 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: DNA alkylation response protein (cds)
+ID 4: trnK: tRNA-Lys(ttt) (tRNA)
+ID 5: Disulfide bond formation protein B (cds)
+ID 6: ftsA: cell division protein FtsA (cds)
+ID 7: hfq: RNA chaperone Hfq (cds)
+ID 8: NAD(P) transhydrogenase subunit beta (cds)
+ID 9: trnP: tRNA-Pro(tgg) (tRNA)

@@ -1,0 +1,6 @@
+ID 1: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 2: Amino acid permease family protein (cds)
+ID 3: Small Trp-rich protein (cds)
+ID 4: Prepilin-type N-terminal cleavage/methylation domain protein (cds)
+ID 5: cheR: CheR methyltransferase, all-alpha domain protein (cds)
+ID 6: non-specific serine/threonine protein kinase (cds)

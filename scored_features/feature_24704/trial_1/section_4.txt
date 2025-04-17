@@ -1,0 +1,9 @@
+Image 4
+ID 1: Cystathionine beta-lyase (cds)
+ID 2: lysR: LysR family transcriptional regulator (cds)
+ID 3: Dipeptidase (cds)
+ID 4: Ferredoxin (cds)
+ID 5: NADP-dependent oxidoreductase domain-containing protein (cds)
+ID 6: ubiX: Flavin prenyltransferase UbiX (cds)
+ID 7: Two-component system response regulator (cds)
+ID 8: rplU: 50S ribosomal protein L21 (cds)

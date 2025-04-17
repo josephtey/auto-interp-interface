@@ -1,0 +1,11 @@
+Image 0
+ID 1: ydcV: Inner membrane ABC transporter permease protein YdcV (cds)
+ID 2: Spermidine/putrescine-binding periplasmic protein (cds)
+ID 3: rbsC: Ribose import permease protein RbsC (cds)
+ID 4: mglA: Galactose/methyl galactoside import ATP-binding protein MglA (cds)
+ID 5: CRISPR spacer, sequence TTTTTTTCACGCTCCTTTAATCTCATTAATTTTTAT (crispr-spacer)
+ID 6: CRISPR spacer, sequence TTACCTATTCCGATGATGACTATACCGAAAAATCAAT (crispr-spacer)
+ID 7: hisZ: ATP phosphoribosyltransferase regulatory subunit (cds)
+ID 8: Type-1 restriction enzyme EcoKI specificity protein (cds)
+ID 9: Extracellular solute-binding protein (cds)
+ID 10: TIGR00282 family metallophosphoesterase (cds)

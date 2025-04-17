@@ -1,0 +1,9 @@
+Image 3
+ID 1: DUF1806 domain-containing protein (cds)
+ID 2: yqkK: YqkK (cds)
+ID 3: DUF1440 domain-containing protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: DUF456 domain-containing protein (cds)
+ID 6: CRISPR spacer, sequence TTGGATAGGTGAAAAAGTAAAGGCAATACTCGGATAG (crispr-spacer)
+ID 7: MFS transporter (cds)
+ID 8: pssA: CDP-diacylglycerol--serine O-phosphatidyltransferase (cds)

@@ -1,0 +1,7 @@
+ID 1: pxpB: 5-oxoprolinase subunit PxpB (cds)
+ID 2: mshC: MSHA pilin protein MshC (cds)
+ID 3: torC: pentaheme c-type cytochrome TorC (cds)
+ID 4: bdcR: HTH-type transcriptional repressor BdcR (cds)
+ID 5: ybeD: DUF493 domain-containing protein (cds)
+ID 6: surA: peptidylprolyl isomerase SurA (cds)
+ID 7: SCO family protein (cds)

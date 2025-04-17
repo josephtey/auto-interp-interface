@@ -1,0 +1,12 @@
+Image 1
+ID 1: CRISPR spacer, sequence TTGCGCAGAACGTTCTGGGTATCGCGGCTGGT (crispr-spacer)
+ID 2: CRISPR spacer, sequence TTCTGTCGGTCGGGCGGGTGCAGACGCCCACG (crispr-spacer)
+ID 3: DNA polymerase III subunit chi (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: fdnG: formate dehydrogenase-N subunit alpha (cds)
+ID 6: fliG: flagellar motor switch protein FliG (cds)
+ID 7: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)
+ID 8: lpxP: kdo(2)-lipid IV(A) palmitoleoyltransferase (cds)
+ID 9: astD: succinylglutamate-semialdehyde dehydrogenase (cds)
+ID 10: DUF481 domain-containing protein (cds)
+ID 11: yiaA: inner membrane protein YiaA (cds)

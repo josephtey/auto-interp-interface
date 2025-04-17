@@ -1,0 +1,9 @@
+Image 0
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: tnaA: Tryptophanase (cds)
+ID 3: rpmE: 50S ribosomal protein L31 (cds)
+ID 4: der: ribosome biogenesis GTPase Der (cds)
+ID 5: groES: Co-chaperonin GroES (HSP10) (cds)
+ID 6: Cna B-type domain-containing protein (cds)
+ID 7: nrdD: ribonucleoside triphosphate reductase (cds)
+ID 8: ispD: 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (cds)

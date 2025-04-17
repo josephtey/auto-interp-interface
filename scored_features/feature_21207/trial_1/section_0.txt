@@ -1,0 +1,13 @@
+Image 0
+ID 1: pstA: phosphate ABC transporter permease PstA (cds)
+ID 2: nitronate monooxygenase family protein (cds)
+ID 3: Lipoprotein (cds)
+ID 4: DUF4845 domain-containing protein (cds)
+ID 5: amtB: Ammonia channel protein AmtB (cds)
+ID 6: livH: Branched-chain amino acid ABC-type transport system, permease component (cds)
+ID 7: livG: ABC-type branched-chain amino acid transport system, ATPase component LivG (cds)
+ID 8: lysR: LysR family transcriptional regulator (cds)
+ID 9: TetR/AcrR family transcriptional regulator (cds)
+ID 10: ABC transporter ATP-binding protein (cds)
+ID 11: anti-hemB: Burkholderia RNA 7 (anti-hemB) (ncRNA)
+ID 12: acyl-CoA dehydrogenase family protein (cds)

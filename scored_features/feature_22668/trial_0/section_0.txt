@@ -1,0 +1,12 @@
+Image 0
+ID 1: zliS: Lysozyme family protein (cds)
+ID 2: Circularly permuted ATP-grasp protein (cds)
+ID 3: bglB: GH1 family beta-glucosidase (cds)
+ID 4: ftsX: Cell division protein FtsX (cds)
+ID 5: rhtB: Threonine/homoserine/homoserine lactone efflux protein (cds)
+ID 6: ntrB: Signal transduction histidine kinase NtrB, nitrogen specific (cds)
+ID 7: tenA: Aminopyrimidine aminohydrolase TenA (thiamine salvage pathway) (cds)
+ID 8: trnA: tRNA-Ala(ggc) (tRNA)
+ID 9: oppC: Oligopeptide transport system permease protein OppC (cds)
+ID 10: irrE: IrrE N-terminal-like domain-containing protein (cds)
+ID 11: Lipoprotein (cds)

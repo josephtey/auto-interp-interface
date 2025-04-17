@@ -1,0 +1,10 @@
+Image 0
+ID 1: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 2: DUF4244 domain-containing protein (cds)
+ID 3: rpmA: 50S ribosomal protein L27 (cds)
+ID 4: pPK2: Polyphosphate kinase 2, PPK2 family (cds)
+ID 5: (pseudo) Tn3 family transposase (cds)
+ID 6: yebA: Transglutaminase-like enzyme, putative cysteine protease (cds)
+ID 7: hypothetical protein (cds)
+ID 8: dppC: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)
+ID 9: hypothetical protein (cds)

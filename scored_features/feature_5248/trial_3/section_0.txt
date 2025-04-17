@@ -1,0 +1,12 @@
+Image 0
+ID 1: tcdA: tRNA cyclic N6-threonylcarbamoyladenosine(37) synthase TcdA (cds)
+ID 2: ygfX: Protein YgfX (cds)
+ID 3: carB: carbamoyl-phosphate synthase large subunit (cds)
+ID 4: putP: Na+/proline symporter (cds)
+ID 5: tssG: type VI secretion system baseplate subunit TssG (cds)
+ID 6: fimC: type 1 fimbria chaperone FimC (cds)
+ID 7: NADP-dependent fatty aldehyde dehydrogenase (cds)
+ID 8: dusC: tRNA dihydrouridine(16) synthase DusC (cds)
+ID 9: trnK: tRNA-Lys(ttt) (tRNA)
+ID 10: MBL fold metallo-hydrolase (cds)
+ID 11: Lysozyme (cds)

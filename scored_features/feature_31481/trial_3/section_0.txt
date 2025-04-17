@@ -1,0 +1,10 @@
+Image 0
+ID 1: Membrane or secreted protein (cds)
+ID 2: gldB: gliding motility lipoprotein GldB (cds)
+ID 3: hemH: ferrochelatase (cds)
+ID 4: mutS: DNA mismatch repair protein MutS (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Excinuclease ABC subunit B (cds)
+ID 7: GNAT family N-acetyltransferase (cds)
+ID 8: T9SS type B sorting domain-containing protein (cds)
+ID 9: CAP domain-containing protein (cds)

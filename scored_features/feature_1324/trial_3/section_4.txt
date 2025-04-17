@@ -1,0 +1,8 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: sbcC: exonuclease subunit SbcC (cds)
+ID 3: sgrR: SgrR family transcriptional regulator (cds)
+ID 4: fabG2: 3-ketoacyl-ACP reductase FabG2 (cds)
+ID 5: tcyL: cystine ABC transporter permease (cds)
+ID 6: alkB: DNA oxidative demethylase AlkB (cds)
+ID 7: mepA: penicillin-insensitive murein endopeptidase (cds)

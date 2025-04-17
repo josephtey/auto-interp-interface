@@ -1,0 +1,8 @@
+ID 1: lysE: LysE family translocator (cds)
+ID 2: mlaD: MlaD family protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: rho: transcription termination factor Rho (cds)
+ID 5: Glycine--tRNA ligase beta subunit (cds)
+ID 6: ABC transporter substrate-binding protein (cds)
+ID 7: mreD: rod shape-determining protein MreD (cds)
+ID 8: alpha/beta hydrolase fold domain-containing protein (cds)

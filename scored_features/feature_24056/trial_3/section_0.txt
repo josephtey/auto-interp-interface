@@ -1,0 +1,12 @@
+Image 0
+ID 1: CoA-binding protein (cds)
+ID 2: Zinc ribbon domain-containing protein (cds)
+ID 3: sdrD: SdrD B-like domain protein (cds)
+ID 4: IS3 family transposase (cds)
+ID 5: pilB: Pilus assembly protein PilB (cds)
+ID 6: hypothetical protein (cds)
+ID 7: DUF4139 domain-containing protein (cds)
+ID 8: DUF4055 domain-containing protein (cds)
+ID 9: histidine kinase (cds)
+ID 10: Integral membrane protein (cds)
+ID 11: SMI1/KNR4 family protein (cds)

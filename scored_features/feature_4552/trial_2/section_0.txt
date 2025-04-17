@@ -1,0 +1,11 @@
+Image 0
+ID 1: CRISPR spacer, sequence ATAAGTTAAAGGACAGCTTAGTGGAAGGAT (crispr-spacer)
+ID 2: AAA family ATPase (cds)
+ID 3: serine protease (cds)
+ID 4: 2-hydroxyacid dehydrogenase (cds)
+ID 5: TM2 domain-containing protein (cds)
+ID 6: T9SS C-terminal target domain-containing protein (cds)
+ID 7: metallophosphoesterase (cds)
+ID 8: DUF4252 domain-containing protein (cds)
+ID 9: NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta (cds)
+ID 10: DUF4974 domain-containing protein (cds)

@@ -1,0 +1,6 @@
+ID 1: rfbF: glucose-1-phosphate cytidylyltransferase (cds)
+ID 2: DUF2846 domain-containing protein (cds)
+ID 3: undecaprenyl-phosphate glucose phosphotransferase (cds)
+ID 4: Cold-shock protein (cds)
+ID 5: hemF: oxygen-dependent coproporphyrinogen oxidase (cds)
+ID 6: Purine phosphorylase (cds)

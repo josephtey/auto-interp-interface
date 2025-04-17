@@ -1,0 +1,10 @@
+Image 0
+ID 1: Site-specific recombinase, DNA invertase Pin (cds)
+ID 2: Secreted protein (cds)
+ID 3: capA: Capsule biosynthesis protein CapA (cds)
+ID 4: secA2: accessory Sec system translocase SecA2 (cds)
+ID 5: Inositol-1-monophosphatase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: mntB: Manganese transport system membrane protein MntB (cds)
+ID 8: rplR: 50S ribosomal protein L18 (cds)
+ID 9: Amidohydrolase (cds)

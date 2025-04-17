@@ -1,0 +1,9 @@
+Image 0
+ID 1: Phytanoyl-CoA dioxygenase (PhyH) (cds)
+ID 2: rplN: 50S ribosomal protein L14 (cds)
+ID 3: Transcriptional regulator (cds)
+ID 4: Conserved membrane protein of uncharacterized function (cds)
+ID 5: FAD-binding protein (cds)
+ID 6: mhpF: acetaldehyde dehydrogenase (acetylating) (cds)
+ID 7: DEAD/DEAH box helicase (cds)
+ID 8: MMPL domain-containing protein (cds)

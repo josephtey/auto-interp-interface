@@ -1,0 +1,9 @@
+Image 3
+ID 1: LTD domain-containing protein (cds)
+ID 2: yneE: putative membrane chloride channel, bestrophin family (cds)
+ID 3: yneE: putative membrane chloride channel, bestrophin family (cds)
+ID 4: arfB: alternative ribosome rescue aminoacyl-tRNA hydrolase ArfB (cds)
+ID 5: caiD: Enoyl-CoA hydratase/carnithine racemase (cds)
+ID 6: tolC: Outer membrane protein TolC (cds)
+ID 7: ycxB: YcxB family protein (cds)
+ID 8: moaA: GTP 3',8-cyclase MoaA (cds)

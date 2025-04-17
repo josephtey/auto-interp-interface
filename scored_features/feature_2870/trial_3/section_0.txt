@@ -1,0 +1,9 @@
+Image 0
+ID 1: tkt: transketolase (cds)
+ID 2: epsH: Glycosyltransferase EpsH (cds)
+ID 3: Aldehyde dehydrogenase (cds)
+ID 4: Glycine riboswitch (ncRNA-region)
+ID 5: PAS domain S-box-containing protein/diguanylate cyclase (GGDEF)-like protein (cds)
+ID 6: Peptidase S9 prolyl oligopeptidase catalytic domain-containing protein (cds)
+ID 7: lpoB: penicillin-binding protein activator LpoB (cds)
+ID 8: eutQ: ethanolamine utilization acetate kinase EutQ (cds)

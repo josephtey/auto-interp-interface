@@ -1,0 +1,10 @@
+Image 2
+ID 1: FAD-dependent pyridine nucleotide-disulphide oxidoreductase (cds)
+ID 2: tra5: IS3 family transposase (cds)
+ID 3: prkA: putative Ser/Thr protein kinase (cds)
+ID 4: yncE: DNA-binding beta-propeller fold protein YncE (cds)
+ID 5: Nramp family divalent metal transporter (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: hypothetical protein (cds)
+ID 8: Peptidyl-dipeptidase A (cds)
+ID 9: era: GTPase Era, involved in 16S rRNA processing (cds)

@@ -1,0 +1,5 @@
+ID 1: cysZ: Sulfate transporter CysZ (cds)
+ID 2: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 3: bamE: Outer membrane protein assembly factor BamE, lipoprotein component of the BamABCDE complex (cds)
+ID 4: rluA: Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific (cds)
+ID 5: miaA: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA (cds)

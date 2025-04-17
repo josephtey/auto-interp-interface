@@ -1,0 +1,11 @@
+Image 4
+Organism: Vibrio ponticus (g-proteobacteria)
+ID 1: erpA: iron-sulfur cluster insertion protein ErpA (cds)
+ID 2: NADP-dependent oxidoreductase domain-containing protein (cds)
+ID 3: 6-carboxytetrahydropterin synthase (cds)
+ID 4: EAL domain-containing protein (cds)
+ID 5: miaB: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB (cds)
+ID 6: DNA-binding protein (cds)
+ID 7: GNAT family N-acetyltransferase (cds)
+ID 8: ABC transporter transmembrane protein (cds)
+ID 9: DUF4168 domain-containing protein (cds)

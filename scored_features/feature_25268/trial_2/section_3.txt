@@ -1,0 +1,9 @@
+Image 3
+ID 1: Short-chain dehydrogenase (cds)
+ID 2: tonB: Protein TonB (cds)
+ID 3: Hydrolase (cds)
+ID 4: Long-chain-fatty-acid--CoA ligase (cds)
+ID 5: Glucose/Sorbosone dehydrogenase domain-containing protein (cds)
+ID 6: murB: UDP-N-acetylmuramate dehydrogenase (cds)
+ID 7: RES domain-containing protein (cds)
+ID 8: rplJ: 50S ribosomal protein L10 (cds)

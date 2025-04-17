@@ -1,0 +1,11 @@
+Image 3
+ID 1: Threonine operon leader (ncRNA-region)
+ID 2: Major facilitator superfamily MFS_1 (cds)
+ID 3: ruvA: Holliday junction branch migration protein RuvA (cds)
+ID 4: Alpha-L-glutamate ligase-related protein (cds)
+ID 5: Transcriptional antiterminator (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Na+/Ca+ antiporter, CaCA family protein (cds)
+ID 8: secY: preprotein translocase subunit SecY (cds)
+ID 9: deoR: Transcriptional regulator, DeoR family (cds)
+ID 10: atpC: F0F1 ATP synthase subunit epsilon (cds)

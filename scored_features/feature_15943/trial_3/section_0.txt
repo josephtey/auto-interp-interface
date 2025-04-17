@@ -1,0 +1,12 @@
+Image 0
+ID 1: Acriflavin resistance protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: lysS: lysine--tRNA ligase (cds)
+ID 4: Rhodanese domain protein (cds)
+ID 5: btpA: Photosystem I assembly BtpA (cds)
+ID 6: HTH lysR-type domain-containing protein (cds)
+ID 7: HAMP domain-containing protein (cds)
+ID 8: sepF: Cell division protein SepF (cds)
+ID 9: Periplasmic binding protein/LacI transcriptional regulator (cds)
+ID 10: flgN: FlgN protein (cds)
+ID 11: Ethanolamine utilization protein EutN/carboxysome structural protein Ccml (cds)

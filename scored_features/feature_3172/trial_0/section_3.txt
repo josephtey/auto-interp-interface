@@ -1,0 +1,12 @@
+Image 3
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: cysK: Cysteine synthase (cds)
+ID 2: fepA: Outer membrane receptor for ferrienterochelin and colicins (cds)
+ID 3: pabA: Anthranilate/para-aminobenzoate synthase component II (glutamine amidotransferase) (cds)
+ID 4: rraA: RNA degradosome component RraA (regulator of RNase E activity) (cds)
+ID 5: DUF871 domain-containing protein (cds)
+ID 6: soxR: DNA-binding transcriptional regulator, MerR family (cds)
+ID 7: spoVK: AAA+-type ATPase, SpoVK/Ycf46/Vps4 family (cds)
+ID 8: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 9: Transposase (cds)
+ID 10: DUF6431 domain-containing protein (cds)

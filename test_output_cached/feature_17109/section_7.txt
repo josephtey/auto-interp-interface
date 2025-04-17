@@ -1,0 +1,8 @@
+ID 1: Alpha/beta hydrolase family protein (cds)
+ID 2: bifunctional [glutamine synthetase] adenylyltransferase/[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase (cds)
+ID 3: DNA-damage-inducible protein F (cds)
+ID 4: dapD: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (cds)
+ID 5: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 6: biotin carboxylase (cds)
+ID 7: DUF3107 domain-containing protein (cds)
+ID 8: DUF3068 domain-containing protein (cds)

@@ -1,0 +1,12 @@
+Image 2
+ID 1: 3-hydroxyacyl-CoA dehydrogenase (cds)
+ID 2: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 3: dsbA: DsbA family oxidoreductase (cds)
+ID 4: dinB: DNA polymerase IV (cds)
+ID 5: otsA: alpha,alpha-trehalose-phosphate synthase (UDP-forming) (cds)
+ID 6: Histidinol dehydrogenase (cds)
+ID 7: DNA-(apurinic or apyrimidinic site) lyase (cds)
+ID 8: MT0933-like antitoxin protein (cds)
+ID 9: Sphingosine kinase (cds)
+ID 10: Glycosyl-hydrolase family 116 catalytic region domain-containing protein (cds)
+ID 11: Aminomethyl transferase family protein (cds)

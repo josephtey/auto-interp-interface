@@ -1,0 +1,12 @@
+Image 3
+ID 1: Ion channel protein Tsx (cds)
+ID 2: cadC: Putative transcriptional regulator, CadC (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Major outer membrane lipoprotein Lpp (cds)
+ID 5: Tryptophan halogenase (cds)
+ID 6: megL: L-methionine gamma-lyase (cds)
+ID 7: RDD family protein (cds)
+ID 8: yccA: Modulator of FtsH protease YccA (cds)
+ID 9: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 10: dxs: 1-deoxy-D-xylulose-5-phosphate synthase (cds)
+ID 11: pentapeptide repeat-containing protein (cds)

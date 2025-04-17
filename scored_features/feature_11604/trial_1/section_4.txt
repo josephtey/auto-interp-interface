@@ -1,0 +1,11 @@
+Image 4
+ID 1: gyrB: DNA gyrase/topoisomerase IV, subunit B (cds)
+ID 2: Lipoprotein (cds)
+ID 3: sPS1: Serine/threonine protein kinase (cds)
+ID 4: Lipoprotein (cds)
+ID 5: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 6: baeS: Signal transduction histidine kinase (cds)
+ID 7: Benzoate-CoA ligase family (cds)
+ID 8: Single-stranded DNA-binding protein (cds)
+ID 9: GerMN domain-containing protein (cds)
+ID 10: Secreted protein (cds)

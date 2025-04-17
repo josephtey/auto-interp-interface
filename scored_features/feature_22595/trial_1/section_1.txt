@@ -1,0 +1,11 @@
+Image 1
+Organism: Allorhizobium pseudoryzae (a-proteobacteria)
+ID 1: EAL domain-containing protein (cds)
+ID 2: acnA: aconitate hydratase AcnA (cds)
+ID 3: helix-turn-helix transcriptional regulator (cds)
+ID 4: dihydrofolate reductase (cds)
+ID 5: bcp: thioredoxin-dependent thiol peroxidase (cds)
+ID 6: murI: glutamate racemase (cds)
+ID 7: uvrC: excinuclease ABC subunit UvrC (cds)
+ID 8: DUF4169 domain-containing protein (cds)
+ID 9: ABC transmembrane type-1 domain-containing protein (cds)

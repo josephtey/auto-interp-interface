@@ -1,0 +1,8 @@
+ID 1: lolE: Lipoprotein-releasing system transmembrane protein LolE (cds)
+ID 2: Sodium:solute symporter (cds)
+ID 3: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 4: SPW repeat-containing protein (cds)
+ID 5: fieF: Ferrous-iron efflux pump FieF (cds)
+ID 6: Membrane-bound lytic murein transglycosylase D (cds)
+ID 7: plsX: phosphate acyltransferase PlsX (cds)
+ID 8: sirB1: Protein SirB1 N-terminal domain-containing protein (cds)

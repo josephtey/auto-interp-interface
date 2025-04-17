@@ -1,0 +1,8 @@
+Image 2
+ID 1: kdpD: K+-sensing histidine kinase KdpD (cds)
+ID 2: Glycosyltransferase involved in LPS biosynthesis, GR25 family (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ykoI: PepSY domain containing protein, regulator of zincin peptidase activity (cds)
+ID 5: Glycosyltransferase involved in LPS biosynthesis, GR25 family (cds)
+ID 6: mrcA: Membrane carboxypeptidase/penicillin-binding protein (cds)
+ID 7: Phage-related baseplate assembly protein (cds)

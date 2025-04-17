@@ -1,0 +1,13 @@
+Image 1
+Organism: Citrobacter arsenatis (enterobacteria)
+ID 1: miaA: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA (cds)
+ID 2: N-acetyltransferase domain-containing protein (cds)
+ID 3: Lipoprotein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: tdh: Threonine dehydrogenase or related Zn-dependent dehydrogenase (cds)
+ID 6: HTH luxR-type domain-containing protein (cds)
+ID 7: DUF1116 domain-containing protein (cds)
+ID 8: ureC: urease subunit alpha (cds)
+ID 9: yhhL: DUF1145 domain-containing protein (cds)
+ID 10: DUF943 domain-containing protein (cds)
+ID 11: putative restriction endonuclease, HNH family (cds)

@@ -1,0 +1,4 @@
+ID 1: dAK1: Dihydroxyacetone kinase (cds)
+ID 2: tcpC: Conjugative transposon protein TcpC (cds)
+ID 3: czcD: putative flavoprotein CzcO associated with the cation diffusion facilitator CzcD (cds)
+ID 4: cpaF: Pilus assembly protein, ATPase of CpaF family (cds)

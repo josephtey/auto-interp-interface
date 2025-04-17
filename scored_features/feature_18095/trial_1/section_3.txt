@@ -1,0 +1,7 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: Carbohydrate binding module xylan-binding domain-containing protein (cds)
+ID 3: Phage protein (cds)
+ID 4: GTPase Era (cds)
+ID 5: DUF5682 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)

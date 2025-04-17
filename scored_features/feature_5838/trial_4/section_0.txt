@@ -1,0 +1,10 @@
+Image 0
+ID 1: Adenylosuccinate synthetase (cds)
+ID 2: rbfA: 30S ribosome-binding factor RbfA (cds)
+ID 3: GCN5-related N-acetyltransferase (cds)
+ID 4: pepE: dipeptidase PepE (cds)
+ID 5: yeiH: Uncharacterized membrane protein YadS, UPF0324 family (cds)
+ID 6: Transposase zinc-ribbon domain-containing protein (cds)
+ID 7: rtcB: RNA-splicing ligase RtcB, repairs tRNA damage (cds)
+ID 8: lpxP: Palmitoleoyl-ACP: Kdo2-lipid-IV acyltransferase (lipid A biosynthesis) (cds)
+ID 9: norM: Na+-driven multidrug efflux pump, DinF/NorM/MATE family (cds)

@@ -1,0 +1,11 @@
+Image 1
+ID 1: tsaE: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE (cds)
+ID 2: queG: tRNA epoxyqueuosine(34) reductase QueG (cds)
+ID 3: trnV: tRNA-Val(cac) (tRNA)
+ID 4: fcbT2: TRAP-type mannitol/chloroaromatic compound transport system, small permease component (cds)
+ID 5: livF: ABC-type branched-chain amino acid transport system, ATPase component LivF (cds)
+ID 6: c-type cytochrome (cds)
+ID 7: trxB: thioredoxin-disulfide reductase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: ruvX: Holliday junction resolvase RuvX (cds)

@@ -1,0 +1,13 @@
+Image 0
+ID 1: prkB: phosphoribulokinase (cds)
+ID 2: ycbB: Murein L,D-transpeptidase YcbB/YkuD (cds)
+ID 3: paaD: Metal-sulfur cluster biosynthetic enzyme (cds)
+ID 4: adk: adenylate kinase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: ubiB: 2-polyprenylphenol 6-hydroxylase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: M17 family peptidase N-terminal domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: mutT: RNA pyrophosphohydrolase (cds)
+ID 11: ftsQ: Cell division septal protein FtsQ (cds)
+ID 12: hypothetical protein (cds)

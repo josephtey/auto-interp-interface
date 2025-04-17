@@ -1,0 +1,13 @@
+Image 4
+ID 1: glpG: Membrane-associated serine protease, rhomboid family (cds)
+ID 2: pdxY: pyridoxal kinase PdxY (cds)
+ID 3: perM: putative PurR-regulated permease PerM (cds)
+ID 4: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 5: DUF4383 domain-containing protein (cds)
+ID 6: glcD: FAD/FMN-containing lactate dehydrogenase/glycolate oxidase (cds)
+ID 7: livH: Branched-chain amino acid ABC-type transport system, permease component (cds)
+ID 8: recA: recombinase RecA (cds)
+ID 9: DUF222 domain-containing protein (cds)
+ID 10: rplV: 50S ribosomal protein L22 (cds)
+ID 11: lmbE: N-acetylglucosaminyl deacetylase, LmbE family (cds)
+ID 12: Cupin 2 conserved barrel domain protein (cds)

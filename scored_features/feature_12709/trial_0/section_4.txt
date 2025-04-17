@@ -1,0 +1,13 @@
+Image 4
+ID 1: yjbM: ppGpp synthetase catalytic domain (RelA/SpoT-type nucleotidyltranferase) (cds)
+ID 2: DUF4212 domain-containing protein (cds)
+ID 3: hyaB: Ni,Fe-hydrogenase I large subunit (cds)
+ID 4: cheR: Methylase of chemotaxis methyl-accepting proteins (cds)
+ID 5: DUF4079 domain-containing protein (cds)
+ID 6: DUF362 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: thiF: Molybdopterin or thiamine biosynthesis adenylyltransferase (cds)
+ID 9: trnQ: tRNA-Gln(ctg) (tRNA)
+ID 10: mazF: endoribonuclease MazF (cds)
+ID 11: ftsQ: Cell division septal protein FtsQ (cds)
+ID 12: rutF: FMN reductase RutF, DIM6/NTAB family (cds)

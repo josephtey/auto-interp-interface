@@ -1,0 +1,10 @@
+Image 4
+ID 1: RNA polymerase sigma-70 factor (cds)
+ID 2: uspA: UspA domain-containing protein (cds)
+ID 3: family 20 glycosylhydrolase (cds)
+ID 4: thiC: phosphomethylpyrimidine synthase ThiC (cds)
+ID 5: glmS: glutamine--fructose-6-phosphate transaminase (isomerizing) (cds)
+ID 6: ComEC/Rec2 family competence protein (cds)
+ID 7: response regulator (cds)
+ID 8: yfhL: YfhL family 4Fe-4S dicluster ferredoxin (cds)
+ID 9: Secreted protein (cds)

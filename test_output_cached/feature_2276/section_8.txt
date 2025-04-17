@@ -1,0 +1,8 @@
+ID 1: Stp1/IreP family PP2C-type Ser/Thr phosphatase (cds)
+ID 2: Zeta toxin domain-containing protein (cds)
+ID 3: marR: MarR family transcriptional regulator (cds)
+ID 4: HAD family phosphatase (cds)
+ID 5: Glycosyltransferase (cds)
+ID 6: hrcA: heat-inducible transcriptional repressor HrcA (cds)
+ID 7: D-alanine--D-alanine ligase (cds)
+ID 8: lpqN: Lipoprotein LpqN (cds)

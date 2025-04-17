@@ -1,0 +1,11 @@
+Image 2
+ID 1: UDP-glucose 6-dehydrogenase (cds)
+ID 2: Spherulation-specific family 4 (cds)
+ID 3: Lipoprotein SmpA/OmlA domain-containing protein (cds)
+ID 4: phoP: Alkaline phosphatase synthesis transcriptional regulatory protein PhoP (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Iron-sulfur cluster carrier protein (cds)
+ID 7: rfaH: Transcription antitermination protein RfaH (cds)
+ID 8: fabG: 3-oxoacyl-[acyl-carrier-protein] reductase FabG (cds)
+ID 9: Quinone oxidoreductase 1 (cds)
+ID 10: Type II secretion system protein G (cds)

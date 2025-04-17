@@ -1,0 +1,13 @@
+Image 2
+ID 1: aspartate dehydrogenase (cds)
+ID 2: trnL: tRNA-Leu(gag) (tRNA)
+ID 3: mscL: large-conductance mechanosensitive channel protein MscL (cds)
+ID 4: frdB: succinate dehydrogenase/fumarate reductase iron-sulfur subunit (cds)
+ID 5: CFA/I fimbrial subunit C (cds)
+ID 6: rluE: 23S rRNA pseudouridine(2457) synthase RluE (cds)
+ID 7: DUF1090 domain-containing protein (cds)
+ID 8: YbaK/prolyl-tRNA synthetase associated domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: lysR: LysR family transcriptional regulator (cds)
+ID 11: DUF4055 domain-containing protein (cds)
+ID 12: yeiP: elongation factor P-like protein YeiP (cds)

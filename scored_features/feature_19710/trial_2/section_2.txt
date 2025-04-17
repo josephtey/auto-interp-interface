@@ -1,0 +1,10 @@
+Image 2
+ID 1: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 2: metG: Methionyl-tRNA synthetase (cds)
+ID 3: cotH: Spore coat protein CotH (cds)
+ID 4: sufC: Fe-S cluster assembly ATPase SufC (cds)
+ID 5: CRISPR spacer, sequence GCGGCGGCCGGCGCGGTGCTCGGTGCTGCGCTCGACC (crispr-spacer)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: Tryptophan synthase alpha chain (cds)
+ID 9: hypothetical protein (cds)

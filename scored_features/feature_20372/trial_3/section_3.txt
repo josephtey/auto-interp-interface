@@ -1,0 +1,9 @@
+Image 3
+ID 1: lON: Uncharacterized conserved protein, LON_N-like domain, ASCH/PUA-like superfamily (cds)
+ID 2: SnoaL-like domain-containing protein (cds)
+ID 3: DUF304 domain-containing protein (cds)
+ID 4: nuoF: NADH:ubiquinone oxidoreductase, NADH-binding 51 kD subunit (chain F) (cds)
+ID 5: rimI: Ribosomal protein S18 acetylase RimI and related acetyltransferases (cds)
+ID 6: atpG: F0F1 ATP synthase subunit gamma (cds)
+ID 7: atpF: F0F1 ATP synthase subunit B (cds)
+ID 8: hypothetical protein (cds)

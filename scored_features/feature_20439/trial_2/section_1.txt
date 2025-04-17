@@ -1,0 +1,10 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: rpiA: ribose-5-phosphate isomerase RpiA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Cupin domain protein (cds)
+ID 5: Chromosome partition protein Smc (cds)
+ID 6: fabG: 3-oxoacyl-[acyl-carrier-protein] reductase FabG (cds)
+ID 7: sigW: ECF RNA polymerase sigma factor SigW (cds)
+ID 8: tcyB: L-cystine transport system permease protein TcyB (cds)
+ID 9: Shikimate dehydrogenase (cds)

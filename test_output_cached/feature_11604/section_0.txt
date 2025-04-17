@@ -1,0 +1,6 @@
+ID 1: caiD: Enoyl-CoA hydratase/carnithine racemase (cds)
+ID 2: spoT: (p)ppGpp synthase/hydrolase, HD superfamily (cds)
+ID 3: Signal transduction histidine kinase regulating C4-dicarboxylate transport system (cds)
+ID 4: Fatty acid desaturase (cds)
+ID 5: estA: Triacylglycerol esterase/lipase EstA, alpha/beta hydrolase fold (cds)
+ID 6: yidD: membrane protein insertion efficiency factor YidD (cds)

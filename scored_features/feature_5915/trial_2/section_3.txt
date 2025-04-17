@@ -1,0 +1,13 @@
+Image 3
+ID 1: dctP: TRAP-type C4-dicarboxylate transport system, periplasmic component (cds)
+ID 2: hycB: Fe-S-cluster-containing hydrogenase component 2 (cds)
+ID 3: Nuclear transport factor 2 family protein (cds)
+ID 4: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 5: Endoglucanase (cds)
+ID 6: DUF1049 domain-containing protein (cds)
+ID 7: Outer membrane lipoprotein-sorting protein (cds)
+ID 8: hfq: RNA chaperone Hfq (cds)
+ID 9: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 10: ltrA: group II intron reverse transcriptase/maturase (cds)
+ID 11: cobD: threonine-phosphate decarboxylase CobD (cds)
+ID 12: nagA: N-acetylglucosamine-6-phosphate deacetylase (cds)

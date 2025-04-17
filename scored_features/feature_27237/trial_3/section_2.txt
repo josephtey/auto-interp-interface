@@ -1,0 +1,11 @@
+Image 2
+ID 1: Threonine aldolase (cds)
+ID 2: ATPase (cds)
+ID 3: rpsK: 30S ribosomal protein S11 (cds)
+ID 4: carbamoyl phosphate synthase small subunit (cds)
+ID 5: pyrH: UMP kinase (cds)
+ID 6: AI-2E family transporter (cds)
+ID 7: glmU: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU (cds)
+ID 8: Helicase (cds)
+ID 9: VOC family protein (cds)
+ID 10: Sugar ABC transporter substrate-binding protein (cds)

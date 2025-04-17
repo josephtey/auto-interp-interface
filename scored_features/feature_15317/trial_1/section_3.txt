@@ -1,0 +1,11 @@
+Image 3
+ID 1: rpmG: 50S ribosomal protein L33 (cds)
+ID 2: yloU: Uncharacterized conserved protein YloU, alkaline shock protein (Asp23) family (cds)
+ID 3: rimM: ribosome maturation factor RimM (cds)
+ID 4: aF2118: putative transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair) (cds)
+ID 5: Rpn family recombination-promoting nuclease/putative transposase (cds)
+ID 6: amaP: Alkaline shock response membrane anchor protein AmaP (cds)
+ID 7: nifB: Fe-S oxidoreductase, related to NifB/MoaA family (cds)
+ID 8: valS: valine--tRNA ligase (cds)
+ID 9: ftsA: Cell division ATPase FtsA (cds)
+ID 10: DUF362 domain-containing protein (cds)

@@ -1,0 +1,13 @@
+Image 3
+ID 1: cusB: Cation efflux system protein CusB (cds)
+ID 2: Transcriptional regulator (cds)
+ID 3: DNA translocase SpoIIIE (cds)
+ID 4: YHYH domain-containing protein (cds)
+ID 5: Immunogenic protein MPT70 (cds)
+ID 6: MvaI/BcnI restriction endonuclease family protein (cds)
+ID 7: Adhesin (cds)
+ID 8: uxuA: mannonate dehydratase (cds)
+ID 9: Transposase (cds)
+ID 10: Dipeptide epimerase (cds)
+ID 11: dacB: D-alanyl-D-alanine carboxypeptidase DacB (cds)
+ID 12: panD: aspartate 1-decarboxylase (cds)

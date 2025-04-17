@@ -1,0 +1,7 @@
+ID 1: hypothetical protein (cds)
+ID 2: tolB: Translocation protein TolB (cds)
+ID 3: ygiQ: YgiQ family radical SAM protein (cds)
+ID 4: copC: Copper resistance protein CopC (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)

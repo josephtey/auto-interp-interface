@@ -1,0 +1,12 @@
+Image 0
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: rplW: 50S ribosomal protein L23 (cds)
+ID 3: Non-reducing end beta-L-arabinofuranosidase (cds)
+ID 4: Helicase XPB/Ssl2 N-terminal domain-containing protein (cds)
+ID 5: Putative restriction endonuclease domain-containing protein (cds)
+ID 6: vapC: Ribonuclease VapC (cds)
+ID 7: Mobile element protein (cds)
+ID 8: Neutral/alkaline non-lysosomal ceramidase (cds)
+ID 9: pksE: Polyketide biosynthesis protein PksE (cds)
+ID 10: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 11: Polysaccharide deacetylase (cds)

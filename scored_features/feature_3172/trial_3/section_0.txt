@@ -1,0 +1,13 @@
+Image 0
+Organism: Parasphingorhabdus halotolerans (a-proteobacteria)
+ID 1: Transcriptional regulator (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF4170 domain-containing protein (cds)
+ID 4: phytanoyl-CoA dioxygenase family protein (cds)
+ID 5: Patatin (cds)
+ID 6: zeta toxin family protein (cds)
+ID 7: nicotinate-nucleotide adenylyltransferase (cds)
+ID 8: Thiazole synthase (cds)
+ID 9: Iron-sulfur cluster carrier protein (cds)
+ID 10: hemH: ferrochelatase (cds)
+ID 11: putative branched-chain-amino-acid aminotransferase (cds)

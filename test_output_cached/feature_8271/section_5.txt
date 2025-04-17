@@ -1,0 +1,8 @@
+ID 1: sPS1: Serine/threonine protein kinase (cds)
+ID 2: Tetratricopeptide repeat protein (cds)
+ID 3: sPS1: Serine/threonine protein kinase (cds)
+ID 4: Lipoprotein (cds)
+ID 5: CRISPR spacer, sequence GTCGCCGTCGTGCTGCTCGATGCTCGCGATGACGAACC (crispr-spacer)
+ID 6: CRISPR spacer, sequence CTCTCCGTCCGGACGTACCCAGTTCGACCGAACTT (crispr-spacer)
+ID 7: hypothetical protein (cds)
+ID 8: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)

@@ -1,0 +1,11 @@
+Image 3
+ID 1: gntP: GntP family permease (cds)
+ID 2: nth: endonuclease III (cds)
+ID 3: lepB: signal peptidase I (cds)
+ID 4: Iron-sulfur cluster assembly accessory protein (cds)
+ID 5: Purine permease (cds)
+ID 6: Alpha/beta hydrolase (cds)
+ID 7: ABC transporter permease subunit (cds)
+ID 8: PH domain-containing protein (cds)
+ID 9: mutT: DNA mismatch repair protein MutT (cds)
+ID 10: single-stranded DNA-binding protein (cds)

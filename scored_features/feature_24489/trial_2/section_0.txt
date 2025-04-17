@@ -1,0 +1,13 @@
+Image 0
+ID 1: DUF4233 domain-containing protein (cds)
+ID 2: sucB: 2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase (cds)
+ID 3: urease subunit alpha (cds)
+ID 4: UDP-glucuronosyl/UDP-glucosyltransferase (cds)
+ID 5: Electron transfer flavoprotein subunit beta (cds)
+ID 6: Small conductance mechanosensitive channel (cds)
+ID 7: gntR: GntR family transcriptional regulator (cds)
+ID 8: Xylose isomerase-like TIM barrel domain-containing protein (cds)
+ID 9: Short-subunit dehydrogenase (cds)
+ID 10: Methyltransferase family protein (cds)
+ID 11: UDP-glucose 4-epimerase (cds)
+ID 12: yvrE: Sugar lactone lactonase YvrE (cds)

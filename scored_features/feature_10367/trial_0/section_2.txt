@@ -1,0 +1,8 @@
+Image 2
+ID 1: paaD: Metal-sulfur cluster biosynthetic enzyme (cds)
+ID 2: yceI: YceI family protein (cds)
+ID 3: DUF423 domain-containing protein (cds)
+ID 4: pseG: UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase (cds)
+ID 5: yeaD2: Uncharacterized conserved protein, DUF58 family, contains vWF domain (cds)
+ID 6: DUF5723 domain-containing protein (cds)
+ID 7: Outer membrane protein beta-barrel domain-containing protein (cds)

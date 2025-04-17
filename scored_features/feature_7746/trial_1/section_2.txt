@@ -1,0 +1,3 @@
+Image 2
+ID 1: helix-turn-helix domain-containing protein (cds)
+ID 2: PspA/IM30 family protein (cds)

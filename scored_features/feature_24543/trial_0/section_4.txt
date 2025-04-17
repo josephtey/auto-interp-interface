@@ -1,0 +1,10 @@
+Image 4
+ID 1: erpA: iron-sulfur cluster insertion protein ErpA (cds)
+ID 2: Phosphoketolase (cds)
+ID 3: Acetate kinase (cds)
+ID 4: hisG: ATP phosphoribosyltransferase (cds)
+ID 5: DEAD/DEAH box helicase (cds)
+ID 6: kfrA: KfrA N-terminal DNA-binding domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: ubiD: 4-hydroxy-3-polyprenylbenzoate decarboxylase (cds)
+ID 9: mtgA: monofunctional biosynthetic peptidoglycan transglycosylase (cds)

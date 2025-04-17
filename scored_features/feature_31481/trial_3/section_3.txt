@@ -1,0 +1,5 @@
+Image 3
+ID 1: Succinate-semialdehyde dehydrogenase (cds)
+ID 2: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR spacer, sequence CGCTACGCGCCATGACGTGCTCAACACGCATTC (crispr-spacer)

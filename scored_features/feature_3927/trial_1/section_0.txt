@@ -1,0 +1,12 @@
+Image 0
+ID 1: spoIIAA: Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor) (cds)
+ID 2: nifK: nitrogenase molybdenum-iron protein subunit beta (cds)
+ID 3: pycA: pyruvate carboxylase (cds)
+ID 4: skfB: Radical SAM superfamily maturase, SkfB/NifB/PqqE family (cds)
+ID 5: hypothetical protein (cds)
+ID 6: fhlA: FhlA-type transcriptional regulator, contains GAF, AAA-type ATPase, and DNA-binding Fis domains (cds)
+ID 7: DUF3047 domain-containing protein (cds)
+ID 8: gltB2: Glutamate synthase domain 2 (cds)
+ID 9: rplU: 50S ribosomal protein L21 (cds)
+ID 10: gluQRS: tRNA glutamyl-Q(34) synthetase GluQRS (cds)
+ID 11: mdaB: Putative NADPH-quinone reductase (modulator of drug activity B) (cds)

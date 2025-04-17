@@ -1,0 +1,3 @@
+ID 1: Mce-associated membrane protein (cds)
+ID 2: putative metal-dependent hydrolase (cds)
+ID 3: crp: cAMP-activated global transcriptional regulator CRP (cds)

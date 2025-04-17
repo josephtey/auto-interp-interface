@@ -1,0 +1,9 @@
+Image 0
+ID 1: rrl: 23S ribosomal RNA (rRNA)
+ID 2: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 3: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 4: cytochrome c (cds)
+ID 5: hypothetical protein (cds)
+ID 6: brnQ: branched-chain amino acid transport system II carrier protein (cds)
+ID 7: trnP: tRNA-Pro(tgg) (tRNA)
+ID 8: hisM: ABC-type amino acid transport system, permease component (cds)

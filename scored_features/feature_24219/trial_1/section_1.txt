@@ -1,0 +1,10 @@
+Image 1
+ID 1: MOSC domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: rrf: 5S ribosomal RNA (rRNA)
+ID 5: ABC transporter substrate-binding protein (cds)
+ID 6: NAD(P)H-dependent oxidoreductase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: ychF: redox-regulated ATPase YchF (cds)
+ID 9: lysR: LysR family transcriptional regulator (cds)

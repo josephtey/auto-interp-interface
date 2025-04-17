@@ -1,0 +1,10 @@
+Image 2
+ID 1: ibpA: Small heat shock protein IbpA, HSP20 family (cds)
+ID 2: Septum formation initiator (cds)
+ID 3: DUF1574 domain-containing protein (cds)
+ID 4: pdxI: NADP(H)-dependent aldo-keto reductase (cds)
+ID 5: ubiE: bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE (cds)
+ID 6: lysM: Peptidoglycan-binding protein LysM (cds)
+ID 7: DUF4760 domain-containing protein (cds)
+ID 8: CHAD domain-containing protein (cds)
+ID 9: arsC: arsenate reductase (glutaredoxin) (cds)

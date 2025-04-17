@@ -1,0 +1,9 @@
+Image 0
+ID 1: CRISPR spacer, sequence AAAAAACCGACTGGGTGCAGATCGGGGTTTT (crispr-spacer)
+ID 2: VWA domain-containing protein (cds)
+ID 3: ccoO: cytochrome-c oxidase, cbb3-type subunit II (cds)
+ID 4: rplO: 50S ribosomal protein L15 (cds)
+ID 5: DUF3581 domain-containing protein (cds)
+ID 6: Helix-turn-helix domain-containing protein (cds)
+ID 7: fliK: Hook-length control protein FliK (cds)
+ID 8: Beta-barrel porin-2, OmpL-like bbp2 (cds)

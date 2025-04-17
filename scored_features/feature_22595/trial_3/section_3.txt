@@ -1,0 +1,12 @@
+Image 3
+Organism: Shewanella polaris (g-proteobacteria)
+ID 1: rrl: 23S ribosomal RNA (rRNA)
+ID 2: flgD: Basal-body rod modification protein FlgD (cds)
+ID 3: Class I SAM-dependent methyltransferase (cds)
+ID 4: Acyl-coenzyme A dehydrogenase (cds)
+ID 5: aspS: aspartate--tRNA ligase (cds)
+ID 6: TPP riboswitch (THI element) (ncRNA-region)
+ID 7: fliG: flagellar motor switch protein FliG (cds)
+ID 8: copG: CopG family transcriptional regulator (cds)
+ID 9: hypothetical protein (cds)
+ID 10: rpoA: DNA-directed RNA polymerase subunit alpha (cds)

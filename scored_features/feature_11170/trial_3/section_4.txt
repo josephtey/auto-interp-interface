@@ -1,0 +1,11 @@
+Image 4
+ID 1: MFS transporter (cds)
+ID 2: PepSY domain-containing protein (cds)
+ID 3: site-2 protease family protein (cds)
+ID 4: hycI: hydrogenase maturation peptidase HycI (cds)
+ID 5: hypothetical protein (cds)
+ID 6: trnE: tRNA-Glu(ttc) (tRNA)
+ID 7: rimO: 30S ribosomal protein S12 methylthiotransferase RimO (cds)
+ID 8: AI-2E family transporter (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

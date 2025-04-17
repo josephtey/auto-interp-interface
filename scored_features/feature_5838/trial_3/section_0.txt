@@ -1,0 +1,12 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: TetR/AcrR family transcriptional regulator (cds)
+ID 3: Lipoprotein (cds)
+ID 4: bcsG: cellulose biosynthesis protein BcsG (cds)
+ID 5: ydiF: Acetate CoA-transferase YdiF (cds)
+ID 6: gltS: sodium/glutamate symporter (cds)
+ID 7: Tyrosine-protein phosphatase (cds)
+ID 8: t44: t44 RNA (ncRNA)
+ID 9: ryfA: ryfA RNA (ncRNA)
+ID 10: Translation initiation factor IF-2 (cds)
+ID 11: aroL: shikimate kinase AroL (cds)

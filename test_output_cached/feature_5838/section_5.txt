@@ -1,0 +1,7 @@
+ID 1: Fe-S oxidoreductase (cds)
+ID 2: Type IV leader peptidase family protein (cds)
+ID 3: DUF304 domain-containing protein (cds)
+ID 4: Phage late control gene D protein (GPD) (cds)
+ID 5: pdhA: pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha (cds)
+ID 6: hypothetical protein (cds)
+ID 7: csrA: Translational regulator CsrA (cds)

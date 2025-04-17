@@ -1,0 +1,10 @@
+Image 0
+ID 1: nusG: transcription termination/antitermination protein NusG (cds)
+ID 2: gldA: Glycerol dehydrogenase or related enzyme, iron-containing ADH family (cds)
+ID 3: tatD: 3'->5' ssDNA/RNA exonuclease TatD (cds)
+ID 4: deoB: phosphopentomutase (cds)
+ID 5: Leader peptide SpeFL (cds)
+ID 6: manA: Mannose-6-phosphate isomerase, class I (cds)
+ID 7: UPF0114 protein BN137_3377 (cds)
+ID 8: nrdD: anaerobic ribonucleoside-triphosphate reductase (cds)
+ID 9: Lipid A core-O-antigen ligase (cds)

@@ -1,0 +1,10 @@
+Image 0
+ID 1: fAU1: 5-formyltetrahydrofolate cyclo-ligase (cds)
+ID 2: yqfA: putative membrane channel-forming protein YqfA, hemolysin III family (cds)
+ID 3: PKD domain-containing protein (cds)
+ID 4: scpB: SMC-Scp complex subunit ScpB (cds)
+ID 5: glyA: Glycine/serine hydroxymethyltransferase (cds)
+ID 6: Lipoprotein (cds)
+ID 7: Secreted protein (cds)
+ID 8: ugpE: ABC-type glycerol-3-phosphate transport system, permease component (cds)
+ID 9: livM: ABC-type branched-chain amino acid transport system, permease component (cds)

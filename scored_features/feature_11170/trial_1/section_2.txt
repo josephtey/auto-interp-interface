@@ -1,0 +1,11 @@
+Image 2
+ID 1: Phosphomannomutase (cds)
+ID 2: Aminoglycoside phosphotransferase (cds)
+ID 3: Assimilatory nitrate reductase (NADH) beta subunit (cds)
+ID 4: fxsT: FxSxx-COOH system tetratricopeptide repeat protein (cds)
+ID 5: trnR: tRNA-Arg(tct) (tRNA)
+ID 6: DUF5667 domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: trnS: tRNA-Ser(gct) (tRNA)
+ID 9: hypothetical protein (cds)
+ID 10: trnP: tRNA-Pro(cgg) (tRNA)

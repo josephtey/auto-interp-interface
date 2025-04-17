@@ -1,0 +1,9 @@
+Image 4
+ID 1: gpD: Phage protein D (cds)
+ID 2: Protein N-terminal asparagine amidohydrolase (cds)
+ID 3: CRISPR spacer, sequence TACAGAATCACTTGTGTCTCCGAGCGAGAACGCGTT (crispr-spacer)
+ID 4: CRISPR spacer, sequence AATGTCATCTGACGCTCAACCTCGAGCGTTCGCGCG (crispr-spacer)
+ID 5: CRISPR spacer, sequence CAGCTCATCGACAAGTACCGGAGATGGAAGATTGTT (crispr-spacer)
+ID 6: dsbC: Protein thiol-disulfide isomerase DsbC (cds)
+ID 7: hypothetical protein (cds)
+ID 8: cfa: Cyclopropane fatty-acyl-phospholipid synthase and related methyltransferases (cds)

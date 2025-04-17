@@ -1,0 +1,3 @@
+Image 2
+ID 1: tkt: transketolase (cds)
+ID 2: S9 family peptidase (cds)

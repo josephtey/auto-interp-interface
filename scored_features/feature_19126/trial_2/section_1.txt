@@ -1,0 +1,9 @@
+Image 1
+ID 1: aspA: aspartate ammonia-lyase (cds)
+ID 2: yqiA: Esterase YqiA (cds)
+ID 3: Beta-lactamase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: nuoJ: NADH-quinone oxidoreductase subunit J (cds)
+ID 6: Calpastatin (cds)
+ID 7: yraN: YraN family protein (cds)
+ID 8: Prolyl oligopeptidase family protein (cds)

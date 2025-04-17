@@ -1,0 +1,7 @@
+Image 3
+ID 1: MATE family efflux transporter (cds)
+ID 2: Sulfite oxidase-like oxidoreductase (cds)
+ID 3: rsfS: ribosome silencing factor (cds)
+ID 4: nikD: nickel import ATP-binding protein NikD (cds)
+ID 5: Tetratricopeptide repeat protein (cds)
+ID 6: fluC: Fluoride-specific ion channel FluC (cds)

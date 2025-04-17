@@ -1,0 +1,10 @@
+Image 3
+ID 1: Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase (cds)
+ID 2: Membrane protein related to metalloendopeptidase (cds)
+ID 3: adhE: Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase (cds)
+ID 4: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 5: rpmE: type B 50S ribosomal protein L31 (cds)
+ID 6: CRISPR spacer, sequence TGCTGGTGGCCGGGGCGGGCGCAGCGGCAGAA (crispr-spacer)
+ID 7: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (cds)
+ID 8: malate synthase G (cds)
+ID 9: MoxR-like ATPase (cds)

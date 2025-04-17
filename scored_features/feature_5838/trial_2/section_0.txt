@@ -1,0 +1,11 @@
+Image 0
+ID 1: IS5 family transposase (cds)
+ID 2: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 3: Acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II (cds)
+ID 4: IS66 family transposase (cds)
+ID 5: atpG: FoF1-type ATP synthase, gamma subunit (cds)
+ID 6: putative DNA-binding protein, putative antitoxin AbrB/MazE fold (cds)
+ID 7: ygdD: DUF423 domain-containing protein (cds)
+ID 8: mmsB: 3-hydroxyisobutyrate dehydrogenase or related beta-hydroxyacid dehydrogenase (cds)
+ID 9: DUF1501 domain-containing protein (cds)
+ID 10: blueCu: Azurin (cds)

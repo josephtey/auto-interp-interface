@@ -1,0 +1,12 @@
+Image 2
+ID 1: trnA: tRNA-Ala(tgc) (tRNA)
+ID 2: Xylose isomerase domain protein TIM barrel (cds)
+ID 3: GCN5-related N-acetyltransferase (cds)
+ID 4: N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase (cds)
+ID 5: rimM: ribosome maturation factor RimM (cds)
+ID 6: hslO: Hsp33 family molecular chaperone HslO (cds)
+ID 7: T-box leader (ncRNA-region)
+ID 8: DUF3991 domain-containing protein (cds)
+ID 9: Glycoside hydrolase family 2 sugar binding protein (cds)
+ID 10: gmhB: D,D-heptose 1,7-bisphosphate phosphatase (cds)
+ID 11: mfd: transcription-repair coupling factor (cds)

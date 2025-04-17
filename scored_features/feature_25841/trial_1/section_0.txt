@@ -1,0 +1,5 @@
+Image 0
+ID 1: porG: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit (cds)
+ID 2: frr: ribosome recycling factor (cds)
+ID 3: cdsA: CDP-diglyceride synthetase (cds)
+ID 4: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)

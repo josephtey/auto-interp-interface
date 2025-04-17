@@ -1,0 +1,12 @@
+Image 4
+ID 1: Secreted protein (cds)
+ID 2: Efflux protein (cds)
+ID 3: Coenzyme Q-binding protein COQ10 START domain-containing protein (cds)
+ID 4: atpD: F0F1 ATP synthase subunit beta (cds)
+ID 5: 3-methyladenine DNA glycosylase (cds)
+ID 6: Urea transporter (cds)
+ID 7: aceE: pyruvate dehydrogenase (acetyl-transferring), homodimeric type (cds)
+ID 8: Chloromuconate cycloisomerase (cds)
+ID 9: Aromatic acid exporter family protein (cds)
+ID 10: DUF6474 domain-containing protein (cds)
+ID 11: cation diffusion facilitator family transporter (cds)

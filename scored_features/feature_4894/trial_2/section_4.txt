@@ -1,0 +1,12 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: CRISPR spacer, sequence TATTGCTAAAGTTATCTAATGTAAGTAATCG (crispr-spacer)
+ID 3: dnaN: (pseudo) DNA polymerase III subunit beta (cds)
+ID 4: ftsK: (pseudo) Cell division protein FtsK (cds)
+ID 5: hypothetical protein (cds)
+ID 6: M13-type metalloendopeptidase (cds)
+ID 7: UvrD/REP helicase family protein (cds)
+ID 8: hrcA: heat-inducible transcriptional repressor HrcA (cds)
+ID 9: (pseudo) hypothetical protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: tRNA/rRNA methyltransferase (cds)

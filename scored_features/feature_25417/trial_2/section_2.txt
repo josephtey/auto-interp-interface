@@ -1,0 +1,9 @@
+Image 2
+ID 1: araC: AraC family transcriptional regulator (cds)
+ID 2: hypothetical protein (cds)
+ID 3: ispG: flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (cds)
+ID 4: Acyl carrier protein (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Putative peptidase (cds)
+ID 7: Twitching mobility protein (cds)
+ID 8: lolD: Lipoprotein-releasing system ATP-binding protein LolD (cds)

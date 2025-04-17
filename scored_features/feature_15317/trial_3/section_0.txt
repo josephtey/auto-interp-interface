@@ -1,0 +1,9 @@
+Image 0
+ID 1: HEPN domain-containing protein (cds)
+ID 2: Metalloregulator ArsR/SmtB family transcription factor (cds)
+ID 3: Proteinase inhibitor (cds)
+ID 4: valS: valine--tRNA ligase (cds)
+ID 5: PilC/PilY family type IV pilus protein (cds)
+ID 6: type II toxin-antitoxin system Phd/YefM family antitoxin (cds)
+ID 7: hypothetical protein (cds)
+ID 8: IS607 family transposase (cds)

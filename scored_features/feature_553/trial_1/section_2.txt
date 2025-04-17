@@ -1,0 +1,11 @@
+Image 2
+Organism: Roseicyclus elongatus DSM 19469 (a-proteobacteria)
+ID 1: paaK: Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family (cds)
+ID 2: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 3: Voltage-gated sodium channel subunit (cds)
+ID 4: tag: 3-methyladenine DNA glycosylase Tag (cds)
+ID 5: rpsG: 30S ribosomal protein S7 (cds)
+ID 6: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 7: adhP: D-arabinose 1-dehydrogenase, Zn-dependent alcohol dehydrogenase family (cds)
+ID 8: obgE: GTPase ObgE (cds)
+ID 9: trnR: tRNA-Arg(ccg) (tRNA)

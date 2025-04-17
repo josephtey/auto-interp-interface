@@ -1,0 +1,9 @@
+Image 4
+ID 1: DUF1989 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Zinc-binding dehydrogenase (cds)
+ID 4: pstA: phosphate ABC transporter permease PstA (cds)
+ID 5: Phage holin family protein (cds)
+ID 6: Acetophenone carboxylase (cds)
+ID 7: tRNA glutamyl-Q(34) synthetase GluQRS (cds)
+ID 8: ZIP family zinc transporter (cds)

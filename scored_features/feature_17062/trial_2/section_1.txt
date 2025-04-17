@@ -1,0 +1,13 @@
+Image 1
+ID 1: rpsT: 30S ribosomal protein S20 (cds)
+ID 2: head GIN domain-containing protein (cds)
+ID 3: Peptidase (cds)
+ID 4: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 5: hypothetical protein (cds)
+ID 6: DUF2116 domain-containing protein (cds)
+ID 7: cation transporter (cds)
+ID 8: rplP: 50S ribosomal protein L16 (cds)
+ID 9: fecR: FecR family protein (cds)
+ID 10: DUF4350 domain-containing protein (cds)
+ID 11: DUF4870 domain-containing protein (cds)
+ID 12: yceI: YceI family protein (cds)

@@ -1,0 +1,13 @@
+Image 3
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: metH: methionine synthase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: srp102: Signal recognition particle receptor subunit beta, a GTPase (cds)
+ID 5: TadE-like (cds)
+ID 6: hypothetical protein (cds)
+ID 7: phosphatidylinositol mannoside acyltransferase (cds)
+ID 8: SARP family transcriptional regulator (cds)
+ID 9: arginine--tRNA ligase (cds)
+ID 10: msrA: Peptide methionine sulfoxide reductase MsrA (cds)
+ID 11: 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (cds)
+ID 12: luxR: Two component transcriptional regulator, LuxR family (cds)

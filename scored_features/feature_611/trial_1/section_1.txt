@@ -1,0 +1,6 @@
+Image 1
+ID 1: cusA: Cu/Ag efflux pump CusA (cds)
+ID 2: sPS1: Serine/threonine protein kinase (cds)
+ID 3: CRISPR spacer, sequence GGCCGAGGTGACCCGAAAGAATCGAGAGGAGATCGAG (crispr-spacer)
+ID 4: CRISPR spacer, sequence GTACAGACGTCCGGAGAAGAGGGCGTAGCTCCTCGGTT (crispr-spacer)
+ID 5: yuxK: putative thiol-disulfide oxidoreductase YuxK, DCC family (cds)

@@ -1,0 +1,13 @@
+Image 3
+ID 1: mlaE: Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 2: Protein kinase (cds)
+ID 3: purU: formyltetrahydrofolate deformylase (cds)
+ID 4: clpP: ATP-dependent protease ClpP, protease subunit (cds)
+ID 5: nfnB: Nitroreductase (cds)
+ID 6: Amicyanin (cds)
+ID 7: sirB: Sirohydrochlorin ferrochelatase (cds)
+ID 8: menE: O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming) (cds)
+ID 9: ssuD: Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase) (cds)
+ID 10: aes: Acetyl esterase/lipase (cds)
+ID 11: pucL: 2-oxo-4-hydroxy-4-carboxy--5-ureidoimidazoline (OHCU) decarboxylase (uric acid degradation) (cds)
+ID 12: Integral membrane protein (cds)

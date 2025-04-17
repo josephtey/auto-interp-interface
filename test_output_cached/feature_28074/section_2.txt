@@ -1,0 +1,4 @@
+ID 1: Diguanylate cyclase domain protein (cds)
+ID 2: ssuC: Putative aliphatic sulfonates transport permease protein ssuC (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: Zinc-type alcohol dehydrogenase-like protein (cds)

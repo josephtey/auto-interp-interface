@@ -1,0 +1,11 @@
+Image 4
+ID 1: nlpD: Murein DD-endopeptidase MepM and murein hydrolase activator NlpD, contains LysM domain (cds)
+ID 2: mazG: nucleoside triphosphate pyrophosphohydrolase (cds)
+ID 3: Four helix bundle protein (cds)
+ID 4: aF2118: putative transcriptional regulator, contains an XRE-type HTH domain (archaeal members contain CBS pair) (cds)
+ID 5: gldD: gliding motility lipoprotein GldD (cds)
+ID 6: yjcL: Uncharacterized membrane protein YjcL (cds)
+ID 7: Uncharacterized membrane protein (cds)
+ID 8: tamB: Autotransporter translocation and assembly protein TamB (cds)
+ID 9: Putative transporter (cds)
+ID 10: phrB: Deoxyribodipyrimidine photolyase (cds)

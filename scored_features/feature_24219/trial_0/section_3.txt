@@ -1,0 +1,10 @@
+Image 3
+ID 1: DUF4402 domain-containing protein (cds)
+ID 2: Core-binding (CB) domain-containing protein (cds)
+ID 3: GAF domain-containing protein (cds)
+ID 4: Lipoprotein (cds)
+ID 5: Nitronate monooxygenase (cds)
+ID 6: gatB: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB (cds)
+ID 7: trpS: tryptophan--tRNA ligase (cds)
+ID 8: Acyl-CoA/acyl-ACP dehydrogenase (cds)
+ID 9: murD: UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (cds)

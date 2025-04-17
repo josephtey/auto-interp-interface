@@ -1,0 +1,8 @@
+Image 3
+ID 1: Cysteine-rich repeat protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: dacC: D-alanyl-D-alanine carboxypeptidase (cds)
+ID 4: yqjQ: Short-chain dehydrogenase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR spacer, sequence CGCAGACGCTCGATCTCGGCGGCAAGCTCCGCCTT (crispr-spacer)

@@ -1,0 +1,10 @@
+Image 1
+ID 1: yabA: DNA replication initiation control protein YabA (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: MFS transporter, DHA3 family, tetracycline resistance protein (cds)
+ID 5: Tagaturonate reductase (cds)
+ID 6: trnfM: tRNA-fMet(cat) (tRNA)
+ID 7: Capsule polysaccharide biosynthesis protein (cds)
+ID 8: thiM: hydroxyethylthiazole kinase (cds)
+ID 9: ATP-dependent helicase/DNAse subunit B (cds)

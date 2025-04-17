@@ -1,0 +1,11 @@
+Image 2
+ID 1: Amidohydrolase (cds)
+ID 2: FGGY-family pentulose kinase (cds)
+ID 3: erpA: iron-sulfur cluster insertion protein ErpA (cds)
+ID 4: flaG: Flagellar protein FlaG protein (cds)
+ID 5: Sodium/hydrogen exchanger (cds)
+ID 6: NADH:flavin oxidoreductase/NADH oxidase (cds)
+ID 7: zapC: Cell division protein ZapC (cds)
+ID 8: uppS: polyprenyl diphosphate synthase (cds)
+ID 9: NUDIX hydrolase (cds)
+ID 10: Periplasmic protein (cds)

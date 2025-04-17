@@ -1,0 +1,10 @@
+Image 4
+ID 1: hadB: (3R)-hydroxyacyl-ACP dehydratase subunit HadB (cds)
+ID 2: ilvE: aminodeoxychorismate lyase (cds)
+ID 3: Phytoene dehydrogenase-related protein (cds)
+ID 4: cobH: precorrin-8X methylmutase (cds)
+ID 5: diacylglycerol O-acyltransferase (cds)
+ID 6: Histidine kinase (cds)
+ID 7: padR: DNA-binding transcriptional regulator, PadR family (cds)
+ID 8: nudC: NAD(+) diphosphatase (cds)
+ID 9: mviM: putative dehydrogenase (cds)

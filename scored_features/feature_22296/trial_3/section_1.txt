@@ -1,0 +1,12 @@
+Image 1
+ID 1: PGPGW domain-containing protein (cds)
+ID 2: Release factor glutamine methyltransferase (cds)
+ID 3: AI-2E family transporter (cds)
+ID 4: mutM: bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase (cds)
+ID 5: ABC transporter substrate-binding protein (cds)
+ID 6: pdxY: pyridoxal kinase PdxY (cds)
+ID 7: DNA-binding protein (cds)
+ID 8: peptidylprolyl isomerase (cds)
+ID 9: Glutamate synthase (cds)
+ID 10: dapA: 4-hydroxy-tetrahydrodipicolinate synthase (cds)
+ID 11: hypothetical protein (cds)

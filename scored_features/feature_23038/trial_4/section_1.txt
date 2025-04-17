@@ -1,0 +1,9 @@
+Image 1
+ID 1: trnI: tRNA-Ile2(cat) (tRNA)
+ID 2: Single-stranded DNA-binding protein (cds)
+ID 3: pepN: aminopeptidase N (cds)
+ID 4: Multidrug transporter (cds)
+ID 5: purB: adenylosuccinate lyase (cds)
+ID 6: adenylosuccinate synthase (cds)
+ID 7: Peptide ABC transporter permease (cds)
+ID 8: NGG1p interacting factor 3 protein, NIF3 (cds)

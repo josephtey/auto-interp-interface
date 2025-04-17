@@ -1,0 +1,5 @@
+ID 1: IS4 family transposase (cds)
+ID 2: Molybdenum ABC transporter ATP-binding protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: aroE: shikimate dehydrogenase (cds)
+ID 5: phosphopentomutase (cds)

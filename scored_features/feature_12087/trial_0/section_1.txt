@@ -1,0 +1,5 @@
+Image 1
+ID 1: lysM: LysM domain-containing protein (cds)
+ID 2: tetR: Transcriptional regulator, TetR family (cds)
+ID 3: merR: Transcriptional regulator, MerR family (cds)
+ID 4: Adenylate/guanylate cyclase (cds)

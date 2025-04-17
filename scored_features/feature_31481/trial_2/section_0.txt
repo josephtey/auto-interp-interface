@@ -1,0 +1,11 @@
+Image 0
+ID 1: gabT RNA (ncRNA-region)
+ID 2: Glycosyl transferase (cds)
+ID 3: fis: DNA-binding transcriptional regulator Fis (cds)
+ID 4: GIY-YIG domain-containing protein (cds)
+ID 5: Phage tail tape measure protein, lambda family (cds)
+ID 6: Dermonecrotic toxin (cds)
+ID 7: Oxidase (cds)
+ID 8: Lipoprotein (cds)
+ID 9: Histidine kinase (cds)
+ID 10: Histone deacetylase (cds)

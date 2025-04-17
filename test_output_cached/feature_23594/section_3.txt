@@ -1,0 +1,2 @@
+ID 1: Putative protease (cds)
+ID 2: hypothetical protein (cds)

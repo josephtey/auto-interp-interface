@@ -1,0 +1,12 @@
+Image 1
+ID 1: Type IX secretion system membrane protein, PorP/SprF family (cds)
+ID 2: cheY: CheY-like REC (receiver) domain, includes chemotaxis protein CheY and sporulation regulator Spo0F (cds)
+ID 3: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 4: elaA: putative N-acyltransferase, GNAT family (cds)
+ID 5: hemD: Uroporphyrinogen-III synthase (cds)
+ID 6: tDO2: Tryptophan 2,3-dioxygenase (vermilion) (cds)
+ID 7: rodA: rod shape-determining protein RodA (cds)
+ID 8: dltB: D-alanyl-lipoteichoic acid acyltransferase DltB, MBOAT superfamily (cds)
+ID 9: surA: Peptidyl-prolyl isomerase, parvulin family (cds)
+ID 10: hypothetical protein (cds)
+ID 11: DUF2490 domain-containing protein (cds)

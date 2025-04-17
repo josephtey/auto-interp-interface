@@ -1,0 +1,10 @@
+Image 0
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: Histidine kinase (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR-associated RAMP protein (cds)
+ID 4: CRISPR spacer, sequence TTGTTTGCCATTAAAATCACCTCTATGAGATTTTATT (crispr-spacer)
+ID 5: TIGR03936 family radical SAM-associated protein (cds)
+ID 6: Spore photoproduct lyase (cds)
+ID 7: Small, acid-soluble spore protein, alpha/beta type (cds)
+ID 8: Alpha/beta hydrolase (cds)

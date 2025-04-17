@@ -1,0 +1,8 @@
+Image 3
+ID 1: Attachment invasion locus (cds)
+ID 2: Competence protein (cds)
+ID 3: ATP-dependent helicase (cds)
+ID 4: Lipase 1 (Triacylglycerol lipase) (cds)
+ID 5: cspE: transcription antiterminator/RNA stability regulator CspE (cds)
+ID 6: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 7: CRISPR repeat (crispr-repeat)

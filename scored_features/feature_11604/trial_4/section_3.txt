@@ -1,0 +1,11 @@
+Image 3
+ID 1: carA: carbamoyl phosphate synthase small subunit (cds)
+ID 2: Bifunctional DNase/RNase (cds)
+ID 3: fabB: 3-oxoacyl-(acyl-carrier-protein) synthase (cds)
+ID 4: LPXTG-motif cell wall anchor domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: pgpB: Membrane-associated phospholipid phosphatase (cds)
+ID 7: Lactate utilization protein B/C (cds)
+ID 8: sPS1: Serine/threonine protein kinase (cds)
+ID 9: CHAD domain-containing protein (cds)
+ID 10: ctpA: C-terminal processing protease CtpA/Prc, contains a PDZ domain (cds)

@@ -1,0 +1,11 @@
+Image 1
+ID 1: pheC: Cyclohexadienyl dehydratase PheC (cds)
+ID 2: Transposase (cds)
+ID 3: Bcj11: Burkholderia RNA 11 (ncRNA)
+ID 4: Transmembrane protein (cds)
+ID 5: CRISPR spacer, sequence GTAACGATCGTCGTTGCCCTTGATGAACTGAT (crispr-spacer)
+ID 6: Extracellular substrate-binding protein (cds)
+ID 7: ATPase (cds)
+ID 8: Putative pyridoxamine 5'-phosphate oxidase-like, FMN-binding protein (cds)
+ID 9: lprI: Lysozyme inhibitor LprI N-terminal domain-containing protein (cds)
+ID 10: histidine kinase (cds)

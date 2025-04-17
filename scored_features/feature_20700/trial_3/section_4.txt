@@ -1,0 +1,10 @@
+Image 4
+ID 1: minE: cell division topological specificity factor MinE (cds)
+ID 2: M23 family metallopeptidase (cds)
+ID 3: bisC: Anaerobic selenocysteine-containing dehydrogenase (cds)
+ID 4: putative ATPase (cds)
+ID 5: dsrJ: DsrJ (cds)
+ID 6: cation-transporting P-type ATPase (cds)
+ID 7: menF: Isochorismate synthase EntC (cds)
+ID 8: coaX: Pantothenate kinase type III (cds)
+ID 9: lon: endopeptidase La (cds)

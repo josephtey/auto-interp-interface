@@ -1,0 +1,7 @@
+ID 1: aguA: agmatine deiminase (cds)
+ID 2: Tail fiber protein (cds)
+ID 3: mscL: large conductance mechanosensitive channel protein MscL (cds)
+ID 4: Aldehyde oxidase and xanthine dehydrogenase molybdopterin binding protein (cds)
+ID 5: MFS transporter (cds)
+ID 6: Phage protein (cds)
+ID 7: Acyl-CoA dehydrogenase domain protein (cds)

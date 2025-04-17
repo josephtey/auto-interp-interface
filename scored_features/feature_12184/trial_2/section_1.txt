@@ -1,0 +1,11 @@
+Image 1
+ID 1: lpxD: UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase (cds)
+ID 2: phage head closure protein (cds)
+ID 3: Putative bacteriophage protein (cds)
+ID 4: ATP-dependent helicase (cds)
+ID 5: Putative Nematicidal protein 2 (cds)
+ID 6: 3-hydroxyisobutyrate dehydrogenase family protein (cds)
+ID 7: Scaffolding protein for murein-synthesizing holoenzyme, outer membrane protein (cds)
+ID 8: Gene 66 protein (cds)
+ID 9: maf: 7-methyl-GTP pyrophosphatase (cds)
+ID 10: hypothetical protein (cds)

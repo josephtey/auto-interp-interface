@@ -1,0 +1,7 @@
+Image 2
+ID 1: S49 family peptidase (cds)
+ID 2: bfr: bacterioferritin (cds)
+ID 3: SMP-30/Gluconolactonase/LRE-like region domain-containing protein (cds)
+ID 4: Tandem-95 repeat protein (cds)
+ID 5: P22 coat protein - gene protein 5 (cds)
+ID 6: hypothetical protein (cds)

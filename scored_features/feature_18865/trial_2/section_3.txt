@@ -1,0 +1,10 @@
+Image 3
+ID 1: trnK: tRNA-Lys(ctt) (tRNA)
+ID 2: acs: acetate--CoA ligase (cds)
+ID 3: histidine kinase (cds)
+ID 4: mobF: MobF family relaxase (cds)
+ID 5: Peptidase S9 prolyl oligopeptidase catalytic domain-containing protein (cds)
+ID 6: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 7: Phosphoserine phosphatase 2 (cds)
+ID 8: DUF4261 domain-containing protein (cds)
+ID 9: ATP-binding protein (cds)

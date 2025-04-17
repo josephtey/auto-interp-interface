@@ -1,0 +1,12 @@
+Image 3
+ID 1: SGNH hydrolase-type esterase domain-containing protein (cds)
+ID 2: NYN domain-containing protein (cds)
+ID 3: IS256 family transposase (cds)
+ID 4: RDD domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 7: thiC: phosphomethylpyrimidine synthase ThiC (cds)
+ID 8: copC: CopC domain-containing protein (cds)
+ID 9: DUF3000 domain-containing protein (cds)
+ID 10: Putative transcription factor (cds)
+ID 11: Putative nodulin 21-related protein (cds)

@@ -1,0 +1,12 @@
+Image 3
+ID 1: pepP: Xaa-Pro aminopeptidase (cds)
+ID 2: Isoprenyl synthetase (cds)
+ID 3: mdh: malate dehydrogenase (cds)
+ID 4: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 5: relB: Addiction module antitoxin RelB (cds)
+ID 6: Intein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: ridA: RidA family protein (cds)
+ID 9: yceI: YceI family protein (cds)
+ID 10: DUF4249 domain-containing protein (cds)
+ID 11: Alpha-glucosidase (cds)

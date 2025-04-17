@@ -1,0 +1,12 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: Chromosome replication initiation inhibitor protein (cds)
+ID 3: ESAT-6-like protein (cds)
+ID 4: Diguanylate cyclase (GGDEF) domain-containing protein (cds)
+ID 5: Acyl-CoA dehydrogenase domain-containing protein (cds)
+ID 6: araB: ribulokinase (cds)
+ID 7: ribE: riboflavin synthase (cds)
+ID 8: CHAT domain (cds)
+ID 9: Virulence factor Mce family protein (cds)
+ID 10: DivIVA domain-containing protein (cds)
+ID 11: DUF3073 domain-containing protein (cds)

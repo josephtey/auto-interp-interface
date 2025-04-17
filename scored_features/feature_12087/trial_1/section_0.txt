@@ -1,0 +1,10 @@
+Image 0
+ID 1: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 2: yliI: Glucose/arabinose dehydrogenase, beta-propeller fold (cds)
+ID 3: ydfG: bifunctional NADP-dependent 3-hydroxy acid dehydrogenase/3-hydroxypropionate dehydrogenase YdfG (cds)
+ID 4: oppC: oligopeptide ABC transporter permease OppC (cds)
+ID 5: nhaB: Na(+)/H(+) antiporter NhaB (cds)
+ID 6: cbiH: precorrin-3B C(17)-methyltransferase (cds)
+ID 7: pbpG: D-alanyl-D-alanine endopeptidase (cds)
+ID 8: lysA: diaminopimelate decarboxylase (cds)
+ID 9: sspB: ClpXP protease specificity-enhancing factor (cds)

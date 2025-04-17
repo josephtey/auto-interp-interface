@@ -1,0 +1,12 @@
+Image 4
+ID 1: PIN domain-containing protein (cds)
+ID 2: Response regulator with putative antiterminator output domain (cds)
+ID 3: 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductase (cds)
+ID 4: hypothetical protein (cds)
+ID 5: nagZ: beta-N-acetylhexosaminidase (cds)
+ID 6: Phosphate starvation-inducible protein PhoH, putative ATPase (cds)
+ID 7: Transcriptional regulator (cds)
+ID 8: hypothetical protein (cds)
+ID 9: Permease (cds)
+ID 10: flhC: flagellar transcriptional regulator FlhC (cds)
+ID 11: GTPase-Sulfate adenylate transferase subunit 1 (cds)

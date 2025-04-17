@@ -1,0 +1,8 @@
+Image 1
+ID 1: D-aminoacylase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: nmrA: NmrA family transcriptional regulator (cds)
+ID 4: MFS transporter (cds)
+ID 5: argA: amino-acid N-acetyltransferase (cds)
+ID 6: Ferredoxin (cds)
+ID 7: non-specific serine/threonine protein kinase (cds)

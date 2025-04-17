@@ -1,0 +1,10 @@
+Image 3
+ID 1: pal: peptidoglycan-associated lipoprotein Pal (cds)
+ID 2: Competence/damage-inducible protein A (cds)
+ID 3: Ribonuclease T (cds)
+ID 4: tetR: TetR family transcriptional regulator (cds)
+ID 5: branched-chain amino acid aminotransferase (cds)
+ID 6: rpoC: DNA-directed RNA polymerase subunit beta' (cds)
+ID 7: Mannose-6-phosphate isomerase (cds)
+ID 8: tetR: TetR family transcriptional regulator (cds)
+ID 9: histidine kinase (cds)

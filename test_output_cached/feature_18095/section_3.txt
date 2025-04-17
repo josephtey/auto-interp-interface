@@ -1,0 +1,7 @@
+ID 1: glmU: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU (cds)
+ID 2: gsiA: ABC-type glutathione transport system ATPase component, contains duplicated ATPase domain (cds)
+ID 3: relE: mRNA-degrading endonuclease RelE, toxin component of the RelBE toxin-antitoxin system (cds)
+ID 4: rodA: rod shape-determining protein RodA (cds)
+ID 5: Extracellular solute-binding protein family 1 (cds)
+ID 6: rplJ: 50S ribosomal protein L10 (cds)
+ID 7: fdhA: formaldehyde dehydrogenase, glutathione-independent (cds)

@@ -1,0 +1,10 @@
+Image 2
+ID 1: arsR: ArsR family transcriptional regulator (cds)
+ID 2: N-acetyltransferase domain-containing protein (cds)
+ID 3: Hydrolase (cds)
+ID 4: Phage protein (cds)
+ID 5: sodium-dependent transporter (cds)
+ID 6: Chitinase (cds)
+ID 7: 2-aminoglycoside phosphotransferase (cds)
+ID 8: Phosphoglycolate phosphatase (cds)
+ID 9: Iron-siderophore ABC transporter permease (cds)

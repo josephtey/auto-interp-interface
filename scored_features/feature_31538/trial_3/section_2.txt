@@ -1,0 +1,13 @@
+Image 2
+ID 1: trnV: tRNA-Val(gac) (tRNA)
+ID 2: aroK: Shikimate kinase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: cdaR: CdaR GGDEF-like domain-containing protein (cds)
+ID 5: mobB: molybdopterin-guanine dinucleotide biosynthesis protein B (cds)
+ID 6: yqhQ: DUF1385 domain-containing protein (cds)
+ID 7: recU: Holliday junction resolvase RecU (cds)
+ID 8: DUF2103 domain-containing protein (cds)
+ID 9: ecfT: ECF-type transporter transmembrane protein EcfT (cds)
+ID 10: alaS: alanine--tRNA ligase (cds)
+ID 11: ackA: Acetate kinase (cds)
+ID 12: Purine riboswitch (ncRNA-region)

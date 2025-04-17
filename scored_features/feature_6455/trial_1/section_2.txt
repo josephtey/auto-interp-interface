@@ -1,0 +1,10 @@
+Image 2
+ID 1: Putative amino acid efflux transmembrane protein (cds)
+ID 2: insA: Insertion element iso-IS1N protein insA (cds)
+ID 3: ybgE: cyd operon protein YbgE (cds)
+ID 4: mepB: MepB family protein (cds)
+ID 5: flgF: Flagellar basal body rod protein FlgF (cds)
+ID 6: Putative non-ribosomal peptide synthetase (cds)
+ID 7: rdgB: XTP/dITP diphosphatase (cds)
+ID 8: yaaA: peroxide stress protein YaaA (cds)
+ID 9: amiC: N-acetylmuramoyl-L-alanine amidase AmiC (cds)

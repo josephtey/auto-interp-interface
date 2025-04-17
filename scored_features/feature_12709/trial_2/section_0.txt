@@ -1,0 +1,9 @@
+Image 0
+ID 1: DUF445 domain-containing protein (cds)
+ID 2: DUF3108 domain-containing protein (cds)
+ID 3: pqqA: pyrroloquinoline quinone precursor peptide PqqA (sorf)
+ID 4: ftsX: permease-like cell division protein FtsX (cds)
+ID 5: TonB-dependent receptor (cds)
+ID 6: kdpA: potassium-transporting ATPase subunit KdpA (cds)
+ID 7: Exported beta-glucosidase (cds)
+ID 8: IS5 family transposase (cds)

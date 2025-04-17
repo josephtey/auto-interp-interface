@@ -1,0 +1,3 @@
+ID 1: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 2: accD: acetyl-CoA carboxylase, carboxyltransferase subunit beta (cds)
+ID 3: PEP-CTERM sorting domain-containing protein (cds)

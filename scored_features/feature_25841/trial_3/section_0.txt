@@ -1,0 +1,12 @@
+Image 0
+ID 1: Stage II sporulation protein M (cds)
+ID 2: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 3: Zn-dependent dipeptidase, dipeptidase-like protein (cds)
+ID 4: pdxI: Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family (cds)
+ID 5: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 6: Lipoprotein (cds)
+ID 7: CRISPR spacer, sequence ATGCAGATGTGAATTTGTACAGCATGTACC (crispr-spacer)
+ID 8: hutU: urocanate hydratase (cds)
+ID 9: Cleaved adhesin domain-containing protein (cds)
+ID 10: NH(3)-dependent NAD(+) synthetase (cds)
+ID 11: DUF6759 domain-containing protein (cds)

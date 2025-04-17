@@ -1,0 +1,10 @@
+Image 0
+ID 1: grpB: GrpB domain, putative nucleotidyltransferase, UPF0157 family (cds)
+ID 2: porG: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit (cds)
+ID 3: Transglycosylase (cds)
+ID 4: spoIIP: Stage II sporulation protein SpoIIP, required for dissolution of the septal cell wall (cds)
+ID 5: ygiM: DUF1202 domain-containing protein (cds)
+ID 6: guaC: GMP reductase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: DUF6465 domain-containing protein (cds)
+ID 9: hypothetical protein (cds)

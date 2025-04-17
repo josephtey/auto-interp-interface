@@ -1,0 +1,12 @@
+Image 2
+ID 1: Thioredoxin (cds)
+ID 2: rimI: ribosomal protein S18-alanine N-acetyltransferase (cds)
+ID 3: hemQ: hydrogen peroxide-dependent heme synthase (cds)
+ID 4: ATP-dependent Clp protease proteolytic subunit (cds)
+ID 5: CRISPR spacer, sequence GGATACACGCCATCCACAATAGAAGTGGAAATG (crispr-spacer)
+ID 6: DNA topoisomerase (ATP-hydrolyzing) (cds)
+ID 7: Alpha-1,4 glucan phosphorylase (cds)
+ID 8: glmU: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU (cds)
+ID 9: Biotin-dependent carboxyltransferase family protein (cds)
+ID 10: GNAT family N-acetyltransferase (cds)
+ID 11: CHAP domain-containing protein (cds)

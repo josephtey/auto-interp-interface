@@ -1,0 +1,11 @@
+Organism: Unknown organism
+ID 1: Alpha/beta fold hydrolase (cds)
+ID 2: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 3: Beta-ketoacyl-[acyl-carrier-protein] synthase family protein (cds)
+ID 4: YhhN-like protein (cds)
+ID 5: NAD-dependent epimerase/dehydratase family protein (cds)
+ID 6: ABC transporter permease (cds)
+ID 7: csbD: CsbD family protein (cds)
+ID 8: fmt: methionyl-tRNA formyltransferase (cds)
+ID 9: speE: polyamine aminopropyltransferase (cds)
+ID 10: Zinc finger CHCC-type domain-containing protein (cds)

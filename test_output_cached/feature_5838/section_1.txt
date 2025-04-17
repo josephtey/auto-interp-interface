@@ -1,0 +1,2 @@
+ID 1: lAP4: aminopeptidase (cds)
+ID 2: fixB: Electron transfer flavoprotein, alpha subunit FixB (cds)

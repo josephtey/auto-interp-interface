@@ -1,0 +1,7 @@
+ID 1: Cell surface receptor IPT/TIG domain protein (cds)
+ID 2: betA: Choline dehydrogenase or related flavoprotein (cds)
+ID 3: DUF6508 domain-containing protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: mmcQ: putative DNA-binding protein with ‘double-wing’ structural motif, MmcQ/YjbR family (cds)
+ID 7: tsf: translation elongation factor Ts (cds)

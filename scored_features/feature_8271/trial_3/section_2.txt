@@ -1,0 +1,6 @@
+Image 2
+ID 1: cas2e: type I-E CRISPR-associated endoribonuclease Cas2e (cds)
+ID 2: rplQ: 50S ribosomal protein L17 (cds)
+ID 3: trnV: tRNA-Val(gac) (tRNA)
+ID 4: ynhF: YnhF family membrane protein (cds)
+ID 5: lysR: LysR family transcriptional regulator (cds)

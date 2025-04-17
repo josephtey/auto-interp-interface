@@ -1,0 +1,8 @@
+ID 1: IS630 family transposase (cds)
+ID 2: Putative lipoprotein (cds)
+ID 3: Anti-sigma factor antagonist (cds)
+ID 4: PTS glucose-specific IIABC (cds)
+ID 5: Putative ABC transporter permease protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Hydrolase (cds)
+ID 8: Phosphatidic acid phosphatase type 2/haloperoxidase domain-containing protein (cds)

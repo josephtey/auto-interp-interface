@@ -1,0 +1,11 @@
+Image 3
+ID 1: DUF805 domain-containing protein (cds)
+ID 2: UDP-2,3-diacylglucosamine diphosphatase (cds)
+ID 3: eco: serine protease inhibitor ecotin (cds)
+ID 4: lolD: lipoprotein-releasing ABC transporter ATP-binding protein LolD (cds)
+ID 5: Tetratricopeptide repeat protein (cds)
+ID 6: trnR: tRNA-Arg(cct) (tRNA)
+ID 7: bfr: bacterioferritin (cds)
+ID 8: Extracellular solute-binding protein, family 1 (cds)
+ID 9: histidine kinase (cds)
+ID 10: DUF2489 domain-containing protein (cds)

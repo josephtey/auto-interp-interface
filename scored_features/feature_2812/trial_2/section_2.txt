@@ -1,0 +1,12 @@
+Image 2
+ID 1: lipC: Spore germination lipase LipC (cds)
+ID 2: acpP: acyl carrier protein (cds)
+ID 3: infB: translation initiation factor IF-2 (cds)
+ID 4: yprA: ATP-dependent helicase MrfA (cds)
+ID 5: spoIVA: stage IV sporulation protein A (cds)
+ID 6: menF: Isochorismate synthase MenF (cds)
+ID 7: gbsR: transcriptional regulator GbsR (cds)
+ID 8: lytR: Membrane-bound protein LytR (cds)
+ID 9: ggaB: Minor teichoic acid biosynthesis protein GgaB (cds)
+ID 10: ywoC: Uncharacterized isochorismatase family protein YwoC (cds)
+ID 11: pdxK: bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase (cds)

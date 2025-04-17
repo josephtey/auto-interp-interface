@@ -1,0 +1,8 @@
+ID 1: Aminotransferase (cds)
+ID 2: Spermidine/putrescine ABC transporter ATP-binding protein (cds)
+ID 3: hutH: histidine ammonia-lyase (cds)
+ID 4: CRISPR spacer, sequence GCAATGGACAACTCCATTGAGCTGTAATGACCAGGG (crispr-spacer)
+ID 5: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)
+ID 6: yyaC: spore protease YyaC (cds)
+ID 7: NAD-dependent epimerase/dehydratase domain-containing protein (cds)
+ID 8: CAP domain-containing protein (cds)

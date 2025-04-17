@@ -1,0 +1,8 @@
+Image 4
+ID 1: CRISPR array with 63 repeats of length 32, consensus sequence GTCGCCCCCCACGCGGGGGCGTGGATTGAAAC and spacer length 34 (crispr)
+ID 2: CRISPR spacer, sequence TTGCGGGCGATCTTGAACGAGTACCAGCCCGAGG (crispr-spacer)
+ID 3: yphA: Inner membrane protein YphA (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: DUF1778 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)

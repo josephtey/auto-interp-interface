@@ -1,0 +1,12 @@
+Image 2
+ID 1: SUF system Fe-S cluster assembly regulator (cds)
+ID 2: rsmG: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG (cds)
+ID 3: Alpha/beta hydrolase (cds)
+ID 4: YCII-related domain-containing protein (cds)
+ID 5: ispH: 4-hydroxy-3-methylbut-2-enyl diphosphate reductase (cds)
+ID 6: ftsY: signal recognition particle-docking protein FtsY (cds)
+ID 7: Carbonic anhydrase (cds)
+ID 8: cinA: CinA family protein (cds)
+ID 9: trnG: tRNA-Gly(ccc) (tRNA)
+ID 10: Class I SAM-dependent methyltransferase (cds)
+ID 11: adenylosuccinate synthase (cds)

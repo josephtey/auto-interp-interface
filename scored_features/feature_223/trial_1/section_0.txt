@@ -1,0 +1,11 @@
+Image 0
+ID 1: rpsK: 30S ribosomal protein S11 (cds)
+ID 2: DUF4261 domain-containing protein (cds)
+ID 3: qdoI: Cupin domain protein related to quercetin dioxygenase (cds)
+ID 4: virD4: Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: spoIVCA: Site-specific DNA recombinase SpoIVCA/DNA invertase PinE (cds)
+ID 7: sEC59: Dolichol kinase (cds)
+ID 8: zwf: glucose-6-phosphate dehydrogenase (cds)
+ID 9: dck: Deoxyadenosine/deoxycytidine kinase (cds)
+ID 10: cyaB: class IV adenylate cyclase (cds)

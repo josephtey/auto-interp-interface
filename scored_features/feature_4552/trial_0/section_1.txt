@@ -1,0 +1,13 @@
+Image 1
+ID 1: Alpha-amylase (cds)
+ID 2: Phosphotransferase (cds)
+ID 3: Esterase (cds)
+ID 4: Amidohydrolase (cds)
+ID 5: DUF3073 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Carboxyltransferase domain-containing protein (cds)
+ID 8: yajQ: YajQ family cyclic di-GMP-binding protein (cds)
+ID 9: PPOX class F420-dependent oxidoreductase (cds)
+ID 10: Polyketide cyclase (cds)
+ID 11: hypothetical protein (cds)
+ID 12: Putative Mce family protein (cds)

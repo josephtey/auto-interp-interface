@@ -1,0 +1,12 @@
+Image 3
+ID 1: pstA: phosphate ABC transporter permease PstA (cds)
+ID 2: Lysozyme (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Transposase (cds)
+ID 5: hsdM: Type I restriction-modification system, DNA methylase subunit (cds)
+ID 6: rnfE: Na+-translocating ferredoxin:NAD+ oxidoreductase RNF, RnfE subunit (cds)
+ID 7: cls: cardiolipin synthase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: glsB: glutaminase B (cds)
+ID 10: Threonine operon leader (ncRNA-region)
+ID 11: trnL: tRNA-Leu(cag) (tRNA)

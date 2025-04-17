@@ -1,0 +1,8 @@
+ID 1: queD: 6-pyruvoyl-tetrahydropterin synthase (cds)
+ID 2: Flp pilus-assembly TadG-like N-terminal domain-containing protein (cds)
+ID 3: Specific archaeal helicase (cds)
+ID 4: trnD: tRNA-Asp(gtc) (tRNA)
+ID 5: tatD: TatD family hydrolase (cds)
+ID 6: feoB: ferrous iron transport protein B (cds)
+ID 7: ATP-grasp domain-containing protein (cds)
+ID 8: hypothetical protein (cds)

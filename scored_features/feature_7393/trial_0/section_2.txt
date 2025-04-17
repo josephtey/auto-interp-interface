@@ -1,0 +1,8 @@
+Image 2
+ID 1: MmeI-like N-terminal domain-containing protein (cds)
+ID 2: kipI: KipI antagonist (cds)
+ID 3: Sulfoacetaldehyde reductase 2 (cds)
+ID 4: mshC: cysteine--1-D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase (cds)
+ID 5: Carboxylic ester hydrolase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: murT: Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT (cds)

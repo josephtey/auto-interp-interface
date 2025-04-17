@@ -1,0 +1,11 @@
+Image 4
+ID 1: ybbR: YbbR family protein (cds)
+ID 2: rbsK: Sugar or nucleoside kinase, ribokinase family (cds)
+ID 3: menE: O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming) (cds)
+ID 4: mqnC: cyclic dehypoxanthinyl futalosine synthase (cds)
+ID 5: ddlA: D-alanine-D-alanine ligase or related ATP-grasp enzyme (cds)
+ID 6: alkP: putative phosphohydrolase or phosphomutase, AlkP superfamily (cds)
+ID 7: rfbX: Membrane protein involved in the export of O-antigen and teichoic acid (cds)
+ID 8: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 9: nolW: NolW domain protein (cds)
+ID 10: 30S ribosomal protein S14 (cds)

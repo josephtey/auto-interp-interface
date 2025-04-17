@@ -1,0 +1,10 @@
+Image 4
+ID 1: yggU: DUF167 domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: ACT domain-containing protein (cds)
+ID 5: rsmS: pleiotropic regulatory protein RsmS (cds)
+ID 6: DUF4097 domain-containing protein (cds)
+ID 7: Bifunctional metallophosphatase/5'-nucleotidase (cds)
+ID 8: lysR: LysR family transcriptional regulator (cds)
+ID 9: rplQ: 50S ribosomal protein L17 (cds)

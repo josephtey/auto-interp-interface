@@ -1,0 +1,9 @@
+Image 3
+ID 1: Crp/Fnr family transcriptional regulator (cds)
+ID 2: trnE: tRNA-Glu(ttc) (tRNA)
+ID 3: NADH:ubiquinone reductase (Na(+)-transporting) subunit B (cds)
+ID 4: nth: endonuclease III (cds)
+ID 5: Cbb3-type cytochrome c oxidase subunit 3 (cds)
+ID 6: Diguanylate cyclase (cds)
+ID 7: ydgA: YdgA family protein (cds)
+ID 8: branched-chain amino acid transaminase (cds)

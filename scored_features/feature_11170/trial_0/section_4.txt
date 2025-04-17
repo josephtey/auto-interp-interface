@@ -1,0 +1,13 @@
+Image 4
+ID 1: carB: carbamoyl-phosphate synthase large subunit (cds)
+ID 2: nadA: quinolinate synthase NadA (cds)
+ID 3: gcvT: glycine cleavage system aminomethyltransferase GcvT (cds)
+ID 4: aroA: 3-phosphoshikimate 1-carboxyvinyltransferase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Amino acid permease (cds)
+ID 7: hypothetical protein (cds)
+ID 8: histidine kinase (cds)
+ID 9: Universal stress protein (cds)
+ID 10: fliW: Flagellar assembly factor FliW (cds)
+ID 11: ATPase (cds)
+ID 12: Copper amine oxidase-like N-terminal domain-containing protein (cds)

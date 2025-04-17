@@ -1,0 +1,9 @@
+Image 4
+ID 1: ribBA: bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II (cds)
+ID 2: Salicylaldehyde dehydrogenase (cds)
+ID 3: Response regulator receiver (cds)
+ID 4: Transcriptional regulator, Crp/Fnr family (cds)
+ID 5: FlxA-like family protein (cds)
+ID 6: NIPSNAP family containing protein (cds)
+ID 7: pyrB: aspartate carbamoyltransferase catalytic subunit (cds)
+ID 8: hypothetical protein (cds)

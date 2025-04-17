@@ -1,0 +1,10 @@
+Image 3
+ID 1: Transmembrane protein (cds)
+ID 2: Rhodanese domain-containing protein (cds)
+ID 3: Membrane protein (cds)
+ID 4: asnB: asparagine synthase (glutamine-hydrolyzing) (cds)
+ID 5: lolD: ABC-type lipoprotein export system, ATPase component (cds)
+ID 6: DNA-binding response regulator (cds)
+ID 7: adenylosuccinate synthase (cds)
+ID 8: Phosphatase (cds)
+ID 9: GGDEF domain-containing protein (cds)

@@ -1,0 +1,10 @@
+Image 0
+ID 1: Carboxypeptidase regulatory-like domain-containing protein (cds)
+ID 2: IstB-like ATP-binding domain-containing protein (cds)
+ID 3: Lactoylglutathione lyase-related enzyme, vicinal oxygen chelate (VOC) family (cds)
+ID 4: tolC: Outer membrane protein TolC (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR spacer, sequence TCCATCGGTTGAAGTGGTACAGAGCATATTAACGGAG (crispr-spacer)
+ID 7: def: Peptide deformylase (cds)
+ID 8: GtrA-like protein domain-containing protein (cds)
+ID 9: arsB: ACR3 family arsenite efflux transporter (cds)

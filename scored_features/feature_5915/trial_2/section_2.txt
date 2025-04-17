@@ -1,0 +1,12 @@
+Image 2
+ID 1: Thioredoxin domain-containing protein (cds)
+ID 2: YbdD/YjiX family protein (cds)
+ID 3: Ribosome hibernation promoting factor (cds)
+ID 4: bcp: thioredoxin-dependent thiol peroxidase (cds)
+ID 5: Anthranilate phosphoribosyltransferase (cds)
+ID 6: trpB: tryptophan synthase subunit beta (cds)
+ID 7: CRISPR spacer, sequence TCGTTGGTTCCCGGCGCTGTCCAGGCCATATCC (crispr-spacer)
+ID 8: Integral membrane protein (cds)
+ID 9: ftsK: DNA translocase FtsK (cds)
+ID 10: DNA modification methylase (cds)
+ID 11: marR: MarR family transcriptional regulator (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: caiD: crotonase/enoyl-CoA hydratase family protein (cds)
+ID 2: qor: NADPH:quinone reductase or related Zn-dependent oxidoreductase (cds)
+ID 3: yhaH: DUF805 domain-containing protein (cds)
+ID 4: grpE: Molecular chaperone GrpE (heat shock protein HSP-70) (cds)
+ID 5: tsaE: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE (cds)
+ID 6: Putative hemolysin (cds)
+ID 7: wbbJ: Acetyltransferase, isoleucine patch superfamily (cds)
+ID 8: Ethylmalonyl-CoA mutase, methylsuccinyl-CoA-forming (cds)
+ID 9: atoA: Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit (cds)
+ID 10: cobB: cobyrinate a,c-diamide synthase (cds)
+ID 11: hypothetical protein (cds)

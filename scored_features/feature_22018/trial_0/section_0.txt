@@ -1,0 +1,12 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: moxR: MoxR-like ATPase (cds)
+ID 3: norD: Nitric oxide reductase activation protein (cds)
+ID 4: lytT: DNA-binding response regulator, LytR/AlgR family (cds)
+ID 5: clpX: ATP-dependent Clp protease ATP-binding subunit ClpX (cds)
+ID 6: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 7: mnmG: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG (cds)
+ID 8: menH: 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (cds)
+ID 9: rlmB: 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB (cds)
+ID 10: ahcY: adenosylhomocysteinase (cds)
+ID 11: tdh: Threonine dehydrogenase or related Zn-dependent dehydrogenase (cds)

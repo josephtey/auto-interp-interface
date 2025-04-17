@@ -1,0 +1,12 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR spacer, sequence GCAATCCAGCAGATGGCCCAGCAATTCCAGCAGCAGC (crispr-spacer)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: putative ABC transporter, ATP binding protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hypothetical protein (cds)

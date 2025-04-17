@@ -1,0 +1,12 @@
+Image 1
+ID 1: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 2: bglB: GH1 family beta-glucosidase (cds)
+ID 3: fliI: flagellar protein export ATPase FliI (cds)
+ID 4: pyrC: Dihydroorotase or related cyclic amidohydrolase (cds)
+ID 5: CRISPR spacer, sequence ATATTCTACCATTAGTTGTATTGTCAACAGGGTCAGAA (crispr-spacer)
+ID 6: spmB: Spore maturation protein SpmB (function unknown) (cds)
+ID 7: hypothetical protein (cds)
+ID 8: degV: Fatty acid-binding protein DegV (function unknown) (cds)
+ID 9: trnR: tRNA-Arg(tct) (tRNA)
+ID 10: prmC: peptide chain release factor N(5)-glutamine methyltransferase (cds)
+ID 11: DUF1540 domain-containing protein (cds)

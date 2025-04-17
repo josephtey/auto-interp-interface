@@ -1,0 +1,10 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: O-acetyl-ADP-ribose deacetylase (cds)
+ID 3: Arrestin-like N-terminal domain-containing protein (cds)
+ID 4: FemAB family XrtA/PEP-CTERM system-associated protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Response regulator (cds)
+ID 7: WD40 repeat domain-containing protein (cds)
+ID 8: Acyl-CoA desaturase (cds)
+ID 9: Cytochrome-c peroxidase (cds)

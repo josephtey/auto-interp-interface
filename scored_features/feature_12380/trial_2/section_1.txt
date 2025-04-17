@@ -1,0 +1,13 @@
+Image 1
+ID 1: MFS transporter (cds)
+ID 2: NADH-quinone oxidoreductase subunit J (cds)
+ID 3: hypothetical protein (cds)
+ID 4: rrs: 16S ribosomal RNA (rRNA)
+ID 5: DUF302 domain-containing protein (cds)
+ID 6: L-rhamnose mutarotase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: AMP-binding protein (cds)
+ID 9: Glycine/betaine ABC transporter substrate-binding protein (cds)
+ID 10: aldolase/citrate lyase family protein (cds)
+ID 11: hypothetical protein (cds)
+ID 12: ruvC: crossover junction endodeoxyribonuclease RuvC (cds)

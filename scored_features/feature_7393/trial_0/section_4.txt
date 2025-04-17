@@ -1,0 +1,9 @@
+Image 4
+ID 1: Transposase (putative) YhgA-like domain-containing protein (cds)
+ID 2: C4-dicarboxylate ABC transporter (cds)
+ID 3: Peptidase S8/S53 domain-containing protein (cds)
+ID 4: Protein-glutamate methylesterase/protein-glutamine glutaminase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: sctT: type III secretion system export apparatus subunit SctT (cds)
+ID 7: Resistance-nodulation-cell division (RND) efflux membrane fusion protein (cds)
+ID 8: CHAD domain-containing protein (cds)

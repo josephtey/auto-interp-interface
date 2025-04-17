@@ -1,0 +1,12 @@
+Image 0
+ID 1: Right handed beta helix domain-containing protein (cds)
+ID 2: gbsR: DNA-binding transcriptional regulator GbsR, MarR family (cds)
+ID 3: Lipoprotein (cds)
+ID 4: fadH2: NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase (cds)
+ID 5: DUF2004 domain-containing protein (cds)
+ID 6: Collagen triple helix repeat-containing protein (cds)
+ID 7: Ribonuclease Z (cds)
+ID 8: DUF4468 domain-containing protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: znuA: ABC-type Zn uptake system ZnuABC, Zn-binding component ZnuA (cds)
+ID 11: recQ: DNA helicase RecQ (cds)

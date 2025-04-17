@@ -1,0 +1,10 @@
+Image 4
+ID 1: Oligosaccharide flippase family protein (cds)
+ID 2: Methyltransferase domain-containing protein (cds)
+ID 3: Superoxide dismutase (cds)
+ID 4: Universal stress protein (cds)
+ID 5: atpB: F0F1 ATP synthase subunit A (cds)
+ID 6: Histidine kinase domain-containing protein (cds)
+ID 7: Sulfatase-like hydrolase/transferase (cds)
+ID 8: (pseudo) CoA transferase (cds)
+ID 9: Ketopantoate reductase C-terminal domain-containing protein (cds)

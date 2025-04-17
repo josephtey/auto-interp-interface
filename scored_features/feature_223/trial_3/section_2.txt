@@ -1,0 +1,9 @@
+Image 2
+ID 1: nuoG: NADH-quinone oxidoreductase subunit NuoG (cds)
+ID 2: Protein-glutamate methylesterase/protein-glutamine glutaminase (cds)
+ID 3: Flagellar P-ring protein (cds)
+ID 4: 2,4-dienoyl-CoA reductase (cds)
+ID 5: orgA: Invasion protein OrgA (cds)
+ID 6: Tail protein (cds)
+ID 7: Carrier domain-containing protein (cds)
+ID 8: Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha (cds)

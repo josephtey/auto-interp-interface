@@ -1,0 +1,7 @@
+ID 1: corA: magnesium/cobalt transporter CorA (cds)
+ID 2: glmM: phosphoglucosamine mutase (cds)
+ID 3: fabG: 3-oxoacyl-[acyl-carrier-protein] reductase (cds)
+ID 4: pepP: Xaa-Pro aminopeptidase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: dnaG: DNA primase (bacterial type) (cds)
+ID 7: trnA: tRNA-Ala(cgc) (tRNA)

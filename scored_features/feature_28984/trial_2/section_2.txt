@@ -1,0 +1,10 @@
+Image 2
+ID 1: fba: class II fructose-1,6-bisphosphate aldolase (cds)
+ID 2: himA: Bacterial nucleoid DNA-binding protein IHF-alpha (cds)
+ID 3: oleate hydratase (cds)
+ID 4: ubiX: Flavin prenyltransferase UbiX (cds)
+ID 5: modA: molybdate ABC transporter substrate-binding protein (cds)
+ID 6: ywqE: Tyrosine-protein phosphatase YwqE (cds)
+ID 7: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 8: bisC: Anaerobic selenocysteine-containing dehydrogenase (cds)
+ID 9: moaB: Molybdopterin biosynthesis enzyme MoaB/MogA (cds)

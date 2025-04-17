@@ -1,0 +1,13 @@
+Image 1
+ID 1: topA: type I DNA topoisomerase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: ABC-F family ATPase (cds)
+ID 4: thrS: threonine--tRNA ligase (cds)
+ID 5: Methyl-accepting chemotaxis protein (cds)
+ID 6: hmgA: homogentisate 1,2-dioxygenase (cds)
+ID 7: fliH: Flagellar assembly protein FliH (cds)
+ID 8: Immunity protein 17 (cds)
+ID 9: BCCT transporter (cds)
+ID 10: MtrB/PioB family decaheme-associated outer membrane protein (cds)
+ID 11: rfaD: ADP-glyceromanno-heptose 6-epimerase (cds)
+ID 12: DASS family sodium-coupled anion symporter (cds)

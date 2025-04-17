@@ -1,0 +1,10 @@
+Image 1
+ID 1: cls: cardiolipin synthase (cds)
+ID 2: truA: tRNA pseudouridine(38-40) synthase TruA (cds)
+ID 3: substrate-binding domain-containing protein (cds)
+ID 4: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 5: hslR: Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain (cds)
+ID 6: rrs: 16S ribosomal RNA (rRNA)
+ID 7: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 8: pfoR: Membrane regulatory protein PfoR, PTS_EIIC_2 domain (does not regulate perfringolysin expression) (cds)
+ID 9: dctQ: TRAP-type C4-dicarboxylate transport system, large permease component (cds)

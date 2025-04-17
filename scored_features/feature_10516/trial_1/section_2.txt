@@ -1,0 +1,13 @@
+Image 2
+ID 1: siaD: biofilm regulation diguanylate cyclase SiaD (cds)
+ID 2: flgD: Basal-body rod modification protein FlgD (cds)
+ID 3: Circularly permuted ATP-grasp protein (cds)
+ID 4: thrC: threonine synthase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Mutator family transposase (cds)
+ID 7: CRISPR spacer, sequence CTCTTGGAGAGCATTTTGGGGCACGAGGGGGG (crispr-spacer)
+ID 8: hypothetical protein (cds)
+ID 9: azlC: putative branched-chain amino acid permease (azaleucine resistance) (cds)
+ID 10: CRISPR spacer, sequence GTGTGATAGCCATATCCAATACCCCCTATTAGG (crispr-spacer)
+ID 11: rbsB: ABC-type sugar transport system, periplasmic component, contains N-terminal xre family HTH domain (cds)
+ID 12: gpX: P2-like prophage tail protein X (cds)

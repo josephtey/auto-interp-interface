@@ -1,0 +1,9 @@
+Image 3
+Organism: Flavobacterium johnsoniae UW101 (CFB group bacteria)
+ID 1: Cysteine-rich CWC (cds)
+ID 2: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 3: sanA: Uncharacterized periplasmic protein SanA, affects membrane permeability for vancomycin (cds)
+ID 4: accB: acetyl-CoA carboxylase biotin carboxyl carrier protein (cds)
+ID 5: Twin-arginine translocation signal domain-containing protein (cds)
+ID 6: spoIIAA: Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor) (cds)
+ID 7: Polysaccharide biosynthesis protein (cds)

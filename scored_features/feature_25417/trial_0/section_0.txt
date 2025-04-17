@@ -1,0 +1,13 @@
+Image 0
+ID 1: trnK: tRNA-Lys(ttt) (tRNA)
+ID 2: Phospholipase/carboxylesterase (cds)
+ID 3: frvX: Putative aminopeptidase FrvX (cds)
+ID 4: nusA: Transcription termination/antitermination protein NusA (cds)
+ID 5: Membrane-anchored protein (cds)
+ID 6: kynA: tryptophan 2,3-dioxygenase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: dacB: D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase (cds)
+ID 9: rpsU: 30S ribosomal protein S21 (cds)
+ID 10: sucA: 2-oxoglutarate dehydrogenase E1 component (cds)
+ID 11: Hemoglobin (cds)
+ID 12: Actin-like protein N-terminal domain-containing protein (cds)

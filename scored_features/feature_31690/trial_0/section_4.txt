@@ -1,0 +1,12 @@
+Image 4
+ID 1: Putative membrane protein (cds)
+ID 2: Transmembrane protein (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: Phage integrase family protein (cds)
+ID 5: DUF2863 domain-containing protein (cds)
+ID 6: histidine kinase (cds)
+ID 7: Rhs element Vgr protein (cds)
+ID 8: Putative lipoprotein (cds)
+ID 9: epsF: chain length determinant protein EpsF (cds)
+ID 10: hslU: ATP-dependent protease ATPase subunit HslU (cds)
+ID 11: rsmI: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase (cds)

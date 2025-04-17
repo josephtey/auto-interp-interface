@@ -1,0 +1,10 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: CRISPR spacer, sequence TTCTGTGCATATCAATGAGAATACTTGGGTTAGTCTCCATGTCA (crispr-spacer)
+ID 3: hypothetical protein (cds)
+ID 4: tRNA-Xxx (tRNA)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: uroporphyrinogen-III C-methyltransferase (cds)
+ID 9: hypothetical protein (cds)

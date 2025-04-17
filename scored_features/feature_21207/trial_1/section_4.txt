@@ -1,0 +1,12 @@
+Image 4
+ID 1: atpB: F0F1 ATP synthase subunit A (cds)
+ID 2: lysE: Putative LysE family transporter (cds)
+ID 3: pgpA: phosphatidylglycerophosphatase A (cds)
+ID 4: Tellurium resistance protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: arnE: 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE (cds)
+ID 7: trmJ: tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ (cds)
+ID 8: glnB: nitrogen regulatory protein P-II (cds)
+ID 9: ispF: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (cds)
+ID 10: CRISPR spacer, sequence TCTAAATATA (crispr-spacer)
+ID 11: Putative acyltransferase (cds)

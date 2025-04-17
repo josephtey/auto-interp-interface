@@ -1,0 +1,8 @@
+Image 0
+ID 1: comP: Signal transduction histidine kinase ComP (cds)
+ID 2: recR: recombination mediator RecR (cds)
+ID 3: ptsH: HPr or related phosphotransfer protein (cds)
+ID 4: pPK2: Polyphosphate kinase 2, PPK2 family (cds)
+ID 5: lysM: LysM peptidoglycan-binding domain-containing protein (cds)
+ID 6: fmt: methionyl-tRNA formyltransferase (cds)
+ID 7: ntpD: Archaeal/vacuolar-type H+-ATPase subunit D/Vma8 (cds)

@@ -1,0 +1,12 @@
+Image 3
+ID 1: dps: DNA-binding ferritin-like protein (oxidative damage protectant) (cds)
+ID 2: putative metal-dependent hydrolase (cds)
+ID 3: uxaC: glucuronate isomerase (cds)
+ID 4: galK: Galactokinase (cds)
+ID 5: xthA: exodeoxyribonuclease III (cds)
+ID 6: aNKYR: Ankyrin repeat (cds)
+ID 7: rfbD: dTDP-4-dehydrorhamnose reductase (cds)
+ID 8: DUF1761 domain-containing protein (cds)
+ID 9: yjcL: Uncharacterized membrane protein YjcL (cds)
+ID 10: glsA: glutaminase (cds)
+ID 11: hypothetical protein (cds)

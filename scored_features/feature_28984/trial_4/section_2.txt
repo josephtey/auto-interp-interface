@@ -1,0 +1,12 @@
+Image 2
+ID 1: dLH: Dienelactone hydrolase (cds)
+ID 2: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 3: mviM: putative dehydrogenase (cds)
+ID 4: CRISPR spacer, sequence CTATGGCTGTGGTGCAGCGTTTTGACGGATTTGT (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: dedD: Cell division protein DedD (periplasmic protein involved in septation) (cds)
+ID 7: folC: bifunctional tetrahydrofolate synthase/dihydrofolate synthase (cds)
+ID 8: grxD: Grx4 family monothiol glutaredoxin (cds)
+ID 9: fimV: Type IV pilus assembly protein FimV (cds)
+ID 10: otsA: Trehalose-6-phosphate synthase, GT20 family (cds)
+ID 11: phd: Antitoxin component of toxin-antitoxin stability system, DNA-binding transcriptional repressor (cds)

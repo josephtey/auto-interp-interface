@@ -1,0 +1,10 @@
+Image 3
+ID 1: eCM4: Glutathionyl-hydroquinone reductase (cds)
+ID 2: bioA: adenosylmethionine--8-amino-7-oxononanoate transaminase (cds)
+ID 3: nhaP2: potassium/proton antiporter (cds)
+ID 4: yodC: DUF2158 domain-containing protein (cds)
+ID 5: citT: Di- and tricarboxylate antiporter (cds)
+ID 6: mglA: ABC-type sugar transport system, ATPase component (cds)
+ID 7: barA: two-component sensor histidine kinase BarA (cds)
+ID 8: pdxI: Pyridoxal reductase PdxI or related oxidoreductase, aldo/keto reductase family (cds)
+ID 9: dsbC: Thiol:disulfide interchange protein DsbC (cds)

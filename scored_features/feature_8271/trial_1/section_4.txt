@@ -1,0 +1,12 @@
+Image 4
+ID 1: ftsA: cell division protein FtsA (cds)
+ID 2: ccmA: cytochrome c biogenesis heme-transporting ATPase CcmA (cds)
+ID 3: pseF: pseudaminic acid cytidylyltransferase (cds)
+ID 4: Ammonium transporter (cds)
+ID 5: brxL: BREX system Lon protease-like protein BrxL (cds)
+ID 6: Diaminopimelate decarboxylase (cds)
+ID 7: NAD(P)-dependent oxidoreductase (cds)
+ID 8: ltaE: low-specificity L-threonine aldolase (cds)
+ID 9: trnK: tRNA-Lys(ttt) (tRNA)
+ID 10: zapE: cell division protein ZapE (cds)
+ID 11: histidine kinase (cds)

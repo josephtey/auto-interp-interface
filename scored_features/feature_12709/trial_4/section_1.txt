@@ -1,0 +1,9 @@
+Image 1
+ID 1: Entericidin (cds)
+ID 2: ABC transport system permease protein (cds)
+ID 3: IS30 family transposase (cds)
+ID 4: ilvD: dihydroxy-acid dehydratase (cds)
+ID 5: D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: truD: tRNA pseudouridine(13) synthase TruD (cds)
+ID 8: MFS transporter (cds)

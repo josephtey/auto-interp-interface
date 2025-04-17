@@ -1,0 +1,5 @@
+Image 0
+ID 1: DUF386 domain-containing protein (cds)
+ID 2: Class I SAM-dependent methyltransferase (cds)
+ID 3: cspE: transcription antiterminator/RNA stability regulator CspE (cds)
+ID 4: queH: Epoxyqueuosine reductase QueH (cds)

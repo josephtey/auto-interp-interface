@@ -1,0 +1,11 @@
+Image 1
+ID 1: rpoS: RNA polymerase sigma factor RpoS (cds)
+ID 2: dedA: DedA family protein (cds)
+ID 3: lysR: LysR family transcriptional regulator (cds)
+ID 4: sucC: ADP-forming succinate--CoA ligase subunit beta (cds)
+ID 5: rpoS: RNA polymerase sigma factor RpoS (cds)
+ID 6: Cobalamin riboswitch (ncRNA-region)
+ID 7: TetR/AcrR family transcriptional regulator (cds)
+ID 8: glutamate-5-semialdehyde dehydrogenase (cds)
+ID 9: EAL domain-containing protein (cds)
+ID 10: hypD: hydrogenase formation protein HypD (cds)

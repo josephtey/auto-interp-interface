@@ -1,0 +1,4 @@
+ID 1: lpxA: acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase (cds)
+ID 2: fepB: ABC-type Fe3+-hydroxamate transport system, periplasmic component (cds)
+ID 3: rfbC: dTDP-4-dehydrorhamnose 3,5-epimerase (cds)
+ID 4: sufB: Fe-S cluster assembly protein SufB (cds)

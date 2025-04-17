@@ -1,0 +1,4 @@
+ID 1: DUF982 domain-containing protein (cds)
+ID 2: wD40: WD40 repeat (cds)
+ID 3: amyA: Glycosidase/amylase (phosphorylase) (cds)
+ID 4: Transposase (cds)

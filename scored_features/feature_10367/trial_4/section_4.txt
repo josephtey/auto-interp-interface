@@ -1,0 +1,8 @@
+Image 4
+ID 1: 4Fe-4S ferredoxin, iron-sulfur binding domain protein (cds)
+ID 2: srmB: ATP-dependent RNA helicase SrmB (cds)
+ID 3: GCN5-related N-acetyltransferase (cds)
+ID 4: peptidase domain-containing ABC transporter (cds)
+ID 5: Glutamine amidotransferase of anthranilate synthase (cds)
+ID 6: hflK: FtsH protease activity modulator HflK (cds)
+ID 7: gspF: type II secretion system inner membrane protein GspF (cds)

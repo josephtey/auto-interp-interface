@@ -1,0 +1,7 @@
+ID 1: glmU: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU (cds)
+ID 2: mlaE: lipid asymmetry maintenance ABC transporter permease subunit MlaE (cds)
+ID 3: Uncharacterized protein conserved in bacteria (cds)
+ID 4: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 5: hflC: Regulator of protease activity HflC, stomatin/prohibitin superfamily (cds)
+ID 6: CRISPR spacer, sequence CTATGGCTGTGGTGCAGCGTTTTGACGGATTTGT (crispr-spacer)
+ID 7: argO: Arginine exporter protein ArgO (cds)

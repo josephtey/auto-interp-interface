@@ -1,0 +1,11 @@
+Image 4
+ID 1: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 2: mreC: rod shape-determining protein MreC (cds)
+ID 3: Small-conductance mechanosensitive channel (cds)
+ID 4: Two pore domain potassium channel family protein (cds)
+ID 5: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 6: dTTP/UTP pyrophosphatase (cds)
+ID 7: glk: glucokinase (cds)
+ID 8: KHG/KDPG aldolase (cds)
+ID 9: DUF883 domain-containing protein (cds)
+ID 10: Glycosyltransferase family 4 protein (cds)

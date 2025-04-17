@@ -1,0 +1,5 @@
+Image 2
+ID 1: Lipoprotein (cds)
+ID 2: Nucleotide modification associated domain-containing protein (cds)
+ID 3: lytT: DNA-binding response regulator, LytR/AlgR family (cds)
+ID 4: Site-specific DNA-methyltransferase (Adenine-specific) (cds)

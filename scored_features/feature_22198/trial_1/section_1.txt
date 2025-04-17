@@ -1,0 +1,12 @@
+Image 1
+ID 1: Glutathione peroxidase (cds)
+ID 2: DMT family transporter (cds)
+ID 3: hflK: FtsH protease activity modulator HflK (cds)
+ID 4: Glycosyltransferase (cds)
+ID 5: Amino acid ABC transporter substrate-binding protein (cds)
+ID 6: TRAP transporter small permease protein (cds)
+ID 7: DUF2730 domain-containing protein (cds)
+ID 8: Amidase (cds)
+ID 9: Amidase (cds)
+ID 10: Transporter (cds)
+ID 11: STAS/SEC14 domain-containing protein (cds)

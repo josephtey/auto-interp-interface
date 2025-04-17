@@ -1,0 +1,10 @@
+Image 0
+Organism: Corynebacterium efficiens YS-314 (high G+C Gram-positive bacteria)
+ID 1: trnR: tRNA-Arg(acg) (tRNA)
+ID 2: Putative cytochrome P450 (cds)
+ID 3: ureB: urease subunit beta (cds)
+ID 4: Integrase catalytic domain-containing protein (cds)
+ID 5: HicB-like antitoxin of toxin-antitoxin system domain-containing protein (cds)
+ID 6: sufB: Fe-S cluster assembly protein SufB (cds)
+ID 7: HTH hxlR-type domain-containing protein (cds)
+ID 8: Putative C4-dicarboxylate permease small protein (cds)

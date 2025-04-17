@@ -1,0 +1,10 @@
+Image 1
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: YicC/YloC family endoribonuclease (cds)
+ID 2: YD repeat-containing protein (cds)
+ID 3: rpsL: 30S ribosomal protein S12 (cds)
+ID 4: glycosyltransferase (cds)
+ID 5: msrA: peptide-methionine (S)-S-oxide reductase MsrA (cds)
+ID 6: LytTR family DNA-binding domain-containing protein (cds)
+ID 7: doxX: DoxX family protein (cds)
+ID 8: DUF2891 domain-containing protein (cds)

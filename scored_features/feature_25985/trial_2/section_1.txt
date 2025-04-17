@@ -1,0 +1,10 @@
+Image 1
+ID 1: Helix-turn-helix domain protein (cds)
+ID 2: UDP-glucose 4-epimerase (cds)
+ID 3: TIGR04255 family protein (cds)
+ID 4: doxX: DoxX (cds)
+ID 5: RNA polymerase sigma factor (cds)
+ID 6: Cytochrome P460 domain-containing protein (cds)
+ID 7: secD: Preprotein translocase subunit SecD (cds)
+ID 8: DUF1795 domain-containing protein (cds)
+ID 9: sigA: RNA polymerase sigma factor SigA (cds)

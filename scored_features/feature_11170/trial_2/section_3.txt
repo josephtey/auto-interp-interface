@@ -1,0 +1,6 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Large exoprotein involved in heme utilization or adhesion (cds)
+ID 4: rrf: 5S ribosomal RNA (rRNA)
+ID 5: Biofunctional glutaredoxin 3 protein/Ribonucleoside-diphosphate reductase beta subunit (cds)

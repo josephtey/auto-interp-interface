@@ -1,0 +1,4 @@
+ID 1: NUDIX hydrolase (cds)
+ID 2: hutG: N-formylglutamate deformylase (cds)
+ID 3: CRISPR array with 588 repeats of length 36, consensus sequence GTTTCCACGACCCAACAGTCGTGGCCTCATTGAAGC and spacer length 36 (crispr)
+ID 4: CRISPR spacer, sequence CTCGTCGAGGTCCGAGTACTCGGCGTTCATTGCCCG (crispr-spacer)

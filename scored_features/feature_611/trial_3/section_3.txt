@@ -1,0 +1,13 @@
+Image 3
+ID 1: terC: TerC family protein (cds)
+ID 2: asrC: sulfite reductase subunit C (cds)
+ID 3: NAD kinase (cds)
+ID 4: Formate dehydrogenase (cds)
+ID 5: hflX: GTPase HflX (cds)
+ID 6: Transmembrane protein (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: Multidrug ABC transporter ATP-binding protein (cds)
+ID 9: isoprenyl transferase (cds)
+ID 10: Ku protein (cds)
+ID 11: Glycine--tRNA ligase beta subunit (cds)
+ID 12: hypothetical protein (cds)

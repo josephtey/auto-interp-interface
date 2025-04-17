@@ -1,0 +1,8 @@
+Image 1
+ID 1: phoH: Phosphate starvation-inducible protein PhoH, putative ATPase (cds)
+ID 2: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 3: suhB: Archaeal fructose-1,6-bisphosphatase or related enzyme, inositol monophosphatase family (cds)
+ID 4: acuC: Acetoin utilization deacetylase AcuC or a related deacetylase (cds)
+ID 5: yuxH: c-di-GMP phosphodiesterase YuxH/PdeH, contains EAL and HDOD domains (cds)
+ID 6: arcD: arginine-ornithine antiporter (cds)
+ID 7: AB hydrolase-1 domain-containing protein (cds)

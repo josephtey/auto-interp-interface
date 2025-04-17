@@ -1,0 +1,9 @@
+Image 3
+ID 1: Manganese catalase (cds)
+ID 2: Acetyl-CoA acetyltransferase (cds)
+ID 3: Orotate phosphoribosyltransferase (cds)
+ID 4: HTH lacI-type domain-containing protein (cds)
+ID 5: SLH domain-containing protein (cds)
+ID 6: folP: dihydropteroate synthase (cds)
+ID 7: araC: AraC family transcriptional regulator (cds)
+ID 8: rlmN: 23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN (cds)

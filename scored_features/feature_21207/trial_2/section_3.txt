@@ -1,0 +1,11 @@
+Image 3
+ID 1: Amino acid permease (cds)
+ID 2: Cytochrome B (cds)
+ID 3: trnG: tRNA-Gly(gcc) (tRNA)
+ID 4: ycgL: YcgL domain-containing protein HER31-07550 (cds)
+ID 5: fliT: Flagellar protein FliT (cds)
+ID 6: Catalase (cds)
+ID 7: Nucleoside-specific channel-forming protein, Tsx (cds)
+ID 8: DUF4145 domain-containing protein (cds)
+ID 9: 3-deoxy-D-manno-octulosonic acid kinase (cds)
+ID 10: rplL: 50S ribosomal protein L7/L12 (cds)

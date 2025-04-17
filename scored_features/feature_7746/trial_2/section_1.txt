@@ -1,0 +1,10 @@
+Image 1
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: ybiR: Inner membrane protein YbiR (cds)
+ID 3: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 4: CDP-paratose 2-epimerase (cds)
+ID 5: Response regulator rcp1 (cds)
+ID 6: Inositol 2-dehydrogenase (cds)
+ID 7: Limonene 1,2-monooxygenase (cds)
+ID 8: selB: selenocysteine-specific translation elongation factor (cds)
+ID 9: N-acetyltransferase domain-containing protein (cds)

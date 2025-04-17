@@ -1,0 +1,8 @@
+Image 4
+ID 1: chlD: vWFA (von Willebrand factor type A) domain of Mg and Co chelatases (cds)
+ID 2: yyaL: Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains (cds)
+ID 3: CRISPR spacer, sequence TACATGCAGATATTGATGCATCAAAAGCCGCATGC (crispr-spacer)
+ID 4: exbD: Biopolymer transport protein ExbD (cds)
+ID 5: pilF: Type IV pilus assembly protein PilF/PilW (cds)
+ID 6: AIPR protein (cds)
+ID 7: rpsC: 30S ribosomal protein S3 (cds)

@@ -1,0 +1,8 @@
+Image 1
+ID 1: pyrB: aspartate carbamoyltransferase catalytic subunit (cds)
+ID 2: NRPS II ORF 1 (cds)
+ID 3: Ribonuclease UK114 domain protein (cds)
+ID 4: mbtH: Protein mbtH (cds)
+ID 5: Putative peptidoglycan binding domain protein (cds)
+ID 6: ubiA: 4-hydroxybenzoate octaprenyltransferase (cds)
+ID 7: lysR: Bacterial regulatory helix-turn-helix, lysR family protein (cds)

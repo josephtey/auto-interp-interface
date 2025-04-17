@@ -1,0 +1,11 @@
+Image 4
+ID 1: rpoS: RNA polymerase sigma factor RpoS (cds)
+ID 2: DUF4426 domain-containing protein (cds)
+ID 3: MFS transporter (cds)
+ID 4: ABC transporter ATP-binding protein (cds)
+ID 5: ABC transporter ATP-binding protein (cds)
+ID 6: Endolytic murein transglycosylase (cds)
+ID 7: FMN-binding protein (cds)
+ID 8: yfcC: YfcC family protein (cds)
+ID 9: DUF4760 domain-containing protein (cds)
+ID 10: pepA: leucyl aminopeptidase (cds)

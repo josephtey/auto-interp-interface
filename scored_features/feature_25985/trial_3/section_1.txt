@@ -1,0 +1,11 @@
+Image 1
+ID 1: araC: Transcriptional regulator, AraC family protein (cds)
+ID 2: Short-chain dehydrogenase (cds)
+ID 3: Catalase (cds)
+ID 4: Cytochrome P450 (cds)
+ID 5: C4-dicarboxylate transporter/malic acid transport protein (cds)
+ID 6: Methyltransferase domain-containing protein (cds)
+ID 7: pyrG: CTP synthase (cds)
+ID 8: sufS: Cysteine desulfurase (cds)
+ID 9: serB: phosphoserine phosphatase SerB (cds)
+ID 10: ispF: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (cds)

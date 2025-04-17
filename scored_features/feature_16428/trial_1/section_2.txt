@@ -1,0 +1,10 @@
+Image 2
+ID 1: fixB: Electron transfer flavoprotein, alpha subunit FixB (cds)
+ID 2: cxxC: Uncharacterized conserved protein with two CxxC motifs (cds)
+ID 3: copY: Transcriptional regulator, CopY/TcrY family (cds)
+ID 4: tauB: ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component (cds)
+ID 5: ytrH: Uncharacterized sporulation membrane protein YtrH/SpoVIGA (cds)
+ID 6: hypothetical protein (cds)
+ID 7: trnV: tRNA-Val(tac) (tRNA)
+ID 8: fucU: L-fucose mutarotase/ribose pyranase, RbsD/FucU family (cds)
+ID 9: yjhB: ADP-ribose pyrophosphatase YjhB, NUDIX family (cds)

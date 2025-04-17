@@ -1,0 +1,11 @@
+Image 1
+Organism: Ferroplasma acidiphilum (archaea)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Cysteine synthase family protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence AACATGATTTAACATGCCTTAAAACTCAAAATAAG (crispr-spacer)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Ketol-acid reductoisomerase (NADP(+)) (cds)
+ID 9: hypothetical protein (cds)

@@ -1,0 +1,9 @@
+Image 2
+ID 1: Toluene 4-monooxygenase protein C (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: JAB domain-containing protein (cds)
+ID 5: Core-binding (CB) domain-containing protein (cds)
+ID 6: Arabinose efflux permease family protein (cds)
+ID 7: Tn3 transposase DDE domain-containing protein (cds)
+ID 8: ABC-type transport system, involved in lipoprotein release, permease component (cds)

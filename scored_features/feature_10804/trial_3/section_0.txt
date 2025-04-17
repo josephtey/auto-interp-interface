@@ -1,0 +1,10 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: DUF1523 domain-containing protein (cds)
+ID 3: ccc1: putative Fe2+/Mn2+ transporter, VIT1/CCC1 family (cds)
+ID 4: groES: co-chaperone GroES (cds)
+ID 5: Uncharacterized membrane-anchored protein (cds)
+ID 6: ilvC: ketol-acid reductoisomerase (cds)
+ID 7: nikD: nickel import ATP-binding protein NikD (cds)
+ID 8: haloacid dehalogenase-like hydrolase (cds)
+ID 9: fadR: DNA-binding transcriptional regulator, FadR family (cds)

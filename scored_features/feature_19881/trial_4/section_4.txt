@@ -1,0 +1,10 @@
+Image 4
+ID 1: PEP-CTERM sorting domain-containing protein (cds)
+ID 2: Type VI secretion system secreted protein Hcp (cds)
+ID 3: hypothetical protein (cds)
+ID 4: GNAT family N-acetyltransferase (cds)
+ID 5: tetR: TetR family transcriptional regulator (cds)
+ID 6: sodium-dependent transporter (cds)
+ID 7: waaF: lipopolysaccharide heptosyltransferase II (cds)
+ID 8: Lipoprotein (cds)
+ID 9: yceI: YceI family protein (cds)

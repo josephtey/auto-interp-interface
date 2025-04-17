@@ -1,0 +1,8 @@
+Image 2
+ID 1: DUF4385 domain-containing protein (cds)
+ID 2: Alpha/beta hydrolase family protein (cds)
+ID 3: hisI: phosphoribosyl-AMP cyclohydrolase (cds)
+ID 4: mtrA: DNA-binding response regulator MtrA (cds)
+ID 5: mcpS: Methyl-accepting chemotaxis protein McpS (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)

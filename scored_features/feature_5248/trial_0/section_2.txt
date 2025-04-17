@@ -1,0 +1,11 @@
+Image 2
+ID 1: Small-conductance mechanosensitive channel (cds)
+ID 2: Adenylyl-sulfate kinase (cds)
+ID 3: Peptidoglycan-binding protein (cds)
+ID 4: grxD: Grx4 family monothiol glutaredoxin (cds)
+ID 5: ispG: flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (cds)
+ID 6: cysQ: 3'(2'),5'-bisphosphate nucleotidase CysQ (cds)
+ID 7: cobT: nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (cds)
+ID 8: rplF: 50S ribosomal protein L6 (cds)
+ID 9: Response regulator (cds)
+ID 10: PAS domain-containing protein (cds)

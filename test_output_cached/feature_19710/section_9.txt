@@ -1,0 +1,8 @@
+ID 1: hypothetical protein (cds)
+ID 2: aspB: Aspartate/methionine/tyrosine aminotransferase (cds)
+ID 3: fliA: DNA-directed RNA polymerase specialized sigma subunit (cds)
+ID 4: tilS: tRNA(Ile)-lysidine synthase TilS/MesJ (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Lipoprotein (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: citT: Di- and tricarboxylate antiporter (cds)

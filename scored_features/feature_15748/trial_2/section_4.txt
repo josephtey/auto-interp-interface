@@ -1,0 +1,11 @@
+Image 4
+ID 1: Conserved hypothetical phage tail protein (cds)
+ID 2: pulE: Type II secretory pathway ATPase GspE/PulE or T4P pilus assembly pathway ATPase PilB (cds)
+ID 3: tPR: Tetratricopeptide (TPR) repeat (cds)
+ID 4: spoIID: Peptidoglycan hydrolase (amidase) enhancer domain SpoIID (cds)
+ID 5: alpA: DNA-binding transcriptional regulator AlpA (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: sunT: ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain (cds)
+ID 8: mazF: mRNA-degrading endonuclease MazF, toxin component of the MazEF toxin-antitoxin module (cds)
+ID 9: trxB: thioredoxin-disulfide reductase (cds)
+ID 10: parE: Plasmid stabilization system protein ParE (cds)

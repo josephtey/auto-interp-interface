@@ -1,0 +1,9 @@
+Image 4
+ID 1: L,D-transpeptidase family protein (cds)
+ID 2: yfhO: YfhO family protein (cds)
+ID 3: HAMP domain-containing protein (cds)
+ID 4: O-antigen ligase family protein (cds)
+ID 5: ABC transporter ATP-binding protein (cds)
+ID 6: lptC: LPS export ABC transporter periplasmic protein LptC (cds)
+ID 7: MBL fold metallo-hydrolase (cds)
+ID 8: Sel1 repeat family protein (cds)

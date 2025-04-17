@@ -1,0 +1,11 @@
+Image 3
+ID 1: manB: Phosphomannomutase (cds)
+ID 2: pcaF: 3-oxoadipyl-CoA thiolase (cds)
+ID 3: Transcriptional regulator (cds)
+ID 4: Transcriptional regulators (cds)
+ID 5: cAMP-binding protein-catabolite gene activator and regulatory subunit of cAMP-dependent protein kinase (cds)
+ID 6: phaR: polyhydroxyalkanoate synthesis repressor PhaR (cds)
+ID 7: hDOD: HD-like signal output (HDOD) domain, no enzymatic activity (cds)
+ID 8: Prevent-host-death protein (cds)
+ID 9: ppro0129: putative flavin-containing amine oxidase (cds)
+ID 10: secF: Preprotein translocase subunit SecF (cds)

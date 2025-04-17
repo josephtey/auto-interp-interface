@@ -1,0 +1,3 @@
+Image 2
+Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
+ID 1: Helix-turn-helix family protein (cds)

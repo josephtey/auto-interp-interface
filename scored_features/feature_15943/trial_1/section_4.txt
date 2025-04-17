@@ -1,0 +1,10 @@
+Image 4
+ID 1: mgtA: Magnesium-transporting ATPase (P-type) (cds)
+ID 2: spoIVCA: Site-specific DNA recombinase SpoIVCA/DNA invertase PinE (cds)
+ID 3: mHT1: Homocysteine/selenocysteine methylase (S-methylmethionine-dependent) (cds)
+ID 4: non-specific serine/threonine protein kinase (cds)
+ID 5: galE: UDP-glucose 4-epimerase GalE (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Response regulator receiver protein (cds)
+ID 8: fepA: Outer membrane receptor for ferrienterochelin and colicins (cds)
+ID 9: O-methyltransferase family 2 (cds)

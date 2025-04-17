@@ -1,0 +1,13 @@
+Image 2
+ID 1: tmk: dTMP kinase (cds)
+ID 2: Histidine kinase (cds)
+ID 3: calcium-transporting P-type ATPase, PMR1-type (cds)
+ID 4: trnS: tRNA-Ser(gct) (tRNA)
+ID 5: gntR: GntR family transcriptional regulator (cds)
+ID 6: nuoB: NADH:ubiquinone oxidoreductase 20 kD subunit (chain B) or related Fe-S oxidoreductase (cds)
+ID 7: TwoAYGGAY RNA (ncRNA-region)
+ID 8: lysM: LysM domain-containing protein (cds)
+ID 9: B box-type domain-containing protein (cds)
+ID 10: Radical SAM protein (cds)
+ID 11: TIGR04211 family SH3 domain-containing protein (cds)
+ID 12: smpB: SsrA-binding protein SmpB (cds)

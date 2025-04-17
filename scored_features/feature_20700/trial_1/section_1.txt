@@ -1,0 +1,10 @@
+Image 1
+ID 1: putative 2-aminoethylphosphonate ABC transporter permease subunit (cds)
+ID 2: FMN dependent NADH:quinone oxidoreductase (cds)
+ID 3: CRISPR spacer, sequence TTCAACAATAAGGAAGGTGATCTACGACAACACGGCG (crispr-spacer)
+ID 4: Citrate transporter (cds)
+ID 5: Methylenetetrahydrofolate reductase (cds)
+ID 6: Sel1 domain protein repeat-containing protein (cds)
+ID 7: putP: sodium/proline symporter PutP (cds)
+ID 8: CRISPR spacer, sequence TTGTTTTTAAGGCCATTCATTTGCCGCTTGAA (crispr-spacer)
+ID 9: hypothetical protein (cds)

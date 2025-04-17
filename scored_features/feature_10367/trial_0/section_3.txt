@@ -1,0 +1,10 @@
+Image 3
+ID 1: Glutamyl-tRNA synthetase (cds)
+ID 2: yfaS: Uncharacterized conserved protein YfaS, alpha-2-macroglobulin family (cds)
+ID 3: DUF2851 domain-containing protein (cds)
+ID 4: bglS: Beta-glucanase, GH16 family (cds)
+ID 5: mdoB: Phosphoglycerol transferase MdoB/OpgB, AlkP superfamily (cds)
+ID 6: DUF3606 domain-containing protein (cds)
+ID 7: rsmB: 16S rRNA C967 or C1407 C5-methylase, RsmB/RsmF family (cds)
+ID 8: ureE: urease accessory protein UreE (cds)
+ID 9: bglB: GH1 family beta-glucosidase (cds)

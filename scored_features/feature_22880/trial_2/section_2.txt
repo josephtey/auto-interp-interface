@@ -1,0 +1,6 @@
+Image 2
+ID 1: CRISPR spacer, sequence CAGGCCGCGAACGCCATCGGCGCCACCCGCCTGG (crispr-spacer)
+ID 2: czcA: Cobalt-zinc-cadmium resistance protein CzcA (cds)
+ID 3: LamG-like jellyroll fold domain-containing protein (cds)
+ID 4: trnE: tRNA-Glu(ctc) (tRNA)
+ID 5: hypothetical protein (cds)

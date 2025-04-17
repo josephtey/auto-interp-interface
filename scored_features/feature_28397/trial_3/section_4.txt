@@ -1,0 +1,12 @@
+Image 4
+ID 1: livF: Branched-chain amino acid transport ATP-binding protein LivF (cds)
+ID 2: Invasion associated locus B family protein (cds)
+ID 3: trmJ: tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ (cds)
+ID 4: cyoE: heme o synthase (cds)
+ID 5: Na(+)-translocating NADH-quinone reductase subunit A (cds)
+ID 6: ftsK: DNA translocase FtsK (cds)
+ID 7: ccmF: Cytochrome c-type biogenesis protein CcmF (cds)
+ID 8: nusG: transcription termination/antitermination protein NusG (cds)
+ID 9: Sodium/calcium antiporter (cds)
+ID 10: CRISPR spacer, sequence CGCTCGCGTCGCCAGCCGCCGTCCCGGGCCAG (crispr-spacer)
+ID 11: moaB: molybdenum cofactor biosynthesis protein B (cds)

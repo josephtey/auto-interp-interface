@@ -1,0 +1,7 @@
+Image 2
+Organism: Paenibacillus bovis (firmicutes)
+ID 1: Glyoxal reductase (cds)
+ID 2: Alpha/beta hydrolase (cds)
+ID 3: DUF1629 domain-containing protein (cds)
+ID 4: Esterase (cds)
+ID 5: 2-dehydropantoate 2-reductase (cds)

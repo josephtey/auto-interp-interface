@@ -1,0 +1,11 @@
+Image 2
+ID 1: TRAP transporter fused permease subunit (cds)
+ID 2: Glycosyltransferase (cds)
+ID 3: yggT: YggT family protein (cds)
+ID 4: eamA: EamA family transporter (cds)
+ID 5: VanZ-like domain-containing protein (cds)
+ID 6: CoA ester lyase (cds)
+ID 7: Bcr/CflA family multidrug efflux MFS transporter (cds)
+ID 8: moxR: MoxR family ATPase (cds)
+ID 9: Amino acid ABC transporter permease (cds)
+ID 10: biotin--[biotin carboxyl-carrier protein] ligase (cds)

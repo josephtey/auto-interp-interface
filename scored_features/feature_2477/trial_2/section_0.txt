@@ -1,0 +1,12 @@
+Image 0
+Organism: Mongoliitalea daihaiensis (CFB group bacteria)
+ID 1: Fluoride riboswitch (crcB) (ncRNA-region)
+ID 2: aspartate kinase (cds)
+ID 3: vanZ: VanZ family protein (cds)
+ID 4: yaiO: YaiO family beta-barrel domain-containing protein (cds)
+ID 5: pilN: Type IV pilus assembly protein PilN (cds)
+ID 6: LD-carboxypeptidase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: SDR family oxidoreductase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

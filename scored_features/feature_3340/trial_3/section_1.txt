@@ -1,0 +1,12 @@
+Image 1
+Organism: Halobacteroides halobius DSM 5150 (firmicutes)
+ID 1: acpS: Phosphopantetheinyl transferase (holo-ACP synthase) (cds)
+ID 2: puuD: Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD (putrescine degradation), contains GATase1-like domain (cds)
+ID 3: Galactosyltransferase C-terminal domain-containing protein (cds)
+ID 4: yrpB: NAD(P)H-dependent flavin oxidoreductase YrpB, nitropropane dioxygenase family (cds)
+ID 5: fsa: fructose-6-phosphate aldolase (cds)
+ID 6: cof: Hydroxymethylpyrimidine pyrophosphatase and other HAD family phosphatases (cds)
+ID 7: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 8: Adenylyl-sulfate kinase (cds)
+ID 9: cysD: 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme (cds)
+ID 10: ilvD: Dihydroxyacid dehydratase/phosphogluconate dehydratase (cds)

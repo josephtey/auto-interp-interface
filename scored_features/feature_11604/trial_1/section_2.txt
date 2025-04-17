@@ -1,0 +1,11 @@
+Image 2
+ID 1: histidine kinase (cds)
+ID 2: Cytochrome c family protein (cds)
+ID 3: mutL: DNA mismatch repair endonuclease MutL (cds)
+ID 4: epsC: serine O-acetyltransferase EpsC (cds)
+ID 5: Chromate transporter family protein (cds)
+ID 6: ureJ: HupE / UreJ family protein (cds)
+ID 7: nuoA: NADH:ubiquinone oxidoreductase subunit 3 (chain A) (cds)
+ID 8: PhnB-like domain-containing protein (cds)
+ID 9: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+ID 10: Response regulator (cds)

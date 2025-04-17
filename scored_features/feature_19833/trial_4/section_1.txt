@@ -1,0 +1,12 @@
+Image 1
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: L-cysteate sulfo-lyase (cds)
+ID 3: ynfA: YnfA family protein (cds)
+ID 4: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 5: hypothetical protein (cds)
+ID 6: cpaB: Flp pilus assembly protein CpaB (cds)
+ID 7: AbiEi antitoxin C-terminal domain-containing protein (cds)
+ID 8: mrcA: Membrane carboxypeptidase/penicillin-binding protein (cds)
+ID 9: tRNA (guanine-N(1)-)-methyltransferase C-terminal domain-containing protein (cds)
+ID 10: spoVE: stage V sporulation protein E (cds)
+ID 11: CRISPR repeat (crispr-repeat)

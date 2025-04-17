@@ -1,0 +1,11 @@
+Image 2
+ID 1: Rho termination factor N-terminal domain-containing protein (cds)
+ID 2: nusB: transcription antitermination factor NusB (cds)
+ID 3: galT: galactose-1-phosphate uridylyltransferase (cds)
+ID 4: galK: galactokinase (cds)
+ID 5: rplF: 50S ribosomal protein L6 (cds)
+ID 6: yeaD2: Uncharacterized conserved protein, DUF58 family, contains vWF domain (cds)
+ID 7: hypothetical protein (cds)
+ID 8: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 9: hslR: Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain (cds)
+ID 10: ushA: 2',3'-cyclic-nucleotide 2'-phosphodiesterase/5'- or 3'-nucleotidase, 5'-nucleotidase family (cds)

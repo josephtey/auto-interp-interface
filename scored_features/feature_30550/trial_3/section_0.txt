@@ -1,0 +1,9 @@
+Image 0
+ID 1: Oligopeptide/dipeptide ABC transporter, ATPase subunit (cds)
+ID 2: hypothetical protein (cds)
+ID 3: rplU: 50S ribosomal protein L21 (cds)
+ID 4: Amidase, hydantoinase/carbamoylase family (cds)
+ID 5: arsB: ACR3 family arsenite efflux transporter (cds)
+ID 6: AIG2 family protein (cds)
+ID 7: Methyl-accepting chemotaxis sensory transducer (cds)
+ID 8: arsA: arsenical pump-driving ATPase (cds)

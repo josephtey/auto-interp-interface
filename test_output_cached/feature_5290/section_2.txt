@@ -1,0 +1,8 @@
+ID 1: Thiol:disulfide interchange protein (cds)
+ID 2: putative chorismate pyruvate-lyase (cds)
+ID 3: Acid shock protein (cds)
+ID 4: rnhA: ribonuclease HI (cds)
+ID 5: Ionic transporter y4hA (cds)
+ID 6: valine--tRNA ligase (cds)
+ID 7: ilvB: biosynthetic-type acetolactate synthase large subunit (cds)
+ID 8: phzF: PhzF family phenazine biosynthesis protein (cds)

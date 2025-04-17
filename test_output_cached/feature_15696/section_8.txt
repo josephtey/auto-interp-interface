@@ -1,0 +1,7 @@
+ID 1: mreC: rod shape-determining protein MreC (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Spore maturation protein (cds)
+ID 4: uxuA: mannonate dehydratase (cds)
+ID 5: susD: Starch-binding protein SusD (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Pectate lyase L (cds)

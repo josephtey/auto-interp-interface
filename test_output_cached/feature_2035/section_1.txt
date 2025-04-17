@@ -1,0 +1,8 @@
+ID 1: Peptidoglycan binding-like domain-containing protein (cds)
+ID 2: Transposase (cds)
+ID 3: TRAP-type uncharacterized transport system, fused permease components (cds)
+ID 4: trmO: tRNA (Thr-GGU) A37 N6-methylase (cds)
+ID 5: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 6: trnR: tRNA-Arg(ccg) (tRNA)
+ID 7: moaC: cyclic pyranopterin monophosphate synthase MoaC (cds)
+ID 8: UPF0262 protein (cds)

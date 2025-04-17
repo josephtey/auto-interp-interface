@@ -1,0 +1,10 @@
+Image 0
+ID 1: phnA: Alkylphosphonate utilization operon protein PhnA (cds)
+ID 2: CRISPR spacer, sequence TGAGCCTGTAGTGATCATGGAAGGAAATAGATTCTCTTGTCTCAACGGCCTAAG (crispr-spacer)
+ID 3: IS5 family transposase (cds)
+ID 4: trpA: tryptophan synthase subunit alpha (cds)
+ID 5: Putative DNA-binding domain-containing protein (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: lysR: Transcriptional regulator, LysR family (cds)
+ID 8: gmk: guanylate kinase (cds)
+ID 9: Tail X family protein (cds)

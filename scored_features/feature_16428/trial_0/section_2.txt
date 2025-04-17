@@ -1,0 +1,13 @@
+Image 2
+ID 1: acyC: Adenylate cyclase, class 3 (cds)
+ID 2: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 3: mIS1: formate--tetrahydrofolate ligase (cds)
+ID 4: cdd: cytidine deaminase (cds)
+ID 5: phage holin (cds)
+ID 6: fepB: ABC-type Fe3+-hydroxamate transport system, periplasmic component (cds)
+ID 7: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 8: frmB: S-formylglutathione hydrolase FrmB (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: yoqJ: Uncharacterized SPBc2 prophage-derived protein YoqJ (cds)
+ID 12: grxC: Glutaredoxin (cds)

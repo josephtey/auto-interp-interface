@@ -1,0 +1,7 @@
+Image 2
+ID 1: aroE: shikimate dehydrogenase (cds)
+ID 2: Cytochrome c biogenesis protein (cds)
+ID 3: TonB-dependent receptor (cds)
+ID 4: SEC-C motif (cds)
+ID 5: Exported alkaline phosphatase (cds)
+ID 6: ABC-F family ATPase (cds)

@@ -1,0 +1,9 @@
+Image 4
+ID 1: yhfF: putative RNA-binding protein YhfF, contains PUA-like ASCH domain (cds)
+ID 2: NETI motif-containing protein (cds)
+ID 3: alsT: Na+/alanine symporter (cds)
+ID 4: uraA: uracil permease (cds)
+ID 5: flbD: Flagellar protein FlbD (cds)
+ID 6: pqqL: putative Zn-dependent peptidase, M16 family (cds)
+ID 7: kinC: Sporulation sensor histidine kinase C (cds)
+ID 8: DUF5704 domain-containing protein (cds)

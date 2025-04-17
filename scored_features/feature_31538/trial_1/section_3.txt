@@ -1,0 +1,5 @@
+Image 3
+ID 1: Major facilitator superfamily (MFS) profile domain-containing protein (cds)
+ID 2: ybjN: YbjN domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Phosphoribosyltransferase (cds)

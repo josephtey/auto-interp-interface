@@ -1,0 +1,11 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Biotin synthase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: CRISPR spacer, sequence TACTCTCTCACCTCACTTGTTTTTTTTAAGATTATGTTTTA (crispr-spacer)
+ID 7: CRISPR spacer, sequence CTCGTTAACGTTCCATTTCCTATTATTGGTGTAAAAAGTGCT (crispr-spacer)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

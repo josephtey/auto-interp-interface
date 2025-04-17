@@ -1,0 +1,7 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Acyl-CoA synthetase (cds)
+ID 4: trmFO: methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO (cds)
+ID 5: sucD: succinate--CoA ligase subunit alpha (cds)
+ID 6: hypothetical protein (cds)

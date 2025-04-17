@@ -1,0 +1,10 @@
+Image 0
+ID 1: nusA: Transcription antitermination factor NusA, contains S1 and KH domains (cds)
+ID 2: trnI: tRNA-Ile(gat) (tRNA)
+ID 3: carB: carbamoyl-phosphate synthase large subunit (cds)
+ID 4: ibpA: Small heat shock protein IbpA, HSP20 family (cds)
+ID 5: pdxH: pyridoxamine 5'-phosphate oxidase (cds)
+ID 6: udg4: Uracil-DNA glycosylase (cds)
+ID 7: nuoL: NADH-quinone oxidoreductase subunit L (cds)
+ID 8: ubiK: Ubiquinone biosynthesis accessory factor UbiK (cds)
+ID 9: rnc: ribonuclease III (cds)

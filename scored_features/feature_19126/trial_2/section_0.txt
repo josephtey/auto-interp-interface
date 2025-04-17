@@ -1,0 +1,11 @@
+Image 0
+ID 1: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 2: DNA primase (cds)
+ID 3: infA: translation initiation factor IF-1 (cds)
+ID 4: EAL domain-containing protein (cds)
+ID 5: purB: adenylosuccinate lyase (cds)
+ID 6: Ribosomal protein S2-related protein (cds)
+ID 7: Plastocyanin-like domain-containing protein (cds)
+ID 8: Class II aldolase/adducin family protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Abasic site processing protein (cds)

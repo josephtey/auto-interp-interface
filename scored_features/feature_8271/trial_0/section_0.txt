@@ -1,0 +1,12 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: Cytochrome c oxidase subunit IV (cds)
+ID 3: metG: methionine--tRNA ligase (cds)
+ID 4: Secretion system C-terminal sorting domain-containing protein (cds)
+ID 5: comEC: DNA uptake channel protein ComEC, N-terminal domain (cds)
+ID 6: queA: tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA (cds)
+ID 7: Cell division protein FtsQ/DivIB C-terminal domain-containing protein (cds)
+ID 8: wcaE: Glycosyltransferase, GT2 family (cds)
+ID 9: yIH1: Putative translation regulator, IMPACT (imprinted ancient) protein family (cds)
+ID 10: pfkA: 6-phosphofructokinase (cds)
+ID 11: hypothetical protein (cds)

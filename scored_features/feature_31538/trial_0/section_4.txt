@@ -1,0 +1,12 @@
+Image 4
+ID 1: Cytochrome B561 (cds)
+ID 2: Diguanylate cyclase (cds)
+ID 3: hemA: glutamyl-tRNA reductase (cds)
+ID 4: Aldose 1-epimerase (cds)
+ID 5: fliI: Flagellar protein export ATPase FliI (cds)
+ID 6: Drug resistance transporter, EmrB/QacAs ubfamily (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Rhamnosyltransferase I subunit C (cds)
+ID 9: Cupin (cds)
+ID 10: icmF: Type VI secretion system protein IcmF (cds)
+ID 11: Capsular polysaccharide biosynthesis/export periplasmic protein (cds)

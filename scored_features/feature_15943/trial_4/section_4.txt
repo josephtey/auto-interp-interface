@@ -1,0 +1,10 @@
+Image 4
+ID 1: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 2: lytS: Sensor histidine kinase, LytS/YehU family (cds)
+ID 3: Glycosyl transferase family 2 (cds)
+ID 4: Lipid/polyisoprenoid-binding YceI-like domain-containing protein (cds)
+ID 5: HNH endonuclease 5 domain-containing protein (cds)
+ID 6: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 7: gDB1: Glycogen debranching enzyme (alpha-1,6-glucosidase) (cds)
+ID 8: trnH: tRNA-His(gtg) (tRNA)
+ID 9: DUF4295 domain-containing protein (cds)

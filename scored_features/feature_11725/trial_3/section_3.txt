@@ -1,0 +1,12 @@
+Image 3
+ID 1: melB: Na+/melibiose symporter or related transporter (cds)
+ID 2: rpsJ: 30S ribosomal protein S10 (cds)
+ID 3: Prenyltransferase (cds)
+ID 4: tatA: Sec-independent protein translocase protein TatA (cds)
+ID 5: CRISPR spacer, sequence TGCAACATCT (crispr-spacer)
+ID 6: apgM: 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (cds)
+ID 7: degV: Fatty acid-binding protein DegV (function unknown) (cds)
+ID 8: trnP: tRNA-Pro(cgg) (tRNA)
+ID 9: padR: DNA-binding transcriptional regulator, PadR family (cds)
+ID 10: hsdS: Restriction endonuclease S subunit (cds)
+ID 11: putative homoserine dehydrogenase, contains C-terminal SAF domain (cds)

@@ -1,0 +1,7 @@
+Image 4
+ID 1: RagB/SusD family nutrient uptake outer membrane protein (cds)
+ID 2: galM: Galactose mutarotase or related enzyme (cds)
+ID 3: SusD/RagB family nutrient-binding outer membrane lipoprotein (cds)
+ID 4: gldM: Gliding motility protein GldM (cds)
+ID 5: nuoB: NADH-quinone oxidoreductase subunit B (cds)
+ID 6: Lipocalin-like domain-containing protein (cds)

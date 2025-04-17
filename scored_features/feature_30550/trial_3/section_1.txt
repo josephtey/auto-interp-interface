@@ -1,0 +1,11 @@
+Image 1
+ID 1: yigB: FMN and 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB, HAD superfamily (riboflavin biosynthesis) (cds)
+ID 2: cdhD: CO dehydrogenase/acetyl-CoA synthase delta subunit (corrinoid Fe-S protein) (cds)
+ID 3: hypothetical protein (cds)
+ID 4: glpX: class II fructose-bisphosphatase (cds)
+ID 5: atpG: FoF1-type ATP synthase, gamma subunit (cds)
+ID 6: AAA+ ATPase domain-containing protein (cds)
+ID 7: hxlR: DNA-binding transcriptional regulator, HxlR family (cds)
+ID 8: fldA: Flavodoxin (cds)
+ID 9: rpsP: 30S ribosomal protein S16 (cds)
+ID 10: rsbU: Phosphoserine phosphatase RsbU, regulator of sigma subunit (cds)

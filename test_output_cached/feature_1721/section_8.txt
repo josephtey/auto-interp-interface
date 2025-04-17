@@ -1,0 +1,7 @@
+ID 1: hlyD: Secretion protein HlyD family protein (cds)
+ID 2: Uroporphyrinogen-III methylase (cds)
+ID 3: Catalase (cds)
+ID 4: Cation:proton antiporter (cds)
+ID 5: EAL domain-containing protein (cds)
+ID 6: glutamate-5-semialdehyde dehydrogenase (cds)
+ID 7: hypothetical protein (cds)

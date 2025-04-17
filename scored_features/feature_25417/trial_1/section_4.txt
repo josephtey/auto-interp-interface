@@ -1,0 +1,12 @@
+Image 4
+ID 1: Hydrogenase maturation factor (cds)
+ID 2: Abi-like protein (cds)
+ID 3: ccrA: crotonyl-CoA carboxylase/reductase (cds)
+ID 4: PAS domain-containing protein (cds)
+ID 5: ccoQ: Cbb3-type cytochrome oxidase, subunit 3 (cds)
+ID 6: asmA: Uncharacterized conserved protein AsmA involved in outer membrane biogenesis (cds)
+ID 7: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 8: rhtB: Threonine/homoserine/homoserine lactone efflux protein (cds)
+ID 9: pQQ: Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat (cds)
+ID 10: hypothetical protein (cds)
+ID 11: purB: adenylosuccinate lyase (cds)

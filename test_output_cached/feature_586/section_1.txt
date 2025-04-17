@@ -1,0 +1,8 @@
+ID 1: hypothetical protein (cds)
+ID 2: Methylated-DNA--protein-cysteine methyltransferase (cds)
+ID 3: histidine kinase (cds)
+ID 4: putative permease (cds)
+ID 5: rpe: ribulose-phosphate 3-epimerase (cds)
+ID 6: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 7: trnI: tRNA-Ile(gat) (tRNA)
+ID 8: putative signal transduction protein containing a membrane domain, an EAL and a GGDEF domain (cds)

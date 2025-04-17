@@ -1,0 +1,10 @@
+Image 3
+ID 1: pth: aminoacyl-tRNA hydrolase (cds)
+ID 2: Flavoprotein, HI0933 family (cds)
+ID 3: 4'-phosphopantetheinyl transferase superfamily protein (cds)
+ID 4: Zinc-ribbon domain-containing protein (cds)
+ID 5: Stp1/IreP family PP2C-type Ser/Thr phosphatase (cds)
+ID 6: Amidinotransferase (cds)
+ID 7: ABC transporter substrate-binding protein (cds)
+ID 8: valine--tRNA ligase (cds)
+ID 9: hypothetical protein (cds)

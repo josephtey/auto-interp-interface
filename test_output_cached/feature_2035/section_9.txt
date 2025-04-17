@@ -1,0 +1,7 @@
+ID 1: atpF: F0F1 ATP synthase subunit B (cds)
+ID 2: tktA2: Transketolase, C-terminal subunit (cds)
+ID 3: Thioredoxin family protein (cds)
+ID 4: tM0315: Uncharacterized protein, contains short C-terminal (SHOCT) domain (cds)
+ID 5: hypothetical protein (cds)
+ID 6: trpB: tryptophan synthase subunit beta (cds)
+ID 7: pspC: Phage shock protein PspC (stress-responsive transcriptional regulator) (cds)

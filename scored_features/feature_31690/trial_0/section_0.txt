@@ -1,0 +1,2 @@
+Image 0
+ID 1: Fluoride riboswitch (crcB) (ncRNA-region)

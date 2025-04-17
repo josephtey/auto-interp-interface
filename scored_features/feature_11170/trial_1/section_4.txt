@@ -1,0 +1,10 @@
+Image 4
+ID 1: Glycosyltransferase family 2 protein (cds)
+ID 2: eamA: EamA family transporter (cds)
+ID 3: anthranilate synthase component I family protein (cds)
+ID 4: topA: type I DNA topoisomerase (cds)
+ID 5: alr: alanine racemase (cds)
+ID 6: DUF948 domain-containing protein (cds)
+ID 7: Transposase (cds)
+ID 8: murD: UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (cds)
+ID 9: HPP family protein (cds)

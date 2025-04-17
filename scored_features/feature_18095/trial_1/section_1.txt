@@ -1,0 +1,11 @@
+Image 1
+ID 1: HAD-IIA family hydrolase (cds)
+ID 2: Alkaline phosphatase (cds)
+ID 3: Peptidoglycan DD-metalloendopeptidase family protein (cds)
+ID 4: Glycosyltransferase family 2 protein (cds)
+ID 5: Iron-sulfur cluster assembly scaffold protein (cds)
+ID 6: DNA-directed RNA polymerase subunit beta (cds)
+ID 7: pcaH: protocatechuate 3,4-dioxygenase subunit beta (cds)
+ID 8: GNAT family N-acetyltransferase (cds)
+ID 9: Chlorite dismutase (cds)
+ID 10: CN hydrolase domain-containing protein (cds)

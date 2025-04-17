@@ -1,0 +1,10 @@
+Image 0
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: MFS transporter (cds)
+ID 4: map: type I methionyl aminopeptidase (cds)
+ID 5: hisS: histidine--tRNA ligase (cds)
+ID 6: yggS: Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family (cds)
+ID 7: mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase (cds)
+ID 8: serS: serine--tRNA ligase (cds)

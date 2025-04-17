@@ -1,0 +1,11 @@
+Image 2
+ID 1: EF-hand domain-containing protein (cds)
+ID 2: ybbN: Co-chaperone YbbN (cds)
+ID 3: hypothetical protein (cds)
+ID 4: DEAD/DEAH box helicase (cds)
+ID 5: PAS domain-containing protein (cds)
+ID 6: lpdA: dihydrolipoyl dehydrogenase (cds)
+ID 7: Carbon monoxide dehydrogenase subunit G (cds)
+ID 8: Nucleoside-diphosphate sugar epimerase (cds)
+ID 9: rplD: 50S ribosomal protein L4 (cds)
+ID 10: Helix-turn-helix domain-containing protein (cds)

@@ -1,0 +1,10 @@
+Image 4
+ID 1: Arginine transporter (cds)
+ID 2: DUF1190 domain-containing protein (cds)
+ID 3: trnN: tRNA-Asn(gtt) (tRNA)
+ID 4: tfoR: Translational regulator of tfoXVC (ncRNA)
+ID 5: Ribosomal subunit interface protein (cds)
+ID 6: Putative Transporter (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Chloramphenicol acetyltransferase (cds)
+ID 9: rstR: RstR RS2 element transcriptional regulator (cds)

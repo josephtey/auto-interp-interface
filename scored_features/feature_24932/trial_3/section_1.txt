@@ -1,0 +1,9 @@
+Image 1
+ID 1: DUF4177 domain-containing protein (cds)
+ID 2: Exopolyphosphatase (cds)
+ID 3: Helicase ATP-binding domain-containing protein (cds)
+ID 4: RNA methyltransferase (cds)
+ID 5: sufB: Fe-S cluster assembly protein SufB (cds)
+ID 6: Pirin family protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: helix-turn-helix transcriptional regulator (cds)

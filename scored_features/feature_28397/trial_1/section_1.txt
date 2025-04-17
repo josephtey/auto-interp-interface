@@ -1,0 +1,7 @@
+Image 1
+ID 1: DUF4367 domain-containing protein (cds)
+ID 2: Lysine riboswitch (ncRNA-region)
+ID 3: gcvT: Glycine cleavage system protein T (aminomethyltransferase) (cds)
+ID 4: hypothetical protein (cds)
+ID 5: priA: primosomal protein N' (cds)
+ID 6: class B sortase (cds)

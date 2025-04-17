@@ -1,0 +1,13 @@
+Image 0
+ID 1: DUF6503 domain-containing protein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Transporter (cds)
+ID 5: paaD: SUF system Fe-S cluster assembly protein (cds)
+ID 6: uppP: Undecaprenyl pyrophosphate phosphatase (cds)
+ID 7: dnaG: DNA primase (bacterial type) (cds)
+ID 8: yggS: Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family (cds)
+ID 9: ccmC: ABC-type transport system involved in cytochrome c biogenesis, permease component (cds)
+ID 10: dltB: D-alanyl-lipoteichoic acid acyltransferase DltB, MBOAT superfamily (cds)
+ID 11: bepA: Outer membrane protein chaperone/metalloprotease BepA/YfgC, contains M48 and TPR domains (cds)
+ID 12: mpaA: Murein tripeptide amidase MpaA (cds)

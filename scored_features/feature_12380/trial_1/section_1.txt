@@ -1,0 +1,13 @@
+Image 1
+ID 1: argC: N-acetyl-gamma-glutamyl-phosphate reductase (cds)
+ID 2: VCBS repeat-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: trnY: tRNA-Tyr(gta) (tRNA)
+ID 5: EAL domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Ferrous iron transport protein A (cds)
+ID 8: STAS domain-containing protein (cds)
+ID 9: U32 family peptidase (cds)
+ID 10: gspE: type II secretion system ATPase GspE (cds)
+ID 11: 6-carboxy-5,6,7,8-tetrahydropterin synthase (cds)
+ID 12: Membrane fusion protein (MFP) family protein (cds)

@@ -1,0 +1,10 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: slyA: Transcriptional regulator SlyA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence CGGCTTTTGTAAAACAAAAAGGATAGAAGAAGTTGA (crispr-spacer)
+ID 6: hypothetical protein (cds)
+ID 7: folE: GTP cyclohydrolase I FolE (cds)
+ID 8: IS4 family transposase (cds)
+ID 9: Cytidine deaminase (cds)

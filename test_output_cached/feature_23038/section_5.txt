@@ -1,0 +1,7 @@
+ID 1: hypothetical protein (cds)
+ID 2: nACHT: putative NTPase, NACHT family domain (cds)
+ID 3: sPS1: Serine/threonine protein kinase (cds)
+ID 4: CRISPR spacer, sequence AGCAGCCGCCCTAGCCATGTACTGGCGAATTTCCGGA (crispr-spacer)
+ID 5: orn: oligoribonuclease (cds)
+ID 6: acuC: Acetoin utilization deacetylase AcuC or a related deacetylase (cds)
+ID 7: rspA: L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily (cds)

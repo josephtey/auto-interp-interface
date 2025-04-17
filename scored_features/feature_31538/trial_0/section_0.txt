@@ -1,0 +1,5 @@
+Image 0
+ID 1: secF: Preprotein translocase subunit SecF (cds)
+ID 2: proB: Glutamate 5-kinase (cds)
+ID 3: nadK: NAD kinase (cds)
+ID 4: sucD: succinate--CoA ligase subunit alpha (cds)

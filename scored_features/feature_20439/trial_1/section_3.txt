@@ -1,0 +1,8 @@
+Image 3
+ID 1: Lipoprotein (cds)
+ID 2: phosphoribosylaminoimidazolesuccinocarboxamide synthase (cds)
+ID 3: peptide-methionine (R)-S-oxide reductase (cds)
+ID 4: lipB: lipoyl(octanoyl) transferase LipB (cds)
+ID 5: MMPL family transporter (cds)
+ID 6: Formate/nitrite transporter family protein (cds)
+ID 7: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (cds)

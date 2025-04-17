@@ -1,0 +1,3 @@
+Image 4
+ID 1: Methionine ABC transporter ATP-binding protein (cds)
+ID 2: TIGR02206 family membrane protein (cds)

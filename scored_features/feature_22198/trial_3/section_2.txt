@@ -1,0 +1,10 @@
+Image 2
+ID 1: jag: RNA-binding cell elongation regulator Jag/EloR (cds)
+ID 2: CRISPR spacer, sequence GGGGTGGCTTTTTTGCACACAAAAATTTCGCATATAGCATATAAATGAA (crispr-spacer)
+ID 3: hypothetical protein (cds)
+ID 4: tlpA: TlpA disulfide reductase family protein (cds)
+ID 5: dctP: TRAP-type C4-dicarboxylate transport system, periplasmic component (cds)
+ID 6: pknB: Stk1 family PASTA domain-containing Ser/Thr kinase (cds)
+ID 7: DUF1292 domain-containing protein (cds)
+ID 8: rocB: Arginine utilization protein RocB (cds)
+ID 9: lysR: DNA-binding transcriptional regulator, LysR family (cds)

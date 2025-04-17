@@ -1,0 +1,5 @@
+ID 1: pyrD: quinone-dependent dihydroorotate dehydrogenase (cds)
+ID 2: ydgA: YdgA family protein (cds)
+ID 3: aceK: bifunctional isocitrate dehydrogenase kinase/phosphatase (cds)
+ID 4: Energy-coupling factor ABC transporter ATP-binding protein (cds)
+ID 5: cyoE: heme o synthase (cds)

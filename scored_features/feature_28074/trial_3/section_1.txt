@@ -1,0 +1,11 @@
+Image 1
+ID 1: manB: Phosphomannomutase (cds)
+ID 2: rpsN: type Z 30S ribosomal protein S14 (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: hEC1: Chromosome segregation protein NDC80, interacts with SMC proteins (cds)
+ID 5: ltrA: group II intron reverse transcriptase/maturase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: yciV: 5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain (cds)
+ID 8: dICT: DICT sensory domain found in diguanylate cyclases and two-component systems (cds)
+ID 9: ydaO/yuaA leader (ncRNA-region)
+ID 10: glyA: Glycine/serine hydroxymethyltransferase (cds)

@@ -1,0 +1,8 @@
+Image 2
+ID 1: hypothetical protein (cds)
+ID 2: Coat F domain-containing protein (cds)
+ID 3: purB: Adenylosuccinate lyase (cds)
+ID 4: Prepilin-type N-terminal cleavage/methylation domain-containing protein (cds)
+ID 5: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 6: cas7i: type I-B CRISPR-associated protein Cas7/Cst2/DevR (cds)
+ID 7: rpsH: 30S ribosomal protein S8 (cds)

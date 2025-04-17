@@ -1,0 +1,10 @@
+Image 0
+ID 1: Metallophosphoesterase (cds)
+ID 2: Amino acid/amide ABC transporter ATP-binding protein 1, HAAT family (cds)
+ID 3: elongation factor G-like protein EF-G2 (cds)
+ID 4: 2-polyprenyl-6-methoxyphenol hydroxylase-like oxidoreductase (cds)
+ID 5: CDP-6-deoxy-delta-3,4-glucoseen reductase (cds)
+ID 6: Aldehyde dehydrogenase (NAD+) (cds)
+ID 7: Enoyl-CoA hydratase (cds)
+ID 8: ycaO: YcaO domain-containing protein (cds)
+ID 9: dedA: DedA family protein (cds)

@@ -1,0 +1,8 @@
+ID 1: hypothetical protein (cds)
+ID 2: mPO1: 2-hydroxy fatty acid dioxygenase MPO1 (alpha-oxidation of fatty acids) (cds)
+ID 3: Uncharacterized conserved protein, contains a C-terminal ATPase domain (cds)
+ID 4: istA: IS21 family transposase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: nACHT: putative NTPase, NACHT family domain (cds)
+ID 7: Coagulation factor 5/8 type domain protein (cds)
+ID 8: tadA: tRNA adenosine(34) deaminase TadA (cds)

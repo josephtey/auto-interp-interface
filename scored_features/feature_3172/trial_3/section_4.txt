@@ -1,0 +1,9 @@
+Image 4
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: dsbA: DsbA family protein (cds)
+ID 2: trnL: tRNA-Leu(tag) (tRNA)
+ID 3: Sarcosine oxidase subunit alpha family protein (cds)
+ID 4: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 5: capA: Capsule synthesis protein CapA domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: TIGR03503 family protein (cds)

@@ -1,0 +1,9 @@
+Image 0
+ID 1: ASPIC/UnbV domain protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Metallo-mystery pair system four-Cys motif protein (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR spacer, sequence ACGATAACAGCGCGGCAAAGCGTGCTTGGCACCAGG (crispr-spacer)
+ID 8: hemN: Coproporphyrinogen-III oxidase HemN (oxygen-independent) or related Fe-S oxidoreductase (cds)

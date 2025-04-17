@@ -1,0 +1,12 @@
+Image 1
+ID 1: hyfE: Hydrogenase-4 membrane subunit HyfE (cds)
+ID 2: ompW: Outer membrane protein OmpW (cds)
+ID 3: leuC: Homoaconitase/3-isopropylmalate dehydratase large subunit (cds)
+ID 4: queC: 7-cyano-7-deazaguanine synthase QueC (cds)
+ID 5: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 6: VanZ-like domain-containing protein (cds)
+ID 7: eLP3: tRNA U34 5-carboxymethylaminomethylation enzyme Elp3 (RNA elongator complex protein 3), contains radical SAM and acetyltransferase domains (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: yqfO: Nif3-like dinuclear metal center hexameric protein (cds)
+ID 10: cHASE: Extracellular (periplasmic) sensor domain CHASE (specificity unknown) (cds)
+ID 11: hcp: hydroxylamine reductase (cds)

@@ -1,0 +1,13 @@
+Image 3
+ID 1: DMT family transporter (cds)
+ID 2: DUF2798 domain-containing protein (cds)
+ID 3: Putative hemolysin (cds)
+ID 4: scpB: SMC-Scp complex subunit ScpB (cds)
+ID 5: Flp pilus-assembly TadG-like N-terminal domain-containing protein (cds)
+ID 6: DUF1484 domain-containing protein (cds)
+ID 7: trnA: tRNA-Ala(ggc) (tRNA)
+ID 8: minC: septum site-determining protein MinC (cds)
+ID 9: Rieske 2Fe-2S domain-containing protein (cds)
+ID 10: rhomboid family intramembrane serine protease (cds)
+ID 11: hypothetical protein (cds)
+ID 12: META domain-containing protein (cds)

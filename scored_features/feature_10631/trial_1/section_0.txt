@@ -1,0 +1,12 @@
+Image 0
+ID 1: phnD: Phosphonate ABC transporter, periplasmic phosphonate-binding protein (cds)
+ID 2: CCA tRNA nucleotidyltransferase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Inner-membrane translocator (cds)
+ID 5: Phosphotransferase system PTS sorbose-specific IIC subunit (cds)
+ID 6: HTH tetR-type domain-containing protein (cds)
+ID 7: smpB: SsrA-binding protein SmpB (cds)
+ID 8: trnN: tRNA-Asn(gtt) (tRNA)
+ID 9: pspC: Phage shock protein C, PspC (cds)
+ID 10: gldA: Alcohol dehydrogenase iron-type/glycerol dehydrogenase GldA domain-containing protein (cds)
+ID 11: hypothetical protein (cds)

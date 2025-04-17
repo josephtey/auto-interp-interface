@@ -1,0 +1,8 @@
+Image 2
+ID 1: FHA domain-containing protein (cds)
+ID 2: Pyrrolo-quinoline quinone (cds)
+ID 3: Sugar ABC transporter permease (cds)
+ID 4: rrs: 16S ribosomal RNA (rRNA)
+ID 5: cotH: Spore coat protein CotH (cds)
+ID 6: Ribonuclease J (cds)
+ID 7: ATP-binding protein (cds)

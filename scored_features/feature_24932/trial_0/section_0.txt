@@ -1,0 +1,10 @@
+Image 0
+ID 1: thiC: phosphomethylpyrimidine synthase ThiC (cds)
+ID 2: Acyl carrier protein (cds)
+ID 3: potA: Spermidine/putrescine import ATP-binding protein PotA (cds)
+ID 4: czcB: Cobalt-zinc-cadmium resistance protein CzcB (cds)
+ID 5: trpC: indole-3-glycerol phosphate synthase TrpC (cds)
+ID 6: fliG: Flagellar motor switch protein FliG (cds)
+ID 7: Aminodeoxychorismate/anthranilate synthase component 2 (cds)
+ID 8: prkC: Serine/threonine-protein kinase PrkC (cds)
+ID 9: Outer membrane efflux protein (cds)

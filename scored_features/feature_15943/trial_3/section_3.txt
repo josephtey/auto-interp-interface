@@ -1,0 +1,9 @@
+Image 3
+ID 1: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)
+ID 2: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 3: yjhB: ADP-ribose pyrophosphatase YjhB, NUDIX family (cds)
+ID 4: parE: Plasmid stabilization system protein ParE (cds)
+ID 5: fepB: ABC-type Fe3+-hydroxamate transport system, periplasmic component (cds)
+ID 6: panC: pantoate--beta-alanine ligase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: CRISPR repeat (crispr-repeat)

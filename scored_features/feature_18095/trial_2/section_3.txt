@@ -1,0 +1,12 @@
+Image 3
+ID 1: YdgH/BhsA/McbA-like domain-containing protein (cds)
+ID 2: pepA: leucyl aminopeptidase (cds)
+ID 3: fldA: flavodoxin FldA (cds)
+ID 4: glsA: glutaminase A (cds)
+ID 5: rimJ: ribosomal protein S5-alanine N-acetyltransferase (cds)
+ID 6: Molecular chaperone (cds)
+ID 7: ymfN: Phage terminase-like protein, large subunit, contains N-terminal HTH domain (cds)
+ID 8: hypothetical protein (cds)
+ID 9: arcC: Carbamate kinase (cds)
+ID 10: speB: agmatinase (cds)
+ID 11: ptsN: Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type) (cds)

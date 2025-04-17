@@ -1,0 +1,6 @@
+Image 4
+ID 1: ccrA: crotonyl-CoA carboxylase/reductase (cds)
+ID 2: eamA: EamA domain-containing protein (cds)
+ID 3: ompR: Transcriptional regulatory protein OmpR (cds)
+ID 4: secA: Preprotein translocase subunit SecA (cds)
+ID 5: hypothetical protein (cds)

@@ -1,0 +1,12 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: Nucleoside deaminase (cds)
+ID 3: NAD(P)/FAD-dependent oxidoreductase (cds)
+ID 4: DNA polymerase IV (cds)
+ID 5: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 6: NUDIX domain-containing protein (cds)
+ID 7: trpS: tryptophan--tRNA ligase (cds)
+ID 8: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 9: Pyridoxamine 5'-phosphate oxidase family protein (cds)
+ID 10: NAD(P)-dependent oxidoreductase (cds)
+ID 11: Globin (cds)

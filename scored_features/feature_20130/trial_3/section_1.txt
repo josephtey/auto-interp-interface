@@ -1,0 +1,12 @@
+Image 1
+ID 1: Sugar ABC transporter substrate-binding protein (cds)
+ID 2: argC: N-acetyl-gamma-glutamyl-phosphate reductase (cds)
+ID 3: Clp R domain-containing protein (cds)
+ID 4: dxs: 1-deoxy-D-xylulose-5-phosphate synthase (cds)
+ID 5: DUF2993 domain-containing protein (cds)
+ID 6: Transcriptional regulator (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Reductive dehalogenase subunit A (cds)
+ID 9: Alcohol dehydrogenase GroES domain protein (cds)
+ID 10: Acyl-CoA dehydrogenase (cds)
+ID 11: LAO/AO transport system ATPase (cds)

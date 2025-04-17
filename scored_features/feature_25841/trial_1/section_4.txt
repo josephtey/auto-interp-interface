@@ -1,0 +1,13 @@
+Image 4
+ID 1: Lipoprotein (cds)
+ID 2: gstA: Glutathione S-transferase (cds)
+ID 3: DUF6497 domain-containing protein (cds)
+ID 4: mreB: Rod shape-determining protein MreB (cds)
+ID 5: VOC domain-containing protein (cds)
+ID 6: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 7: manX: Phosphotransferase system, mannose/fructose-specific component IIA (cds)
+ID 8: fadM: Acyl-CoA thioesterase FadM (cds)
+ID 9: entF: EntF, seryl-AMP synthase component of non-ribosomal peptide synthetase (cds)
+ID 10: cDA1: Peptidoglycan/xylan/chitin deacetylase, PgdA/NodB/CDA1 family (cds)
+ID 11: ddpA: ABC-type transport system, periplasmic component (cds)
+ID 12: folE2: GTP cyclohydrolase FolE2 (cds)

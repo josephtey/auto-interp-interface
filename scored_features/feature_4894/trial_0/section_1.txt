@@ -1,0 +1,12 @@
+Image 1
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: rimL: Protein N-acetyltransferase, RimJ/RimL family (cds)
+ID 3: whiA: DNA-binding protein WhiA (cds)
+ID 4: Double zinc ribbon (cds)
+ID 5: fepA: Outer membrane receptor for ferrienterochelin and colicins (cds)
+ID 6: Cellobiose phosphorylase (cds)
+ID 7: DUF2007 domain-containing protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: ATPase (cds)
+ID 10: carA: carbamoyl phosphate synthase small subunit (cds)
+ID 11: hypothetical protein (cds)

@@ -1,0 +1,8 @@
+ID 1: RiboL-PSP-HEPN domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Phenolphthiocerol synthesis polyketide synthase type I Pks15/1 (cds)
+ID 4: non-specific serine/threonine protein kinase (cds)
+ID 5: Peptidase M48 domain-containing protein (cds)
+ID 6: Mannose-6-phosphate isomerase (cds)
+ID 7: Putative lipoate-protein ligase A (cds)
+ID 8: Acetyl xylan esterase (AXE1) (cds)

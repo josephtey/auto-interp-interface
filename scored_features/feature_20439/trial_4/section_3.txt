@@ -1,0 +1,11 @@
+Image 3
+ID 1: dtxR: Iron (Metal) dependent repressor, DtxR family (cds)
+ID 2: Periplasmic binding protein (cds)
+ID 3: Class II aldolase/adducin family protein (cds)
+ID 4: GCN5-related N-acetyltransferase (cds)
+ID 5: fliI: flagellar protein export ATPase FliI (cds)
+ID 6: natK: Sensor histidine kinase NatK C-terminal domain-containing protein (cds)
+ID 7: Transporter (cds)
+ID 8: histidine kinase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Methyl-accepting chemotaxis sensory transducer (cds)

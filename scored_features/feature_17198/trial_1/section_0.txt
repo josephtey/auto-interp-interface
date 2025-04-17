@@ -1,0 +1,11 @@
+Image 0
+ID 1: recD: ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V) (cds)
+ID 2: HMG-I and HMG-Y, DNA-binding domain protein (cds)
+ID 3: lEA: Dessication stress tolerance protein, LEA/WHy domain (cds)
+ID 4: mipA: MltA-interacting MipA family protein (cds)
+ID 5: DUF2059 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: cas2e: type I-E CRISPR-associated endoribonuclease Cas2e (cds)
+ID 8: hypothetical protein (cds)
+ID 9: ftsA: cell division protein FtsA (cds)
+ID 10: tim44: putative lipid-binding transport protein, Tim44 family (cds)

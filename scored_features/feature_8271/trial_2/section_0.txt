@@ -1,0 +1,9 @@
+Image 0
+ID 1: walK: Sensor histidine kinase WalK (cds)
+ID 2: CRISPR spacer, sequence CTGTTGTACGAAAACTGGGACGCCATCAGCGCCAAGTT (crispr-spacer)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: DUF6544 domain-containing protein (cds)
+ID 6: cystathionine beta-synthase (cds)
+ID 7: bamA: Outer membrane protein assembly factor BamA (cds)
+ID 8: rimK: 30S ribosomal protein S6--L-glutamate ligase (cds)

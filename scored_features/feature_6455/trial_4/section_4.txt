@@ -1,0 +1,10 @@
+Image 4
+ID 1: frr: ribosome recycling factor (cds)
+ID 2: 4Fe-4S ferredoxin, iron-sulfur binding (cds)
+ID 3: malQ: 4-alpha-glucanotransferase (cds)
+ID 4: thiL: thiamine-phosphate kinase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: pcnB: tRNA nucleotidyltransferase/poly(A) polymerase (cds)
+ID 7: rpsR: 30S ribosomal protein S18 (cds)
+ID 8: hemA: glutamyl-tRNA reductase (cds)
+ID 9: ABC transporter component (cds)

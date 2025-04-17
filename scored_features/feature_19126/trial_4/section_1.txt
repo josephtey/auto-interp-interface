@@ -1,0 +1,12 @@
+Image 1
+ID 1: Lipoprotein (cds)
+ID 2: pseF: pseudaminic acid cytidylyltransferase (cds)
+ID 3: CRISPR spacer, sequence CTAACACACTAGAAGATATCAAGAAGCTAGAGA (crispr-spacer)
+ID 4: apaH: symmetrical bis(5'-nucleosyl)-tetraphosphatase (cds)
+ID 5: NAD-dependent DNA ligase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Killing trait (cds)
+ID 8: asnC: Transcriptional regulator, AsnC family (cds)
+ID 9: UDP-glucose 6-dehydrogenase (cds)
+ID 10: CRISPR spacer, sequence TGGGTGGGGGTGTAAAGAACCTTTATGCCAAA (crispr-spacer)
+ID 11: Cupin 2 conserved barrel domain protein (cds)

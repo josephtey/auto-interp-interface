@@ -1,0 +1,8 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: Outer membrane protein beta-barrel domain-containing protein (cds)
+ID 3: wzb: Protein-tyrosine-phosphatase (cds)
+ID 4: carA: carbamoyl phosphate synthase small subunit (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: CRISPR spacer, sequence TGCTGAAGCTCAGTGAGCCGCAAGAAGAACTCCTCG (crispr-spacer)

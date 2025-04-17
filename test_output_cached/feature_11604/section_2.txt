@@ -1,0 +1,4 @@
+ID 1: ybjN: Uncharacterized conserved protein YbjN, helps stabilize unstable proteins (cds)
+ID 2: impA: ImpA N-terminal domain-containing protein (cds)
+ID 3: TIGR04551 family protein (cds)
+ID 4: CRISPR spacer, sequence GCCGTCTCCGCCTTCGTATCCGGGCGAATATATGCCC (crispr-spacer)

@@ -1,0 +1,12 @@
+Image 0
+ID 1: ABC transporter (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR spacer, sequence AATAGTGTACAATTAAAGTATAAGTTAGAAATATTTC (crispr-spacer)
+ID 4: htpG: molecular chaperone HtpG (cds)
+ID 5: DUF5317 domain-containing protein (cds)
+ID 6: rrl: 23S ribosomal RNA (rRNA)
+ID 7: rplJ: 50S ribosomal protein L10 (cds)
+ID 8: yxlF: Putative ABC transporter ATP-binding protein YxlF (cds)
+ID 9: hsdM: Type I restriction-modification system, DNA methylase subunit (cds)
+ID 10: hypothetical protein (cds)
+ID 11: mcpC: Methyl-accepting chemotaxis protein McpC (cds)

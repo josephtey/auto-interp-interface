@@ -1,0 +1,9 @@
+Image 2
+ID 1: EAL domain-containing protein (cds)
+ID 2: DUF924 domain-containing protein (cds)
+ID 3: mutT: 8-oxo-dGTP diphosphatase MutT (cds)
+ID 4: Peptidase M41 domain-containing protein (cds)
+ID 5: wzb: Protein-tyrosine-phosphatase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: higA: Antitoxin component HigA of the HigAB toxin-antitoxin module, contains an N-terminal HTH domain (cds)
+ID 8: dsbC: Protein thiol-disulfide isomerase DsbC (cds)

@@ -1,0 +1,7 @@
+Image 1
+ID 1: mviM: putative dehydrogenase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: fabD: ACP S-malonyltransferase (cds)
+ID 5: csdA: Selenocysteine lyase/Cysteine desulfurase (cds)
+ID 6: CRISPR spacer, sequence GTATTTTCGGAGTAGCGCTATGACGCCGTCATATGCAG (crispr-spacer)

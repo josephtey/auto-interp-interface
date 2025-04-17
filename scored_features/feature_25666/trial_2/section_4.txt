@@ -1,0 +1,7 @@
+Image 4
+ID 1: DUF1697 domain-containing protein (cds)
+ID 2: alkB: Alkylated DNA repair dioxygenase AlkB (cds)
+ID 3: sPS1: Serine/threonine protein kinase (cds)
+ID 4: CRISPR spacer, sequence GATTCGCCGTCGATTTCAAACTCGGAGAGCGTCTC (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: Outer membrane protein beta-barrel domain-containing protein (cds)

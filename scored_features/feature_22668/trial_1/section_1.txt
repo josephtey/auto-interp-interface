@@ -1,0 +1,12 @@
+Image 1
+ID 1: Arginine/lysine/ornithine decarboxylase (cds)
+ID 2: DUF6179 domain-containing protein (cds)
+ID 3: RHS repeat-associated core domain-containing protein (cds)
+ID 4: Acyl-CoA dehydrogenase (cds)
+ID 5: PTS system D-fructose-specific IIB component (F1P-forming), Frc family /PTS system D-fructose-specific IIC component (F1P-forming), Frc family (cds)
+ID 6: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 7: rhodanese-related sulfurtransferase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: perM: putative PurR-regulated permease PerM (cds)
+ID 10: SH3 domain-containing protein (cds)
+ID 11: Enoyl-CoA hydratase (cds)

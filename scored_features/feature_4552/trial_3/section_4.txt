@@ -1,0 +1,12 @@
+Image 4
+ID 1: hemA: glutamyl-tRNA reductase (cds)
+ID 2: putative membrane protein (cds)
+ID 3: DUF3579 domain-containing protein (cds)
+ID 4: CRISPR spacer, sequence CCGTGCAATCTGCACGCGCCAGCCGCTCTTGA (crispr-spacer)
+ID 5: CRISPR spacer, sequence CAGGGGGCAATGCTCCAAAACAGAATCGGCAA (crispr-spacer)
+ID 6: soxR: DNA-binding transcriptional regulator, MerR family (cds)
+ID 7: ccsB: c-type cytochrome biogenesis protein CcsB (cds)
+ID 8: uvrA: excinuclease ABC subunit UvrA (cds)
+ID 9: Anthranilate phosphoribosyltransferase (cds)
+ID 10: DNA 3'-5' helicase (cds)
+ID 11: ddpA: ABC-type transport system, periplasmic component (cds)

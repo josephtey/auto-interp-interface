@@ -1,0 +1,7 @@
+ID 1: pilO: Type IV pilus assembly protein PilO (cds)
+ID 2: tldD: Zn-dependent protease PmbA/TldA or its inactivated-like protein (cds)
+ID 3: mrcB: Penicillin-binding protein 1B/1F, peptidoglycan transglycosylase/transpeptidase (cds)
+ID 4: CRISPR spacer, sequence GTGTGCCGCGGATCGGAGTCGAGGACGATGCCGAGCTT (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR spacer, sequence GCCGTCCAGGACATCGCCGATGTCCGCCGAGCCGT (crispr-spacer)
+ID 7: Peptidyl-dipeptidase A (cds)

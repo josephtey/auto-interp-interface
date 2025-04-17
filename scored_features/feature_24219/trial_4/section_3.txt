@@ -1,0 +1,11 @@
+Image 3
+ID 1: Transposase IS4 family protein (cds)
+ID 2: carD: CarD family transcriptional regulator (cds)
+ID 3: IS1380 family transposase (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: araC: AraC family transcriptional regulator (cds)
+ID 6: Heterodisulfide reductase (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: mcr1: NAD(P)H-flavin reductase (cds)
+ID 9: ylqD: YlqD protein (cds)
+ID 10: Cation acetate symporter (cds)

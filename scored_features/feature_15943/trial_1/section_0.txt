@@ -1,0 +1,13 @@
+Image 0
+ID 1: rpoE: RNA polymerase sigma factor (cds)
+ID 2: ybhL: Integral membrane protein YbhL, putative Ca2+ regulator, Bax inhibitor (BI-1)/TMBIM family (cds)
+ID 3: dnaB: replicative DNA helicase (cds)
+ID 4: efeB: Periplasmic deferrochelatase/peroxidase EfeB (cds)
+ID 5: pilT: Type IV pilus assembly protein PilT, pilus retraction ATPase (cds)
+ID 6: xthA: exodeoxyribonuclease III (cds)
+ID 7: ATP-binding protein (cds)
+ID 8: tctA: TctA family transporter (cds)
+ID 9: dacC: D-alanyl-D-alanine carboxypeptidase (cds)
+ID 10: mpl: UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (cds)
+ID 11: tcdA: tRNA cyclic N6-threonylcarbamoyladenosine(37) synthase TcdA (cds)
+ID 12: ggt: gamma-glutamyltransferase (cds)

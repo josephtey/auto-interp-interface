@@ -1,0 +1,7 @@
+ID 1: Alkaline phosphatase (cds)
+ID 2: Periplasmic nitrate reductase, electron transfer subunit (cds)
+ID 3: dapA: 4-hydroxy-tetrahydrodipicolinate synthase (cds)
+ID 4: proQ: RNA chaperone ProQ (cds)
+ID 5: Leucine dehydrogenase (cds)
+ID 6: Integrase (cds)
+ID 7: slyX: Protein SlyX-like protein (cds)

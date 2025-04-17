@@ -1,0 +1,11 @@
+Image 4
+ID 1: fliF: flagellar basal-body MS-ring/collar protein FliF (cds)
+ID 2: rlpA: Endolytic peptidoglycan transglycosylase RlpA (cds)
+ID 3: Kynurenine 3-monooxygenase (cds)
+ID 4: AcrB/AcrD/AcrF family protein (cds)
+ID 5: astD: succinylglutamate-semialdehyde dehydrogenase (cds)
+ID 6: rplX: 50S ribosomal protein L24 (cds)
+ID 7: metB: cystathionine gamma-synthase (cds)
+ID 8: sfsA: DNA/RNA nuclease SfsA (cds)
+ID 9: Sodium:proton antiporter (cds)
+ID 10: tRNA-uridine aminocarboxypropyltransferase (cds)

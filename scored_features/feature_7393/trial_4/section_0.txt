@@ -1,0 +1,10 @@
+Image 0
+ID 1: DNA-binding protein (cds)
+ID 2: phnG: phosphonate C-P lyase system protein PhnG (cds)
+ID 3: Short-chain dehydrogenase (cds)
+ID 4: Heme-binding protein (cds)
+ID 5: phage major capsid protein (cds)
+ID 6: Phosphoglycolate phosphatase (cds)
+ID 7: nthA: nitrile hydratase subunit alpha (cds)
+ID 8: pstA: phosphate ABC transporter permease PstA (cds)
+ID 9: Membrane protein (cds)

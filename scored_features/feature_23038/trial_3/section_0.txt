@@ -1,0 +1,6 @@
+Image 0
+ID 1: histidine kinase (cds)
+ID 2: uspA: Nucleotide-binding universal stress protein, UspA family (cds)
+ID 3: LTA synthase family protein (cds)
+ID 4: ccmC: ABC-type transport system involved in cytochrome c biogenesis, permease component (cds)
+ID 5: DUF2955 domain-containing protein (cds)

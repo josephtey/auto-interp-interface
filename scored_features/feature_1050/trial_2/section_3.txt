@@ -1,0 +1,10 @@
+Image 3
+ID 1: cysS: cysteine--tRNA ligase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF2333 domain-containing protein (cds)
+ID 4: amtB: Ammonia channel protein AmtB (cds)
+ID 5: hypothetical protein (cds)
+ID 6: tolQ: Biopolymer transport protein ExbB/TolQ (cds)
+ID 7: Diguanylate cyclase (cds)
+ID 8: dnaX: DNA polymerase III, gamma/tau subunits (cds)
+ID 9: VWA domain-containing protein (cds)

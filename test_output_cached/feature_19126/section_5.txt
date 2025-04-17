@@ -1,0 +1,6 @@
+ID 1: DUF2946 domain-containing protein (cds)
+ID 2: Response regulator (cds)
+ID 3: trnL: tRNA-Leu(gag) (tRNA)
+ID 4: Patatin-like phospholipase family protein (cds)
+ID 5: pfkB: PfkB carbohydrate kinase family protein (cds)
+ID 6: gstA: Glutathione S-transferase (cds)

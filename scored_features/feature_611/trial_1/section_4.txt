@@ -1,0 +1,11 @@
+Image 4
+ID 1: Cobalamin riboswitch (ncRNA-region)
+ID 2: rimI: Ribosomal protein S18 acetylase RimI and related acetyltransferases (cds)
+ID 3: Uroporphyrinogen decarboxylase (cds)
+ID 4: livF: ABC-type branched-chain amino acid transport system, ATPase component LivF (cds)
+ID 5: hypothetical protein (cds)
+ID 6: DUF3857 domain-containing protein (cds)
+ID 7: hisM: ABC-type amino acid transport system, permease component (cds)
+ID 8: Antitoxin (cds)
+ID 9: tonB: Periplasmic protein TonB, links inner and outer membranes (cds)
+ID 10: ffh: signal recognition particle protein (cds)

@@ -1,0 +1,11 @@
+Image 2
+ID 1: hemerythrin domain-containing protein (cds)
+ID 2: Glycosyltransferase (cds)
+ID 3: DUF1338 domain-containing protein (cds)
+ID 4: bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase (cds)
+ID 5: helix-turn-helix transcriptional regulator (cds)
+ID 6: 3-isopropylmalate dehydratase small subunit (cds)
+ID 7: VWA domain-containing protein (cds)
+ID 8: DUF4494 domain-containing protein (cds)
+ID 9: kdsA: 3-deoxy-8-phosphooctulonate synthase (cds)
+ID 10: trnS: tRNA-Ser(gct) (tRNA)

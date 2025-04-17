@@ -1,0 +1,13 @@
+Image 1
+ID 1: fabI: enoyl-ACP reductase FabI (cds)
+ID 2: acpP: acyl carrier protein (cds)
+ID 3: Type IV toxin-antitoxin system AbiEi family antitoxin domain-containing protein (cds)
+ID 4: folP: dihydropteroate synthase (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Amidohydrolase (cds)
+ID 7: Peptidase S10 (cds)
+ID 8: Glu/Leu/Phe/Val dehydrogenase (cds)
+ID 9: DUF6328 domain-containing protein (cds)
+ID 10: Pilus assembly protein (cds)
+ID 11: Peptidase M15C domain-containing protein (cds)
+ID 12: GPP34 family phosphoprotein (cds)

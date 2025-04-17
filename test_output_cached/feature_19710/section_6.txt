@@ -1,0 +1,8 @@
+ID 1: rrs: 16S ribosomal RNA (rRNA)
+ID 2: hypothetical protein (cds)
+ID 3: methyltransferase domain-containing protein (cds)
+ID 4: Carboxyl-terminal processing protease (cds)
+ID 5: fliJ: flagellar export protein FliJ (cds)
+ID 6: bamA: outer membrane protein assembly factor BamA (cds)
+ID 7: tolC: TolC family protein (cds)
+ID 8: cytochrome C (cds)

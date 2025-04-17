@@ -1,0 +1,10 @@
+Image 3
+ID 1: DoxX-like family protein (cds)
+ID 2: Beta-ketoacyl-[acyl-carrier-protein] synthase III (cds)
+ID 3: trnG: tRNA-Gly(gcc) (tRNA)
+ID 4: TIGR03503 family protein (cds)
+ID 5: napD: Chaperone NapD (cds)
+ID 6: otnI: 2-oxo-tetronate isomerase (cds)
+ID 7: DUF6515 domain-containing protein (cds)
+ID 8: FAD:protein FMN transferase (cds)
+ID 9: NAD-dependent epimerase (cds)

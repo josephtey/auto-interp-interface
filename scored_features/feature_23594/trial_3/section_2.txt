@@ -1,0 +1,12 @@
+Image 2
+ID 1: Two component transcriptional regulator, winged helix family (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Ferrous iron transport protein A (cds)
+ID 4: tamA: Translocation and assembly module subunit TamA (cds)
+ID 5: winged helix-turn-helix domain-containing protein (cds)
+ID 6: STAS/SEC14 domain-containing protein (cds)
+ID 7: Peptidase M14 carboxypeptidase A domain-containing protein (cds)
+ID 8: nadD: nicotinate-nucleotide adenylyltransferase (cds)
+ID 9: lipB: lipoyl(octanoyl) transferase LipB (cds)
+ID 10: Nitroreductase (cds)
+ID 11: zapB: Cell division protein ZapB (cds)

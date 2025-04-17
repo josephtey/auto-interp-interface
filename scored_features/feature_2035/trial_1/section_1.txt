@@ -1,0 +1,11 @@
+Image 1
+ID 1: copG: CopG family transcriptional regulator (cds)
+ID 2: Putative protease (cds)
+ID 3: pilZ: PilZ domain-containing protein (cds)
+ID 4: Multicopper oxidase family protein (cds)
+ID 5: YqgE/AlgH family protein (cds)
+ID 6: coaBC: bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC (cds)
+ID 7: Pilus formation protein N-terminal domain-containing protein (cds)
+ID 8: DUF1045 domain-containing protein (cds)
+ID 9: acetamidase/formamidase family protein (cds)
+ID 10: Prevent-host-death protein (cds)

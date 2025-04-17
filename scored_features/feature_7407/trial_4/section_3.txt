@@ -1,0 +1,4 @@
+Image 3
+ID 1: Zinc-ribbon domain-containing protein (cds)
+ID 2: S-layer-like y domain-containing protein (cds)
+ID 3: PcfJ-like protein (cds)

@@ -1,0 +1,6 @@
+ID 1: pqqL: putative Zn-dependent peptidase, M16 family (cds)
+ID 2: ppdK: pyruvate, phosphate dikinase (cds)
+ID 3: rpsG: 30S ribosomal protein S7 (cds)
+ID 4: tPR1: TPR-like repeat domain (cds)
+ID 5: atpG: F0F1 ATP synthase subunit gamma (cds)
+ID 6: serA: phosphoglycerate dehydrogenase (cds)

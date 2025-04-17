@@ -1,0 +1,13 @@
+Image 3
+ID 1: secY: preprotein translocase subunit SecY (cds)
+ID 2: queA: tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA (cds)
+ID 3: PEP-CTERM sorting domain-containing protein (cds)
+ID 4: sulfate permease (cds)
+ID 5: D-amino acid dehydrogenase (cds)
+ID 6: mutS: DNA mismatch repair protein MutS (cds)
+ID 7: flgB: flagellar basal body rod protein FlgB (cds)
+ID 8: Poly(A) polymerase I (cds)
+ID 9: amino acid ABC transporter substrate-binding protein (cds)
+ID 10: HAD-IA family hydrolase (cds)
+ID 11: hutU: urocanate hydratase (cds)
+ID 12: infA: translation initiation factor IF-1 (cds)

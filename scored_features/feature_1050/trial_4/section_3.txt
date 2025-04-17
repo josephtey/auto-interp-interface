@@ -1,0 +1,12 @@
+Image 3
+ID 1: Glycoside hydrolase family 43 protein (cds)
+ID 2: mtaB: Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB (cds)
+ID 3: Cobalamin riboswitch (ncRNA-region)
+ID 4: Putative nucleic acid-binding protein, contains PIN domain (cds)
+ID 5: alaS: alanine--tRNA ligase (cds)
+ID 6: yxiM: Putative esterase YxiM (cds)
+ID 7: phosphoribosylformylglycinamidine cyclo-ligase (cds)
+ID 8: sigW: ECF RNA polymerase sigma factor SigW (cds)
+ID 9: Carotene biosynthesis associated membrane protein (cds)
+ID 10: Chondroitin synthase (cds)
+ID 11: Sialate O-acetylesterase domain-containing protein (cds)

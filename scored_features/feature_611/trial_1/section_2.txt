@@ -1,0 +1,10 @@
+Image 2
+ID 1: scpA: methylmalonyl-CoA mutase (cds)
+ID 2: FMN-binding protein (cds)
+ID 3: Choline dehydrogenase-like flavoprotein (cds)
+ID 4: alpha/beta hydrolase (cds)
+ID 5: gcvP: aminomethyl-transferring glycine dehydrogenase (cds)
+ID 6: uroporphyrinogen decarboxylase (cds)
+ID 7: DUF3810 domain-containing protein (cds)
+ID 8: bcp: thioredoxin-dependent thiol peroxidase (cds)
+ID 9: hisG: ATP phosphoribosyltransferase (cds)

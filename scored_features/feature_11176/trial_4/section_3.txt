@@ -1,0 +1,10 @@
+Image 3
+ID 1: Glutamate 5-kinase (cds)
+ID 2: eamA: EamA family transporter (cds)
+ID 3: Efflux RND transporter permease subunit (cds)
+ID 4: pcaD: 3-oxoadipate enol-lactonase (cds)
+ID 5: SGNH hydrolase-type esterase domain-containing protein (cds)
+ID 6: gltA: citrate synthase (cds)
+ID 7: ABC transporter permease (cds)
+ID 8: Helix-turn-helix transcriptional regulator (cds)
+ID 9: 2-dehydropantoate 2-reductase (cds)

@@ -1,0 +1,7 @@
+ID 1: ywqK: Antitoxin component YwqK of the YwqJK toxin-antitoxin module (cds)
+ID 2: uppP: Undecaprenyl pyrophosphate phosphatase (cds)
+ID 3: Chromosome segregation ATPase (cds)
+ID 4: Lipoprotein (cds)
+ID 5: frnE: putative dithiol-disulfide isomerase, DsbA/YjbH family (virulence, stress resistance) (cds)
+ID 6: clpX: ATP-dependent Clp protease ATP-binding subunit ClpX (cds)
+ID 7: Integral membrane protein (cds)

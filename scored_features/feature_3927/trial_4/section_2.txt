@@ -1,0 +1,10 @@
+Image 2
+ID 1: Transposase IS66 central domain-containing protein (cds)
+ID 2: HpcH/HpaI aldolase/citrate lyase domain-containing protein (cds)
+ID 3: speB: agmatinase (cds)
+ID 4: Oxidoreductase molybdopterin-binding domain-containing protein (cds)
+ID 5: Bacterial mobilisation domain-containing protein (cds)
+ID 6: Sugar kinase, ribokinase (cds)
+ID 7: Methyltransferase type 11 domain-containing protein (cds)
+ID 8: efeU: iron uptake transporter permease EfeU (cds)
+ID 9: lexA: transcriptional repressor LexA (cds)

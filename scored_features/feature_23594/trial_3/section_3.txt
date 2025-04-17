@@ -1,0 +1,13 @@
+Image 3
+ID 1: xerA: site-specific tyrosine recombinase/integron integrase (cds)
+ID 2: Transposase (cds)
+ID 3: CRISPR spacer, sequence AATGGTACAGAATGGAAGTCTCCCATTTGGAGATCAT (crispr-spacer)
+ID 4: 3'-phosphate/5'-hydroxy nucleic acid ligase (cds)
+ID 5: gpr: GPR endopeptidase (cds)
+ID 6: ATPase family associated with various cellular activities (AAA) (cds)
+ID 7: protein-glutamate O-methyltransferase (cds)
+ID 8: yneA: Cell division suppressor protein YneA (cds)
+ID 9: mutS: DNA mismatch repair protein MutS (cds)
+ID 10: fabG: 3-oxoacyl-[acyl-carrier-protein] reductase (cds)
+ID 11: Stage 0 sporulation A-like protein (cds)
+ID 12: fliY: flagellar motor switch phosphatase FliY (cds)

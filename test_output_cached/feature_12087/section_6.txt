@@ -1,0 +1,7 @@
+ID 1: icd: NADP-dependent isocitrate dehydrogenase (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 4: NAD-dependent epimerase/dehydratase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: vapC: Ribonuclease/mRNA interferase VapC, contains PIN domain (cds)
+ID 7: yejB: ABC-type microcin C transport system, permease component YejB (cds)

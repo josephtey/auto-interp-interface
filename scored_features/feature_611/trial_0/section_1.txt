@@ -1,0 +1,6 @@
+Image 1
+ID 1: modB: molybdate ABC transporter permease subunit (cds)
+ID 2: tctB: Tripartite tricarboxylate transporter TctB family protein (cds)
+ID 3: Cobalamin riboswitch (ncRNA-region)
+ID 4: ABC-type uncharacterized transport system, periplasmic component (cds)
+ID 5: dapF: diaminopimelate epimerase (cds)

@@ -1,0 +1,10 @@
+Image 3
+ID 1: putative amino acid dehydrogenase (cds)
+ID 2: amrA: Aromatic ring-opening dioxygenase, LigB subunit (cds)
+ID 3: fur: Fe2+ or Zn2+ uptake regulation protein Fur/Zur (cds)
+ID 4: rimP: ribosome maturation factor RimP (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: pglX: BREX-1 system adenine-specific DNA-methyltransferase PglX (cds)
+ID 7: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 8: yajC: preprotein translocase subunit YajC (cds)
+ID 9: hypothetical protein (cds)

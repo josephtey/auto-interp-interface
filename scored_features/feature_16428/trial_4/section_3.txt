@@ -1,0 +1,5 @@
+Image 3
+ID 1: ABC transporter permease (cds)
+ID 2: csbD: CsbD family protein (cds)
+ID 3: Nitroreductase family deazaflavin-dependent oxidoreductase (cds)
+ID 4: PKD domain-containing protein (cds)

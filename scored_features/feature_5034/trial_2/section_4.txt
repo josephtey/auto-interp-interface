@@ -1,0 +1,10 @@
+Image 4
+Organism: Unknown organism
+ID 1: Dihydrodipicolinate reductase (cds)
+ID 2: AAA family ATPase (cds)
+ID 3: fbaA: class II fructose-bisphosphate aldolase (cds)
+ID 4: LLM class F420-dependent oxidoreductase (cds)
+ID 5: Acyl-CoA dehydrogenase (cds)
+ID 6: Mce family protein Mce3C (cds)
+ID 7: Luciferase (cds)
+ID 8: Esterase (cds)

@@ -1,0 +1,12 @@
+Image 0
+ID 1: yiiM: MOSC domain-containing protein YiiM (cds)
+ID 2: 3-oxoacyl-[acyl-carrier protein] reductase (cds)
+ID 3: marR: MarR family transcriptional regulator (cds)
+ID 4: dut: dUTP diphosphatase (cds)
+ID 5: AB hydrolase-1 domain-containing protein (cds)
+ID 6: DUF2188 domain-containing protein (cds)
+ID 7: Cellulose synthase/poly-beta-1,6-N-acetylglucosamine synthase-like glycosyltransferase (cds)
+ID 8: pGRP: Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases (cds)
+ID 9: lpqN: Lipoprotein LpqN (cds)
+ID 10: MBL fold metallo-hydrolase (cds)
+ID 11: glpR: gephyrin-like molybdotransferase receptor GlpR (cds)

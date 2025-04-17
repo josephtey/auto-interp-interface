@@ -1,0 +1,13 @@
+Image 2
+ID 1: ABC transporter permease subunit (cds)
+ID 2: GTP-binding protein (cds)
+ID 3: atzF: allophanate hydrolase (cds)
+ID 4: UDP-N-acetylglucosamine acyltransferase (cds)
+ID 5: pncA: bifunctional nicotinamidase/pyrazinamidase (cds)
+ID 6: Efflux RND transporter permease subunit (cds)
+ID 7: DUF983 domain-containing protein (cds)
+ID 8: UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase (cds)
+ID 9: recJ: single-stranded-DNA-specific exonuclease RecJ (cds)
+ID 10: cspD: cold shock domain-containing protein CspD (cds)
+ID 11: MmgE/PrpD family protein (cds)
+ID 12: ABC transporter substrate-binding protein (cds)

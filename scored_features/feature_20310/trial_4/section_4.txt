@@ -1,0 +1,12 @@
+Image 4
+ID 1: rplB: 50S ribosomal protein L2 (cds)
+ID 2: 16S rRNA (guanine(1405)-N(7))-methyltransferase (cds)
+ID 3: ftsH: ATP-dependent zinc metalloprotease FtsH (cds)
+ID 4: mobA: Molybdopterin-guanine dinucleotide biosynthesis protein A (cds)
+ID 5: baeS: Signal transduction histidine kinase (cds)
+ID 6: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 7: rfaE: ADP-heptose synthase, bifunctional sugar kinase/adenylyltransferase (cds)
+ID 8: yicI: Alpha-glucosidase/xylosidase, GH31 family (cds)
+ID 9: rpsP: 30S ribosomal protein S16 (cds)
+ID 10: wecE: dTDP-4-amino-4,6-dideoxygalactose transaminase (cds)
+ID 11: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)

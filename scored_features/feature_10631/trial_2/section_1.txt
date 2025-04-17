@@ -1,0 +1,12 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: Response regulatory domain-containing protein (cds)
+ID 3: surE: 5'/3'-nucleotidase SurE (cds)
+ID 4: hypB: hydrogenase nickel incorporation protein HypB (cds)
+ID 5: rplP: 50S ribosomal protein L16 (cds)
+ID 6: ABC transporter permease subunit (cds)
+ID 7: AI-2E family transporter (cds)
+ID 8: Glycosyltransferase (cds)
+ID 9: Bacteriocin-protection protein, YdeI/OmpD-associated family (cds)
+ID 10: PDZ domain-containing protein (cds)
+ID 11: Universal stress protein (cds)

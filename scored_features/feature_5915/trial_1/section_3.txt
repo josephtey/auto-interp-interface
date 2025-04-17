@@ -1,0 +1,13 @@
+Image 3
+ID 1: yceD: 23S rRNA accumulation protein YceD (essential in plants, uncharacterized in bacteria) (cds)
+ID 2: rbsK: Sugar or nucleoside kinase, ribokinase family (cds)
+ID 3: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 4: baeS: Signal transduction histidine kinase (cds)
+ID 5: tauE: Sulfite exporter TauE/SafE/YfcA and related permeases, UPF0721 family (cds)
+ID 6: hypD: trans-4-hydroxy-L-proline dehydratase (cds)
+ID 7: DUF1653 domain-containing protein (cds)
+ID 8: Signal transduction histidine kinase regulating C4-dicarboxylate transport system (cds)
+ID 9: rpsS: 30S ribosomal protein S19 (cds)
+ID 10: ndk: nucleoside-diphosphate kinase (cds)
+ID 11: blc: Bacterial lipocalin Blc (cds)
+ID 12: coaX: type III pantothenate kinase (cds)

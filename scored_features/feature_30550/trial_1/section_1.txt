@@ -1,0 +1,13 @@
+Image 1
+ID 1: Class I SAM-dependent methyltransferase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: IS66 family transposase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: mRNA interferase (cds)
+ID 7: pknG: Serine/threonine-protein kinase PknG (cds)
+ID 8: non-specific serine/threonine protein kinase (cds)
+ID 9: CRISPR repeat (crispr-repeat)
+ID 10: CRISPR repeat (crispr-repeat)
+ID 11: vitamin B12-dependent ribonucleotide reductase (cds)
+ID 12: Glycoprotein (cds)

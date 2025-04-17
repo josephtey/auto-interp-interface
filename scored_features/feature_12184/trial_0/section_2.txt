@@ -1,0 +1,11 @@
+Image 2
+ID 1: rrl: 23S ribosomal RNA (rRNA)
+ID 2: bcsA: Glycosyltransferase, catalytic subunit of cellulose synthase and poly-beta-1,6-N-acetylglucosamine synthase (cds)
+ID 3: Integral membrane protein (cds)
+ID 4: VWA domain-containing protein (cds)
+ID 5: dapB: 4-hydroxy-tetrahydrodipicolinate reductase (cds)
+ID 6: xerD: Site-specific recombinase XerD (cds)
+ID 7: corA: Mg2+ and Co2+ transporter CorA (cds)
+ID 8: recD: ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V) (cds)
+ID 9: mlaD: Periplasmic subunit MlaD of the ABC-type intermembrane phospholipid transporter Mla (cds)
+ID 10: hypothetical protein (cds)

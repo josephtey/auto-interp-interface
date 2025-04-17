@@ -1,0 +1,10 @@
+Image 2
+ID 1: DUF2723 domain-containing protein (cds)
+ID 2: rpoE: DNA-directed RNA polymerase specialized sigma subunit, sigma24 family (cds)
+ID 3: Lipoprotein (cds)
+ID 4: Lipoprotein (cds)
+ID 5: spo0J: Chromosome segregation protein Spo0J, contains ParB-like nuclease domain (cds)
+ID 6: Kinetoplast-associated protein-like protein (cds)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CRISPR spacer, sequence ATGGCGTGGCGCGCCCGCAGGAGGCGGCGTAATCCA (crispr-spacer)
+ID 9: CRISPR repeat (crispr-repeat)

@@ -1,0 +1,11 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: Glycosyl transferase (cds)
+ID 3: 2-nitropropane dioxygenase (cds)
+ID 4: ABC transporter substrate-binding protein (cds)
+ID 5: Large extracellular alpha-helical protein (cds)
+ID 6: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 7: ATP-dependent Clp protease proteolytic subunit (cds)
+ID 8: ABC transporter ATP-binding protein (cds)
+ID 9: adenylate kinase (cds)
+ID 10: hypothetical protein (cds)

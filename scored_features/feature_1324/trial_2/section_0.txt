@@ -1,0 +1,13 @@
+Image 0
+ID 1: homoserine kinase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hydrogenase iron-sulfur subunit (cds)
+ID 4: Bacterial sugar transferase domain-containing protein (cds)
+ID 5: rimI: ribosomal protein S18-alanine N-acetyltransferase (cds)
+ID 6: Major intrinsic protein (cds)
+ID 7: rlmF: 23S rRNA (adenine(1618)-N(6))-methyltransferase RlmF (cds)
+ID 8: norQ: Nitric oxide reductase NorQ protein (cds)
+ID 9: rnr: ribonuclease R (cds)
+ID 10: DUF6806 domain-containing protein (cds)
+ID 11: Transporter (cds)
+ID 12: rsxG: electron transport complex subunit RsxG (cds)

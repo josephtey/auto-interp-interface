@@ -1,0 +1,13 @@
+Image 1
+ID 1: quinone-dependent dihydroorotate dehydrogenase (cds)
+ID 2: DUF5078 domain-containing protein (cds)
+ID 3: SDR family oxidoreductase (cds)
+ID 4: Alanine and proline rich protein (cds)
+ID 5: crcB: fluoride efflux transporter CrcB (cds)
+ID 6: Carboxymuconolactone decarboxylase (cds)
+ID 7: DNA polymerase domain-containing protein (cds)
+ID 8: lipE: lipase LipE (cds)
+ID 9: folP: dihydropteroate synthase (cds)
+ID 10: DUF4235 domain-containing protein (cds)
+ID 11: MCE family protein (cds)
+ID 12: mspA: MspA protein (cds)

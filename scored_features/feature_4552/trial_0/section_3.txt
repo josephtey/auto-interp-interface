@@ -1,0 +1,13 @@
+Image 3
+ID 1: Small-conductance mechanosensitive channel (cds)
+ID 2: Putative acetyltransferase (cds)
+ID 3: Multi-ubiquitin domain-containing protein (cds)
+ID 4: Glycosyltransferase (cds)
+ID 5: Anti-sigma regulatory factor (Ser/Thr protein kinase) (cds)
+ID 6: 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (cds)
+ID 7: aceE: pyruvate dehydrogenase (acetyl-transferring), homodimeric type (cds)
+ID 8: Myo-inositol 2-dehydrogenase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: IS5 family transposase (cds)
+ID 11: nth: endonuclease III (cds)
+ID 12: Cold-shock DNA-binding domain protein (cds)

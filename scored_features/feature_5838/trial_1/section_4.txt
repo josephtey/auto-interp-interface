@@ -1,0 +1,12 @@
+Image 4
+ID 1: DUF3277 domain-containing protein (cds)
+ID 2: cpdA: 3',5'-cyclic AMP phosphodiesterase CpdA (cds)
+ID 3: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)
+ID 4: Leucine-rich repeat domain-containing protein (cds)
+ID 5: tolQ: Biopolymer transport protein ExbB/TolQ (cds)
+ID 6: hydA: dihydropyrimidinase (cds)
+ID 7: Transposase (cds)
+ID 8: Outer membrane efflux protein (cds)
+ID 9: mfd: transcription-repair coupling factor (cds)
+ID 10: Helix-turn-helix domain-containing protein (cds)
+ID 11: Glycosyltransferase (cds)

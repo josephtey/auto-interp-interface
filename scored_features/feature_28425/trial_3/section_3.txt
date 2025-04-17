@@ -1,0 +1,8 @@
+Image 3
+ID 1: osmY: Osmotically-inducible protein OsmY, contains BON domain (cds)
+ID 2: ntrY: Signal transduction histidine kinase NtrY involved in nitrogen fixation and metabolism regulation (cds)
+ID 3: xseA: exodeoxyribonuclease VII large subunit (cds)
+ID 4: YqaE/Pmp3 family membrane protein (cds)
+ID 5: chuT: ABC-type hemin transport system, periplasmic component (cds)
+ID 6: thiD: Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase (cds)
+ID 7: trnA: tRNA-Ala(tgc) (tRNA)

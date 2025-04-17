@@ -1,0 +1,8 @@
+Image 0
+ID 1: rplF: 50S ribosomal protein L6 (cds)
+ID 2: ccmB: heme exporter protein CcmB (cds)
+ID 3: hypothetical protein (cds)
+ID 4: fliO: flagellar biosynthetic protein FliO (cds)
+ID 5: EscU/YscU/HrcU family type III secretion system export apparatus switch protein (cds)
+ID 6: non-specific serine/threonine protein kinase (cds)
+ID 7: hypothetical protein (cds)

@@ -1,0 +1,10 @@
+Image 3
+ID 1: Zinc ribbon domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: DUF454 domain-containing protein (cds)
+ID 4: WD-repeat protein (cds)
+ID 5: Sigma-54-dependent Fis family transcriptional regulator (cds)
+ID 6: Pyrrolo-quinoline quinone (cds)
+ID 7: Alpha/beta hydrolase (cds)
+ID 8: gspN: type II secretion system protein GspN (cds)
+ID 9: SPFH domain-containing protein (cds)

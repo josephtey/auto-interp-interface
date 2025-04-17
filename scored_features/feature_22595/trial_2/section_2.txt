@@ -1,0 +1,11 @@
+Image 2
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: Transposase (cds)
+ID 2: paaD: SUF system Fe-S cluster assembly protein (cds)
+ID 3: sufC: Fe-S cluster assembly ATPase SufC (cds)
+ID 4: manC: Mannose-6-phosphate isomerase, cupin superfamily (cds)
+ID 5: sPS1: Serine/threonine protein kinase (cds)
+ID 6: baeS: Signal transduction histidine kinase (cds)
+ID 7: Abortive infection protein (cds)
+ID 8: cypX: Cytochrome P450 (cds)
+ID 9: CRISPR spacer, sequence GTCGCCGTCGTGCTGCTCGATGCTCGCGATGACGAACC (crispr-spacer)

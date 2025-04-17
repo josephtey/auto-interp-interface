@@ -1,0 +1,13 @@
+Image 4
+ID 1: DUF5522 domain-containing protein (cds)
+ID 2: Restriction endonuclease subunit S (cds)
+ID 3: Electron transfer flavoprotein subunit beta (cds)
+ID 4: Lipid A core-O-antigen ligase (cds)
+ID 5: Copper-exporting P-type ATPase A (cds)
+ID 6: Txe/YoeB family addiction module toxin (cds)
+ID 7: Histone H1-like protein Hc1 (cds)
+ID 8: ftsL: Cell division protein FtsL (cds)
+ID 9: trnI: tRNA-Ile(tat) (tRNA)
+ID 10: neuC: UDP-N-acetylglucosamine 2-epimerase (cds)
+ID 11: C4-type zinc ribbon domain-containing protein (cds)
+ID 12: hypothetical protein (cds)

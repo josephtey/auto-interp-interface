@@ -1,0 +1,7 @@
+ID 1: trnR: tRNA-Arg(acg) (tRNA)
+ID 2: Type IV pilin (cds)
+ID 3: mscL: large-conductance mechanosensitive channel protein MscL (cds)
+ID 4: fdhD: formate dehydrogenase accessory sulfurtransferase FdhD (cds)
+ID 5: Pyrimidine/purine nucleoside phosphorylase (cds)
+ID 6: cutC: PF03932 family protein CutC (cds)
+ID 7: relA: GTP diphosphokinase (cds)

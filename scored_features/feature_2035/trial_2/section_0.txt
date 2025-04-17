@@ -1,0 +1,13 @@
+Image 0
+ID 1: Lipid-transfer protein (cds)
+ID 2: cyoE: heme o synthase (cds)
+ID 3: tRNA/tmRNA/rRNA uracil-C5-methylase (TrmA/RlmC/RlmD family) (cds)
+ID 4: ftsX: permease-like cell division protein FtsX (cds)
+ID 5: hypothetical protein (cds)
+ID 6: rpmD: 50S ribosomal protein L30 (cds)
+ID 7: Diacylglycerol O-acyltransferase (cds)
+ID 8: Cellulase (Glycosyl hydrolase family 5) (cds)
+ID 9: Gluconate 5-dehydrogenase (cds)
+ID 10: Adenylyl cyclase (cds)
+ID 11: MOSC domain-containing protein (cds)
+ID 12: VWFA domain-containing protein (cds)

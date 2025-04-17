@@ -1,0 +1,10 @@
+Image 3
+ID 1: gadA: Glutamate or tyrosine decarboxylase or a related PLP-dependent protein (cds)
+ID 2: phoE: Broad specificity phosphatase PhoE (cds)
+ID 3: cutS: Aldehyde, CO, or xanthine dehydrogenase, Fe-S subunit, CoxS/CutS family (cds)
+ID 4: menH: 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (cds)
+ID 5: acs: Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase (cds)
+ID 6: ppdK: pyruvate, phosphate dikinase (cds)
+ID 7: acrA: Multidrug efflux pump subunit AcrA (membrane-fusion protein) (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: CRISPR spacer, sequence GGGTCCACGTGGCCGCGGTCCAGCTCGCGGACGACCCAG (crispr-spacer)

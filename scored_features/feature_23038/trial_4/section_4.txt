@@ -1,0 +1,9 @@
+Image 4
+ID 1: HIT family protein (cds)
+ID 2: mutS: DNA mismatch repair protein MutS (cds)
+ID 3: Putative DNA-binding domain-containing protein (cds)
+ID 4: folD: bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD (cds)
+ID 5: oppB: oligopeptide ABC transporter permease OppB (cds)
+ID 6: U32 family peptidase (cds)
+ID 7: DUF2909 domain-containing protein (cds)
+ID 8: IS1182 family transposase (cds)

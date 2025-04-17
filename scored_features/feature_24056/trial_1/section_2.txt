@@ -1,0 +1,13 @@
+Image 2
+ID 1: ispE: 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (cds)
+ID 2: efp: elongation factor P (cds)
+ID 3: KilA-N domain-containing protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: fdxH: formate dehydrogenase subunit beta (cds)
+ID 6: hypothetical protein (cds)
+ID 7: DUF406 domain-containing protein (cds)
+ID 8: Transposase (cds)
+ID 9: gndA: NADP-dependent phosphogluconate dehydrogenase (cds)
+ID 10: hypothetical protein (cds)
+ID 11: pyrG: CTP synthase (glutamine hydrolyzing) (cds)
+ID 12: map: type I methionyl aminopeptidase (cds)

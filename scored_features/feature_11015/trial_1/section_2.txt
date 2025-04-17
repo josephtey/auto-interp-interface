@@ -1,0 +1,13 @@
+Image 2
+ID 1: YDG domain-containing protein (cds)
+ID 2: response regulator transcription factor (cds)
+ID 3: serine hydrolase domain-containing protein (cds)
+ID 4: glycosyltransferase family 4 protein (cds)
+ID 5: universal stress protein (cds)
+ID 6: Aspartyl-tRNA amidotransferase subunit B (cds)
+ID 7: tetratricopeptide repeat protein (cds)
+ID 8: ubiE: bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: Amidohydrolase (cds)
+ID 12: o-succinylbenzoate synthase (cds)

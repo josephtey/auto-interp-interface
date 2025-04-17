@@ -1,0 +1,10 @@
+Image 2
+ID 1: ABC transporter permease (cds)
+ID 2: 4Fe-4S ferredoxin (cds)
+ID 3: UVR domain-containing protein (cds)
+ID 4: Iron-sulfur cluster carrier protein (cds)
+ID 5: Iron hydrogenase (cds)
+ID 6: Putative transposase component CP4-6 prophage (cds)
+ID 7: RNA-binding protein (cds)
+ID 8: CRISPR spacer, sequence TTTTAATGAAAAGTAAGTATCACCTATTTCAGACA (crispr-spacer)
+ID 9: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)

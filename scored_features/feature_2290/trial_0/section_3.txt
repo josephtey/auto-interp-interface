@@ -1,0 +1,7 @@
+Image 3
+ID 1: carB: carbamoyl-phosphate synthase large subunit (cds)
+ID 2: argD: Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase (cds)
+ID 3: atpH: F0F1 ATP synthase subunit delta (cds)
+ID 4: bolA: DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation (cds)
+ID 5: icd: NADP-dependent isocitrate dehydrogenase (cds)
+ID 6: purS: phosphoribosylformylglycinamidine synthase subunit PurS (cds)

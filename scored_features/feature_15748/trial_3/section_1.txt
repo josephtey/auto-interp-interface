@@ -1,0 +1,9 @@
+Image 1
+ID 1: DUF3014 domain-containing protein (cds)
+ID 2: nadE: NAD+ synthase (cds)
+ID 3: Thymidine phosphorylase (cds)
+ID 4: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 5: DNA polymerase III subunit chi (cds)
+ID 6: Secreted protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: sucB: dihydrolipoyllysine-residue succinyltransferase (cds)

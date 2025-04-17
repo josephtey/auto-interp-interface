@@ -1,0 +1,12 @@
+Image 2
+Organism: Unknown organism
+ID 1: 2-haloalkanoic acid dehalogenase (cds)
+ID 2: GGDEF-domain containing protein (cds)
+ID 3: ywbI: Putative HTH-type transcriptional regulator YwbI (cds)
+ID 4: ytcC: Putative glycosyltransferase YtcC (cds)
+ID 5: DUF4132 domain-containing protein (cds)
+ID 6: Stage V sporulation protein AB (cds)
+ID 7: ndk: nucleoside-diphosphate kinase (cds)
+ID 8: Lipoprotein (cds)
+ID 9: ABC transporter permease (cds)
+ID 10: HTH luxR-type domain-containing protein (cds)

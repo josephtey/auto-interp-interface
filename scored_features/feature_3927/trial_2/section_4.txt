@@ -1,0 +1,11 @@
+Image 4
+ID 1: fadH2: NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase (cds)
+ID 2: iaaA: Isoaspartyl peptidase or L-asparaginase, Ntn-hydrolase superfamily (cds)
+ID 3: rplY: 50S ribosomal protein L25/general stress protein Ctc (cds)
+ID 4: hemD: Uroporphyrinogen-III synthase (cds)
+ID 5: Nucleotide modification associated domain-containing protein (cds)
+ID 6: clpS: ATP-dependent Clp protease adapter protein ClpS (cds)
+ID 7: lytT: DNA-binding response regulator, LytR/AlgR family (cds)
+ID 8: amyA: Glycosidase/amylase (phosphorylase) (cds)
+ID 9: DUF6452 domain-containing protein (cds)
+ID 10: hypothetical protein (cds)

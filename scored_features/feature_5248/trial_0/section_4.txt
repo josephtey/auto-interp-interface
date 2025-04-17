@@ -1,0 +1,12 @@
+Image 4
+ID 1: trnE: tRNA-Glu(ttc) (tRNA)
+ID 2: hisJ: ABC-type amino acid transport/signal transduction system, periplasmic component/domain (cds)
+ID 3: Enterobactin synthase component D (cds)
+ID 4: Alpha-amylase (cds)
+ID 5: CPXCG motif-containing cysteine-rich protein (cds)
+ID 6: sunT: ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain (cds)
+ID 7: yciV: 5'-3' exoribonuclease TrpH/YciV (RNase AM), contains PHP domain (cds)
+ID 8: coxE2: Uncharacterized CoxE-like protein, contains von Willebrand factor type A (vWA) domain (cds)
+ID 9: yggX: oxidative damage protection protein (cds)
+ID 10: flgI: flagellar basal body P-ring protein (cds)
+ID 11: CsgAB operon transcriptional regulatory protein (cds)

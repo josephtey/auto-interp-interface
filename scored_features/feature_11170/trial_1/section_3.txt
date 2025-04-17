@@ -1,0 +1,10 @@
+Image 3
+ID 1: cooC1: CO dehydrogenase nickel-insertion accessory protein CooC1 (cds)
+ID 2: nfnB: Nitroreductase (cds)
+ID 3: araJ: putative arabinose efflux permease AraJ, MFS family (cds)
+ID 4: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 5: hypothetical protein (cds)
+ID 6: chlI: Mg-chelatase subunit ChlI (cds)
+ID 7: pcrA: DNA helicase PcrA (cds)
+ID 8: TrbL/VirB6 plasmid conjugal transfer protein (cds)
+ID 9: hemE: Uroporphyrinogen-III decarboxylase HemE (cds)

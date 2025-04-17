@@ -1,0 +1,7 @@
+ID 1: rIC: Iron-sulfur cluster repair protein YtfE, RIC family, contains ScdAN and hemerythrin domains (cds)
+ID 2: nfnB: Nitroreductase (cds)
+ID 3: nuoI: Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I) (cds)
+ID 4: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 5: trmFO: Folate-dependent tRNA-U54 methylase TrmFO/GidA (cds)
+ID 6: pptA: 2-hydroxymuconate tautomerase (cds)
+ID 7: hypothetical protein (cds)

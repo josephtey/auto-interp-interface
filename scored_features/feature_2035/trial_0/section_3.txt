@@ -1,0 +1,8 @@
+Image 3
+ID 1: sucC: ADP-forming succinate--CoA ligase subunit beta (cds)
+ID 2: rimI: Ribosomal protein S18 acetylase RimI and related acetyltransferases (cds)
+ID 3: Glutamine cyclotransferase (cds)
+ID 4: ung: uracil-DNA glycosylase (cds)
+ID 5: ydhJ: HD superfamily phosphohydrolase (cds)
+ID 6: DUF6090 domain-containing protein (cds)
+ID 7: nUC1: DNA/RNA endonuclease G, NUC1 (cds)

@@ -1,0 +1,13 @@
+Image 2
+ID 1: Response regulator transcription factor (cds)
+ID 2: Transcriptional regulator (cds)
+ID 3: Response regulator transcription factor (cds)
+ID 4: 30S ribosomal protein S12 (cds)
+ID 5: Glycosyltransferase family 4 protein (cds)
+ID 6: Sulfite oxidase (cds)
+ID 7: Formate dehydrogenase (cds)
+ID 8: MFS transporter (cds)
+ID 9: gas vesicle protein (cds)
+ID 10: fusA: elongation factor G (cds)
+ID 11: msrA: Peptide methionine sulfoxide reductase MsrA (cds)
+ID 12: 3-isopropylmalate dehydratase small subunit (cds)

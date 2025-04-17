@@ -1,0 +1,10 @@
+Image 3
+ID 1: Thioesterase superfamily protein (cds)
+ID 2: Methyl-accepting chemotaxis sensory transducer (cds)
+ID 3: TonB-dependent receptor plug (cds)
+ID 4: cysE: serine O-acetyltransferase (cds)
+ID 5: Response regulator receiver modulated diguanylate cyclase (cds)
+ID 6: atoD: Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit (cds)
+ID 7: trnL: tRNA-Leu(tag) (tRNA)
+ID 8: bamD: Outer membrane protein assembly factor BamD (cds)
+ID 9: HAD-superfamily hydrolase, subfamily IA, variant 1 (cds)

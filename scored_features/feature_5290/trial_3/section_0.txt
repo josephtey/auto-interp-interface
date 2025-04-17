@@ -1,0 +1,11 @@
+Image 0
+ID 1: DUF3077 domain-containing protein (cds)
+ID 2: Phage tail protein (cds)
+ID 3: Histidine kinase (cds)
+ID 4: cobQ: cobyric acid synthase (cds)
+ID 5: uhpC: Sugar phosphate permease (cds)
+ID 6: araC: AraC family transcriptional regulator (cds)
+ID 7: glpD: glycerol-3-phosphate dehydrogenase (cds)
+ID 8: DUF2300 domain-containing protein (cds)
+ID 9: DUF3489 domain-containing protein (cds)
+ID 10: caiA: phenylacyl-CoA dehydrogenase (cds)

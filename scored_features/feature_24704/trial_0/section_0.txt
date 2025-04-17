@@ -1,0 +1,10 @@
+Image 0
+ID 1: Histidine kinase (cds)
+ID 2: cax: calcium/proton exchanger (cds)
+ID 3: DNA-binding response regulator (cds)
+ID 4: benE: Benzoate transporter BenE (cds)
+ID 5: Class I SAM-dependent methyltransferase (cds)
+ID 6: DUF1679 domain-containing protein (cds)
+ID 7: Cohesin domain-containing protein (cds)
+ID 8: Transglutaminase (cds)
+ID 9: Acyltransferase (cds)

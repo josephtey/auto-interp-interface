@@ -1,0 +1,4 @@
+Image 0
+ID 1: DUF402 domain-containing protein (cds)
+ID 2: vapC: Ribonuclease VapC (cds)
+ID 3: Peptidase M13 (cds)

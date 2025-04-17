@@ -1,0 +1,9 @@
+Image 2
+ID 1: potC: ABC-type spermidine/putrescine transport system, permease component II (cds)
+ID 2: DUF1849 domain-containing protein (cds)
+ID 3: MACPF domain-containing protein (cds)
+ID 4: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 5: meaB: methylmalonyl Co-A mutase-associated GTPase MeaB (cds)
+ID 6: phoX: Secreted phosphatase, PhoX family (cds)
+ID 7: soxR: DNA-binding transcriptional regulator, MerR family (cds)
+ID 8: ybjL: putative transporter (cds)

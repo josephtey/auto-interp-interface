@@ -1,0 +1,9 @@
+Image 0
+ID 1: acnD: Fe/S-dependent 2-methylisocitrate dehydratase AcnD (cds)
+ID 2: argR: transcriptional regulator ArgR (cds)
+ID 3: nlpD: Murein DD-endopeptidase MepM/ murein hydrolase activator NlpD (cds)
+ID 4: Secreted protein (cds)
+ID 5: Transcriptional regulator (cds)
+ID 6: Pyrophosphatase (cds)
+ID 7: Helix-turn-helix domain-containing protein (cds)
+ID 8: rdgB: RdgB/HAM1 family non-canonical purine NTP pyrophosphatase (cds)

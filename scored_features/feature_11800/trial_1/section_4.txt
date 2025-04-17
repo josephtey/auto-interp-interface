@@ -1,0 +1,8 @@
+Image 4
+ID 1: ABC-type uncharacterized transport system, periplasmic component (cds)
+ID 2: fabI: Enoyl-[acyl-carrier-protein] reductase FabI (cds)
+ID 3: tolQ: Biopolymer transport protein ExbB/TolQ (cds)
+ID 4: Lipopolysaccharide assembly protein A domain-containing protein (cds)
+ID 5: fadL: Long-chain fatty acid transport protein (cds)
+ID 6: rplF: 50S ribosomal protein L6 (cds)
+ID 7: DUF2845 domain-containing protein (cds)

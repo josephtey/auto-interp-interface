@@ -1,0 +1,12 @@
+Image 1
+ID 1: Spermidine N(1)-acetyltransferase (cds)
+ID 2: Transposase (cds)
+ID 3: trnI: tRNA-Ile2(cat) (tRNA)
+ID 4: Transposase (cds)
+ID 5: ilvE: branched-chain amino acid aminotransferase (cds)
+ID 6: aspB: Aspartate/methionine/tyrosine aminotransferase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Dihydrofolate reductase (cds)
+ID 9: DUF6265 domain-containing protein (cds)
+ID 10: PTS sugar transporter subunit IIBC (cds)
+ID 11: tonB: Periplasmic protein TonB, links inner and outer membranes (cds)

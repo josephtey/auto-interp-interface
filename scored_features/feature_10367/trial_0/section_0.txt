@@ -1,0 +1,12 @@
+Image 0
+ID 1: sYLF: Lipid-binding SYLF domain, Ysc84/FYVE family (cds)
+ID 2: Secretion system C-terminal sorting domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: emrA: Multidrug resistance efflux pump EmrA (cds)
+ID 5: Four helix bundle protein (cds)
+ID 6: Alpha/beta hydrolase (cds)
+ID 7: GH3 auxin-responsive promoter family protein (cds)
+ID 8: envC: Septal ring factor EnvC, activator of murein hydrolases AmiA and AmiB (cds)
+ID 9: yhfF: putative RNA-binding protein YhfF, contains PUA-like ASCH domain (cds)
+ID 10: Dihydrofolate reductase (cds)
+ID 11: tuf: elongation factor Tu (cds)

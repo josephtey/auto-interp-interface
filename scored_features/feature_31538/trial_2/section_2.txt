@@ -1,0 +1,12 @@
+Image 2
+ID 1: DUF883 domain-containing protein (cds)
+ID 2: truA: tRNA pseudouridine(38-40) synthase TruA (cds)
+ID 3: DEAD/DEAH box helicase (cds)
+ID 4: tRNA(Ile)-lysidine synthase (cds)
+ID 5: UDP-N-acetylmuramate--alanine ligase (cds)
+ID 6: heparinase II/III-family protein (cds)
+ID 7: Parvulin-like PPIase (cds)
+ID 8: arsC: arsenate reductase (glutaredoxin) (cds)
+ID 9: DNA-binding protein (cds)
+ID 10: Etoposide-induced protein 2-4 (EI24) (cds)
+ID 11: cytochrome-c oxidase (cds)

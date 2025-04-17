@@ -1,0 +1,13 @@
+Image 1
+ID 1: DNA-binding transcriptional regulator, XRE-family HTH domain (cds)
+ID 2: Thioredoxin 1 (cds)
+ID 3: putative phosphoketolase (cds)
+ID 4: rpsM: 30S ribosomal protein S13 (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: heparin lyase I family protein (cds)
+ID 8: rfbC: dTDP-4-dehydrorhamnose 3,5-epimerase (cds)
+ID 9: ribonucleoside-diphosphate reductase subunit alpha (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hypothetical protein (cds)
+ID 12: Cholesterol transport system auxiliary component (cds)

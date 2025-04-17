@@ -1,0 +1,10 @@
+Image 3
+ID 1: helD: DNA helicase IV (cds)
+ID 2: MBD domain-containing protein (cds)
+ID 3: Tetratricopeptide TPR_2 repeat protein (cds)
+ID 4: metL1: aspartate kinase (cds)
+ID 5: fHA: Forkhead associated (FHA) domain, binds pSer, pThr, pTyr (cds)
+ID 6: CRISPR spacer, sequence AACATTACCGAGTTTCCACAACACAGCGAGAGGTGG (crispr-spacer)
+ID 7: CRISPR spacer, sequence GTTTACCCGGCCGTCGGGTAGCGGTAAACTCTGGCG (crispr-spacer)
+ID 8: CRISPR spacer, sequence GTGTACCGCGTCGCCTTGTTGAGACGACCGCGCACGT (crispr-spacer)
+ID 9: CRISPR repeat (crispr-repeat)

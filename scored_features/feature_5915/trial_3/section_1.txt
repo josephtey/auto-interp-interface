@@ -1,0 +1,12 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: DUF490 domain-containing protein (cds)
+ID 3: Transcriptional regulator (cds)
+ID 4: glycine--tRNA ligase subunit alpha (cds)
+ID 5: prpC: 2-methylcitrate synthase (cds)
+ID 6: Peptidylprolyl isomerase (cds)
+ID 7: Inorganic triphosphatase (cds)
+ID 8: phosphoenolpyruvate--protein phosphotransferase (cds)
+ID 9: trmB: tRNA (guanosine(46)-N7)-methyltransferase TrmB (cds)
+ID 10: trnY: tRNA-Tyr(gta) (tRNA)
+ID 11: ltaE: low-specificity L-threonine aldolase (cds)

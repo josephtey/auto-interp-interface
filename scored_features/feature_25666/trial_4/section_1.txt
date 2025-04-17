@@ -1,0 +1,8 @@
+Image 1
+ID 1: SAM-dependent methyltransferase (cds)
+ID 2: Phosphoribosylformylglycinamidine cyclo-ligase (cds)
+ID 3: ribonucleotide-diphosphate reductase subunit beta (cds)
+ID 4: pdxA: 4-hydroxythreonine-4-phosphate dehydrogenase PdxA (cds)
+ID 5: trnI: tRNA-Ile(gat) (tRNA)
+ID 6: Single-stranded DNA-binding protein (cds)
+ID 7: 3-deoxy-7-phosphoheptulonate synthase (cds)

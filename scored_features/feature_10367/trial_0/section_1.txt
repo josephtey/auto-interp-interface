@@ -1,0 +1,11 @@
+Image 1
+ID 1: pyrC: dihydroorotase (cds)
+ID 2: tACO1: YebC/PmpR family DNA-binding transcriptional regulator (cds)
+ID 3: hypothetical protein (cds)
+ID 4: narI: Nitrate reductase gamma subunit (cds)
+ID 5: nupC: Nucleoside permease NupC (cds)
+ID 6: phoU: phosphate signaling complex protein PhoU (cds)
+ID 7: Diguanylate cyclase (cds)
+ID 8: glgB: 1,4-alpha-glucan branching protein GlgB (cds)
+ID 9: trnE: tRNA-Glu(ctc) (tRNA)
+ID 10: ssb: Single-stranded DNA-binding protein (cds)

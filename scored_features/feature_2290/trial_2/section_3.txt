@@ -1,0 +1,10 @@
+Image 3
+ID 1: hycH: HycH family protein (cds)
+ID 2: hlyD: HlyD family secretion protein (cds)
+ID 3: hupB: nucleoid-associated protein HU-beta (cds)
+ID 4: Permease (cds)
+ID 5: Type II secretion system protein (cds)
+ID 6: Class I adenylate cyclase (cds)
+ID 7: DUF1488 domain-containing protein (cds)
+ID 8: moaB: molybdenum cofactor biosynthesis protein B (cds)
+ID 9: hypothetical protein (cds)

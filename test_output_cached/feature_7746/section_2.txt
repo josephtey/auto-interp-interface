@@ -1,0 +1,7 @@
+ID 1: hypothetical protein (cds)
+ID 2: ytcJ: putative amidohydrolase YtcJ (cds)
+ID 3: ompA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins (cds)
+ID 4: ccmA: ABC-type multidrug transport system, ATPase component (cds)
+ID 5: Peptidase M12A astacin (cds)
+ID 6: 6S-Flavo: 6S-Flavo RNA (ncRNA)
+ID 7: Ankyrin (cds)

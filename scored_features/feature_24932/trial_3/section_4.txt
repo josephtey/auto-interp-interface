@@ -1,0 +1,10 @@
+Image 4
+ID 1: ccmE: cytochrome c maturation protein CcmE (cds)
+ID 2: DUF2802 domain-containing protein (cds)
+ID 3: lysS: lysine--tRNA ligase (cds)
+ID 4: Succinylglutamate desuccinylase (cds)
+ID 5: Amidohydrolase (cds)
+ID 6: astD: succinylglutamate-semialdehyde dehydrogenase (cds)
+ID 7: Alginate export domain-containing protein (cds)
+ID 8: rarD: EamA family transporter RarD (cds)
+ID 9: Antitoxin (cds)

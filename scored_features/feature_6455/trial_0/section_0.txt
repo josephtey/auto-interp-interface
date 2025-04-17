@@ -1,0 +1,7 @@
+Image 0
+ID 1: Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (cds)
+ID 2: tolA: TolA (cds)
+ID 3: BON domain-containing protein (cds)
+ID 4: Putative carboxypeptidase RC0549 (cds)
+ID 5: kpsF: KpsF protein (cds)
+ID 6: hypothetical protein (cds)

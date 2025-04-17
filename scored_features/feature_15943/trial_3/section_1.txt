@@ -1,0 +1,11 @@
+Image 1
+ID 1: Inner-membrane translocator (cds)
+ID 2: livK: ABC-type branched-chain amino acid transport system, periplasmic component (cds)
+ID 3: mutM: bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase (cds)
+ID 4: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 5: lrp: DNA-binding transcriptional regulator, Lrp family (cds)
+ID 6: cobM: precorrin-4 C(11)-methyltransferase (cds)
+ID 7: epsK: EpsK domain protein (cds)
+ID 8: sapB: Magnesium uptake protein YhiD/SapB, involved in acid resistance (cds)
+ID 9: ydcZ: DUF606 domain-containing protein (cds)
+ID 10: putative transcriptional regulator (cds)

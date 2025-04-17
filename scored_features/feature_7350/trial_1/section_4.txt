@@ -1,0 +1,13 @@
+Image 4
+ID 1: rsmD: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD (cds)
+ID 2: leuB: 3-isopropylmalate dehydrogenase (cds)
+ID 3: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 4: Urate oxidase N-terminal domain-containing protein (cds)
+ID 5: phoB: phosphate regulon transcriptional regulator PhoB (cds)
+ID 6: Molybdopterin synthase catalytic subunit (cds)
+ID 7: miaB: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB (cds)
+ID 8: ABC-type uncharacterized transport system domain-containing protein (cds)
+ID 9: zeta toxin family protein (cds)
+ID 10: GNAT family N-acetyltransferase (cds)
+ID 11: HD domain-containing protein (cds)
+ID 12: paaI: PaaI family thioesterase (cds)

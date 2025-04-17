@@ -1,0 +1,11 @@
+Image 2
+ID 1: HIT domain-containing protein (cds)
+ID 2: nth: endonuclease III (cds)
+ID 3: rplJ: 50S ribosomal protein L10 (cds)
+ID 4: Resuscitation-promoting factor (cds)
+ID 5: ykvI: Membrane protein YkvI (cds)
+ID 6: Amino acid ABC transporter permease (cds)
+ID 7: Transmembrane protein (cds)
+ID 8: thiS: sulfur carrier protein ThiS (cds)
+ID 9: pcaD: 3-oxoadipate enol-lactonase (cds)
+ID 10: trpB: tryptophan synthase subunit beta (cds)

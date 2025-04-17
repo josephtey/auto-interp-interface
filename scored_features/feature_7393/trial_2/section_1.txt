@@ -1,0 +1,13 @@
+Image 1
+ID 1: purF: amidophosphoribosyltransferase (cds)
+ID 2: alpha/beta hydrolase (cds)
+ID 3: flgM: flagellar biosynthesis anti-sigma factor FlgM (cds)
+ID 4: priB: primosomal replication protein N (cds)
+ID 5: TonB-dependent receptor (cds)
+ID 6: rrs: 16S ribosomal RNA (rRNA)
+ID 7: xthA: exodeoxyribonuclease III (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hisM: ABC-type amino acid transport system, permease component (cds)
+ID 10: peptidoglycan DD-metalloendopeptidase family protein (cds)
+ID 11: ypjD: ABC-type uncharacterized transport system, permease component (cds)
+ID 12: purN: phosphoribosylglycinamide formyltransferase (cds)

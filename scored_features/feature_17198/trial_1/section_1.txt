@@ -1,0 +1,7 @@
+Image 1
+ID 1: UPF0335 protein RC0153 (cds)
+ID 2: secE: preprotein translocase subunit SecE (cds)
+ID 3: pbpC: (pseudo) penicillin-binding protein 1C (cds)
+ID 4: (pseudo) hypothetical protein (cds)
+ID 5: IS256 family transposase (cds)
+ID 6: hypothetical protein (cds)

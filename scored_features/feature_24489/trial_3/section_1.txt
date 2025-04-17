@@ -1,0 +1,6 @@
+Image 1
+ID 1: rpsN: 30S ribosomal protein S14 (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Dolichol-phosphate mannosyltransferase (cds)
+ID 4: Cytochrome C biogenesis protein transmembrane domain-containing protein (cds)
+ID 5: DUF4010 domain-containing protein (cds)

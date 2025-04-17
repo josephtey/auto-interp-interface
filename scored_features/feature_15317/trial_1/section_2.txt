@@ -1,0 +1,7 @@
+Image 2
+ID 1: nucleotidyltransferase substrate binding protein (cds)
+ID 2: DUF2480 domain-containing protein (cds)
+ID 3: trnG: tRNA-Gly(tcc) (tRNA)
+ID 4: ruvA: Holliday junction branch migration protein RuvA (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CHAT domain-containing protein (cds)

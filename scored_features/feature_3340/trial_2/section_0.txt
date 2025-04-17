@@ -1,0 +1,11 @@
+Image 0
+Organism: Rothia nasimurium (high G+C Gram-positive bacteria)
+ID 1: amino-acid N-acetyltransferase (cds)
+ID 2: DUF1430 domain-containing protein (cds)
+ID 3: Neutral ceramidase (cds)
+ID 4: thrB: homoserine kinase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: (Deoxy)nucleoside triphosphate pyrophosphohydrolase (cds)
+ID 8: Cytochrome P450 (cds)
+ID 9: hypothetical protein (cds)

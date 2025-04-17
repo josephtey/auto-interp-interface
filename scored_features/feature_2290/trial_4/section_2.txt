@@ -1,0 +1,7 @@
+Image 2
+ID 1: gcvP: aminomethyl-transferring glycine dehydrogenase (cds)
+ID 2: rplJ: 50S ribosomal protein L10 (cds)
+ID 3: bioA: Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (cds)
+ID 4: dapF: diaminopimelate epimerase (cds)
+ID 5: uvrB: excinuclease ABC subunit UvrB (cds)
+ID 6: Uncharacterized conserved protein, contains a NRPS condensation (elongation) domain (cds)

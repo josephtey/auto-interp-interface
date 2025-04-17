@@ -1,0 +1,10 @@
+Image 3
+ID 1: NADP-dependent oxidoreductase (cds)
+ID 2: DUF374 domain-containing protein (cds)
+ID 3: MFS transporter (cds)
+ID 4: rpsI: 30S ribosomal protein S9 (cds)
+ID 5: Saccharopine dehydrogenase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: rsmD: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD (cds)
+ID 8: trmD: tRNA (guanosine(37)-N1)-methyltransferase TrmD (cds)
+ID 9: Ribosome hibernation promoting factor (cds)

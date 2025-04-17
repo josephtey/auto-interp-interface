@@ -1,0 +1,10 @@
+Image 3
+ID 1: metG: methionine--tRNA ligase (cds)
+ID 2: hIS2: Histidinol phosphatase or related hydrolase of the PHP family (cds)
+ID 3: cwlJ: Cell wall hydrolase CwlJ, involved in spore germination (cds)
+ID 4: mctB: Copper transport outer membrane protein, MctB (cds)
+ID 5: Smg protein (cds)
+ID 6: amtB: Ammonia channel protein AmtB (cds)
+ID 7: trnA: tRNA-Ala(tgc) (tRNA)
+ID 8: thrB: homoserine kinase (cds)
+ID 9: cysD: 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase or related enzyme (cds)

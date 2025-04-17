@@ -1,0 +1,11 @@
+Image 4
+ID 1: Metal ABC transporter ATP-binding protein (cds)
+ID 2: Taurine ABC transporter ATPase (cds)
+ID 3: YokE-like PH domain-containing protein (cds)
+ID 4: nusB: transcription antitermination factor NusB (cds)
+ID 5: hypothetical protein (cds)
+ID 6: copG: CopG family transcriptional regulator (cds)
+ID 7: CRISPR spacer, sequence GATAGCTTCACGGATAATCACGGCTTACACTCC (crispr-spacer)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: Iron ABC transporter permease (cds)
+ID 10: PH domain-containing protein (cds)

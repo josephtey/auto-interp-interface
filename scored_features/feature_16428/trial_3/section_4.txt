@@ -1,0 +1,4 @@
+Image 4
+ID 1: yqeK: bis(5'-nucleosyl)-tetraphosphatase (symmetrical) YqeK (cds)
+ID 2: mntR: Mn-dependent transcriptional regulator MntR, DtxR family (cds)
+ID 3: dnaK: molecular chaperone DnaK (cds)

@@ -1,0 +1,13 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: OmpL-like beta-barrel porin-2 (cds)
+ID 3: FMN-binding domain-containing protein (cds)
+ID 4: flgJ: Flagellum-specific peptidoglycan hydrolase FlgJ (cds)
+ID 5: ribE: riboflavin synthase (cds)
+ID 6: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 7: hypothetical protein (cds)
+ID 8: fepA: Outer membrane receptor for ferrienterochelin and colicins (cds)
+ID 9: tamB: Autotransporter translocation and assembly protein TamB (cds)
+ID 10: murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase (cds)
+ID 11: nfnB: Nitroreductase (cds)
+ID 12: Circularly permuted ATP-grasp protein (cds)

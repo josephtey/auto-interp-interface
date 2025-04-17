@@ -1,0 +1,3 @@
+Image 0
+ID 1: DUF4270 domain-containing protein (cds)
+ID 2: glycosyltransferase family 4 protein (cds)

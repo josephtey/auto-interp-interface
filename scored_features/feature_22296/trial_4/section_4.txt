@@ -1,0 +1,10 @@
+Image 4
+ID 1: Four-helix bundle copper-binding protein (cds)
+ID 2: Glycosyl hydrolase (cds)
+ID 3: DUF3826 domain-containing protein (cds)
+ID 4: Ferritin-like domain-containing protein (cds)
+ID 5: Periplasmic beta-glucosidase (cds)
+ID 6: fabH: Beta-ketoacyl-[acyl-carrier-protein] synthase III (cds)
+ID 7: DUF3871 domain-containing protein (cds)
+ID 8: Cytochrome c551/c552 (cds)
+ID 9: Family 43 glycosylhydrolase (cds)

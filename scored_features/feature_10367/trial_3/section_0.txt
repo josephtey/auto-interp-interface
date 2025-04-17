@@ -1,0 +1,9 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: greA: transcription elongation factor GreA (cds)
+ID 3: Tat pathway signal protein (cds)
+ID 4: Copper resistance protein C (cds)
+ID 5: Sensor protein (cds)
+ID 6: rplJ: 50S ribosomal protein L10 (cds)
+ID 7: Flavin oxidoreductase (cds)
+ID 8: Cupin domain-containing protein (cds)

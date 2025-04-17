@@ -1,0 +1,12 @@
+Image 4
+ID 1: cheZ: protein phosphatase CheZ (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Transposase (cds)
+ID 4: Acyltransferase (cds)
+ID 5: HDOD domain-containing protein (cds)
+ID 6: DNA-3-methyladenine glycosylase 2 family protein (cds)
+ID 7: 4a-hydroxytetrahydrobiopterin dehydratase (cds)
+ID 8: FMN dependent NADH:quinone oxidoreductase (cds)
+ID 9: gshB: glutathione synthase (cds)
+ID 10: U32 family peptidase (cds)
+ID 11: cysT: sulfate ABC transporter permease subunit CysT (cds)

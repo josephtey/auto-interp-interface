@@ -1,0 +1,10 @@
+Organism: Unknown organism
+ID 1: trkA: TrkA family potassium uptake protein (cds)
+ID 2: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase (cds)
+ID 3: Pseudouridine synthase (cds)
+ID 4: 4Fe-4S ferredoxin-type domain-containing protein (cds)
+ID 5: Amidohydrolase-related domain-containing protein (cds)
+ID 6: cheW: Chemotaxis protein CheW (cds)
+ID 7: hypothetical protein (cds)
+ID 8: CRISPR repeat (crispr-repeat)
+ID 9: ABC transporter permease (cds)

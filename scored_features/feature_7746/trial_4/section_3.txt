@@ -1,0 +1,8 @@
+Image 3
+ID 1: DUF4822 domain-containing protein (cds)
+ID 2: Cytochrome C oxidase subunit IV (cds)
+ID 3: DUF3347 domain-containing protein (cds)
+ID 4: CRISPR spacer, sequence AGGATGCAAC (crispr-spacer)
+ID 5: GAF domain-containing protein (cds)
+ID 6: Crp/Fnr family transcriptional regulator (cds)
+ID 7: biotin-dependent carboxyltransferase family protein (cds)

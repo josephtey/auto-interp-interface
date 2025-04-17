@@ -1,0 +1,11 @@
+Image 1
+ID 1: DUF1835 domain-containing protein (cds)
+ID 2: GLUG domain-containing protein (cds)
+ID 3: Ribonuclease J 1 (cds)
+ID 4: CRISPR spacer, sequence GGAAATAAAAACATATAAAAGGGGGCTTTAAAATGTA (crispr-spacer)
+ID 5: AAA family ATPase (cds)
+ID 6: histidine kinase (cds)
+ID 7: MBL fold metallo-hydrolase (cds)
+ID 8: NADP oxidoreductase (cds)
+ID 9: RDD domain-containing protein (cds)
+ID 10: Putative adhesin domain-containing protein (cds)

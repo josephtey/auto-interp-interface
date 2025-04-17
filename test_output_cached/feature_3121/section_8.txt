@@ -1,0 +1,7 @@
+ID 1: DUF1653 domain-containing protein (cds)
+ID 2: Lipoprotein (cds)
+ID 3: CRISPR spacer, sequence TTAAATTTTATCATGTAAACATCGAAAAAATGGACT (crispr-spacer)
+ID 4: rpe: ribulose-phosphate 3-epimerase (cds)
+ID 5: spoIIIAD: stage III sporulation protein AD (cds)
+ID 6: recG: ATP-dependent DNA helicase RecG (cds)
+ID 7: Photosystem I assembly protein Ycf3 (cds)

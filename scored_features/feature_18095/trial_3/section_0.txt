@@ -1,0 +1,10 @@
+Image 0
+ID 1: 7-cyano-7-deazaguanine/7-aminomethyl-7-deazaguanine transporter (cds)
+ID 2: narZ: nitrate reductase subunit alpha (cds)
+ID 3: ndk: nucleoside-diphosphate kinase (cds)
+ID 4: Integrase family protein (cds)
+ID 5: Lipoprotein (cds)
+ID 6: trnR: tRNA-Arg(tct) (tRNA)
+ID 7: pfaA: Polyketide-type polyunsaturated fatty acid synthase, PfaA (cds)
+ID 8: pilZ: Type IV pilus assembly PilZ (cds)
+ID 9: MotA/TolQ/ExbB proton channel (cds)

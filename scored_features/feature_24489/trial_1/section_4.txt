@@ -1,0 +1,11 @@
+Image 4
+ID 1: rpmG: 50S ribosomal protein L33 (cds)
+ID 2: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 3: Anti-sigma factor (cds)
+ID 4: phosphoribosylamine--glycine ligase (cds)
+ID 5: DUF4974 domain-containing protein (cds)
+ID 6: Addiction module protein (cds)
+ID 7: oligosaccharide flippase family protein (cds)
+ID 8: upxY: UpxY family transcription antiterminator (cds)
+ID 9: glycosyltransferase family 4 protein (cds)
+ID 10: helix-turn-helix transcriptional regulator (cds)

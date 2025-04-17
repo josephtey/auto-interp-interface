@@ -1,0 +1,10 @@
+Image 0
+ID 1: hypothetical protein (cds)
+ID 2: potE: Serine transporter YbeC, amino acid:H+ symporter family (cds)
+ID 3: potA: ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component (cds)
+ID 4: GGDEF domain-containing protein (cds)
+ID 5: artM: ABC-type arginine/histidine transport system, permease component (cds)
+ID 6: GW domain-containing protein (cds)
+ID 7: entS: enterobactin transporter EntS (cds)
+ID 8: uspA: universal stress protein UspA (cds)
+ID 9: bax: protein bax (cds)

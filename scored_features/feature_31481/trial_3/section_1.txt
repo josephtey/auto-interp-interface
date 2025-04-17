@@ -1,0 +1,13 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: ABC transporter permease (cds)
+ID 3: AbrB/MazE/SpoVT family DNA-binding domain-containing protein (cds)
+ID 4: Carbohydrate ABC transporter permease (cds)
+ID 5: Methylated-DNA--[protein]-cysteine S-methyltransferase (cds)
+ID 6: VOC family protein (cds)
+ID 7: Glycosyltransferase family 2 protein (cds)
+ID 8: sufC: Fe-S cluster assembly ATPase SufC (cds)
+ID 9: Primosomal protein N (cds)
+ID 10: dasR: HTH-type transcriptional repressor DasR (cds)
+ID 11: DUF2183 domain-containing protein (cds)
+ID 12: DUF4190 domain-containing protein (cds)

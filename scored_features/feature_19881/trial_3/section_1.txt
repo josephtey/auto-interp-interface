@@ -1,0 +1,11 @@
+Image 1
+ID 1: Ketosteroid isomerase (cds)
+ID 2: histidine kinase (cds)
+ID 3: Alpha/beta hydrolase (cds)
+ID 4: Serine hydroxymethyltransferase (cds)
+ID 5: merR: MerR family transcriptional regulator (cds)
+ID 6: Parvulin-like PPIase (cds)
+ID 7: Alpha/beta hydrolase (cds)
+ID 8: ppc: phosphoenolpyruvate carboxylase (cds)
+ID 9: DUF4345 domain-containing protein (cds)
+ID 10: secY: SecY protein (cds)

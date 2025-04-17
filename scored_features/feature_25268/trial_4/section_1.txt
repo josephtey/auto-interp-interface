@@ -1,0 +1,8 @@
+Image 1
+ID 1: Arylsulfatase (cds)
+ID 2: glsA: glutaminase A (cds)
+ID 3: CRISPR spacer, sequence GATGAGGGGCGGATGGTTCGACGGGGGAAGGACA (crispr-spacer)
+ID 4: macA: Macrolide export protein MacA (cds)
+ID 5: Prenyltransferase and squalene oxidase repeat protein (cds)
+ID 6: ruvB: Holliday junction branch migration DNA helicase RuvB (cds)
+ID 7: hypothetical protein (cds)

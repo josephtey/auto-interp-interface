@@ -1,0 +1,3 @@
+ID 1: tolC: Outer membrane protein TolC (cds)
+ID 2: era: GTPase Era (cds)
+ID 3: hlpA: Periplasmic chaperone for outer membrane proteins, Skp family (cds)

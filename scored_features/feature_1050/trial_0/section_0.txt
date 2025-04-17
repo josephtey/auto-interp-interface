@@ -1,0 +1,11 @@
+Image 0
+ID 1: Major facilitator superfamily (MFS) profile domain-containing protein (cds)
+ID 2: Repressor protein CI (cds)
+ID 3: sdhD: succinate dehydrogenase membrane anchor subunit (cds)
+ID 4: KilA-N domain-containing protein (cds)
+ID 5: Putative periplasmic chaperone protein with PapD-like and periplasmic chaperone C-domains (cds)
+ID 6: KilA-N domain-containing protein (cds)
+ID 7: Putative phage host specificity protein ( phage tail protein) (cds)
+ID 8: emrA: multidrug efflux MFS transporter periplasmic adaptor subunit EmrA (cds)
+ID 9: cra: catabolite repressor/activator (cds)
+ID 10: rpoN: RNA polymerase factor sigma-54 (cds)

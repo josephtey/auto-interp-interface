@@ -1,0 +1,13 @@
+Image 0
+ID 1: larA: Nickel-dependent lactate racemase (cds)
+ID 2: dctM: TRAP-type C4-dicarboxylate transport system, small permease component YiaM (cds)
+ID 3: rpiR: DNA-binding transcriptional regulator, MurR/RpiR family, contains HTH and SIS domains (cds)
+ID 4: cstA: Carbon starvation protein CstA (peptide/pyruvate transporter) (cds)
+ID 5: nrdR: transcriptional regulator NrdR (cds)
+ID 6: yggT: Cytochrome b6 maturation protein CCB3/Ycf19 and related maturases, YggT family (cds)
+ID 7: rsmB: 16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB (cds)
+ID 8: eamA: EamA family transporter (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Elongation factor Tu (cds)
+ID 11: kdsB: 3-deoxy-manno-octulosonate cytidylyltransferase (cds)
+ID 12: Glucose 1-dehydrogenase (cds)

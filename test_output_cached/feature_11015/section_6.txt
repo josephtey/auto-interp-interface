@@ -1,0 +1,2 @@
+ID 1: BZIP domain-containing protein (cds)
+ID 2: Methylated-DNA--[protein]-cysteine S-methyltransferase (cds)

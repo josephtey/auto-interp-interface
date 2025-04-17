@@ -1,0 +1,10 @@
+Image 1
+ID 1: Ornithine decarboxylase (cds)
+ID 2: gntU: gluconate transporter (cds)
+ID 3: Transcriptional regulator (cds)
+ID 4: ADP-ribosylglycohydrolase family protein (cds)
+ID 5: rimJ: ribosomal protein S5-alanine N-acetyltransferase (cds)
+ID 6: yobH: Uncharacterized protein YobH (cds)
+ID 7: baeR: two-component system response regulator BaeR (cds)
+ID 8: trnI: tRNA-Ile(gat) (tRNA)
+ID 9: YaiI/YqxD family protein (cds)

@@ -1,0 +1,10 @@
+Image 3
+ID 1: TonB-dependent siderophore receptor family protein (cds)
+ID 2: ppc: phosphoenolpyruvate carboxylase (cds)
+ID 3: FtsW/RodA/SpoVE family cell cycle protein (cds)
+ID 4: Uncharacterized domain protein (cds)
+ID 5: GDSL-like Lipase/Acylhydrolase family protein (cds)
+ID 6: def: peptide deformylase (cds)
+ID 7: Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein (cds)
+ID 8: rlpA: Endolytic peptidoglycan transglycosylase RlpA (cds)
+ID 9: minE: cell division topological specificity factor MinE (cds)

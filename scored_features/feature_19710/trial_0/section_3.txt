@@ -1,0 +1,2 @@
+Image 3
+ID 1: CRISPR spacer, sequence GAAACAGCCGGTACAGCCTTGAATGCGCTGTTTAC (crispr-spacer)

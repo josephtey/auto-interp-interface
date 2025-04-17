@@ -1,0 +1,9 @@
+Image 0
+ID 1: MFS transporter (cds)
+ID 2: DUF3054 domain-containing protein (cds)
+ID 3: Thiamine-binding protein domain-containing protein (cds)
+ID 4: trnL: tRNA-Leu(gag) (tRNA)
+ID 5: glnH: ABC transporter glutamine-binding protein GlnH (cds)
+ID 6: Protoporphyrinogen oxidase (cds)
+ID 7: Secreted protein (cds)
+ID 8: demethylmenaquinone methyltransferase (cds)

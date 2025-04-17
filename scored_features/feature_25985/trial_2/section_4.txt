@@ -1,0 +1,9 @@
+Image 4
+ID 1: norM: Na+-driven multidrug efflux pump, DinF/NorM/MATE family (cds)
+ID 2: epsC: serine O-acetyltransferase EpsC (cds)
+ID 3: Large ribosomal subunit protein bL34 (cds)
+ID 4: cnoX: Chaperedoxin CnoX, contains thioredoxin-like and TPR-like domains, YbbN/TrxSC family (cds)
+ID 5: cdd: Cytidine deaminase (cds)
+ID 6: xylB: xylulokinase (cds)
+ID 7: apbE: FAD:protein FMN transferase ApbE (cds)
+ID 8: trmL: tRNA(Leu) C34 or U34 (ribose-2'-O)-methylase TrmL, contains SPOUT domain (cds)

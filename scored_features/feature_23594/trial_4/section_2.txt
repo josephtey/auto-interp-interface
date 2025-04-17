@@ -1,0 +1,10 @@
+Image 2
+ID 1: recQ: RecQ (cds)
+ID 2: amidohydrolase family protein (cds)
+ID 3: lysR: Transcriptional regulator, LysR family (cds)
+ID 4: hypothetical protein (cds)
+ID 5: DUF1127 domain-containing protein (cds)
+ID 6: gntR: GntR family transcriptional regulator (cds)
+ID 7: astE: succinylglutamate desuccinylase (cds)
+ID 8: Topoisomerase II (cds)
+ID 9: Catalase (cds)

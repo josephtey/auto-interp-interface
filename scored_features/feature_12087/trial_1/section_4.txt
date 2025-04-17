@@ -1,0 +1,11 @@
+Image 4
+ID 1: lysR: LysR family transcriptional regulator (cds)
+ID 2: vapC: Ribonuclease VapC (cds)
+ID 3: rffC: dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase (cds)
+ID 4: rffA: dTDP-4-amino-4,6-dideoxygalactose transaminase (cds)
+ID 5: frdB: succinate dehydrogenase/fumarate reductase iron-sulfur subunit (cds)
+ID 6: ybaB: YbaB/EbfC family nucleoid-associated protein (cds)
+ID 7: flhA: formate hydrogenlyase transcriptional activator FlhA (cds)
+ID 8: Ion-translocating oxidoreductase complex subunit E (cds)
+ID 9: rcnB: RcnB family protein (cds)
+ID 10: D-amino acid dehydrogenase (cds)

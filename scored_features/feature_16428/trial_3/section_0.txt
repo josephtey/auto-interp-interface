@@ -1,0 +1,12 @@
+Image 0
+ID 1: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 2: Shikimate kinase (cds)
+ID 3: cysE: serine O-acetyltransferase (cds)
+ID 4: mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase (cds)
+ID 5: Putative transcriptional regulator, Crp/Fnr family (cds)
+ID 6: ABC transporter related protein (cds)
+ID 7: T-box leader (ncRNA-region)
+ID 8: pdxS: pyridoxal 5'-phosphate synthase lyase subunit PdxS (cds)
+ID 9: CRISPR repeat (crispr-repeat)
+ID 10: Rubrerythrin (cds)
+ID 11: 4Fe-4S binding protein (cds)

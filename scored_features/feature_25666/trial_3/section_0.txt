@@ -1,0 +1,11 @@
+Image 0
+ID 1: ataC: c-di-AMP phosphodiesterase AtaC or nucleotide pyrophosphatase, AlkP superfamily (cds)
+ID 2: Lipoprotein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: rho: transcription termination factor Rho (cds)
+ID 5: sbcD: DNA repair exonuclease SbcCD nuclease subunit (cds)
+ID 6: fadM: Acyl-CoA thioesterase FadM (cds)
+ID 7: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)
+ID 8: DUF4157 domain-containing protein (cds)
+ID 9: nirD: Ferredoxin subunit of nitrite reductase or a ring-hydroxylating dioxygenase (cds)
+ID 10: dsbD: Thiol:disulfide interchange protein DsbD (cds)

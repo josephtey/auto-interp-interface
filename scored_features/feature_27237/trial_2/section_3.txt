@@ -1,0 +1,11 @@
+Image 3
+ID 1: Gp5/Type VI secretion system Vgr protein OB-fold domain-containing protein (cds)
+ID 2: DUF1488 domain-containing protein (cds)
+ID 3: impE: Protein of avirulence locus ImpE (cds)
+ID 4: metB: cystathionine gamma-synthase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Amidase (cds)
+ID 7: parD: Antitoxin ParD (cds)
+ID 8: ycfL: YcfL family protein (cds)
+ID 9: Radical SAM protein (cds)
+ID 10: rplS: 50S ribosomal protein L19 (cds)

@@ -1,0 +1,12 @@
+Image 1
+ID 1: CRISPR spacer, sequence AAGCTGAAACAGGAGAGCGAGGTCACGGGGCAACAACTTTCGTTTC (crispr-spacer)
+ID 2: gpmI: 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (cds)
+ID 3: dppB: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)
+ID 4: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 5: recR: recombination mediator RecR (cds)
+ID 6: ntpF: V-type ATP synthase subunit F (cds)
+ID 7: gcvT: Glycine cleavage system protein T (aminomethyltransferase) (cds)
+ID 8: ridA: Enamine deaminase RidA, house cleaning of reactive enamine intermediates, YjgF/YER057c/UK114 family (cds)
+ID 9: trkA: Trk system potassium transporter TrkA (cds)
+ID 10: hypothetical protein (cds)
+ID 11: potC: ABC-type spermidine/putrescine transport system, permease component II (cds)

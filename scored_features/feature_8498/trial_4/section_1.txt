@@ -1,0 +1,10 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: cadA: Cadmium-translocating P-type ATPase (cds)
+ID 3: thiS: sulfur carrier protein ThiS (cds)
+ID 4: DNA-binding response regulator (cds)
+ID 5: plsX: phosphate acyltransferase PlsX (cds)
+ID 6: fliM: flagellar motor switch protein FliM (cds)
+ID 7: Two-component system response regulator (cds)
+ID 8: DUF3465 domain-containing protein (cds)
+ID 9: Peptidyl-prolyl cis-trans isomerase (cds)

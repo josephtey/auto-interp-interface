@@ -1,0 +1,13 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: FAD/FMN-binding oxidoreductase (cds)
+ID 3: histidine kinase (cds)
+ID 4: Cytochrome ubiquinol oxidase subunit I (cds)
+ID 5: DEAD/DEAH box helicase (cds)
+ID 6: rpsO: 30S ribosomal protein S15 (cds)
+ID 7: trnP: tRNA-Pro(ggg) (tRNA)
+ID 8: Phosphate/phosphite/phosphonate ABC transporter substrate-binding protein (cds)
+ID 9: rbsD: D-ribose pyranase (cds)
+ID 10: DUF721 domain-containing protein (cds)
+ID 11: Spore coat protein U domain-containing protein (cds)
+ID 12: RNA pyrophosphohydrolase (cds)

@@ -1,0 +1,4 @@
+ID 1: DNA-binding protein (cds)
+ID 2: recN: DNA repair protein RecN (cds)
+ID 3: lon: endopeptidase La (cds)
+ID 4: acrB: Multidrug efflux pump subunit AcrB (cds)

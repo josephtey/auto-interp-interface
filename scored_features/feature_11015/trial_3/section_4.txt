@@ -1,0 +1,12 @@
+Image 4
+ID 1: rplP: 50S ribosomal protein L16 (cds)
+ID 2: rpsM: 30S ribosomal protein S13 (cds)
+ID 3: nuoI: NADH-quinone oxidoreductase subunit NuoI (cds)
+ID 4: livM: ABC-type branched-chain amino acid transport system, permease component (cds)
+ID 5: accA: acetyl-CoA carboxylase carboxyltransferase subunit alpha (cds)
+ID 6: rsxB: electron transport complex subunit RsxB (cds)
+ID 7: mnmE: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE (cds)
+ID 8: DUF934 domain-containing protein (cds)
+ID 9: rho: transcription termination factor Rho (cds)
+ID 10: rpsU: 30S ribosomal protein S21 (cds)
+ID 11: eno: Enolase (cds)

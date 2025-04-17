@@ -1,0 +1,11 @@
+Image 2
+ID 1: PIN domain-containing protein (cds)
+ID 2: Lipase (cds)
+ID 3: SDR family oxidoreductase (cds)
+ID 4: potA: spermidine/putrescine ABC transporter ATP-binding protein PotA (cds)
+ID 5: flgN: Flagellar protein FlgN (cds)
+ID 6: hscA: Fe-S protein assembly chaperone HscA (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Putative C-S lyase (cds)
+ID 9: hypothetical protein (cds)
+ID 10: 4Fe-4S binding protein (cds)

@@ -1,0 +1,12 @@
+Organism: Unknown organism
+ID 1: yabD: Putative metal-dependent hydrolase YabD (cds)
+ID 2: ABC transporter permease (cds)
+ID 3: tetR: TetR family transcriptional regulator (cds)
+ID 4: Serine aminopeptidase S33 domain-containing protein (cds)
+ID 5: CAAX amino protease (cds)
+ID 6: yhbY: ribosome assembly RNA-binding protein YhbY (cds)
+ID 7: General stress protein (cds)
+ID 8: trnY: tRNA-Tyr(gta) (tRNA)
+ID 9: Sugar ABC transporter permease (cds)
+ID 10: Lipase (cds)
+ID 11: NAD-dependent epimerase/dehydratase domain-containing protein (cds)

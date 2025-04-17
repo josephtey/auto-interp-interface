@@ -1,0 +1,7 @@
+ID 1: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: atoC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)
+ID 5: cutB: Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit (cds)
+ID 6: CRISPR spacer, sequence GCGCCGGTGAGGTCGGCGCCGGTGAGGACGGCGTGGGTGA (crispr-spacer)
+ID 7: sppA: Periplasmic serine protease, ClpP class (cds)

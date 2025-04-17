@@ -1,0 +1,7 @@
+Image 0
+ID 1: gcvP: aminomethyl-transferring glycine dehydrogenase (cds)
+ID 2: caiA: Acyl-CoA dehydrogenase related to the alkylation response protein AidB (cds)
+ID 3: araH: Ribose/xylose/arabinose/galactoside ABC-type transport system, permease component (cds)
+ID 4: Lipoprotein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Zinc-ribbon 15 domain-containing protein (cds)

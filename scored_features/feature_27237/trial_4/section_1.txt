@@ -1,0 +1,12 @@
+Image 1
+ID 1: merR: Transcriptional regulator, MerR family (cds)
+ID 2: Methylated-DNA-(Protein)-cysteine S-methyltransferase (cds)
+ID 3: MATE efflux family protein (cds)
+ID 4: yjfF: galactofuranose ABC transporter, permease protein YjfF (cds)
+ID 5: Putative small multi-drug export (cds)
+ID 6: Cytoplasmic protein (cds)
+ID 7: arsR: Transcriptional regulator, ArsR family (cds)
+ID 8: trnG: tRNA-Gly(gcc) (tRNA)
+ID 9: Glycosyl transferase family 2 (cds)
+ID 10: aspS: aspartate--tRNA(Asn) ligase (cds)
+ID 11: Site-specific DNA-methyltransferase (adenine-specific) (cds)

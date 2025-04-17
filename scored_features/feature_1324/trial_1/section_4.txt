@@ -1,0 +1,10 @@
+Image 4
+ID 1: CRISPR spacer, sequence CCGCAGCAGTGTTCACCCGCGCATGTCTGTTAC (crispr-spacer)
+ID 2: CRISPR spacer, sequence CATTGCGGTCCTGCACAGTCATCCAGACCAGGG (crispr-spacer)
+ID 3: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 4: IS5 family transposase (cds)
+ID 5: LOR/SDH bifunctional enzyme conserved domain-containing protein (cds)
+ID 6: Transposase DDE domain-containing protein (cds)
+ID 7: AAA+ ATPase domain-containing protein (cds)
+ID 8: Lipoprotein (cds)
+ID 9: Coenzyme Q-binding protein COQ10 START domain-containing protein (cds)

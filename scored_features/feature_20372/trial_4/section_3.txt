@@ -1,0 +1,9 @@
+Image 3
+ID 1: Segregation/condensation protein A (cds)
+ID 2: rsxB: electron transport complex subunit RsxB (cds)
+ID 3: DUF3581 domain-containing protein (cds)
+ID 4: Porin (cds)
+ID 5: gcvP: aminomethyl-transferring glycine dehydrogenase (cds)
+ID 6: DUF3302 domain-containing protein (cds)
+ID 7: DUF2960 domain-containing protein (cds)
+ID 8: hypothetical protein (cds)

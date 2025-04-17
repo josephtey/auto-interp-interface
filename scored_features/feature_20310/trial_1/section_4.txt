@@ -1,0 +1,9 @@
+Image 4
+ID 1: hppD: 4-hydroxyphenylpyruvate dioxygenase (cds)
+ID 2: cadR: Cd(II)/Pb(II)-responsive transcriptional regulator (cds)
+ID 3: TonB-dependent receptor (cds)
+ID 4: ABC transporter ATP-binding protein (cds)
+ID 5: ubiE: bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE (cds)
+ID 6: Peptidase M19 (cds)
+ID 7: Ornithine cyclodeaminase (cds)
+ID 8: Integrase (cds)

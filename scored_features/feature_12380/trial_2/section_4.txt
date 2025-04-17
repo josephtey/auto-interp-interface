@@ -1,0 +1,13 @@
+Image 4
+ID 1: prmA: 50S ribosomal protein L11 methyltransferase (cds)
+ID 2: histidine kinase (cds)
+ID 3: Chloride channel protein (cds)
+ID 4: N-6 DNA methylase (cds)
+ID 5: dapF: diaminopimelate epimerase (cds)
+ID 6: Thioredoxin peroxidase (cds)
+ID 7: Y-family DNA polymerase (cds)
+ID 8: Sensor domain-containing diguanylate cyclase (cds)
+ID 9: rrs: 16S ribosomal RNA (rRNA)
+ID 10: lysR: LysR family transcriptional regulator (cds)
+ID 11: Alpha/beta hydrolase (cds)
+ID 12: ygcG: YgcG family protein (cds)

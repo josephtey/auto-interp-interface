@@ -1,0 +1,10 @@
+Image 2
+ID 1: ileS: isoleucine--tRNA ligase (cds)
+ID 2: 4a-hydroxytetrahydrobiopterin dehydratase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Hydrogenase maturation protease (cds)
+ID 5: Luciferase-like (cds)
+ID 6: rsmD: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD (cds)
+ID 7: atpC: F0F1 ATP synthase subunit epsilon (cds)
+ID 8: Glycerophosphoryl diester phosphodiesterase (cds)
+ID 9: 3-oxoacyl-(Acyl-carrier-protein) synthase (cds)

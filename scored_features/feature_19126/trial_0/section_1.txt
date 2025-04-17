@@ -1,0 +1,10 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: putative branched-chain-amino-acid aminotransferase (cds)
+ID 4: ydhL: DUF1289 domain-containing protein (cds)
+ID 5: Lrp/AsnC family transcriptional regulator (cds)
+ID 6: gltD: NADPH-dependent glutamate synthase beta chain or related oxidoreductase (cds)
+ID 7: rpfG: Response regulator c-di-GMP phosphodiesterase, RpfG family, contains REC and HD-GYP domains (cds)
+ID 8: ActS/PrrB/RegB family redox-sensitive histidine kinase (cds)
+ID 9: Glycosaminoglycan attachment protein (cds)

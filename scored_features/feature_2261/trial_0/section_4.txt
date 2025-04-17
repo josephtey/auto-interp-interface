@@ -1,0 +1,12 @@
+Image 4
+ID 1: DUF4266 domain-containing protein (cds)
+ID 2: trnE: tRNA-Glu(ttc) (tRNA)
+ID 3: ampC: CubicO group peptidase, beta-lactamase class C family (cds)
+ID 4: mtlD: Mannitol-1-phosphate/altronate dehydrogenases (cds)
+ID 5: btlA: MFS-type transporter involved in bile tolerance, Atg22 family (cds)
+ID 6: Anti-sigma factor (cds)
+ID 7: ggt: gamma-glutamyltransferase (cds)
+ID 8: fabA: 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase (cds)
+ID 9: mscS: Small-conductance mechanosensitive channel (cds)
+ID 10: Circularly permuted ATP-grasp protein (cds)
+ID 11: hxlA: 3-keto-L-gulonate-6-phosphate decarboxylase (cds)

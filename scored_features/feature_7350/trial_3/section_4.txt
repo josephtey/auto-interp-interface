@@ -1,0 +1,10 @@
+Image 4
+ID 1: sunT: ABC-type bacteriocin/lantibiotic exporters, contain an N-terminal double-glycine peptidase domain (cds)
+ID 2: yqgC: DUF456 domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: phnE: phosphonate ABC transporter, permease protein PhnE (cds)
+ID 5: 4Fe-4S ferredoxin-type domain-containing protein (cds)
+ID 6: putative transcriptional regulator, contains C-terminal CBS domains (cds)
+ID 7: rimM: ribosome maturation factor RimM (cds)
+ID 8: pAS: PAS domain (cds)
+ID 9: thiN: thiamine diphosphokinase (cds)

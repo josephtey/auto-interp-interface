@@ -1,0 +1,2 @@
+Image 1
+ID 1: rpoA: DNA-directed RNA polymerase subunit alpha (cds)

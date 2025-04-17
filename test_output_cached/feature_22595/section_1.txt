@@ -1,0 +1,8 @@
+Organism: Allorhizobium pseudoryzae (a-proteobacteria)
+ID 1: GNAT family N-acetyltransferase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: prmC: peptide chain release factor N(5)-glutamine methyltransferase (cds)
+ID 4: NAD(P)H-dependent glycerol-3-phosphate dehydrogenase (cds)
+ID 5: ABC transporter permease (cds)
+ID 6: dnaB: replicative DNA helicase (cds)
+ID 7: YcaO-like family protein (cds)

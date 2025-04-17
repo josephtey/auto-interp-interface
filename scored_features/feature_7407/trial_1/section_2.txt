@@ -1,0 +1,11 @@
+Image 2
+ID 1: rsmE: 16S rRNA (uracil(1498)-N(3))-methyltransferase (cds)
+ID 2: fucR: L-fucose operon activator (cds)
+ID 3: Site-specific integrase (cds)
+ID 4: arcB: aerobic respiration two-component sensor histidine kinase ArcB (cds)
+ID 5: 3-hydroxybutyrate dehydrogenase (cds)
+ID 6: Beta-Ala-His dipeptidase (cds)
+ID 7: Cyclic pyranopterin monophosphate synthase (cds)
+ID 8: pqiA: membrane integrity-associated transporter subunit PqiA (cds)
+ID 9: nagK: N-acetylglucosamine kinase (cds)
+ID 10: Arc family DNA-binding protein (cds)

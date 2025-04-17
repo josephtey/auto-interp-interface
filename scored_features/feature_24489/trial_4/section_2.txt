@@ -1,0 +1,5 @@
+Image 2
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 3: hipB: Transcriptional regulator, contains XRE-family HTH domain (cds)
+ID 4: Lipoprotein (cds)

@@ -1,0 +1,10 @@
+Image 2
+ID 1: Peptidylprolyl isomerase (cds)
+ID 2: Copper amine oxidase-like N-terminal domain-containing protein (cds)
+ID 3: rsxA: electron transport complex subunit RsxA (cds)
+ID 4: ISL3 family transposase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: cbiQ: Cobalt transport protein CbiQ (cds)
+ID 7: Glucanase (cds)
+ID 8: aroA: 3-phosphoshikimate 1-carboxyvinyltransferase (cds)
+ID 9: istB: IS21-like element helper ATPase IstB (cds)

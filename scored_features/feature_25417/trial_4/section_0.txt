@@ -1,0 +1,11 @@
+Image 0
+ID 1: Tetratricopeptide TPR_2 repeat protein (cds)
+ID 2: MBD domain-containing protein (cds)
+ID 3: larB: nickel pincer cofactor biosynthesis protein LarB (cds)
+ID 4: gltA: Citrate synthase (cds)
+ID 5: CRISPR spacer, sequence TTTCACTTCGTGCGTTCCGTAAGCAAACATCCTTCGC (crispr-spacer)
+ID 6: hypothetical protein (cds)
+ID 7: CRISPR spacer, sequence GCAGCGCGGCTCACCAGCTGAGGACGCTTCGCGCG (crispr-spacer)
+ID 8: adhE: Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase (cds)
+ID 9: tsaB: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB (cds)
+ID 10: hypothetical protein (cds)

@@ -1,0 +1,10 @@
+Image 0
+ID 1: Sigma-like protein (cds)
+ID 2: Winged helix-turn-helix domain-containing protein (cds)
+ID 3: phoH: Phosphate starvation-inducible protein PhoH, putative ATPase (cds)
+ID 4: pucR: PucR family transcriptional regulator (cds)
+ID 5: F0F1 ATP synthase (cds)
+ID 6: DUF2752 domain-containing protein (cds)
+ID 7: Cellulose binding domain-containing protein (cds)
+ID 8: RNA polymerase sigma factor (cds)
+ID 9: Ornithine carbamoyltransferase (cds)

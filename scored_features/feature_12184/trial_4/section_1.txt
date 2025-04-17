@@ -1,0 +1,13 @@
+Image 1
+ID 1: DUF3617 domain-containing protein (cds)
+ID 2: histidine kinase (cds)
+ID 3: serC leader (ncRNA-region)
+ID 4: Adenylate/guanylate cyclase domain-containing protein (cds)
+ID 5: DUF3955 domain-containing protein (cds)
+ID 6: OFA family MFS transporter (cds)
+ID 7: PAS domain-containing protein (cds)
+ID 8: Bcr/CflA family multidrug efflux MFS transporter (cds)
+ID 9: Feruloyl-CoA synthase (cds)
+ID 10: Gamma-glutamyltranspeptidase (cds)
+ID 11: yajC: preprotein translocase subunit YajC (cds)
+ID 12: Helix-turn-helix transcriptional regulator (cds)

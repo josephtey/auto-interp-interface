@@ -1,0 +1,12 @@
+Image 2
+ID 1: glycerol-3-phosphate 1-O-acyltransferase (cds)
+ID 2: RNA polymerase sigma factor (cds)
+ID 3: MCE-family protein (cds)
+ID 4: Polyketide cyclase (cds)
+ID 5: homoserine O-acetyltransferase (cds)
+ID 6: Phosphohydrolase (cds)
+ID 7: fgd: glucose-6-phosphate dehydrogenase (coenzyme-F420) (cds)
+ID 8: Diacylglycerol O-acyltransferase (cds)
+ID 9: tagH: ABC-type polysaccharide/polyol phosphate transport system, ATPase component (cds)
+ID 10: MmcQ/YjbR family DNA-binding protein (cds)
+ID 11: Amidohydrolase-related domain-containing protein (cds)

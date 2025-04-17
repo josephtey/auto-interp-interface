@@ -1,0 +1,8 @@
+ID 1: Phage tail protein (cds)
+ID 2: Antitoxin (cds)
+ID 3: STAS/SEC14 domain-containing protein (cds)
+ID 4: acyl-CoA reductase (cds)
+ID 5: carbamoyl phosphate synthase small subunit (cds)
+ID 6: O-acetylhomoserine (Thiol)-lyase (cds)
+ID 7: Nicotinamidase-related amidase (cds)
+ID 8: hypothetical protein (cds)

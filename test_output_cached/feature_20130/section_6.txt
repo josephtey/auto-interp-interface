@@ -1,0 +1,8 @@
+ID 1: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 2: 6S: 6S / SsrS RNA (ncRNA)
+ID 3: dAP2: Dipeptidyl aminopeptidase/acylaminoacyl peptidase (cds)
+ID 4: Immunity protein 26 (cds)
+ID 5: DUF2007 domain-containing protein (cds)
+ID 6: radC: DNA repair protein RadC (cds)
+ID 7: hypothetical protein (cds)
+ID 8: nuoI: Formate hydrogenlyase subunit 6/NADH:ubiquinone oxidoreductase 23 kD subunit (chain I) (cds)

@@ -1,0 +1,12 @@
+Image 3
+ID 1: thrC: threonine synthase (cds)
+ID 2: ABC transporter ATP-binding protein (cds)
+ID 3: IS110 family transposase (cds)
+ID 4: Prepilin-type cleavage/methylation domain-containing protein (cds)
+ID 5: PDZ domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: lysR: LysR family transcriptional regulator (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: ABC transporter permease (cds)

@@ -1,0 +1,10 @@
+Image 2
+ID 1: fliL: Flagellar protein FliL (cds)
+ID 2: Sel1 repeat family protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: pilZ: PilZ domain-containing protein (cds)
+ID 5: xanP: Xanthine permease XanP (cds)
+ID 6: tig: trigger factor (cds)
+ID 7: Extensin-like C-terminal domain-containing protein (cds)
+ID 8: choW: choline ABC transporter permease subunit (cds)
+ID 9: nosR: Transcriptional regulator NosR of nitric oxide reductase (cds)

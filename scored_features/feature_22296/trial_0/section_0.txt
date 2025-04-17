@@ -1,0 +1,8 @@
+Image 0
+ID 1: fur: ferric iron uptake transcriptional regulator (cds)
+ID 2: modC: molybdenum ABC transporter ATP-binding protein (cds)
+ID 3: glgA: glycogen synthase GlgA (cds)
+ID 4: yjgA: ribosome biogenesis factor YjgA (cds)
+ID 5: Cyclic nucleotide-binding protein (cds)
+ID 6: RHS repeat-associated core domain (cds)
+ID 7: hypothetical protein (cds)

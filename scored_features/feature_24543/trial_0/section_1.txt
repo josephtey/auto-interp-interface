@@ -1,0 +1,8 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: (pseudo) Beta-carotene 15,15'-monooxygenase (cds)
+ID 4: adenine phosphoribosyltransferase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: 5'-3' exonuclease (cds)

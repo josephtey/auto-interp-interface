@@ -1,0 +1,13 @@
+Image 0
+ID 1: 2TM domain-containing protein (cds)
+ID 2: rhsA: Uncharacterized conserved protein RhaS, contains 28 RHS repeats (cds)
+ID 3: anmK: anhydro-N-acetylmuramic acid kinase (cds)
+ID 4: udk: uridine kinase (cds)
+ID 5: traK: Conjugal transfer protein TraK (cds)
+ID 6: galM: Galactose mutarotase or related enzyme (cds)
+ID 7: CPXCG motif-containing cysteine-rich protein (cds)
+ID 8: DUF4301 domain-containing protein (cds)
+ID 9: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 10: Four helix bundle protein (cds)
+ID 11: hypothetical protein (cds)
+ID 12: 3D (Asp-Asp-Asp) domain-containing protein (cds)

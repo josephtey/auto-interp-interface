@@ -1,0 +1,11 @@
+Image 0
+ID 1: Pyridoxamine 5'-phosphate oxidase putative domain-containing protein (cds)
+ID 2: msrA: Peptide methionine sulfoxide reductase MsrA (cds)
+ID 3: 2-isopropylmalate synthase (cds)
+ID 4: dinB: DinB superfamily protein (cds)
+ID 5: purine-nucleoside phosphorylase (cds)
+ID 6: pucR: PucR C-terminal helix-turn-helix domain-containing protein (cds)
+ID 7: trnD: tRNA-Asp(gtc) (tRNA)
+ID 8: modB: molybdate ABC transporter permease subunit (cds)
+ID 9: Peptidase family M23 (cds)
+ID 10: lytR: Transcriptional attenuator, LytR family (cds)

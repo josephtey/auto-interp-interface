@@ -1,0 +1,12 @@
+Image 1
+ID 1: PRTRC system protein A (cds)
+ID 2: FAD:protein FMN transferase (cds)
+ID 3: glyQ: glycine--tRNA ligase subunit alpha (cds)
+ID 4: tolA: cell envelope integrity protein TolA (cds)
+ID 5: ABC transporter, phosphonate, periplasmic substrate-binding protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: epsD: EpsD family peptidyl-prolyl cis-trans isomerase (cds)
+ID 8: glutamate-5-semialdehyde dehydrogenase (cds)
+ID 9: murB: UDP-N-acetylmuramate dehydrogenase (cds)
+ID 10: DNA-deoxyinosine glycosylase (cds)
+ID 11: VWFA domain-containing protein (cds)

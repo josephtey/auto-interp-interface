@@ -1,0 +1,8 @@
+Image 0
+ID 1: pknB: Serine/threonine-protein kinase PknB (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: araC: AraC family transcriptional regulator (cds)
+ID 5: pssA: CDP-diacylglycerol--serine O-phosphatidyltransferase (cds)
+ID 6: HTH cro/C1-type domain-containing protein (cds)
+ID 7: Organic solvent tolerance-like N-terminal domain-containing protein (cds)

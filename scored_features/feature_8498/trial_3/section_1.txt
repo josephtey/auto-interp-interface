@@ -1,0 +1,5 @@
+Image 1
+ID 1: ugd: UDP-glucose 6-dehydrogenase (cds)
+ID 2: DUF1659 domain-containing protein (cds)
+ID 3: fba: class II fructose-1,6-bisphosphate aldolase (cds)
+ID 4: spoVAD: stage V sporulation protein AD (cds)

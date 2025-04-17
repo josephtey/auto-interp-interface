@@ -1,0 +1,6 @@
+Image 2
+ID 1: NAD(P)H-dependent oxidoreductase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: sdhD: succinate dehydrogenase, hydrophobic membrane anchor protein (cds)
+ID 4: flaG: Flagellar protein FlaG (cds)
+ID 5: ubiB: ubiquinone biosynthesis regulatory protein kinase UbiB (cds)

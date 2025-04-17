@@ -1,0 +1,2 @@
+Image 0
+ID 1: tatA: Sec-independent protein translocase subunit TatA (cds)

@@ -1,0 +1,11 @@
+Image 4
+Organism: Neorickettsia sennetsu str. Miyayama (a-proteobacteria)
+ID 1: aNKYR: Ankyrin repeat (cds)
+ID 2: atpA: F0F1 ATP synthase subunit alpha (cds)
+ID 3: trnE: tRNA-Glu(ttc) (tRNA)
+ID 4: brkB: Uncharacterized membrane protein, BrkB/YihY/UPF0761 family (not an RNase) (cds)
+ID 5: trnH: tRNA-His(gtg) (tRNA)
+ID 6: aNKYR: Ankyrin repeat (cds)
+ID 7: AsmA-like C-terminal domain-containing protein (cds)
+ID 8: trnR: tRNA-Arg(cct) (tRNA)
+ID 9: zapA: Cell division protein ZapA (cds)

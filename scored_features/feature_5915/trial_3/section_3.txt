@@ -1,0 +1,13 @@
+Image 3
+ID 1: DUF1240 domain-containing protein (cds)
+ID 2: ftsE: cell division ATP-binding protein FtsE (cds)
+ID 3: insB: Insertion element iso-IS1n protein insB (cds)
+ID 4: Flagellar biosynthesis sigma factor (cds)
+ID 5: ssb: Single-stranded DNA-binding protein (cds)
+ID 6: Permease (cds)
+ID 7: FMN riboswitch (RFN element) (ncRNA-region)
+ID 8: Putative methyltransferase (cds)
+ID 9: FMN dependent NADH:quinone oxidoreductase (cds)
+ID 10: GCN5-related N-acetyltransferase (cds)
+ID 11: dnaB-PI: SPI-7-type island replicative DNA helicase (cds)
+ID 12: recC: exodeoxyribonuclease V subunit gamma (cds)

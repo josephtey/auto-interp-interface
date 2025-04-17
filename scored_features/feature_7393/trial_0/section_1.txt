@@ -1,0 +1,11 @@
+Image 1
+ID 1: ABC transporter ATP-binding protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: ileS: isoleucine--tRNA ligase (cds)
+ID 4: Putative Rossmann-fold-type glycoside hydrolase (cds)
+ID 5: Transglutaminase family protein (cds)
+ID 6: ABC transporter ATP-binding protein (cds)
+ID 7: DNA-binding response regulator (cds)
+ID 8: non-specific serine/threonine protein kinase (cds)
+ID 9: non-specific serine/threonine protein kinase (cds)
+ID 10: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)

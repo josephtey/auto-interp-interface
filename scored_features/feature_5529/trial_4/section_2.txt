@@ -1,0 +1,10 @@
+Image 2
+ID 1: rlpA: Peptidoglycan lytic transglycosylase RlpA, contains C-terminal SPOR domain (cds)
+ID 2: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 3: terC: Tellurite resistance membrane protein TerC (cds)
+ID 4: parE: Plasmid stabilization system protein ParE (cds)
+ID 5: eutB: Ethanolamine ammonia-lyase, large subunit (cds)
+ID 6: pA5055: DUF971 domain-containing protein (cds)
+ID 7: cimA: citramalate synthase (cds)
+ID 8: Glycosyltransferase (cds)
+ID 9: hypothetical protein (cds)

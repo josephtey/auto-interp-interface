@@ -1,0 +1,9 @@
+Image 3
+ID 1: lysM: LysM domain-containing protein (cds)
+ID 2: uxuA: mannonate dehydratase (cds)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: panC: pantoate--beta-alanine ligase (cds)
+ID 6: GH1 family beta-glucosidase (cds)
+ID 7: Histidine kinase (cds)
+ID 8: trnY: tRNA-Tyr(gta) (tRNA)

@@ -1,0 +1,9 @@
+Image 1
+ID 1: hypothetical protein (cds)
+ID 2: smc: Chromosome segregation ATPase Smc (cds)
+ID 3: sufE: Sulfur transfer protein SufE, Fe-S cluster assembly (cds)
+ID 4: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 5: glnT: type III glutamate--ammonia ligase (cds)
+ID 6: glycoside hydrolase family 3 C-terminal domain-containing protein (cds)
+ID 7: menA: 1,4-dihydroxy-2-naphthoate octaprenyltransferase (cds)
+ID 8: HEMAGGLUTININ/HEMOLYSIN-RELATED PROTEIN (cds)

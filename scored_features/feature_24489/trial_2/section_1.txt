@@ -1,0 +1,12 @@
+Image 1
+ID 1: Isochorismatase (cds)
+ID 2: ltrA: group II intron reverse transcriptase/maturase (cds)
+ID 3: hrpB: ATP-dependent helicase HrpB (cds)
+ID 4: LUD domain-containing protein (cds)
+ID 5: leuS: leucine--tRNA ligase (cds)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: murC: UDP-N-acetylmuramate--L-alanine ligase (cds)
+ID 8: tetR: TetR family transcriptional regulator (cds)
+ID 9: Cadmium transporter (cds)
+ID 10: Phosphoglucomutase (cds)
+ID 11: bcp: thioredoxin-dependent thiol peroxidase (cds)

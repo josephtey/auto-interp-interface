@@ -1,0 +1,4 @@
+Image 0
+ID 1: mnmG: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG (cds)
+ID 2: Periplasmic or exported protein (cds)
+ID 3: trnD: tRNA-Asp(gtc) (tRNA)

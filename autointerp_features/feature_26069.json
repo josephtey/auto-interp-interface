@@ -1,0 +1,10 @@
+{
+  "reasoning": "I analyzed activation patterns across examples, noting their relationship to genomic annotations. I examined peak locations, strengths, and surrounding context. I identified recurring patterns across examples, focusing on where strong activations consistently appear in relation to specific types of genes or elements.",
+  "findings": "Strong activation peaks consistently appear within or near transporter genes across multiple examples. This includes various transport systems: ABC transporters (thiP, hisP, xylH), MFS transporters (araJ), ion transporters (corA, kup, fieF), amino acid transporters (aroP), and other substrate-specific transporters. The feature shows particularly strong activation across the coding regions of these transporters, with signal intensity peaking within the genes rather than at their boundaries.",
+  "conclusion": "This feature robustly detects transporter genes across bacterial genomes, particularly membrane transport proteins.",
+  "title": "Bacterial membrane transporter gene detector",
+  "activation-pattern": "continuous",
+  "description": "This feature consistently detects genes encoding membrane transport proteins across bacterial genomes. It shows strong, continuous activation patterns across the coding regions of diverse transporter types, including ABC transporters, MFS family permeases, ion channels, and substrate-specific transporters. The activation is specific to the gene body rather than regulatory regions, suggesting it detects sequence patterns characteristic of transmembrane domains or substrate-binding regions common to transporters. The pattern occurs across functionally diverse transporters (nutrients, ions, amino acids), indicating it likely recognizes structural motifs common to membrane transport proteins rather than substrate-specific regions. This feature could be valuable for identifying and annotating novel transporter genes in bacterial genomes.",
+  "feature_id": 26069,
+  "score": 0.6
+}

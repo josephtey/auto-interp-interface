@@ -1,0 +1,13 @@
+Image 2
+ID 1: HAEPLYID family protein (cds)
+ID 2: Alpha-N-acetylglucosaminidase (cds)
+ID 3: trnG: tRNA-Gly(gcc) (tRNA)
+ID 4: cheY: Chemotaxis protein CheY (cds)
+ID 5: Aspartokinase (cds)
+ID 6: TonB-dependent receptor (cds)
+ID 7: SDR family oxidoreductase (cds)
+ID 8: carbamoyl phosphate synthase small subunit (cds)
+ID 9: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 10: DUF5689 domain-containing protein (cds)
+ID 11: RagB/SusD family nutrient uptake outer membrane protein (cds)
+ID 12: TonB-linked outer membrane protein, SusC/RagA family (cds)

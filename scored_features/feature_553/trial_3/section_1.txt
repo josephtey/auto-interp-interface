@@ -1,0 +1,12 @@
+Image 1
+Organism: Paenibacillus lycopersici (firmicutes)
+ID 1: Carbohydrate ABC transporter membrane protein 2 (CUT1 family) (cds)
+ID 2: DUF5348 domain-containing protein (cds)
+ID 3: Four-carbon acid sugar kinase family protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: Sulfatase-like hydrolase/transferase (cds)
+ID 6: DUF2029 domain-containing protein (cds)
+ID 7: trnA: tRNA-Ala(ggc) (tRNA)
+ID 8: Carbohydrate ABC transporter permease (cds)
+ID 9: histidine kinase (cds)
+ID 10: CRISPR spacer, sequence ATTAGGTTGAGCATACCTGGCGATGGGTTTTACG (crispr-spacer)

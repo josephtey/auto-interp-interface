@@ -1,0 +1,12 @@
+Image 0
+ID 1: mdtH: multidrug efflux MFS transporter MdtH (cds)
+ID 2: rnfH: RnfH family protein (cds)
+ID 3: fabF: beta-ketoacyl-ACP synthase II (cds)
+ID 4: Benzoate transporter (cds)
+ID 5: Zinc-finger domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: cobW: Cobalamin biosynthesis protein CobW (cds)
+ID 8: trkA: Potassium transporter TrkA (cds)
+ID 9: purL: phosphoribosylformylglycinamidine synthase (cds)
+ID 10: Peptide ABC transporter permease (cds)
+ID 11: aspS: aspartate--tRNA ligase (cds)

@@ -1,0 +1,10 @@
+Image 0
+ID 1: CRISPR repeat (crispr-repeat)
+ID 2: DUF218 domain-containing protein (cds)
+ID 3: ftsK: Cell division protein FtsK (cds)
+ID 4: gntR: GntR family transcriptional regulator (cds)
+ID 5: fetB: iron export ABC transporter permease subunit FetB (cds)
+ID 6: yiaG: DNA-binding transcriptional regulator YiaG, XRE-type HTH domain (cds)
+ID 7: fliL: Flagellar protein FliL (cds)
+ID 8: rplU: 50S ribosomal protein L21 (cds)
+ID 9: HTH cro/C1-type domain-containing protein (cds)

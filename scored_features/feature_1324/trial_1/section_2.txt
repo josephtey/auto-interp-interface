@@ -1,0 +1,4 @@
+Image 2
+ID 1: uspA: UspA domain-containing protein (cds)
+ID 2: ftsX: Cell division protein FtsX (cds)
+ID 3: carbamoyl phosphate synthase small subunit (cds)

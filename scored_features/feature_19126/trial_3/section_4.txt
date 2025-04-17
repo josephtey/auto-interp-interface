@@ -1,0 +1,5 @@
+Image 4
+ID 1: DUF2568 domain-containing protein (cds)
+ID 2: aHP1: Peroxiredoxin (cds)
+ID 3: FAD-binding protein (cds)
+ID 4: Acyloxyacyl hydrolase (cds)

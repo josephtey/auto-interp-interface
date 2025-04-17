@@ -1,0 +1,9 @@
+Image 0
+Organism: Allorhizobium pseudoryzae (a-proteobacteria)
+ID 1: speB: agmatinase (cds)
+ID 2: RNA pyrophosphohydrolase (cds)
+ID 3: lacI: Transcriptional regulator, LacI family (cds)
+ID 4: intracellular growth attenuator family protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: mce: methylmalonyl-CoA epimerase (cds)
+ID 7: Branched-chain amino acid ABC transporter permease (cds)

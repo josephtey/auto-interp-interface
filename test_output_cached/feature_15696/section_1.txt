@@ -1,0 +1,6 @@
+ID 1: lptB: Lipopolysaccharide export system ATP-binding protein LptB (cds)
+ID 2: xerC: Tyrosine recombinase XerC (cds)
+ID 3: dapC: succinyldiaminopimelate transaminase (cds)
+ID 4: surE: 5'/3'-nucleotidase SurE (cds)
+ID 5: hypothetical protein (cds)
+ID 6: folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (cds)

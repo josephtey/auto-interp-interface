@@ -1,0 +1,12 @@
+Image 4
+ID 1: Sugar transferase (cds)
+ID 2: GAF domain-containing protein (cds)
+ID 3: CBS domain-containing protein (cds)
+ID 4: paaK: phenylacetate--CoA ligase PaaK (cds)
+ID 5: Succinate dehydrogenase cytochrome b subunit (cds)
+ID 6: cpaB: Pilus assembly protein CpaB (cds)
+ID 7: tRNA adenosine deaminase (cds)
+ID 8: Helicase (cds)
+ID 9: ABC transporter permease (cds)
+ID 10: L-threonylcarbamoyladenylate synthase (cds)
+ID 11: Phosphoenolpyruvate-protein phosphotransferase (cds)

@@ -1,0 +1,9 @@
+Image 0
+ID 1: Uroporphyrinogen decarboxylase (URO-D) domain-containing protein (cds)
+ID 2: asnS: asparagine--tRNA ligase (cds)
+ID 3: rbsC: Ribose import permease protein RbsC (cds)
+ID 4: dnaX: DNA polymerase III subunit gamma/tau (cds)
+ID 5: Extracellular solute-binding protein (cds)
+ID 6: CRISPR spacer, sequence AATACTTGCAATTCATCCCTTTTTAAGTTTTTTCGTA (crispr-spacer)
+ID 7: NAD+ synthase (cds)
+ID 8: yegE: Putative diguanylate cyclase YegE (cds)

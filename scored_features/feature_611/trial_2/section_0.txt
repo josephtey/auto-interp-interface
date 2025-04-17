@@ -1,0 +1,11 @@
+Image 0
+ID 1: HD-GYP domain-containing protein (cds)
+ID 2: Thiol:disulfide interchange protein (cds)
+ID 3: coq7: 2-polyprenyl-3-methyl-6-methoxy-1,4-benzoquinone monooxygenase (cds)
+ID 4: DNA-binding response regulator (cds)
+ID 5: ABC transporter permease (cds)
+ID 6: hypothetical protein (cds)
+ID 7: DUF736 domain-containing protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: priB: primosomal replication protein N (cds)
+ID 10: Aspartate ammonia-lyase (cds)

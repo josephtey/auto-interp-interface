@@ -1,0 +1,11 @@
+Image 2
+ID 1: rfbB: dTDP-glucose 4,6-dehydratase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: uvrB: excinuclease ABC subunit UvrB (cds)
+ID 4: mshJ: MSHA biogenesis protein MshJ (cds)
+ID 5: Glycine transporter domain-containing protein (cds)
+ID 6: typA: translational GTPase TypA (cds)
+ID 7: Sulfotransferase family protein (cds)
+ID 8: TetR/AcrR family transcriptional regulator (cds)
+ID 9: Universal stress protein (cds)
+ID 10: CPXCG motif-containing cysteine-rich protein (cds)

@@ -1,0 +1,7 @@
+Image 1
+ID 1: tyrA: bifunctional chorismate mutase/prephenate dehydrogenase (cds)
+ID 2: atpF: F0F1 ATP synthase subunit B (cds)
+ID 3: PA4780 family RIO1-like protein kinase (cds)
+ID 4: Phosphoglycolate phosphatase (cds)
+ID 5: NADP-dependent oxidoreductase (cds)
+ID 6: yfbR: 5'-deoxynucleotidase (cds)

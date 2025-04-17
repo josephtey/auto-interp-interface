@@ -1,0 +1,8 @@
+Image 3
+ID 1: 4'-phosphopantetheinyl transferase superfamily protein (cds)
+ID 2: ATP-binding protein (cds)
+ID 3: Galactose oxidase (cds)
+ID 4: porT: PorT family protein (cds)
+ID 5: TMF family protein (cds)
+ID 6: yaiO: YaiO family outer membrane beta-barrel protein (cds)
+ID 7: Rubredoxin-like domain-containing protein (cds)

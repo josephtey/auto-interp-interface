@@ -1,0 +1,9 @@
+Image 4
+ID 1: Tautomerase enzyme (cds)
+ID 2: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 3: walK: Sensor histidine kinase WalK (cds)
+ID 4: spoIIAA: anti-sigma F factor antagonist (cds)
+ID 5: rplM: 50S ribosomal protein L13 (cds)
+ID 6: THF riboswitch (ncRNA-region)
+ID 7: Maltodextrin-binding protein (cds)
+ID 8: parA: ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ (cds)

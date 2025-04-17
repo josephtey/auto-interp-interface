@@ -1,0 +1,10 @@
+Image 1
+ID 1: ilvC: ketol-acid reductoisomerase (cds)
+ID 2: ubiX: Flavin prenyltransferase UbiX (cds)
+ID 3: gabT: 4-aminobutyrate--2-oxoglutarate transaminase (cds)
+ID 4: Transferase hexapeptide repeat-containing protein (cds)
+ID 5: Lipoprotein (cds)
+ID 6: tRNA1(Val) (adenine(37)-N6)-methyltransferase (cds)
+ID 7: phoH: PhoH family protein (cds)
+ID 8: Type II secretion system protein (cds)
+ID 9: hypothetical protein (cds)

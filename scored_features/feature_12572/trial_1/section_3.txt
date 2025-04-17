@@ -1,0 +1,12 @@
+Image 3
+ID 1: NTP pyrophosphohydrolase (cds)
+ID 2: ypfH: putative esterase (cds)
+ID 3: dcm: DNA-cytosine methylase (cds)
+ID 4: parA: ParA-like ATPase involved in chromosome/plasmid partitioning or cellulose biosynthesis protein BcsQ (cds)
+ID 5: Family finger-like domain protein (cds)
+ID 6: argE: acetylornithine deacetylase (cds)
+ID 7: Hippurate hydrolase (cds)
+ID 8: gap: type I glyceraldehyde-3-phosphate dehydrogenase (cds)
+ID 9: DUF5368 domain-containing protein (cds)
+ID 10: Putative membrane protein (cds)
+ID 11: yobN: Monoamine oxidase (cds)

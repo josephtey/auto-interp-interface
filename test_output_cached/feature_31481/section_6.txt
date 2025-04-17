@@ -1,0 +1,6 @@
+ID 1: hypothetical protein (cds)
+ID 2: DUF2892 domain-containing protein (cds)
+ID 3: DUF4252 domain-containing protein (cds)
+ID 4: AGE family epimerase/isomerase (cds)
+ID 5: pxpA: 5-oxoprolinase subunit PxpA (cds)
+ID 6: hypothetical protein (cds)

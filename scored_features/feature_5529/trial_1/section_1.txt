@@ -1,0 +1,12 @@
+Image 1
+ID 1: gltB2: Glutamate synthase domain 2 (cds)
+ID 2: CRISPR spacer, sequence TGGGACGGCTTGCGCCGTCCCAAGTTAAAACTCACA (crispr-spacer)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: rodA: rod shape-determining protein RodA (cds)
+ID 5: yggS: Pyridoxal 5'-phosphate homeostasis protein YggS, UPF0001 family (cds)
+ID 6: argB: N-acetylglutamate kinase (cds)
+ID 7: ssb: Single-stranded DNA-binding protein (cds)
+ID 8: uvrD: Superfamily I DNA or RNA helicase (cds)
+ID 9: alr: alanine racemase (cds)
+ID 10: grpE: Molecular chaperone GrpE (heat shock protein HSP-70) (cds)
+ID 11: yjbQ: Thiamin phosphate synthase YjbQ, UPF0047 family (cds)

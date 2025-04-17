@@ -1,0 +1,8 @@
+Image 1
+ID 1: Polysaccharide deacetylase family protein (cds)
+ID 2: DUF6233 domain-containing protein (cds)
+ID 3: Mobile element transfer (cds)
+ID 4: C2H2-type domain-containing protein (cds)
+ID 5: SH3 domain-containing protein (cds)
+ID 6: Maleylpyruvate isomerase family mycothiol-dependent enzyme (cds)
+ID 7: PHP domain-containing protein (cds)

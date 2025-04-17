@@ -1,0 +1,6 @@
+Image 4
+ID 1: gltB: glutamate synthase large subunit (cds)
+ID 2: Peptidase M16 inactive domain protein (cds)
+ID 3: DUF3301 domain-containing protein (cds)
+ID 4: sufD: Fe-S cluster assembly protein SufD (cds)
+ID 5: recT: Recombination and repair protein RecT (cds)

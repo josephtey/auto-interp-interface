@@ -1,0 +1,12 @@
+Image 2
+ID 1: dTDP-Rha:alpha-D-GlcNAc-pyrophosphate polyprenol, alpha-3-L-rhamnosyltransferase (cds)
+ID 2: hslR: Ribosomal 50S subunit-recycling heat shock protein, contains S4 domain (cds)
+ID 3: IS1182 family transposase (cds)
+ID 4: DUF3857 domain-containing protein (cds)
+ID 5: VCBS repeat-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Ferritin-like protein (cds)
+ID 8: DNA repair protein (cds)
+ID 9: trnF: tRNA-Phe(gaa) (tRNA)
+ID 10: GLPGLI family protein (cds)
+ID 11: putative S-adenosylmethionine-dependent methyltransferase MSMEG_2350 (cds)

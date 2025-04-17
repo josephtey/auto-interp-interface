@@ -1,0 +1,6 @@
+ID 1: lpxA: acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: trnN: tRNA-Asn(gtt) (tRNA)
+ID 4: trnL: tRNA-Leu(caa) (tRNA)
+ID 5: putative ATPase, AAA+ superfamily (cds)
+ID 6: menD: 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase (cds)

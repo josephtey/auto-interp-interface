@@ -1,0 +1,12 @@
+Image 1
+ID 1: Outer membrane protein (cds)
+ID 2: CRISPR spacer, sequence AACAGGTGTACGGCGGGGTGGTCGGTACCGTT (crispr-spacer)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: VWA domain-containing protein (cds)
+ID 5: Biotin--[acetyl-CoA-carboxylase] ligase (cds)
+ID 6: Thiamine-binding protein (cds)
+ID 7: 3'-5' exonuclease (cds)
+ID 8: Trimeric intracellular cation channel family protein (cds)
+ID 9: MOSC domain-containing protein (cds)
+ID 10: CBS domain-containing protein (cds)
+ID 11: fba: class II fructose-bisphosphate aldolase (cds)

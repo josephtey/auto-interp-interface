@@ -1,0 +1,10 @@
+Image 1
+ID 1: SGNH/GDSL hydrolase family protein (cds)
+ID 2: Flp family type IVb pilin (cds)
+ID 3: TIGR03364 family FAD-dependent oxidoreductase (cds)
+ID 4: Coproporphyrinogen III oxidase family protein (cds)
+ID 5: nadC: carboxylating nicotinate-nucleotide diphosphorylase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: SDR family NAD(P)-dependent oxidoreductase (cds)
+ID 8: Acetate kinase (cds)
+ID 9: Phosphatidylcholine synthase (cds)

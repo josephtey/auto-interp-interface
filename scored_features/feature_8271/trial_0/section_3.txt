@@ -1,0 +1,12 @@
+Image 3
+ID 1: nqrD: NADH:ubiquinone reductase (Na(+)-transporting) subunit D (cds)
+ID 2: iclR: DNA-binding transcriptional regulator, IclR family (cds)
+ID 3: DNA-3-methyladenine glycosylase I (cds)
+ID 4: gyrB: DNA topoisomerase (ATP-hydrolyzing) subunit B (cds)
+ID 5: hypothetical protein (cds)
+ID 6: trnW: tRNA-Trp(cca) (tRNA)
+ID 7: DUF3429 domain-containing protein (cds)
+ID 8: CDP-glycerol--glycerophosphate glycerophosphotransferase (cds)
+ID 9: radA: DNA repair protein RadA (cds)
+ID 10: DNA-binding response regulator (cds)
+ID 11: GMC family oxidoreductase (cds)

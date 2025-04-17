@@ -1,0 +1,12 @@
+Image 3
+ID 1: hypothetical protein (cds)
+ID 2: DUF899 domain-containing protein (cds)
+ID 3: 2'-5' RNA ligase (cds)
+ID 4: enoyl-CoA hydratase (cds)
+ID 5: Proline rich protein (cds)
+ID 6: Ligand-binding protein SH3 (cds)
+ID 7: eccA: type VII secretion AAA-ATPase EccA (cds)
+ID 8: Class I SAM-dependent methyltransferase (cds)
+ID 9: soxR: redox-sensitive transcriptional activator SoxR (cds)
+ID 10: marR: MarR family transcriptional regulator (cds)
+ID 11: Short-chain dehydrogenase (cds)

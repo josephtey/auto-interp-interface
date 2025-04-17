@@ -1,0 +1,2 @@
+ID 1: Helix-turn-helix transcriptional regulator (cds)
+ID 2: Periplasmic heavy metal sensor (cds)

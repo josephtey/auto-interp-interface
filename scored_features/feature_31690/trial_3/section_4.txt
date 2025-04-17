@@ -1,0 +1,10 @@
+Image 4
+ID 1: Lipase (cds)
+ID 2: Glutamate decarboxylase (cds)
+ID 3: DNA repair helicase XPB (cds)
+ID 4: Nucleoside-diphosphate sugar epimerase (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: RNA polymerase ECF family sigma subunit (cds)
+ID 7: Uracil-DNA glycosylase-like domain-containing protein (cds)
+ID 8: hprK: HPr(Ser) kinase/phosphatase (cds)
+ID 9: Methyltransferase domain-containing protein (cds)

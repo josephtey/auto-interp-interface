@@ -1,0 +1,8 @@
+ID 1: rplA: 50S ribosomal protein L1 (cds)
+ID 2: SMF family protein (cds)
+ID 3: yghU: glutathione-dependent disulfide-bond oxidoreductase (cds)
+ID 4: Pseudouridine synthase (cds)
+ID 5: CRISPR spacer, sequence ATGCTAGCTCACTTTCCTTATGTAGACACATA (crispr-spacer)
+ID 6: CRISPR spacer, sequence ACACTAGGGAAAAAGTAGAAGCACATTATTTA (crispr-spacer)
+ID 7: panB: 3-methyl-2-oxobutanoate hydroxymethyltransferase (cds)
+ID 8: Polar amino acid ABC transporter, inner membrane subunit (cds)

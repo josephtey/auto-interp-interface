@@ -1,0 +1,12 @@
+Image 1
+ID 1: tolB: Translocation protein TolB (cds)
+ID 2: dbpA: ATP-dependent RNA helicase DbpA (cds)
+ID 3: Acryloyl-CoA reductase electron transfer subunit beta (cds)
+ID 4: Gfo/Idh/MocA family oxidoreductase (cds)
+ID 5: rsmD: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD (cds)
+ID 6: susD: Starch-binding protein SusD (cds)
+ID 7: RagB/SusD family nutrient uptake outer membrane protein (cds)
+ID 8: Histone H1-like protein Hc1 (cds)
+ID 9: istA: IS21 family transposase (cds)
+ID 10: Nitrite reductase [NAD(P)H] (cds)
+ID 11: Tetratricopeptide repeat protein (cds)

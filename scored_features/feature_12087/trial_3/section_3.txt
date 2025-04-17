@@ -1,0 +1,3 @@
+Image 3
+ID 1: Alpha-tubulin suppressor-like RCC1 family protein (cds)
+ID 2: Ferredoxin (cds)

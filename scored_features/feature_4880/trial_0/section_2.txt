@@ -1,0 +1,13 @@
+Image 2
+ID 1: Polyketide synthase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: lysM: Peptigoglycan-binding protein LysM (cds)
+ID 4: ATPase (cds)
+ID 5: Membrane protein (cds)
+ID 6: YqgE/AlgH family protein (cds)
+ID 7: MBL fold metallo-hydrolase (cds)
+ID 8: Amino acid dehydrogenase (cds)
+ID 9: MFS transporter (cds)
+ID 10: DNA-binding response regulator (cds)
+ID 11: trnL: tRNA-Leu(taa) (tRNA)
+ID 12: DUF551 domain-containing protein (cds)

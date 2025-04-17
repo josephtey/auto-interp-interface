@@ -1,0 +1,6 @@
+Image 3
+ID 1: mutS2: dsDNA-specific endonuclease/ATPase MutS2 (cds)
+ID 2: Alpha-N-acetylglucosaminidase (cds)
+ID 3: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 4: rpmB: 50S ribosomal protein L28 (cds)
+ID 5: tolC: Outer membrane protein TolC (cds)

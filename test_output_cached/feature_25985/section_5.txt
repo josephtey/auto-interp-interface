@@ -1,0 +1,8 @@
+ID 1: IS110 family transposase (cds)
+ID 2: DUF881 domain-containing protein (cds)
+ID 3: MinD-like ATPase involved in chromosome partitioning or flagellar assembly (cds)
+ID 4: Aldo/keto reductase (cds)
+ID 5: accA: acetyl-CoA carboxylase carboxyl transferase subunit alpha (cds)
+ID 6: hypothetical protein (cds)
+ID 7: purE: Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase (cds)
+ID 8: nifN: nitrogenase iron-molybdenum cofactor biosynthesis protein NifN (cds)

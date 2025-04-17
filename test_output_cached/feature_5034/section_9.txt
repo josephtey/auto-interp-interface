@@ -1,0 +1,9 @@
+Organism: Unknown organism
+ID 1: Toll/interleukin-1 receptor domain-containing protein (cds)
+ID 2: Tetratricopeptide repeat protein (cds)
+ID 3: Bacterial bifunctional deaminase-reductase C-terminal domain-containing protein (cds)
+ID 4: GH16 domain-containing protein (cds)
+ID 5: Response regulator (cds)
+ID 6: Extracellular solute-binding protein (cds)
+ID 7: DUF58 domain-containing protein (cds)
+ID 8: tRNA uridine(34) 5-carboxymethylaminomethyl modification radical SAM/GNAT enzyme Elp3 (cds)

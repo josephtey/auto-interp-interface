@@ -1,0 +1,10 @@
+Image 1
+ID 1: recQ: ATP-dependent DNA helicase RecQ (cds)
+ID 2: rpsL: 30S ribosomal protein S12 (cds)
+ID 3: S9 family peptidase (cds)
+ID 4: NAD(P)H-dependent oxidoreductase (cds)
+ID 5: Protein kinase (cds)
+ID 6: Mannose-1-phosphate guanylyltransferase (cds)
+ID 7: Serine/threonine-protein phosphatase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: AAA family ATPase (cds)

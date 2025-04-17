@@ -1,0 +1,12 @@
+Image 0
+Organism: Unknown organism
+ID 1: tuf: elongation factor Tu (cds)
+ID 2: fmt: methionyl-tRNA formyltransferase (cds)
+ID 3: secG: Protein-export membrane protein SecG (cds)
+ID 4: NADH dehydrogenase subunit L (cds)
+ID 5: livF: ABC-type branched-chain amino acid transport system, ATPase component LivF (cds)
+ID 6: trnR: tRNA-Arg(cct) (tRNA)
+ID 7: atpC: F0F1 ATP synthase subunit epsilon (cds)
+ID 8: holA: DNA polymerase III subunit delta (cds)
+ID 9: tsaD: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD (cds)
+ID 10: ybaB: YbaB/EbfC family nucleoid-associated protein (cds)

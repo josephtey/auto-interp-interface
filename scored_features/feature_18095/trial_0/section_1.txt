@@ -1,0 +1,11 @@
+Image 1
+ID 1: doxX: DoxX (cds)
+ID 2: nrdA: adenosylcobalamin-dependent ribonucleoside-diphosphate reductase (cds)
+ID 3: rplY: 50S ribosomal protein L25/general stress protein Ctc (cds)
+ID 4: trpB: tryptophan synthase subunit beta (cds)
+ID 5: hypothetical protein (cds)
+ID 6: sdhC: succinate dehydrogenase, cytochrome b556 subunit (cds)
+ID 7: hypothetical protein (cds)
+ID 8: betI: HTH-type transcriptional regulator BetI (cds)
+ID 9: yciW: Alkylhydroperoxidase family enzyme, contains CxxC motif (cds)
+ID 10: Translation initiation factor 2 (IF-2, GTPase) (cds)

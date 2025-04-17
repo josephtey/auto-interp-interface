@@ -1,0 +1,13 @@
+Image 1
+ID 1: ester cyclase (cds)
+ID 2: Oligopeptide transport system ATP-binding protein (cds)
+ID 3: infB: translation initiation factor IF-2 (cds)
+ID 4: ribD: bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD (cds)
+ID 5: VCBS domain-containing protein (cds)
+ID 6: carbohydrate-binding module family 20 domain-containing protein (cds)
+ID 7: ygiQ: YgiQ family radical SAM protein (cds)
+ID 8: ATP-grasp domain-containing protein (cds)
+ID 9: polyamine aminopropyltransferase (cds)
+ID 10: Porin domain-containing protein (cds)
+ID 11: hypothetical protein (cds)
+ID 12: methyl-accepting chemotaxis protein (cds)

@@ -1,0 +1,13 @@
+Image 3
+ID 1: sbm: Methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding) (cds)
+ID 2: DUF4190 domain-containing protein (cds)
+ID 3: 3-(3-hydroxyphenyl)propionate hydroxylase (cds)
+ID 4: pepO: putative metalloendopeptidase (cds)
+ID 5: Leucine-rich repeat domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Integrase catalytic subunit (cds)
+ID 9: Aldehyde dehydrogenase (cds)
+ID 10: DUF952 domain-containing protein (cds)
+ID 11: lppP: LppP protein (cds)
+ID 12: (pseudo) Transmembrane protein (cds)

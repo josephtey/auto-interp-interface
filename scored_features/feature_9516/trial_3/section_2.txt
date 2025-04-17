@@ -1,0 +1,9 @@
+Image 2
+ID 1: copG: CopG family transcriptional regulator (cds)
+ID 2: RNaseP_bact_a: Bacterial RNase P class A (ncRNA)
+ID 3: tACO1: YebC/PmpR family DNA-binding transcriptional regulator (cds)
+ID 4: cobF: precorrin-6A synthase (deacetylating) (cds)
+ID 5: hypothetical protein (cds)
+ID 6: recA: recombinase RecA (cds)
+ID 7: fbp: class 1 fructose-bisphosphatase (cds)
+ID 8: yggU: DUF167 domain-containing protein (cds)

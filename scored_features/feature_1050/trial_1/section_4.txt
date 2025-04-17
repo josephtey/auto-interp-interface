@@ -1,0 +1,11 @@
+Image 4
+ID 1: Efflux RND transporter permease subunit (cds)
+ID 2: bamD: Outer membrane protein assembly factor BamD (cds)
+ID 3: rpiR: DNA-binding transcriptional regulator, MurR/RpiR family, contains HTH and SIS domains (cds)
+ID 4: recD: exodeoxyribonuclease V subunit alpha (cds)
+ID 5: yhdP: YhdP family protein (cds)
+ID 6: nagB: glucosamine-6-phosphate deaminase (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: cysB: HTH-type transcriptional regulator CysB (cds)
+ID 10: Histone (cds)

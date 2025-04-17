@@ -1,0 +1,10 @@
+Image 2
+ID 1: mntB: Manganese transport system membrane protein MntB (cds)
+ID 2: CRISPR repeat (crispr-repeat)
+ID 3: CRISPR spacer, sequence GGACAAGAATCTTTTGACGAGTTAAAGGATTTTTTAAC (crispr-spacer)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR repeat (crispr-repeat)
+ID 7: Methyltransferase domain-containing protein (cds)
+ID 8: HD domain protein (cds)
+ID 9: spoIIAA: anti-sigma F factor antagonist (cds)

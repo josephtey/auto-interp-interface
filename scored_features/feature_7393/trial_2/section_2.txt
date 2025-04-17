@@ -1,0 +1,7 @@
+Image 2
+ID 1: DUF1206 domain-containing protein (cds)
+ID 2: PepSY domain-containing protein (cds)
+ID 3: acrA: Multidrug efflux pump subunit AcrA (membrane-fusion protein) (cds)
+ID 4: fahA: fumarylacetoacetase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: ampC: CubicO group peptidase, beta-lactamase class C family (cds)

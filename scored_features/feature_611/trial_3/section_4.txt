@@ -1,0 +1,10 @@
+Image 4
+ID 1: Peptidase M23 (cds)
+ID 2: DUF2935 domain-containing protein (cds)
+ID 3: crp: cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases (cds)
+ID 4: Transcriptional repressor (cds)
+ID 5: copZ: copper chaperone CopZ (cds)
+ID 6: DNA topoisomerase (cds)
+ID 7: sdhB: succinate dehydrogenase iron-sulfur subunit (cds)
+ID 8: Glutamate--cysteine ligase (cds)
+ID 9: CRISPR-associated protein Cas5 (cds)

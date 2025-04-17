@@ -1,0 +1,9 @@
+Image 4
+ID 1: rrl: 23S ribosomal RNA (rRNA)
+ID 2: DUF4242 domain-containing protein (cds)
+ID 3: Lantibiotic dehydratase domain protein (cds)
+ID 4: mdoC: glucans biosynthesis protein MdoC (cds)
+ID 5: doxA: TQO small subunit DoxA domain-containing protein (cds)
+ID 6: dacB: D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase (cds)
+ID 7: cpsB: Mannose-1-phosphate guanylyltransferase (cds)
+ID 8: Cysteinyl-tRNA synthetase (cds)

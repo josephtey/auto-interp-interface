@@ -1,0 +1,9 @@
+Image 1
+ID 1: infA: translation initiation factor IF-1 (cds)
+ID 2: Uncharacterized conserved protein (cds)
+ID 3: aroC: chorismate synthase (cds)
+ID 4: rapZ: RNase adapter RapZ (cds)
+ID 5: TRAP-type uncharacterized transport system, fused permease component (cds)
+ID 6: DUF2442 domain-containing protein (cds)
+ID 7: ABC-type sugar transport system, periplasmic component (cds)
+ID 8: Transcriptional regulator (cds)

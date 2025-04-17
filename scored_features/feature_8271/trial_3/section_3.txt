@@ -1,0 +1,9 @@
+Image 3
+ID 1: rarD: EamA family transporter RarD (cds)
+ID 2: epd: erythrose-4-phosphate dehydrogenase (cds)
+ID 3: Protein SlyX-like protein (cds)
+ID 4: Peptidase S51 dipeptidase E (cds)
+ID 5: fadR: fatty acid metabolism transcriptional regulator FadR (cds)
+ID 6: scpB: SMC-Scp complex subunit ScpB (cds)
+ID 7: fabG: 3-oxoacyl-(Acyl-carrier-protein) reductase (cds)
+ID 8: rimP: ribosome maturation factor RimP (cds)

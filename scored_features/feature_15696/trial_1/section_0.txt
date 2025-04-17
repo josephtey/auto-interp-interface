@@ -1,0 +1,12 @@
+Image 0
+ID 1: acetoacetate--CoA ligase (cds)
+ID 2: metX: homoserine O-acetyltransferase (cds)
+ID 3: MFS transporter (cds)
+ID 4: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 5: rsmD: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD (cds)
+ID 6: lnt: apolipoprotein N-acyltransferase (cds)
+ID 7: HIT domain-containing protein (cds)
+ID 8: Competence-and mitomycin-induced protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: Secreted protein (cds)
+ID 11: DNA topoisomerase I (cds)

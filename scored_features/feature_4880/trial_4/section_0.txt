@@ -1,0 +1,8 @@
+Image 0
+ID 1: gltX: glutamate--tRNA ligase (cds)
+ID 2: CRISPR spacer, sequence GTCCAGATGTCCGAATTCTCCATGATTTCTCTCCGTT (crispr-spacer)
+ID 3: sSL2: Superfamily II DNA or RNA helicase (cds)
+ID 4: Lipoprotein (cds)
+ID 5: cutB: Aldehyde, CO, or xanthine dehydrogenase, FAD-binding subunit (cds)
+ID 6: dksA: RNA polymerase-binding transcription factor DksA (cds)
+ID 7: Decaheme c-type cytochrome, OmcA/MtrC family (cds)

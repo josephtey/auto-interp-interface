@@ -1,0 +1,9 @@
+Image 2
+ID 1: yqiK: Putative membrane protein YqiK (cds)
+ID 2: inositol monophosphatase (cds)
+ID 3: rhodanese-like domain-containing protein (cds)
+ID 4: Nif11 family protein (cds)
+ID 5: gcvA: transcriptional regulator GcvA (cds)
+ID 6: PilC/PilY family type IV pilus protein (cds)
+ID 7: ABC transporter permease (cds)
+ID 8: glutathione S-transferase (cds)

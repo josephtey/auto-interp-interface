@@ -1,0 +1,8 @@
+ID 1: AMP-dependent synthetase (cds)
+ID 2: long-chain-fatty-acid--CoA ligase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: HTH cro/C1-type domain-containing protein (cds)
+ID 5: CRISPR spacer, sequence TGGAAAAGGTCGGTCCGAACCTGCAGCGCACCC (crispr-spacer)
+ID 6: DUF3046 domain-containing protein (cds)
+ID 7: Ig-like domain-containing protein (cds)
+ID 8: hypothetical protein (cds)

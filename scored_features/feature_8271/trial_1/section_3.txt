@@ -1,0 +1,9 @@
+Image 3
+ID 1: homoserine O-acetyltransferase (cds)
+ID 2: Phospholipase C/D domain-containing protein (cds)
+ID 3: bioD: dethiobiotin synthase (cds)
+ID 4: nudB: dihydroneopterin triphosphate diphosphatase (cds)
+ID 5: Type IV pilin (cds)
+ID 6: cas7c: type I-C CRISPR-associated protein Cas7/Csd2 (cds)
+ID 7: lepB: signal peptidase I (cds)
+ID 8: cydB: cytochrome d ubiquinol oxidase subunit II (cds)

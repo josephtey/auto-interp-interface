@@ -1,0 +1,9 @@
+Image 2
+ID 1: flaG: Flagellar protein FlaG (cds)
+ID 2: Zinc-ribbon domain-containing protein (cds)
+ID 3: Glutathione S-transferase (cds)
+ID 4: Transporter substrate-binding domain-containing protein (cds)
+ID 5: DUF924 domain-containing protein (cds)
+ID 6: Thiol:disulfide interchange protein (cds)
+ID 7: dTTP/UTP pyrophosphatase (cds)
+ID 8: tetR(A): tetracycline resistance transcriptional repressor TetR(A) (cds)

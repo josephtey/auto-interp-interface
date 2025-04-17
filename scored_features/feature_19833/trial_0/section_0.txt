@@ -1,0 +1,12 @@
+Image 0
+ID 1: DUF2116 domain-containing protein (cds)
+ID 2: histidine kinase (cds)
+ID 3: Branched-chain amino acid ABC transporter permease (cds)
+ID 4: rpsB: 30S ribosomal protein S2 (cds)
+ID 5: Bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase (cds)
+ID 6: ugpC: sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC (cds)
+ID 7: phosphoadenylyl-sulfate reductase (cds)
+ID 8: htpX: protease HtpX (cds)
+ID 9: SMP domain-containing protein (cds)
+ID 10: LTA synthase family protein (cds)
+ID 11: hypothetical protein (cds)

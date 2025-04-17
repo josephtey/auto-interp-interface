@@ -1,0 +1,8 @@
+Image 2
+ID 1: cyaY: iron donor protein CyaY (cds)
+ID 2: CoA pyrophosphatase (cds)
+ID 3: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
+ID 4: tolC: Outer membrane protein TolC (cds)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: anmK: anhydro-N-acetylmuramic acid kinase (cds)
+ID 7: purK: 5-(carboxyamino)imidazole ribonucleotide synthase (cds)

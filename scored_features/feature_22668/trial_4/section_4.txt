@@ -1,0 +1,12 @@
+Image 4
+ID 1: gatC: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC (cds)
+ID 2: hypothetical protein (cds)
+ID 3: Porin domain-containing protein (cds)
+ID 4: mshL: pilus (MSHA type) biogenesis protein MshL (cds)
+ID 5: Cysteine hydrolase (cds)
+ID 6: lolD: lipoprotein-releasing ABC transporter ATP-binding protein LolD (cds)
+ID 7: Quercetin 2,3-dioxygenase (cds)
+ID 8: Nitrate ABC transporter ATP-binding protein (cds)
+ID 9: N-acetyltransferase domain-containing protein (cds)
+ID 10: Glycosyl transferase (cds)
+ID 11: ftsI: Peptidoglycan D,D-transpeptidase FtsI (cds)

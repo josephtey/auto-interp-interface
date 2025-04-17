@@ -1,0 +1,11 @@
+Image 0
+ID 1: PAS domain-containing protein (cds)
+ID 2: DUF1631 domain-containing protein (cds)
+ID 3: DUF2914 domain-containing protein (cds)
+ID 4: hlyD: HlyD family secretion protein (cds)
+ID 5: nuoE: NADH-quinone oxidoreductase subunit NuoE (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Glycine transporter domain-containing protein (cds)
+ID 8: leucyl aminopeptidase (cds)
+ID 9: Alpha/beta hydrolase (cds)
+ID 10: DMT family protein (cds)

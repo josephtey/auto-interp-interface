@@ -1,0 +1,11 @@
+Image 4
+ID 1: Prepilin-type N-terminal cleavage/methylation domain-containing protein (cds)
+ID 2: tdh: Threonine dehydrogenase or related Zn-dependent dehydrogenase (cds)
+ID 3: Transposase (cds)
+ID 4: rsiW: Anti-sigma-W factor RsiW (cds)
+ID 5: fmnP: Riboflavin transporter FmnP (cds)
+ID 6: surE: 5'/3'-nucleotidase SurE (cds)
+ID 7: hypothetical protein (cds)
+ID 8: gntR: GntR family transcriptional regulator (cds)
+ID 9: feoA: Fe2+ transport protein FeoA (cds)
+ID 10: DUF6263 domain-containing protein (cds)

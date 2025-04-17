@@ -1,0 +1,13 @@
+Image 1
+ID 1: Virulence-associated protein E-like domain-containing protein (cds)
+ID 2: torA: trimethylamine-N-oxide reductase TorA (cds)
+ID 3: 30S ribosomal protein S6 modification protein (cds)
+ID 4: pyk: pyruvate kinase (cds)
+ID 5: Transposase (cds)
+ID 6: Methyl-accepting transducer domain-containing protein (cds)
+ID 7: ubiE: bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE (cds)
+ID 8: qor: NADPH:quinone reductase or related Zn-dependent oxidoreductase (cds)
+ID 9: hemC: hydroxymethylbilane synthase (cds)
+ID 10: Integrase (cds)
+ID 11: AraC/XylS family transcriptional regulator (cds)
+ID 12: L-lactate permease (cds)

@@ -1,0 +1,13 @@
+Image 3
+ID 1: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 2: cas2: CRISPR-associated endonuclease Cas2 (cds)
+ID 3: Metal-dependent hydrolase, beta-lactamase superfamily II (cds)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: CRISPR spacer, sequence AGTTTTTCGATACGATGTCTATGCCTTCAATATCAAGCTTAAACA (crispr-spacer)
+ID 6: CRISPR spacer, sequence TTTCACACTTGGTTCTGGTGCAAGAGCGCTTTACCCA (crispr-spacer)
+ID 7: putative oxidoreductase of the aldo/keto reductase family (cds)
+ID 8: tamB: Autotransporter translocation and assembly protein TamB (cds)
+ID 9: rpsZ: type Z 30S ribosomal protein S14 (cds)
+ID 10: rsxC: electron transport complex subunit RsxC (cds)
+ID 11: wecG: UDP-N-acetyl-D-mannosaminuronic acid transferase, WecB/TagA/CpsF family (cds)
+ID 12: gcvPA: aminomethyl-transferring glycine dehydrogenase subunit GcvPA (cds)

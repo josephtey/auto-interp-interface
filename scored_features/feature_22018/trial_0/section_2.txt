@@ -1,0 +1,13 @@
+Image 2
+ID 1: mrdA: peptidoglycan DD-transpeptidase MrdA (cds)
+ID 2: Glutamate-ammonia-ligase adenylyltransferase (cds)
+ID 3: zapD: cell division protein ZapD (cds)
+ID 4: rpmE: 50S ribosomal protein L31 (cds)
+ID 5: Transposase (cds)
+ID 6: trnY: tRNA-Tyr(gta) (tRNA)
+ID 7: tusC: sulfurtransferase complex subunit TusC (cds)
+ID 8: pth: aminoacyl-tRNA hydrolase (cds)
+ID 9: prfA: peptide chain release factor 1 (cds)
+ID 10: Cation/H+ exchanger domain-containing protein (cds)
+ID 11: aroC: chorismate synthase (cds)
+ID 12: hypothetical protein (cds)

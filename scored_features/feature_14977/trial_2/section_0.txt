@@ -1,0 +1,10 @@
+Image 0
+ID 1: ycaQ: DNA glycosylase YcaQ, repair of DNA interstrand crosslinks (cds)
+ID 2: pGRP: Peptidoglycan-binding (PGRP) domain of peptidoglycan hydrolases (cds)
+ID 3: hypothetical protein (cds)
+ID 4: purN: phosphoribosylglycinamide formyltransferase (cds)
+ID 5: trnP: tRNA-Pro(cgg) (tRNA)
+ID 6: himA: Bacterial nucleoid DNA-binding protein IHF-alpha (cds)
+ID 7: menH: 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: asnC: AsnC family transcriptional regulator (cds)

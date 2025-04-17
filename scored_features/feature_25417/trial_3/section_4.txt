@@ -1,0 +1,11 @@
+Image 4
+ID 1: CRISPR spacer, sequence AGCAATGGTTATGAACGCCTTGGCGAAATTAG (crispr-spacer)
+ID 2: aroE: shikimate dehydrogenase (cds)
+ID 3: Glycosyltransferase family 1 protein (cds)
+ID 4: rplD: 50S ribosomal protein L4 (cds)
+ID 5: rseP: RIP metalloprotease RseP (cds)
+ID 6: uvrC: excinuclease ABC subunit UvrC (cds)
+ID 7: Hydrolase or metal-binding protein (cds)
+ID 8: lipB: lipoyl(octanoyl) transferase LipB (cds)
+ID 9: Polysaccharide biosynthesis protein (cds)
+ID 10: mtnN: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase (cds)

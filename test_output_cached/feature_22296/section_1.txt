@@ -1,0 +1,7 @@
+ID 1: hypothetical protein (cds)
+ID 2: aldehyde dehydrogenase family protein (cds)
+ID 3: CRISPR spacer, sequence TATTTGATTGTCAAGGACTTTGATAGCTTTTATCAT (crispr-spacer)
+ID 4: argH: argininosuccinate lyase (cds)
+ID 5: DUF6044 domain-containing protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: glycosyltransferase family 2 protein (cds)

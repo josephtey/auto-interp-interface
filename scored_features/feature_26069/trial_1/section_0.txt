@@ -1,0 +1,3 @@
+Image 0
+ID 1: G-D-S-L family lipolytic protein (cds)
+ID 2: ompA: OmpA family protein (cds)

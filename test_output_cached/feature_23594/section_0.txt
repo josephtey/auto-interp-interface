@@ -1,0 +1,8 @@
+ID 1: iclR: DNA-binding transcriptional regulator, IclR family (cds)
+ID 2: SAM-dependent methyltransferase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: fliS: flagellar export chaperone FliS (cds)
+ID 5: atuA: Acyclic terpene utilization AtuA family protein (cds)
+ID 6: purR: DNA-binding transcriptional regulator, LacI/PurR family (cds)
+ID 7: trnG: tRNA-Gly(ccc) (tRNA)
+ID 8: mscS: Small-conductance mechanosensitive channel (cds)

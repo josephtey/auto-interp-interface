@@ -1,0 +1,11 @@
+Image 1
+ID 1: enoyl-CoA hydratase-related protein (cds)
+ID 2: lipid-transfer protein (cds)
+ID 3: ABC transporter substrate-binding protein (cds)
+ID 4: UPF0313 protein CV_1738 (cds)
+ID 5: hypothetical protein (cds)
+ID 6: UbiH/UbiF family hydroxylase (cds)
+ID 7: HDOD domain-containing protein (cds)
+ID 8: trmL: tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)

@@ -1,0 +1,10 @@
+Image 4
+ID 1: hypothetical protein (cds)
+ID 2: IS66 family transposase (cds)
+ID 3: CRISPR spacer, sequence GATGTTGAAAAGCTTGCCCTCCATTGGGCAGGCATTGA (crispr-spacer)
+ID 4: CRISPR repeat (crispr-repeat)
+ID 5: Heparan-alpha-glucosaminide N-acetyltransferase catalytic domain-containing protein (cds)
+ID 6: gepA: DUF4065 domain-containing protein (cds)
+ID 7: DUF2383 domain-containing protein (cds)
+ID 8: Cysteine-rich secretory protein family protein (cds)
+ID 9: 1-deoxy-D-xylulose-5-phosphate synthase (cds)

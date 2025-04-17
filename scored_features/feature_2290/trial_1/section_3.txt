@@ -1,0 +1,6 @@
+Image 3
+ID 1: dsbD: Thiol-disulfide interchange protein, contains DsbC and DsbD domains (cds)
+ID 2: osmY: Osmotically-inducible protein OsmY, contains BON domain (cds)
+ID 3: dnaX: DNA polymerase III subunit gamma/tau (cds)
+ID 4: ribH: 6,7-dimethyl-8-ribityllumazine synthase (cds)
+ID 5: folB: Dihydroneopterin aldolase (cds)

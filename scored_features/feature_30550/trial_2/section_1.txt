@@ -1,0 +1,5 @@
+Image 1
+ID 1: rpoC: DNA-directed RNA polymerase subunit beta' (cds)
+ID 2: eCM27: Ca2+/Na+ antiporter (cds)
+ID 3: petA: ubiquinol-cytochrome c reductase iron-sulfur subunit (cds)
+ID 4: trnR: tRNA-Arg(acg) (tRNA)

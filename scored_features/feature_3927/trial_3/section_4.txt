@@ -1,0 +1,9 @@
+Image 4
+ID 1: rhaT: Permease of the drug/metabolite transporter (DMT) superfamily (cds)
+ID 2: DUF2279 domain-containing protein (cds)
+ID 3: nhaC: Na+/H+ antiporter NhaC/MleN (cds)
+ID 4: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+ID 5: CRISPR spacer, sequence GTGCTGACGAAGCGCCCGGAACGGATGAAGCAGT (crispr-spacer)
+ID 6: psbP: PsbP C-terminal domain-containing protein (cds)
+ID 7: wcaG: Nucleoside-diphosphate-sugar epimerase (cds)
+ID 8: Squalene cyclase C-terminal domain-containing protein (cds)

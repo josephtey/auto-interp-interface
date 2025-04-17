@@ -1,0 +1,11 @@
+Image 0
+ID 1: trnV: tRNA-Val(tac) (tRNA)
+ID 2: Carbohydrate ABC transporter permease (cds)
+ID 3: Amidohydrolase (cds)
+ID 4: yhbY: ribosome assembly RNA-binding protein YhbY (cds)
+ID 5: hypothetical protein (cds)
+ID 6: lysR: LysR family transcriptional regulator (cds)
+ID 7: lysE: Lysine transporter LysE (cds)
+ID 8: DUF2190 domain-containing protein (cds)
+ID 9: FMN dependent NADH:quinone oxidoreductase (cds)
+ID 10: Sugar ABC transporter substrate-binding protein (cds)
