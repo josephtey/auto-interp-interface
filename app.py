@@ -93,6 +93,7 @@ if selected_feature:
 
     # High Activating Samples
     st.header("High Activating Samples")
+    st.write("Pulled from ~10% of all prokaryotic genomes (270).")
 
     # Get all sections from test_output_cached
     test_output_dir = f"test_output_cached/feature_{feature_id}"
