@@ -25,10 +25,6 @@ paper_features = {
     "30262": "Transfer RNA (tRNA)",
 }
 
-# Check if a feature ID is provided in the URL
-url_params = st.experimental_get_query_params()
-url_feature_id = url_params.get("feature_id", [None])[0]
-
 # Sidebar for feature selection
 st.sidebar.header("Feature Selection")
 selection_mode = st.sidebar.radio(
@@ -40,18 +36,6 @@ if selection_mode == "All Features":
         "Select Feature",
         feature_files,
         format_func=lambda x: f"Score: {json.load(open(x))['score']} - {json.load(open(x))['title']} (f/{Path(x).stem.split('_')[1]} )",
-        index=(
-            next(
-                (
-                    i
-                    for i, f in enumerate(feature_files)
-                    if Path(f).stem.split("_")[1] == url_feature_id
-                ),
-                0,
-            )
-            if url_feature_id
-            else 0
-        ),
         key="all_features",
     )
 else:
@@ -59,27 +43,12 @@ else:
         "Select Feature from Paper",
         list(paper_features.items()),
         format_func=lambda x: f"Score: {json.load(open(f'autointerp_features/feature_{x[0]}.json'))['score']} - {json.load(open(f'autointerp_features/feature_{x[0]}.json'))['title']} (f/{x[0]})",
-        index=(
-            next(
-                (
-                    i
-                    for i, (fid, _) in enumerate(paper_features.items())
-                    if fid == url_feature_id
-                ),
-                0,
-            )
-            if url_feature_id
-            else 0
-        ),
         key="paper_features",
     )
     selected_feature = f"autointerp_features/feature_{selected_paper_feature[0]}.json"
 
 if selected_feature:
     feature_id = Path(selected_feature).stem.split("_")[1]
-
-    # Update URL with the selected feature ID
-    st.experimental_set_query_params(feature_id=feature_id)
 
     # Load and display feature information
     with open(selected_feature) as f:
