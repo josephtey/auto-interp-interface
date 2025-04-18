@@ -1,8 +1,0 @@
-Organism: Allobaculum mucilyticum (firmicutes)
-ID 1: Spx/MgsR family RNA polymerase-binding regulatory protein (cds)
-ID 2: hypothetical protein (cds)
-ID 3: nuclear transport factor 2 family protein (cds)
-ID 4: tuf: elongation factor Tu (cds)
-ID 5: extracellular solute-binding protein (cds)
-ID 6: hypothetical protein (cds)
-ID 7: ABC transporter permease (cds)

@@ -1,7 +1,11 @@
 Image 3
-ID 1: Prolyl oligopeptidase family protein (cds)
-ID 2: PD-(D/E)XK nuclease family transposase (cds)
-ID 3: Sodium/pantothenate symporter (cds)
-ID 4: rplQ: 50S ribosomal protein L17 (cds)
-ID 5: nuoJ: NADH-quinone oxidoreductase subunit J (cds)
-ID 6: NADH dehydrogenase subunit G (cds)
+Organism: Unknown organism
+ID 1: Toxin HigB-2 (cds)
+ID 2: 6-phosphofructokinase 1 (cds)
+ID 3: Thioredoxin domain-containing protein (cds)
+ID 4: Putative major pilin subunit (cds)
+ID 5: Lipoprotein (cds)
+ID 6: Pectate lyase superfamily protein (cds)
+ID 7: Potassium transport protein Kup (cds)
+ID 8: Isonitrile hydratase (cds)
+ID 9: SnoaL-like domain protein (cds)

@@ -1,0 +1,13 @@
+Image 4
+Organism: Pantoea eucalypti (enterobacteria)
+ID 1: bamD: outer membrane protein assembly factor BamD (cds)
+ID 2: rluD: 23S rRNA pseudouridine(1911/1915/1917) synthase RluD (cds)
+ID 3: yfiH: purine nucleoside phosphorylase YfiH (cds)
+ID 4: Ysr155_RyfD: Yersinia sRNA 155(RyfD) (ncRNA)
+ID 5: hypothetical protein (cds)
+ID 6: clpB: ATP-dependent chaperone ClpB (cds)
+ID 7: rrs: 16S ribosomal RNA (rRNA)
+ID 8: trnI: tRNA-Ile(gat) (tRNA)
+ID 9: trnA: tRNA-Ala(tgc) (tRNA)
+ID 10: StyR-44: Salmonella enterica Typhi npcRNA 44 (ncRNA)
+ID 11: rrl: 23S ribosomal RNA (rRNA)

@@ -1,7 +1,10 @@
 Image 3
-Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
-ID 1: ibpA: Small heat shock protein IbpA, HSP20 family (cds)
-ID 2: folE: GTP cyclohydrolase I FolE (cds)
-ID 3: ykgO: type B 50S ribosomal protein L36 (cds)
-ID 4: miaA: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA (cds)
-ID 5: caiD: Enoyl-CoA hydratase/carnithine racemase (cds)
+Organism: Unknown organism
+ID 1: cinA: CinA domain protein (cds)
+ID 2: recA: recombinase RecA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Lipoprotein (cds)
+ID 5: Two component, sigma54 specific, transcriptional regulator, Fis family (cds)
+ID 6: Response regulator receiver modulated protein serine/threonine phosphatase (cds)
+ID 7: Response regulator receiver and Hpt phospho transfer protein (cds)
+ID 8: Putative capsular polysaccharide biosynthesis protein (cds)

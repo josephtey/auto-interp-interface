@@ -1,0 +1,8 @@
+Organism: Ahniella affigens (g-proteobacteria)
+ID 1: lolC: ABC-type transport system involved in lipoprotein release, permease component LolC (cds)
+ID 2: salY: ABC-type antimicrobial peptide transport system, permease component (cds)
+ID 3: cypX: Cytochrome P450 (cds)
+ID 4: tauD: Taurine catabolism dioxygenase TauD (cds)
+ID 5: entF: EntF, seryl-AMP synthase component of non-ribosomal peptide synthetase (cds)
+ID 6: ulaG: L-ascorbate lactonase UlaG, metallo-beta-lactamase superfamily (cds)
+ID 7: entF: EntF, seryl-AMP synthase component of non-ribosomal peptide synthetase (cds)

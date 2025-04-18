@@ -1,2 +1,3 @@
-ID 1: Helix-turn-helix transcriptional regulator (cds)
-ID 2: Periplasmic heavy metal sensor (cds)
+Organism: Desulfolutivibrio sulfodismutans DSM 3696 (bacteria)
+ID 1: Autotransporter domain-containing protein (cds)
+ID 2: hypothetical protein (cds)

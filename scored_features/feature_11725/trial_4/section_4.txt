@@ -1,7 +1,11 @@
 Image 4
-ID 1: nlhH: Carboxylesterase NlhH (cds)
-ID 2: Aminotransferase (cds)
-ID 3: hypothetical protein (cds)
-ID 4: aspartate-semialdehyde dehydrogenase (cds)
-ID 5: Bifunctional hemolysin/adenylate cyclase (cds)
-ID 6: rsfS: ribosome silencing factor (cds)
+Organism: Unknown organism
+ID 1: Chromosome partition protein Smc (cds)
+ID 2: cheA: Chemotaxis protein CheA (cds)
+ID 3: protein-glutamate O-methyltransferase (cds)
+ID 4: Methyl-accepting chemotaxis protein I (cds)
+ID 5: cheW: Chemotaxis protein CheW (cds)
+ID 6: Antitoxin (cds)
+ID 7: resA: Thiol-disulfide oxidoreductase ResA (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)

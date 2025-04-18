@@ -1,7 +1,0 @@
-Organism: Granulosicoccus antarcticus IMCC3135 (g-proteobacteria)
-ID 1: rplV: 50S ribosomal protein L22 (cds)
-ID 2: fadH2: NADPH-dependent 2,4-dienoyl-CoA reductase, sulfur reductase, or a related oxidoreductase (cds)
-ID 3: Transketolase (cds)
-ID 4: Helix-turn-helix domain-containing protein (cds)
-ID 5: livK: ABC-type branched-chain amino acid transport system, periplasmic component (cds)
-ID 6: nit2: Omega-amidase YafV/Nit2, hydrolyzes alpha-ketoglutaramate (cds)

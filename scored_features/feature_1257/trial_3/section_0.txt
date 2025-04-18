@@ -1,3 +1,0 @@
-Image 0
-Organism: Pseudomonas promysalinigenes (g-proteobacteria)
-ID 1: ssuD: Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase) (cds)

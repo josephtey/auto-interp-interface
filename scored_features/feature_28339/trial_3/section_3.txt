@@ -1,0 +1,7 @@
+Image 3
+Organism: Blastochloris viridis (a-proteobacteria)
+ID 1: glgP: Glucan phosphorylase (cds)
+ID 2: glgB: 1,4-alpha-glucan branching protein GlgB (cds)
+ID 3: glgC: glucose-1-phosphate adenylyltransferase (cds)
+ID 4: glgA: glycogen synthase GlgA (cds)
+ID 5: glgX: glycogen debranching protein GlgX (cds)

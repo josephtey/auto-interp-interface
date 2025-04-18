@@ -1,2 +1,3 @@
-ID 1: ycfP: putative esterase YcpF, UPF0227 family (cds)
-ID 2: rnpA: ribonuclease P protein component (cds)
+Organism: Desulfomicrobium baculatum DSM 4028 (bacteria)
+ID 1: tolC: Outer membrane protein TolC (cds)
+ID 2: Ca2+-binding protein, RTX toxin-related (cds)

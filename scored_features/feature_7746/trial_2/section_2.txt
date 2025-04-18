@@ -1,3 +1,5 @@
 Image 2
-ID 1: tkt: transketolase (cds)
-ID 2: S9 family peptidase (cds)
+Organism: Mongoliitalea daihaiensis (CFB group bacteria)
+ID 1: pectate lyase (cds)
+ID 2: LamG-like jellyroll fold domain-containing protein (cds)
+ID 3: DUF1574 domain-containing protein (cds)

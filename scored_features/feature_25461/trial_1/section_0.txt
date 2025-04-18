@@ -1,5 +1,8 @@
 Image 0
-Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
-ID 1: Type VI secretion system sigma-54 dependent transcriptional regulator (cds)
-ID 2: hypothetical protein (cds)
-ID 3: Transposase (cds)
+Organism: Archangium gephyra (bacteria)
+ID 1: atoC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)
+ID 2: Signal transduction histidine kinase regulating C4-dicarboxylate transport system (cds)
+ID 3: Dickkopf N-terminal cysteine-rich domain-containing protein (cds)
+ID 4: Uncharacterized conserved protein, contains CHAT domain (cds)
+ID 5: atoC: DNA-binding transcriptional response regulator, NtrC family, contains REC, AAA-type ATPase, and a Fis-type DNA-binding domains (cds)
+ID 6: ADYC domain-containing protein (cds)

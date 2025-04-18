@@ -1,5 +1,6 @@
 Image 3
-ID 1: gap (gap)
-ID 2: Cholesterol oxidase (cds)
-ID 3: AI-2E family transporter (cds)
-ID 4: Tetratricopeptide repeat family protein (cds)
+Organism: Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628 (b-proteobacteria)
+ID 1: Phosphotransferase (cds)
+ID 2: histidine kinase (cds)
+ID 3: recC: exodeoxyribonuclease V subunit gamma (cds)
+ID 4: recB: exodeoxyribonuclease V subunit beta (cds)

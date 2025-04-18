@@ -1,1 +1,2 @@
-ID 1: wrbA: NAD(P)H:quinone oxidoreductase (cds)
+Organism: Desulfomicrobium baculatum DSM 4028 (bacteria)
+ID 1: Ca2+-binding protein, RTX toxin-related (cds)

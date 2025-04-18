@@ -1,8 +1,0 @@
-Image 4
-ID 1: ccmD: CcmD family protein (cds)
-ID 2: truA: tRNA pseudouridine(38-40) synthase TruA (cds)
-ID 3: hypothetical protein (cds)
-ID 4: walK: Sensor histidine kinase WalK (cds)
-ID 5: ftsI: Cell division protein FtsI, peptidoglycan transpeptidase (Penicillin-binding protein 2) (cds)
-ID 6: DUF6688 domain-containing protein (cds)
-ID 7: FG-GAP repeat protein (cds)

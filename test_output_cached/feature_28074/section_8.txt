@@ -1,6 +1,7 @@
-ID 1: ISXO2-like transposase domain protein (cds)
-ID 2: Planctomycete cytochrome C (cds)
-ID 3: Amidophosphoribosyltransferase (cds)
-ID 4: Serine/threonine phosphatase stp (cds)
-ID 5: MurG-like transferase (cds)
-ID 6: hypothetical protein (cds)
+Organism: Unknown organism
+ID 1: Fibronectin type-III domain-containing protein (cds)
+ID 2: N-acyl-D-glutamate deacylase (cds)
+ID 3: Di-heme cytochrome c peroxidase (cds)
+ID 4: Putative CtpA-like serine protease (cds)
+ID 5: DNA ligase (cds)
+ID 6: DUF1501 domain-containing protein (cds)

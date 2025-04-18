@@ -1,0 +1,12 @@
+Image 2
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: Glycogen debranching enzyme (cds)
+ID 2: hypothetical protein (cds)
+ID 3: treZ: malto-oligosyltrehalose trehalohydrolase (cds)
+ID 4: treY: malto-oligosyltrehalose synthase (cds)
+ID 5: DUF1579 domain-containing protein (cds)
+ID 6: Bacterial bifunctional deaminase-reductase C-terminal domain-containing protein (cds)
+ID 7: Bleomycin resistance protein (cds)
+ID 8: 5-(carboxyamino)imidazole ribonucleotide synthase (cds)
+ID 9: N5-carboxyaminoimidazole ribonucleotide mutase (cds)
+ID 10: histidine kinase (cds)

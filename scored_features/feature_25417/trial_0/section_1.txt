@@ -1,2 +1,12 @@
 Image 1
-ID 1: rpoA: DNA-directed RNA polymerase subunit alpha (cds)
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 2: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
+ID 3: NAD(+)--dinitrogen-reductase ADP-D-ribosyltransferase (cds)
+ID 4: HEPN domain-containing protein (cds)
+ID 5: anfO: Fe-only nitrogenase accessory protein AnfO (cds)
+ID 6: anfK: Fe-only nitrogenase subunit beta (cds)
+ID 7: anfG: Fe-only nitrogenase subunit delta (cds)
+ID 8: anfD: nitrogenase iron-iron protein, alpha chain (cds)
+ID 9: nifH: nitrogenase iron protein (cds)
+ID 10: guaA: glutamine-hydrolyzing GMP synthase (cds)

@@ -1,6 +1,0 @@
-Organism: Sediminispirochaeta smaragdinae DSM 11293 (spirochetes)
-ID 1: hypothetical protein (cds)
-ID 2: FMN-binding domain-containing protein (cds)
-ID 3: rspA: L-alanine-DL-glutamate epimerase or related enzyme of enolase superfamily (cds)
-ID 4: Aldose 1-epimerase (cds)
-ID 5: dadA: Glycine/D-amino acid oxidase (deaminating) (cds)

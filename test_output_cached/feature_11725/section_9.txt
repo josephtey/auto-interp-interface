@@ -1,6 +1,7 @@
-ID 1: hypothetical protein (cds)
-ID 2: Aldehyde reductase Ahr (cds)
-ID 3: HEAT repeat protein (cds)
-ID 4: non-specific serine/threonine protein kinase (cds)
-ID 5: tolB: Translocation protein TolB (cds)
-ID 6: Arylsulfatase (cds)
+Organism: Unknown organism
+ID 1: DUF3604 domain-containing protein (cds)
+ID 2: Ribosomal RNA small subunit methyltransferase B (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Phytochrome-like protein cph1 (cds)
+ID 5: ygiQ: YgiQ family radical SAM protein (cds)
+ID 6: epsE: Glycosyltransferase EpsE (cds)

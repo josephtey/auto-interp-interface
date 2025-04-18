@@ -1,3 +1,8 @@
 Image 0
-ID 1: G-D-S-L family lipolytic protein (cds)
-ID 2: ompA: OmpA family protein (cds)
+Organism: Unknown organism
+ID 1: NIPSNAP domain-containing protein (cds)
+ID 2: non-specific serine/threonine protein kinase (cds)
+ID 3: WD domain, G-beta repeat (cds)
+ID 4: treZ: malto-oligosyltrehalose trehalohydrolase (cds)
+ID 5: glgB: 1,4-alpha-glucan branching protein GlgB (cds)
+ID 6: Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase (cds)

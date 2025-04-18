@@ -1,0 +1,11 @@
+Image 4
+Organism: Corynebacterium efficiens YS-314 (high G+C Gram-positive bacteria)
+ID 1: IS256 family transposase (cds)
+ID 2: HTH cro/C1-type domain-containing protein (cds)
+ID 3: Cell wall-active antibiotics response LiaF-like C-terminal domain-containing protein (cds)
+ID 4: rpsL: 30S ribosomal protein S12 (cds)
+ID 5: rpsG: 30S ribosomal protein S7 (cds)
+ID 6: fusA: elongation factor G (cds)
+ID 7: tuf: elongation factor Tu (cds)
+ID 8: hypothetical protein (cds)
+ID 9: HTH araC/xylS-type domain-containing protein (cds)

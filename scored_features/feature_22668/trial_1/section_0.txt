@@ -1,9 +1,0 @@
-Image 0
-ID 1: lptA: Lipopolysaccharide export system protein LptA (cds)
-ID 2: pth: aminoacyl-tRNA hydrolase (cds)
-ID 3: protein-glutamate O-methyltransferase (cds)
-ID 4: rimI: Ribosomal protein S18 acetylase RimI and related acetyltransferases (cds)
-ID 5: trkA: Trk/Ktr K+ transport system regulatory component TrkA/KtrA/KtrC, RCK domain (cds)
-ID 6: Outer membrane lipoprotein-sorting protein (cds)
-ID 7: norV: Flavorubredoxin (cds)
-ID 8: lytT: DNA-binding response regulator, LytR/AlgR family (cds)

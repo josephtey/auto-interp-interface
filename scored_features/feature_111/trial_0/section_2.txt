@@ -1,8 +1,5 @@
 Image 2
-Organism: Atribacter laminatus (bacteria)
-ID 1: Polymerase/histidinol phosphatase N-terminal domain-containing protein (cds)
-ID 2: DUF2229 domain-containing protein (cds)
-ID 3: Ferredoxin-2 (cds)
-ID 4: herA: Helicase HerA central domain-containing protein (cds)
-ID 5: Type-4 uracil-DNA glycosylase (cds)
-ID 6: ccmA: heme ABC exporter ATP-binding protein CcmA (cds)
+Organism: Mongoliitalea daihaiensis (CFB group bacteria)
+ID 1: gliding motility-associated C-terminal domain-containing protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: PKD-like domain-containing protein (cds)

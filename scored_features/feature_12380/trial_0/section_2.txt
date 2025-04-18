@@ -1,8 +1,11 @@
 Image 2
-ID 1: Right-handed parallel beta-helix repeat-containing protein (cds)
-ID 2: Simple sugar transport system permease protein (cds)
-ID 3: glycosyltransferase family 2 protein (cds)
-ID 4: aromatic amino acid ammonia-lyase (cds)
-ID 5: hflX: GTPase HflX (cds)
-ID 6: transporter (cds)
-ID 7: nusG: NusG domain II-containing protein (cds)
+Organism: Unknown organism
+ID 1: 1-deoxy-D-xylulose-5-phosphate reductoisomerase (cds)
+ID 2: rseP: RIP metalloprotease RseP (cds)
+ID 3: hypothetical protein (cds)
+ID 4: acs: acetate--CoA ligase (cds)
+ID 5: DUF1570 domain-containing protein (cds)
+ID 6: rpmB: 50S ribosomal protein L28 (cds)
+ID 7: rpmF: 50S ribosomal protein L32 (cds)
+ID 8: yfhO: Bacterial membrane protein YfhO (cds)
+ID 9: CPXCG motif-containing cysteine-rich protein (cds)

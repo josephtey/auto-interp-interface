@@ -1,4 +1,5 @@
 Image 4
+Organism: Unknown organism
 ID 1: hypothetical protein (cds)
 ID 2: hypothetical protein (cds)
 ID 3: hypothetical protein (cds)
@@ -7,6 +8,6 @@ ID 5: hypothetical protein (cds)
 ID 6: hypothetical protein (cds)
 ID 7: hypothetical protein (cds)
 ID 8: hypothetical protein (cds)
-ID 9: hypothetical protein (cds)
+ID 9: Putative heavy-metal chelation domain-containing protein (cds)
 ID 10: hypothetical protein (cds)
-ID 11: hypothetical protein (cds)
+ID 11: Methyltransferase type 11 domain-containing protein (cds)

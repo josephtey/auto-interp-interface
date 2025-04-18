@@ -1,7 +1,11 @@
 Image 1
-Organism: Unknown organism
-ID 1: helix-turn-helix transcriptional regulator (cds)
-ID 2: Mobile mystery protein A (cds)
-ID 3: ileS: isoleucine--tRNA ligase (cds)
-ID 4: Polyprenyl synthetase family protein (cds)
-ID 5: PepSY domain-containing protein (cds)
+Organism: Nocardiopsis gilva YIM 90087 (high G+C Gram-positive bacteria)
+ID 1: Undecaprenyl-phosphate galactose phosphotransferase (cds)
+ID 2: 3'(2'), 5'-bisphosphate nucleotidase (cds)
+ID 3: cysD: sulfate adenylyltransferase subunit CysD (cds)
+ID 4: cysN: sulfate adenylyltransferase subunit CysN (cds)
+ID 5: Sulfotransferase (cds)
+ID 6: GH26 domain-containing protein (cds)
+ID 7: Glycosyl transferase family 2 (cds)
+ID 8: UDP-N-acetylglucosamine--LPS N-acetylglucosamine transferase (cds)
+ID 9: Polysaccharide biosynthesis protein (cds)

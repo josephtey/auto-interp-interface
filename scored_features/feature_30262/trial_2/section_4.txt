@@ -1,0 +1,11 @@
+Image 4
+Organism: Cellulophaga algicola DSM 14237 (CFB group bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: nrdD: Anaerobic ribonucleoside-triphosphate reductase (cds)
+ID 3: nrdA: ribonucleoside-diphosphate reductase subunit alpha (cds)
+ID 4: terB: Tellurite resistance protein TerB (cds)
+ID 5: DUF6882 domain-containing protein (cds)
+ID 6: LSM12 anticodon-binding domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: lytT: DNA-binding response regulator, LytR/AlgR family (cds)
+ID 9: lytS: Sensor histidine kinase, LytS/YehU family (cds)

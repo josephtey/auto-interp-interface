@@ -1,0 +1,5 @@
+Organism: Chloracidobacterium thermophilum B (bacteria)
+ID 1: sSL2: Superfamily II DNA or RNA helicase (cds)
+ID 2: rAYT: REP element-mobilizing transposase RayT (cds)
+ID 3: putative ATPase, AAA+ superfamily (cds)
+ID 4: kdpD: K+-sensing histidine kinase KdpD (cds)

@@ -1,3 +1,7 @@
 Image 0
-ID 1: DUF4270 domain-containing protein (cds)
-ID 2: glycosyltransferase family 4 protein (cds)
+Organism: Barnesiella viscericola DSM 18177 (CFB group bacteria)
+ID 1: Endo-beta-N-acetylglucosaminidase D (cds)
+ID 2: BIG2 domain-containing protein (cds)
+ID 3: SusD/RagB family nutrient-binding outer membrane lipoprotein (cds)
+ID 4: btuB: Outer membrane cobalamin receptor protein BtuB (cds)
+ID 5: tnp: IS1380 family IS615 transposase (cds)

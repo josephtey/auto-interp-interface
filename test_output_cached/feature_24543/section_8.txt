@@ -1,4 +1,5 @@
-ID 1: ytrA: HTH-type transcriptional repressor YtrA (cds)
-ID 2: Bacterial extracellular solute-binding protein, family 5 Middle (cds)
-ID 3: Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase (cds)
-ID 4: yddE: Putative isomerase YddE (cds)
+Organism: Unknown organism
+ID 1: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 2: HEAT repeat protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: hypothetical protein (cds)

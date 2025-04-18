@@ -1,0 +1,13 @@
+Image 3
+Organism: Methanosarcina horonobensis HB-1 = JCM 15518 (euryarchaeotes)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: (pseudo) Transposase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: hypothetical protein (cds)
+ID 9: hypothetical protein (cds)
+ID 10: hypothetical protein (cds)
+ID 11: hypothetical protein (cds)

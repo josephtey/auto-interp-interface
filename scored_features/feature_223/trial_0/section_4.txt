@@ -1,8 +1,0 @@
-Image 4
-ID 1: ubiA: 4-hydroxybenzoate octaprenyltransferase (cds)
-ID 2: Heme exporter protein C (cds)
-ID 3: hypothetical protein (cds)
-ID 4: LTA synthase family protein (cds)
-ID 5: ampD: 1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD (cds)
-ID 6: DUF3011 domain-containing protein (cds)
-ID 7: deoxyguanosinetriphosphate triphosphohydrolase (cds)

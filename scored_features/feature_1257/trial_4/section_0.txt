@@ -1,9 +1,0 @@
-Image 0
-Organism: Gemmatimonas aurantiaca T-27 (bacteria)
-ID 1: thrS: threonine--tRNA ligase (cds)
-ID 2: Cell wall-active antibiotics response LiaF-like C-terminal domain-containing protein (cds)
-ID 3: psd: phosphatidylserine decarboxylase family protein (cds)
-ID 4: rpsB: 30S ribosomal protein S2 (cds)
-ID 5: DUF4252 domain-containing protein (cds)
-ID 6: TVP38/TMEM64 family membrane protein (cds)
-ID 7: ddlA: D-alanine-D-alanine ligase or related ATP-grasp enzyme (cds)

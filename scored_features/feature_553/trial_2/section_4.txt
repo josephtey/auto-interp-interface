@@ -1,6 +1,0 @@
-Image 4
-Organism: Cellulophaga algicola DSM 14237 (CFB group bacteria)
-ID 1: rplS: 50S ribosomal protein L19 (cds)
-ID 2: argD: Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase (cds)
-ID 3: ompA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins (cds)
-ID 4: Iron sulfur domain-containing, CDGSH-type (cds)

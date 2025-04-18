@@ -1,3 +1,4 @@
-ID 1: cheA: Chemotaxis protein histidine kinase CheA (cds)
-ID 2: pEBP: Uncharacterized conserved protein, phosphatidylethanolamine-binding protein (PEBP) family (cds)
-ID 3: hypothetical protein (cds)
+Organism: Gemmatimonas aurantiaca T-27 (bacteria)
+ID 1: bamA: Outer membrane protein assembly factor BamA (cds)
+ID 2: tamB: Autotransporter translocation and assembly protein TamB (cds)
+ID 3: rocR: RocR-type transcriptional regulator, contains PAS, AAA-type ATPase, and DNA-binding Fis domains (cds)

@@ -1,5 +1,6 @@
-ID 1: dabA: putative inorganic carbon transporter subunit DabA (cds)
-ID 2: rsbU: Phosphoserine phosphatase RsbU (cds)
-ID 3: Lipoprotein (cds)
-ID 4: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
-ID 5: Secreted protein (cds)
+Organism: Unknown organism
+ID 1: Bifunctional 3-demethylubiquinone-9 3-methyltransferase/ 2-octaprenyl-6-hydroxy phenol methylase (cds)
+ID 2: Glucokinase (cds)
+ID 3: HEAT repeat protein (cds)
+ID 4: hypothetical protein (cds)
+ID 5: VWFA domain-containing protein (cds)

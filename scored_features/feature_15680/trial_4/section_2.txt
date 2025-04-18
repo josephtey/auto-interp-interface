@@ -1,0 +1,4 @@
+Image 2
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: solG: solanimycin non-ribosomal peptide synthetase SolG (cds)
+ID 2: Putative methyltransferase (cds)

@@ -1,2 +1,11 @@
 Image 0
-ID 1: S26 family signal peptidase (cds)
+Organism: Hoyosella subflava DQS3-9A1 (high G+C Gram-positive bacteria)
+ID 1: yjbI: Truncated hemoglobin YjbI (cds)
+ID 2: mscS: Small-conductance mechanosensitive channel (cds)
+ID 3: hypothetical protein (cds)
+ID 4: mcrA: 5-methylcytosine-specific restriction endonuclease McrA (cds)
+ID 5: DUF5130 domain-containing protein (cds)
+ID 6: pepN: aminopeptidase N (cds)
+ID 7: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 8: acrR: DNA-binding protein, AcrR family, includes nucleoid occlusion protein SlmA (cds)
+ID 9: putP: Na+/proline symporter (cds)

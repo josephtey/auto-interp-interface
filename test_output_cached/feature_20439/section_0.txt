@@ -1,3 +1,4 @@
-ID 1: tolC: Outer membrane protein TolC (cds)
-ID 2: era: GTPase Era (cds)
-ID 3: hlpA: Periplasmic chaperone for outer membrane proteins, Skp family (cds)
+Organism: Desulfomicrobium baculatum DSM 4028 (bacteria)
+ID 1: Ca2+-binding protein, RTX toxin-related (cds)
+ID 2: DUF3467 domain-containing protein (cds)
+ID 3: emrA: Multidrug resistance efflux pump EmrA (cds)

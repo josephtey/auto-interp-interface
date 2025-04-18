@@ -1,0 +1,11 @@
+Image 3
+Organism: Iocasia fonsfrigidae (firmicutes)
+ID 1: abc-f: ABC-F type ribosomal protection protein (cds)
+ID 2: DUF3231 domain-containing protein (cds)
+ID 3: copZ: copper chaperone CopZ (cds)
+ID 4: frmR: DNA-binding transcriptional regulator, FrmR family (cds)
+ID 5: rhtB: Threonine/homoserine/homoserine lactone efflux protein (cds)
+ID 6: araC: AraC-type DNA-binding domain and AraC-containing proteins (cds)
+ID 7: MFS transporter (cds)
+ID 8: menH: 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase MenH and related esterases, alpha/beta hydrolase fold (cds)
+ID 9: ubiG: 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase (cds)

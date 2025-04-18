@@ -1,3 +1,8 @@
 Image 0
-Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
-ID 1: ychF: redox-regulated ATPase YchF (cds)
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: ppk1: polyphosphate kinase 1 (cds)
+ID 2: EGF-like domain protein (cds)
+ID 3: TIGR02646 family protein (cds)
+ID 4: putative ATP-binding protein involved in virulence (cds)
+ID 5: recC: Scaffold subunit RecC of the DNA repair enzyme RecBCD (exonuclease V) (cds)
+ID 6: Lipoprotein (cds)

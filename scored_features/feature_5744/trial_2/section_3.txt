@@ -1,7 +1,9 @@
 Image 3
-Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
-ID 1: fabB: beta-ketoacyl-ACP synthase I (cds)
-ID 2: groL: chaperonin GroEL (cds)
-ID 3: ccoG: cytochrome c oxidase accessory protein CcoG (cds)
-ID 4: lysA: Diaminopimelate decarboxylase (cds)
-ID 5: ndk: nucleoside-diphosphate kinase (cds)
+Organism: Unknown organism
+ID 1: Zeaxanthin epoxidase (cds)
+ID 2: TAXI family TRAP transporter solute-binding subunit (cds)
+ID 3: Diguanylate cyclase (cds)
+ID 4: Diguanylate cyclase/phosphodiesterase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: Cell surface receptor IPT/TIG domain protein (cds)
+ID 7: FlxA-like family protein (cds)

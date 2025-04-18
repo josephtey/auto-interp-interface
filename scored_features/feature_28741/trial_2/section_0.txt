@@ -1,0 +1,6 @@
+Image 0
+Organism: Euzebya pacifica (actinobacteria)
+ID 1: T1SS secreted agglutinin RTX (cds)
+ID 2: T1SS secreted agglutinin RTX (cds)
+ID 3: lytB: Putative cell wall-binding domain (amidase enhancer), LytB superfamily (cds)
+ID 4: RNA 3'-terminal phosphate cyclase (cds)

@@ -1,4 +1,0 @@
-Image 2
-Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
-ID 1: plsC: 1-acyl-sn-glycerol-3-phosphate acyltransferase (cds)
-ID 2: mrdA: penicillin-binding protein 2 (cds)

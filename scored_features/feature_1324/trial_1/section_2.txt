@@ -1,4 +1,10 @@
 Image 2
-ID 1: uspA: UspA domain-containing protein (cds)
-ID 2: ftsX: Cell division protein FtsX (cds)
-ID 3: carbamoyl phosphate synthase small subunit (cds)
+Organism: Mongoliitalea daihaiensis (CFB group bacteria)
+ID 1: DNA primase (cds)
+ID 2: Iron-sulfur cluster carrier protein (cds)
+ID 3: nifU: NifU family protein (cds)
+ID 4: choice-of-anchor J domain-containing protein (cds)
+ID 5: PASTA domain-containing protein (cds)
+ID 6: T9SS type A sorting domain-containing protein (cds)
+ID 7: Rhodanese domain-containing protein (cds)
+ID 8: 3-hydroxybutyrate dehydrogenase (cds)

@@ -1,7 +1,4 @@
 Image 4
-ID 1: hypothetical protein (cds)
-ID 2: hypothetical protein (cds)
-ID 3: Tetracycline resistance protein (cds)
-ID 4: TIGR02452 family protein (cds)
-ID 5: ABC transporter ATP-binding protein (cds)
-ID 6: Transporter (cds)
+Organism: Caulobacter mirabilis (a-proteobacteria)
+ID 1: Patatin (cds)
+ID 2: Autotransporter domain-containing protein (cds)

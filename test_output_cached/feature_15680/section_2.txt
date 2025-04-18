@@ -1,0 +1,5 @@
+Organism: Telmatocola sphagniphila (bacteria)
+ID 1: Autotransporter-associated beta strand repeat-containing protein (cds)
+ID 2: rph: ribonuclease PH (cds)
+ID 3: hypothetical protein (cds)
+ID 4: AMP-binding protein (cds)

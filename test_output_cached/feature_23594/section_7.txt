@@ -1,1 +1,2 @@
-ID 1: aslB: Sulfatase maturation enzyme AslB, radical SAM superfamily (cds)
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: pksN: Polyketide synthase PksN (cds)

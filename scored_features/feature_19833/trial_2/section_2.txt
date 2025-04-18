@@ -1,8 +1,11 @@
 Image 2
-ID 1: kdpD: K+-sensing histidine kinase KdpD (cds)
-ID 2: Glycosyltransferase involved in LPS biosynthesis, GR25 family (cds)
-ID 3: hypothetical protein (cds)
-ID 4: ykoI: PepSY domain containing protein, regulator of zincin peptidase activity (cds)
-ID 5: Glycosyltransferase involved in LPS biosynthesis, GR25 family (cds)
-ID 6: mrcA: Membrane carboxypeptidase/penicillin-binding protein (cds)
-ID 7: Phage-related baseplate assembly protein (cds)
+Organism: Unknown organism
+ID 1: Phosphate propanoyltransferase (cds)
+ID 2: porB: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, beta subunit (cds)
+ID 3: Pyruvate ferredoxin oxidoreductase subunit alpha (cds)
+ID 4: Diguanylate cyclase (cds)
+ID 5: spoVS: Stage V sporulation protein SpoVS, putative DNA-binding, AlbA superfamily (cds)
+ID 6: Metallophosphoesterase (cds)
+ID 7: rny: ribonuclease Y (cds)
+ID 8: hypothetical protein (cds)
+ID 9: recA: recombinase RecA (cds)

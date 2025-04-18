@@ -1,0 +1,11 @@
+Image 1
+Organism: Unknown organism
+ID 1: Glycosyltransferase RgtA/B/C/D-like domain-containing protein (cds)
+ID 2: rfaP: Lipopolysaccharide core heptose(I) kinase RfaP (cds)
+ID 3: rfaG: Lipopolysaccharide core biosynthesis protein RfaG (cds)
+ID 4: D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase (cds)
+ID 5: plsY: glycerol-3-phosphate 1-O-acyltransferase PlsY (cds)
+ID 6: Type II secretion system protein G (cds)
+ID 7: Lipoprotein (cds)
+ID 8: N-acetylneuraminate epimerase (cds)
+ID 9: DUF2007 domain-containing protein (cds)

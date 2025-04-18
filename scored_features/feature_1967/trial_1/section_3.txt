@@ -1,9 +1,0 @@
-Image 3
-Organism: Candidatus Hydrogenosomobacter endosymbioticus (a-proteobacteria)
-ID 1: mtaB: tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase MtaB (cds)
-ID 2: hypothetical protein (cds)
-ID 3: trpS: tryptophan--tRNA ligase (cds)
-ID 4: rpmD: 50S ribosomal protein L30 (cds)
-ID 5: atpH: ATP synthase F1 subunit delta (cds)
-ID 6: lpxI: UDP-2,3-diacylglucosamine diphosphatase LpxI (cds)
-ID 7: hypothetical protein (cds)

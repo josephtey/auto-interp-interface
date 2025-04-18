@@ -1,1 +1,2 @@
-ID 1: Acyl-CoA oxidase (cds)
+Organism: Nocardia tengchongensis (high G+C Gram-positive bacteria)
+ID 1: hypothetical protein (cds)

@@ -1,0 +1,10 @@
+Image 0
+Organism: Unknown organism
+ID 1: Acetyl xylan esterase (AXE1) (cds)
+ID 2: nlhH: Carboxylesterase NlhH (cds)
+ID 3: Tetratricopeptide repeat protein (cds)
+ID 4: Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA (cds)
+ID 5: Glycine betaine/carnitine/choline-binding protein OpuCC (cds)
+ID 6: yegT: Nucleoside transporter YegT (cds)
+ID 7: tuaH: Teichuronic acid biosynthesis glycosyltransferase TuaH (cds)
+ID 8: DUF1573 domain-containing protein (cds)

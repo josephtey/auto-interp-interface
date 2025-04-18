@@ -1,8 +1,0 @@
-Image 3
-ID 1: hypothetical protein (cds)
-ID 2: rpmF: 50S ribosomal protein L32 (cds)
-ID 3: moaE: molybdopterin synthase catalytic subunit MoaE (cds)
-ID 4: Diguanylate cyclase (cds)
-ID 5: Hemin receptor (cds)
-ID 6: Chitinase C-terminal domain-containing protein (cds)
-ID 7: parB: Partition protein ParB (cds)

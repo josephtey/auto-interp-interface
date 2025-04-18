@@ -1,7 +1,11 @@
 Image 2
-ID 1: tatC: twin-arginine translocase subunit TatC (cds)
-ID 2: hypothetical protein (cds)
-ID 3: emrA: Multidrug resistance efflux pump EmrA (cds)
-ID 4: Carbohydrate kinase, FGGY (cds)
-ID 5: fabG: NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family (cds)
-ID 6: Bacteriophytochrome (light-regulated signal transduction histidine kinase) (cds)
+Organism: Unknown organism
+ID 1: LutB/LldF family L-lactate oxidation iron-sulfur protein (cds)
+ID 2: Lactate utilization protein C (cds)
+ID 3: gntR: GntR family transcriptional regulator (cds)
+ID 4: Bacterial spore germination immunoglobulin-like domain-containing protein (cds)
+ID 5: secA2: accessory Sec system translocase SecA2 (cds)
+ID 6: DNTP triphosphohydrolase (cds)
+ID 7: Beta-ketoacyl-ACP reductase (cds)
+ID 8: NodB-like y domain-containing protein (cds)
+ID 9: Multidrug resistance protein (cds)

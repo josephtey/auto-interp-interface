@@ -1,3 +1,4 @@
+Organism: Hyperthermus butylicus DSM 5456 (crenarchaeotes)
 ID 1: hypothetical protein (cds)
 ID 2: hypothetical protein (cds)
 ID 3: hypothetical protein (cds)

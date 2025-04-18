@@ -1,9 +1,4 @@
 Image 3
-ID 1: SprT-like family protein (cds)
-ID 2: Fasciclin (cds)
-ID 3: hypothetical protein (cds)
-ID 4: secY: preprotein translocase subunit SecY (cds)
-ID 5: Peptidase M23 (cds)
-ID 6: CRISPR repeat (crispr-repeat)
-ID 7: Acyl-CoA thioester hydrolase, YbgC/YbaW family (cds)
-ID 8: Peptidase M3 (cds)
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: pksD: Acyl transferase domain in polyketide synthase (PKS) enzymes (cds)
+ID 2: pksD: Acyl transferase domain in polyketide synthase (PKS) enzymes (cds)

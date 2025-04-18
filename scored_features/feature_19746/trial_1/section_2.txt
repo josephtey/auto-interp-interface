@@ -1,0 +1,12 @@
+Image 2
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: cheY: CheY-like REC (receiver) domain, includes chemotaxis protein CheY and sporulation regulator Spo0F (cds)
+ID 2: hPt: Histidine phosphotransfer protein ChpT, HPt domain (cds)
+ID 3: hypothetical protein (cds)
+ID 4: chlD: vWFA (von Willebrand factor type A) domain of Mg and Co chelatases (cds)
+ID 5: bchO: alpha/beta fold hydrolase BchO (cds)
+ID 6: mrp: Fe-S cluster carrier ATPase, Mrp/ApbC/NBP35 family (cds)
+ID 7: hflK: FtsH protease activity modulator HflK (cds)
+ID 8: hflC: protease modulator HflC (cds)
+ID 9: degQ: Periplasmic serine protease, S1-C subfamily, contain C-terminal PDZ domain (cds)
+ID 10: hypothetical protein (cds)

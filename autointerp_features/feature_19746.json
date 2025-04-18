@@ -1,0 +1,10 @@
+{
+  "reasoning": "I analyzed 10 genomic regions where this feature shows high activation. The feature consistently shows strong, continuous activation across large regions of DNA rather than at specific genes. Looking at the annotations, I observed that the activation correlates with regions containing transposase genes (insA), phage-related genes, and mobile genetic elements. In multiple examples, the feature activates over complete prophage regions containing capsid proteins, terminases, tail proteins, and other phage structural components.",
+  "findings": "This feature activates strongly and continuously across prophage regions in bacterial genomes. It shows activity across complete prophage elements in multiple bacterial species (Aureliella helgolandensis, Blastochloris viridis, Occultella kanbiaonis). The pattern is particularly strong in regions containing phage structural genes (capsid, terminase, portal, tail proteins) and integrative elements. The feature also activates near transposases and mobile genetic elements in non-phage contexts, suggesting sensitivity to foreign DNA regions.",
+  "conclusion": "This feature robustly detects prophages and mobile genetic elements integrated into bacterial genomes.",
+  "title": "Prophage and Mobile Genetic Element Detector",
+  "activation-pattern": "continuous",
+  "description": "This feature detects integrated prophage regions and mobile genetic elements within bacterial genomes. It activates continuously across entire prophage regions containing structural genes (capsid, terminase, tail proteins) rather than at specific genes. The pattern suggests the feature recognizes compositional or structural characteristics of horizontally transferred DNA that differentiate prophages and mobile elements from host genomic DNA. The signal is consistent across multiple bacterial phyla (Proteobacteria, Actinobacteria), indicating it captures a fundamental signature of foreign DNA integration. This feature likely represents a genomic detector for horizontally transferred elements with implications for bacterial genome evolution and phage-host interactions.",
+  "feature_id": 19746,
+  "score": 1.0
+}

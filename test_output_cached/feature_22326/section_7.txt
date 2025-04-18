@@ -1,0 +1,8 @@
+Organism: Saccharopolyspora gloriosae (high G+C Gram-positive bacteria)
+ID 1: luxR: LuxR family transcriptional regulator (cds)
+ID 2: luxR: LuxR family transcriptional regulator (cds)
+ID 3: PAS domain S-box-containing protein (cds)
+ID 4: 1-phosphofructokinase family hexose kinase (cds)
+ID 5: PTS system mannitol-specific IIC component (cds)
+ID 6: Mannitol-specific phosphotransferase system IIBC component (cds)
+ID 7: Mannitol/fructose-specific phosphotransferase system IIA component (cds)

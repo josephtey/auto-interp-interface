@@ -1,0 +1,12 @@
+Image 0
+Organism: Unknown organism
+ID 1: cobN: cobaltochelatase subunit CobN (cds)
+ID 2: PPOX class F420-dependent enzyme (cds)
+ID 3: PPOX class F420-dependent enzyme (cds)
+ID 4: Carboxymethylenebutenolidase (cds)
+ID 5: fxsA: Membrane protein FxsA (cds)
+ID 6: Amidohydrolase (cds)
+ID 7: lnt: apolipoprotein N-acyltransferase (cds)
+ID 8: Dolichol-phosphate mannosyltransferase (cds)
+ID 9: rbpA: RNA polymerase-binding protein RbpA (cds)
+ID 10: hypothetical protein (cds)

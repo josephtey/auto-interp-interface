@@ -1,0 +1,7 @@
+Image 2
+Organism: Unknown organism
+ID 1: 2-oxoglutarate dehydrogenase E1 component (cds)
+ID 2: Flavo-1: Flavo-1 RNA (ncRNA)
+ID 3: odhB: 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase (cds)
+ID 4: L,D-transpeptidase (cds)
+ID 5: ompA: OmpA family protein (cds)

@@ -1,7 +1,12 @@
 Image 3
-ID 1: carB: carbamoyl-phosphate synthase large subunit (cds)
-ID 2: argD: Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase (cds)
-ID 3: atpH: F0F1 ATP synthase subunit delta (cds)
-ID 4: bolA: DNA-binding global transcriptional regulator BolA, affects cell shape, cell division and biofilm formation (cds)
-ID 5: icd: NADP-dependent isocitrate dehydrogenase (cds)
-ID 6: purS: phosphoribosylformylglycinamidine synthase subunit PurS (cds)
+Organism: Unknown organism
+ID 1: Restriction endonuclease (cds)
+ID 2: ATPase (cds)
+ID 3: hypothetical protein (cds)
+ID 4: SEFIR domain-containing protein (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: trnY: tRNA-Tyr(gta) (tRNA)
+ID 9: yajQ: YajQ family cyclic di-GMP-binding protein (cds)
+ID 10: ABC transmembrane type-1 domain-containing protein (cds)

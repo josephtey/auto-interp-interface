@@ -1,3 +1,8 @@
 Image 4
-ID 1: trnR: tRNA-Arg(acg) (tRNA)
-ID 2: nupO: ABC-type guanosine uptake system NupNOPQ, ATPase component NupO (cds)
+Organism: Herminiimonas arsenitoxidans (b-proteobacteria)
+ID 1: wecB: UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing) (cds)
+ID 2: Bacterial cellulose synthase subunit (cds)
+ID 3: bcsA: glycosyl transferase family protein (cds)
+ID 4: bacteriophage N4 adsorption protein A (cds)
+ID 5: hypothetical protein (cds)
+ID 6: pyridoxamine 5'-phosphate oxidase family protein (cds)

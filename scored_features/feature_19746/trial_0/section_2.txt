@@ -1,0 +1,10 @@
+Image 2
+Organism: Sulfuriferula plumbiphila (b-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Diguanylate cyclase (cds)
+ID 3: histidine kinase (cds)
+ID 4: Diguanylate cyclase (cds)
+ID 5: rAD55: RecA-superfamily ATPase, KaiC/GvpD/RAD55 family (cds)
+ID 6: hypothetical protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: Cyclic beta 1-2 glucan synthetase (cds)

@@ -1,0 +1,10 @@
+{
+  "reasoning": "I examined the activation patterns across all examples, noting their positions relative to genome annotations. The feature consistently shows sharp, high-amplitude activation spikes in specific locations. I mapped these activations to nearby genes and identified recurring patterns.",
+  "findings": "The feature shows strong, narrow activation peaks consistently positioned near transposase genes or mobile genetic elements. In multiple examples (sections 3, 5, 4, 8, 1, 9), the activations directly align with annotated transposases from various families (IS200/IS605, IS1380, ISL3, IS256, IS285). When not directly on transposases, activations appear near integrase elements or at boundaries of mobile genetic regions. The feature identifies these elements across diverse bacterial taxa.",
+  "conclusion": "This feature robustly detects transposase-related elements in bacterial genomes, potentially capturing sequence signatures associated with mobile genetic elements.",
+  "title": "Bacterial Transposase Element Detector",
+  "activation-pattern": "spike",
+  "description": "This feature specifically detects transposase genes and other mobile genetic elements across diverse bacterial genomes. The activation pattern shows distinct, high-amplitude spikes directly at or immediately adjacent to transposase-coding regions. The feature recognizes multiple families of transposases (including IS200/IS605, ISL3, IS285, IS256) across different bacterial phyla. This suggests the feature captures conserved sequence motifs within these mobile genetic elements, which are important for genome plasticity, horizontal gene transfer, and evolutionary adaptation in bacteria. The pattern is highly consistent across examples, with > 80% showing clear association with transposases or related mobile elements.",
+  "feature_id": 30262,
+  "score": 0.6
+}

@@ -1,2 +1,3 @@
-ID 1: BZIP domain-containing protein (cds)
-ID 2: Methylated-DNA--[protein]-cysteine S-methyltransferase (cds)
+Organism: Shinella zoogloeoides (a-proteobacteria)
+ID 1: Cyclic beta-1,2-glucan synthetase (cds)
+ID 2: metH: methionine synthase (cds)

@@ -1,0 +1,13 @@
+Image 4
+Organism: Sphingomonas lutea (a-proteobacteria)
+ID 1: CADD family putative folate metabolism protein (cds)
+ID 2: N-acetyltransferase (cds)
+ID 3: DUF1489 domain-containing protein (cds)
+ID 4: mgtE: magnesium transporter (cds)
+ID 5: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 6: SDR family oxidoreductase (cds)
+ID 7: AAA family ATPase (cds)
+ID 8: hypothetical protein (cds)
+ID 9: MFS transporter (cds)
+ID 10: Methyltransferase domain-containing protein (cds)
+ID 11: Phospholipase D (cds)

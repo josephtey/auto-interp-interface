@@ -1,0 +1,8 @@
+Organism: Atribacter laminatus (bacteria)
+ID 1: adenylosuccinate synthase (cds)
+ID 2: ligA: NAD-dependent DNA ligase LigA (cds)
+ID 3: gatC: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC (cds)
+ID 4: gatA: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA (cds)
+ID 5: gatB: Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB (cds)
+ID 6: DNA polymerase III subunit alpha (cds)
+ID 7: Tetratricopeptide repeat protein (cds)

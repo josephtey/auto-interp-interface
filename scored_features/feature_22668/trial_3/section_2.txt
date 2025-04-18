@@ -1,9 +1,0 @@
-Image 2
-ID 1: dapA: 4-hydroxy-tetrahydrodipicolinate synthase (cds)
-ID 2: nifJ: pyruvate:ferredoxin (flavodoxin) oxidoreductase (cds)
-ID 3: cheR: Methylase of chemotaxis methyl-accepting proteins (cds)
-ID 4: gpD: Phage protein D (cds)
-ID 5: erfK: Lipoprotein-anchoring transpeptidase ErfK/SrfK (cds)
-ID 6: tktA1: Transketolase, N-terminal subunit (cds)
-ID 7: acrB: Multidrug efflux pump subunit AcrB (cds)
-ID 8: DUF2089 domain-containing protein (cds)

@@ -1,0 +1,11 @@
+Image 4
+Organism: Methylomusa anaerophila (firmicutes)
+ID 1: dppF: ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component (cds)
+ID 2: dppD: ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component (cds)
+ID 3: dppC: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)
+ID 4: dppB: ABC-type dipeptide/oligopeptide/nickel transport system, permease component (cds)
+ID 5: ddpA: ABC-type transport system, periplasmic component (cds)
+ID 6: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 7: mdlB: ABC-type multidrug transport system, ATPase and permease component (cds)
+ID 8: ubiE: Ubiquinone/menaquinone biosynthesis C-methylase UbiE/MenG (cds)
+ID 9: ddpA: ABC-type transport system, periplasmic component (cds)

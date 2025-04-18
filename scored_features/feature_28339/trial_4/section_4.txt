@@ -1,0 +1,6 @@
+Image 4
+Organism: Limihaloglobus sulfuriphilus (bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Exo-beta-D-glucosaminidase (cds)

@@ -1,0 +1,6 @@
+Image 4
+Organism: Ahniella affigens (g-proteobacteria)
+ID 1: sPS1: Serine/threonine protein kinase (cds)
+ID 2: pQQ: Outer membrane protein assembly factor BamB, contains PQQ-like beta-propeller repeat (cds)
+ID 3: Fibronectin type-III domain-containing protein (cds)
+ID 4: Integrin (cds)

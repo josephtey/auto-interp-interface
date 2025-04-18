@@ -1,2 +1,11 @@
 Image 1
-ID 1: Oxidoreductase (cds)
+Organism: Niveibacterium microcysteis (b-proteobacteria)
+ID 1: lacI: LacI family DNA-binding transcriptional regulator (cds)
+ID 2: rbsK: ribokinase (cds)
+ID 3: rbsD: D-ribose pyranase (cds)
+ID 4: GNAT family N-acetyltransferase (cds)
+ID 5: methyl-accepting chemotaxis protein (cds)
+ID 6: penicillin acylase family protein (cds)
+ID 7: bifunctional diguanylate cyclase/phosphodiesterase (cds)
+ID 8: HDOD domain-containing protein (cds)
+ID 9: sodium-dependent transporter (cds)

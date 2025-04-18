@@ -1,2 +1,8 @@
 Image 1
-ID 1: acrR: multidrug efflux transporter transcriptional repressor AcrR (cds)
+Organism: Pseudomonas promysalinigenes (g-proteobacteria)
+ID 1: yfaS: Uncharacterized conserved protein YfaS, alpha-2-macroglobulin family (cds)
+ID 2: norM: Na+-driven multidrug efflux pump, DinF/NorM/MATE family (cds)
+ID 3: speA: arginine decarboxylase (cds)
+ID 4: yciH: translation initiation factor Sui1 (cds)
+ID 5: idi: Isopentenyldiphosphate isomerase (cds)
+ID 6: DUF2333 domain-containing protein (cds)

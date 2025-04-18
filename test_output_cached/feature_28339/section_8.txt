@@ -1,0 +1,8 @@
+Organism: Candidatus Steffania adelgidicola (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: ilvC: ketol-acid reductoisomerase (cds)
+ID 3: glycosyltransferase family 4 protein (cds)
+ID 4: pth: aminoacyl-tRNA hydrolase (cds)
+ID 5: ychF: redox-regulated ATPase YchF (cds)
+ID 6: ihfA: integration host factor subunit alpha (cds)
+ID 7: pheT: phenylalanine--tRNA ligase subunit beta (cds)

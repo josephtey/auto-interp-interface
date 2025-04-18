@@ -1,7 +1,0 @@
-Image 0
-Organism: Sediminispirochaeta smaragdinae DSM 11293 (spirochetes)
-ID 1: ugpB: ABC-type glycerol-3-phosphate transport system, periplasmic component (cds)
-ID 2: Tail assembly chaperone gp38 (cds)
-ID 3: speA: biosynthetic arginine decarboxylase (cds)
-ID 4: Metal-dependent hydrolase, beta-lactamase superfamily II (cds)
-ID 5: Uncharacterized membrane protein (cds)

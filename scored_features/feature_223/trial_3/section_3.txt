@@ -1,9 +1,0 @@
-Image 3
-ID 1: hypothetical protein (cds)
-ID 2: Uncharacterized membrane protein (cds)
-ID 3: hslJ: Heat shock protein HslJ (cds)
-ID 4: nifU: NIF system FeS cluster assembly NifU N-terminal domain-containing protein (cds)
-ID 5: prxU: thioredoxin-dependent peroxiredoxin (cds)
-ID 6: hdrA: Heterodisulfide reductase, subunit A (polyferredoxin) (cds)
-ID 7: trkA: Trk system potassium transporter TrkA (cds)
-ID 8: ptsP: Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria) (cds)

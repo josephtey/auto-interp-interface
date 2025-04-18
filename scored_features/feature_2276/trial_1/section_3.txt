@@ -1,3 +1,11 @@
 Image 3
-ID 1: GNAT family N-acetyltransferase (cds)
-ID 2: map: type I methionyl aminopeptidase (cds)
+Organism: Paludibacterium paludis (b-proteobacteria)
+ID 1: DNA internalization-related competence protein ComEC/Rec2 (cds)
+ID 2: Response regulatory domain-containing protein (cds)
+ID 3: histidine kinase (cds)
+ID 4: AAA domain-containing protein (cds)
+ID 5: Lipoprotein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: recQ: DNA helicase RecQ (cds)
+ID 8: argJ: bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ (cds)
+ID 9: rrs: 16S ribosomal RNA (rRNA)

@@ -1,9 +1,3 @@
 Image 3
-ID 1: tDO2: Tryptophan 2,3-dioxygenase (vermilion) (cds)
-ID 2: Tetratricopeptide TPR_2 repeat protein (cds)
-ID 3: lCB5: Phosphatidylglycerol kinase, diacylglycerol kinase family (cds)
-ID 4: Cytoplasmic protein (cds)
-ID 5: bglX: Periplasmic beta-glucosidase and related glycosidases (cds)
-ID 6: lytT: DNA-binding response regulator, LytR/AlgR family (cds)
-ID 7: Lipoprotein (cds)
-ID 8: hypothetical protein (cds)
+Organism: Mycobacterium spongiae (high G+C Gram-positive bacteria)
+ID 1: SDR family NAD(P)-dependent oxidoreductase (cds)

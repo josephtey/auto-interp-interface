@@ -1,1 +1,2 @@
-ID 1: thioesterase domain-containing protein (cds)
+Organism: Saccharopolyspora gloriosae (high G+C Gram-positive bacteria)
+ID 1: hypothetical protein (cds)

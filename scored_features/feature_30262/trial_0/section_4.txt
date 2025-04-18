@@ -1,0 +1,11 @@
+Image 4
+Organism: Unknown organism
+ID 1: pstC: phosphate ABC transporter permease subunit PstC (cds)
+ID 2: pstS: Phosphate-binding protein (cds)
+ID 3: Diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(S) (cds)
+ID 4: TRAP transporter small permease protein (cds)
+ID 5: TRAP transporter large permease protein (cds)
+ID 6: NADPH:quinone reductase (cds)
+ID 7: ABM domain-containing protein (cds)
+ID 8: araC: Transcriptional regulator with cupin sensor, AraC family (cds)
+ID 9: putA: bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA (cds)

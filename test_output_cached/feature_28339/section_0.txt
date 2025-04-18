@@ -1,0 +1,7 @@
+Organism: Nocardia tengchongensis (high G+C Gram-positive bacteria)
+ID 1: type I polyketide synthase (cds)
+ID 2: aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme (cds)
+ID 3: MFS transporter (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: hypothetical protein (cds)
+ID 6: (pseudo) Molybdopterin-dependent oxidoreductase (cds)

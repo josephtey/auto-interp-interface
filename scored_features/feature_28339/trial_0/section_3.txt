@@ -1,0 +1,8 @@
+Image 3
+Organism: Unknown organism
+ID 1: Doubled CXXCH motif (Paired_CXXCH_1) (cds)
+ID 2: FG-GAP repeat protein (cds)
+ID 3: Tetratricopeptide repeat protein (cds)
+ID 4: Tetratricopeptide repeat protein (cds)
+ID 5: bcsC: Cellulose synthase subunit BcsC (cds)
+ID 6: Putative major pilin subunit (cds)

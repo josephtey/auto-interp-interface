@@ -1,9 +1,0 @@
-Image 2
-ID 1: bofA: SigmaK-factor processing regulatory protein BofA (cds)
-ID 2: CRISPR spacer, sequence TATTTCATTTTTAGTTACATATATAATATATTACTTT (crispr-spacer)
-ID 3: 2-oxoacid:ferredoxin oxidoreductase subunit gamma (cds)
-ID 4: dnaK: molecular chaperone DnaK (cds)
-ID 5: CRISPR spacer, sequence TTCTGCCAATGGGGAATTACTATTTCCCTTATG (crispr-spacer)
-ID 6: trnF: tRNA-Phe(gaa) (tRNA)
-ID 7: CotJB protein (cds)
-ID 8: hypothetical protein (cds)

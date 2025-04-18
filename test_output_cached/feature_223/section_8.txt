@@ -1,8 +1,0 @@
-ID 1: RNA binding S1 domain protein (cds)
-ID 2: ubiA: 4-hydroxybenzoate octaprenyltransferase (cds)
-ID 3: nrfD: Polysulphide reductase NrfD (cds)
-ID 4: ribE: 6,7-dimethyl-8-ribityllumazine synthase (cds)
-ID 5: tetR: Transcriptional regulator, TetR family (cds)
-ID 6: cueR: Transcriptional regulator, MerR family (cds)
-ID 7: Lipoprotein (cds)
-ID 8: TonB-dependent heme/hemoglobin receptor family protein (cds)

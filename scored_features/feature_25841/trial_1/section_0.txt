@@ -1,5 +1,10 @@
 Image 0
-ID 1: porG: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, gamma subunit (cds)
-ID 2: frr: ribosome recycling factor (cds)
-ID 3: cdsA: CDP-diglyceride synthetase (cds)
-ID 4: rfaB: Glycosyltransferase involved in cell wall bisynthesis (cds)
+Organism: Unknown organism
+ID 1: cinA: CinA domain protein (cds)
+ID 2: recA: recombinase RecA (cds)
+ID 3: hypothetical protein (cds)
+ID 4: Lipoprotein (cds)
+ID 5: Two component, sigma54 specific, transcriptional regulator, Fis family (cds)
+ID 6: Response regulator receiver modulated protein serine/threonine phosphatase (cds)
+ID 7: Response regulator receiver and Hpt phospho transfer protein (cds)
+ID 8: Putative capsular polysaccharide biosynthesis protein (cds)

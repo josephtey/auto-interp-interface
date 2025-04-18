@@ -1,8 +1,0 @@
-Image 0
-Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
-ID 1: Signal transduction histidine kinase (cds)
-ID 2: hypothetical protein (cds)
-ID 3: citB: DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains (cds)
-ID 4: sTE14: Protein-S-isoprenylcysteine O-methyltransferase Ste14 (cds)
-ID 5: hypothetical protein (cds)
-ID 6: flaF: flagellar biosynthesis regulator FlaF (cds)

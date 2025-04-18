@@ -1,10 +1,6 @@
 Image 4
-ID 1: hypothetical protein (cds)
-ID 2: CRISPR spacer, sequence GCGAGCCTGGAGATGATCTACGGGGTGGGCTACT (crispr-spacer)
-ID 3: ppsC: Phthiocerol synthesis polyketide synthase type I PpsC (cds)
-ID 4: Carboxylesterase (cds)
-ID 5: Carboxymuconolactone decarboxylase family protein (cds)
-ID 6: hypothetical protein (cds)
-ID 7: Lipase (Class 3) (cds)
-ID 8: Lipopolysaccharide assembly protein A domain-containing protein (cds)
-ID 9: histidine kinase (cds)
+Organism: Unknown organism
+ID 1: MULE transposase domain protein (cds)
+ID 2: Transposase (cds)
+ID 3: IS630 family transposase (cds)
+ID 4: TAP-like protein (cds)

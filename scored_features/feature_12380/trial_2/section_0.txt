@@ -1,10 +1,9 @@
 Image 0
-ID 1: hypothetical protein (cds)
-ID 2: hypothetical protein (cds)
-ID 3: hypothetical protein (cds)
-ID 4: NAD-dependent epimerase/dehydratase (cds)
-ID 5: hypothetical protein (cds)
-ID 6: hypothetical protein (cds)
-ID 7: hypothetical protein (cds)
-ID 8: hypothetical protein (cds)
-ID 9: hypothetical protein (cds)
+Organism: Unknown organism
+ID 1: Choline oxidase (cds)
+ID 2: Amino acid permease (cds)
+ID 3: Betaine-aldehyde dehydrogenase (cds)
+ID 4: Rieske (2Fe-2S) region (cds)
+ID 5: solA: N-methyl-L-tryptophan oxidase (cds)
+ID 6: Glycine cleavage system aminomethyltransferase T (cds)
+ID 7: ferrochelatase (cds)

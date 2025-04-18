@@ -1,2 +1,9 @@
 Image 0
-ID 1: ppk: RNA degradosome polyphosphate kinase (cds)
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: adhE: Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase (cds)
+ID 2: rsbU: Phosphoserine phosphatase RsbU, regulator of sigma subunit (cds)
+ID 3: rpmG: 50S ribosomal protein L33 (cds)
+ID 4: rpmB: 50S ribosomal protein L28 (cds)
+ID 5: treZ: malto-oligosyltrehalose trehalohydrolase (cds)
+ID 6: treY: malto-oligosyltrehalose synthase (cds)
+ID 7: coxG: Carbon monoxide dehydrogenase subunit CoxG (cds)

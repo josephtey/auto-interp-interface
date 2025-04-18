@@ -1,3 +1,9 @@
 Image 4
-Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
-ID 1: hisD: Histidinol dehydrogenase (cds)
+Organism: Shewanella polaris (g-proteobacteria)
+ID 1: SPOR domain-containing protein (cds)
+ID 2: Pirin family protein (cds)
+ID 3: dbpA: ATP-dependent RNA helicase DbpA (cds)
+ID 4: rhlE: ATP-dependent RNA helicase RhlE (cds)
+ID 5: DUF3626 domain-containing protein (cds)
+ID 6: cydD: cysteine/glutathione ABC transporter permease/ATP-binding protein CydD (cds)
+ID 7: cydC: cysteine/glutathione ABC transporter ATP-binding protein/permease CydC (cds)

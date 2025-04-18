@@ -1,0 +1,13 @@
+Image 0
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: Pseudouridine synthase RsuA/RluA-like domain-containing protein (cds)
+ID 3: Tetratricopeptide repeat-containing protein (cds)
+ID 4: tonB: Protein TonB (cds)
+ID 5: exbD: Biopolymer transporter ExbD (cds)
+ID 6: MotA/TolQ/ExbB proton channel family protein (cds)
+ID 7: MotA/TolQ/ExbB proton channel family protein (cds)
+ID 8: DUF3450 domain-containing protein (cds)
+ID 9: Amidohydrolase family protein (cds)
+ID 10: FAD-dependent oxidoreductase (cds)
+ID 11: Lipoprotein (cds)

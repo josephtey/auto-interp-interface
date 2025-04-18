@@ -1,0 +1,8 @@
+Image 3
+Organism: Unknown organism
+ID 1: non-specific serine/threonine protein kinase (cds)
+ID 2: RNA polymerase sigma factor (cds)
+ID 3: hypothetical protein (cds)
+ID 4: PEP-CTERM motif protein (cds)
+ID 5: PEP-CTERM motif protein (cds)
+ID 6: Tetracycline resistance protein, class C (cds)

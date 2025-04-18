@@ -1,8 +1,0 @@
-ID 1: aslA: Arylsulfatase A or related enzyme, AlkP superfamily (cds)
-ID 2: ribE: riboflavin synthase (cds)
-ID 3: Cell surface protein (cds)
-ID 4: pgi: glucose-6-phosphate isomerase (cds)
-ID 5: pldA: Outer membrane phospholipase A (cds)
-ID 6: topB: DNA topoisomerase IA (cds)
-ID 7: hypothetical protein (cds)
-ID 8: DUF3408 domain-containing protein (cds)

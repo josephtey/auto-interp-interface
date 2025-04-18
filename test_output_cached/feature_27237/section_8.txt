@@ -1,3 +1,4 @@
+Organism: Ferroplasma acidarmanus Fer1 (archaea)
 ID 1: hypothetical protein (cds)
 ID 2: hypothetical protein (cds)
 ID 3: hypothetical protein (cds)

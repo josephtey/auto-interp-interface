@@ -1,3 +1,4 @@
-ID 1: Class I SAM-dependent methyltransferase (cds)
-ID 2: Antirestriction protein (ArdA) (cds)
-ID 3: Pyruvate dehydrogenase complex, dehydrogenase (E1) component (cds)
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: Amino acid adenylation (cds)
+ID 2: MbtH-like domain-containing protein (cds)
+ID 3: Transcriptional regulator with HTH domain and aminotransferase domain (cds)

@@ -1,0 +1,4 @@
+Image 1
+Organism: Methanobrevibacter ruminantium M1 (euryarchaeotes)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)

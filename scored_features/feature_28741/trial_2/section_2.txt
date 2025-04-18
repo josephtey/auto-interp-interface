@@ -1,0 +1,11 @@
+Image 2
+Organism: Corynebacterium halotolerans YIM 70093 = DSM 44683 (high G+C Gram-positive bacteria)
+ID 1: mbtK: Lysine N-acyltransferase MbtK (cds)
+ID 2: mbtG: L-lysine N6-monooxygenase MbtG (cds)
+ID 3: Putative L-2,4-diaminobutyrate decarboxylase (cds)
+ID 4: rplN: 50S ribosomal protein L14 (cds)
+ID 5: rplX: 50S ribosomal protein L24 (cds)
+ID 6: rplE: 50S ribosomal protein L5 (cds)
+ID 7: High-affinity choline transport protein (cds)
+ID 8: Transporter protein (cds)
+ID 9: Bacterial transcription activator effector binding domain-containing protein (cds)

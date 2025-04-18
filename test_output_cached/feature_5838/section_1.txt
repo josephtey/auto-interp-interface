@@ -1,2 +1,3 @@
-ID 1: lAP4: aminopeptidase (cds)
-ID 2: fixB: Electron transfer flavoprotein, alpha subunit FixB (cds)
+Organism: Murdochiella vaginalis (firmicutes)
+ID 1: clfA: Clumping factor A-related surface protein, MSCRAMM (microbial surface components recognizing adhesive matrix molecules) family, DEv-IgG fold (cds)
+ID 2: pilin N-terminal domain-containing protein (cds)

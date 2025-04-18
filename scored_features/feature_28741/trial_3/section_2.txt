@@ -1,0 +1,13 @@
+Image 2
+Organism: Rubrobacter marinus (actinobacteria)
+ID 1: Hemolysin-type calcium-binding repeat-containing protein (cds)
+ID 2: Glucose/Sorbosone dehydrogenase domain-containing protein (cds)
+ID 3: hypothetical protein (cds)
+ID 4: eamA: EamA domain-containing protein (cds)
+ID 5: Oligosaccharide flippase family protein (cds)
+ID 6: Polysaccharide biosynthesis protein C-terminal domain-containing protein (cds)
+ID 7: Oligosaccharide repeat unit polymerase (cds)
+ID 8: Polysaccharide chain length determinant N-terminal domain-containing protein (cds)
+ID 9: Methyltransferase domain-containing protein (cds)
+ID 10: NAD-dependent epimerase/dehydratase family protein (cds)
+ID 11: Oligosaccharide flippase family protein (cds)

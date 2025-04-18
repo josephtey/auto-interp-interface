@@ -1,1 +1,2 @@
-ID 1: hypothetical protein (cds)
+Organism: Paraneptunicella aestuarii (g-proteobacteria)
+ID 1: SDR family NAD(P)-dependent oxidoreductase (cds)

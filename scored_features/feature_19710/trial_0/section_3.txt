@@ -1,2 +1,10 @@
 Image 3
-ID 1: CRISPR spacer, sequence GAAACAGCCGGTACAGCCTTGAATGCGCTGTTTAC (crispr-spacer)
+Organism: Unknown organism
+ID 1: Bacterial Ig-like domain (Group 2) (cds)
+ID 2: DUF1501 domain-containing protein (cds)
+ID 3: Putative subtilase-type serine protease (cds)
+ID 4: DNA alkylation repair enzyme (cds)
+ID 5: doxX: DoxX (cds)
+ID 6: HEAT repeat protein (cds)
+ID 7: YdhG-like domain-containing protein (cds)
+ID 8: N-substituted formamide deformylase (cds)

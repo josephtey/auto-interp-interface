@@ -1,0 +1,2 @@
+Organism: Unknown organism
+ID 1: Ig-like domain-containing protein (cds)

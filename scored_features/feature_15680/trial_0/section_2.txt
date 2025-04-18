@@ -1,0 +1,3 @@
+Image 2
+Organism: Ahniella affigens (g-proteobacteria)
+ID 1: rhsA: Uncharacterized conserved protein RhaS, contains 28 RHS repeats (cds)

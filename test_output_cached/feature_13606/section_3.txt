@@ -1,1 +1,2 @@
-ID 1: eamA: EamA family transporter (cds)
+Organism: Mycobacterium spongiae (high G+C Gram-positive bacteria)
+ID 1: PPE domain-containing protein (cds)

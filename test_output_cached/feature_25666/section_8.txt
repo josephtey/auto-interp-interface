@@ -1,1 +1,2 @@
-ID 1: PE domain-containing protein (cds)
+Organism: Mycobacterium spongiae (high G+C Gram-positive bacteria)
+ID 1: SDR family NAD(P)-dependent oxidoreductase (cds)

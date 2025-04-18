@@ -1,0 +1,13 @@
+Image 4
+Organism: Hoyosella subflava DQS3-9A1 (high G+C Gram-positive bacteria)
+ID 1: hmgA: Homogentisate 1,2-dioxygenase (cds)
+ID 2: marR: DNA-binding transcriptional regulator, MarR family (cds)
+ID 3: DUF3558 domain-containing protein (cds)
+ID 4: WXG100 family type VII secretion target (cds)
+ID 5: ubiH: 2-polyprenyl-6-methoxyphenol hydroxylase and related FAD-dependent oxidoreductases (cds)
+ID 6: Putative MFS transporter (cds)
+ID 7: lysR: DNA-binding transcriptional regulator, LysR family (cds)
+ID 8: Indoleamine 2,3-dioxygenase (cds)
+ID 9: ampC: CubicO group peptidase, beta-lactamase class C family (cds)
+ID 10: folA: Dihydrofolate reductase (cds)
+ID 11: CAAX amino terminal protease family (cds)

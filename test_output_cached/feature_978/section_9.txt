@@ -1,4 +1,4 @@
 Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
-ID 1: folE2: GTP cyclohydrolase FolE2 (cds)
-ID 2: mnmA: tRNA 2-thiouridine(34) synthase MnmA (cds)
-ID 3: pgk: Phosphoglycerate kinase (cds)
+ID 1: hypothetical protein (cds)
+ID 2: fhaC: Hemolysin activation/secretion protein (cds)
+ID 3: Uncharacterized conserved protein, contains CHAT domain (cds)

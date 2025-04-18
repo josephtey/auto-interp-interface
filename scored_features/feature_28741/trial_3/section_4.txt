@@ -1,0 +1,12 @@
+Image 4
+Organism: Cognaticolwellia beringensis (g-proteobacteria)
+ID 1: leuA: 2-isopropylmalate synthase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: CDP-glycerol--glycerophosphate glycerophosphotransferase (cds)
+ID 4: Glycerol-3-phosphate cytidylyltransferase (cds)
+ID 5: CDP-glycerol--poly(Glycerophosphate) glycerophosphotransferase (cds)
+ID 6: Capsule assembly Wzi family protein (cds)
+ID 7: TIGR04211 family SH3 domain-containing protein (cds)
+ID 8: CYTH domain-containing protein (cds)
+ID 9: Peptidoglycan-binding protein (cds)
+ID 10: Major outer membrane lipoprotein Lpp (cds)

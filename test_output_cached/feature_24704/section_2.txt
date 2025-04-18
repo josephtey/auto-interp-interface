@@ -1,2 +1,3 @@
-ID 1: Tetratricopeptide repeat protein (cds)
-ID 2: bamA: outer membrane protein assembly factor BamA (cds)
+Organism: Paludibacterium paludis (b-proteobacteria)
+ID 1: Non-ribosomal peptide synthetase (cds)
+ID 2: Pyoverdine synthetase D (cds)

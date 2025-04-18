@@ -1,2 +1,11 @@
 Image 0
-ID 1: ydfG: NADP-dependent 3-hydroxy acid dehydrogenase YdfG (cds)
+Organism: Acetivibrio saccincola (firmicutes)
+ID 1: ADP-ribose pyrophosphatase (cds)
+ID 2: Dockerin domain-containing protein (cds)
+ID 3: Spo0E like sporulation regulatory protein (cds)
+ID 4: 18 kDa heat shock protein (cds)
+ID 5: spoVB: stage V sporulation protein B (cds)
+ID 6: Copper amine oxidase-like N-terminal domain-containing protein (cds)
+ID 7: csaB: polysaccharide pyruvyl transferase CsaB (cds)
+ID 8: N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase (cds)
+ID 9: DUF881 domain-containing protein (cds)

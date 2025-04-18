@@ -1,8 +1,0 @@
-Image 4
-Organism: Unknown organism
-ID 1: DUF4265 domain-containing protein (cds)
-ID 2: Sulfatase (cds)
-ID 3: Non-reducing end beta-L-arabinofuranosidase (cds)
-ID 4: RiboL-PSP-HEPN domain-containing protein (cds)
-ID 5: N-substituted formamide deformylase (cds)
-ID 6: pknD: Serine/threonine-protein kinase PknD (cds)

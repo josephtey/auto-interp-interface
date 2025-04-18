@@ -1,2 +1,4 @@
 Image 4
-ID 1: hAMP: HAMP domain (cds)
+Organism: Desulfomicrobium baculatum DSM 4028 (bacteria)
+ID 1: tolC: Outer membrane protein TolC (cds)
+ID 2: Ca2+-binding protein, RTX toxin-related (cds)

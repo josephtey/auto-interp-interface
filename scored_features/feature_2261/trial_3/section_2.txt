@@ -1,9 +1,10 @@
 Image 2
-ID 1: Phosphoesterase (cds)
-ID 2: Restriction endonuclease (cds)
-ID 3: Bacitracin ABC transporter ATP-binding protein (cds)
-ID 4: CRISPR spacer, sequence CCACTCTTATAAATCCACCTAGTTCTTTTACGTGTGT (crispr-spacer)
+Organism: Unknown organism
+ID 1: Bifunctional (P)ppGpp synthetase/guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase (cds)
+ID 2: glp: gephyrin-like molybdotransferase Glp (cds)
+ID 3: Vitamin K epoxide reductase family protein (cds)
+ID 4: 30S ribosomal protein S1 (cds)
 ID 5: hypothetical protein (cds)
-ID 6: eam: glutamate 2,3-aminomutase (cds)
-ID 7: Chemotaxis response regulator protein-glutamate methylesterase (cds)
-ID 8: secY: preprotein translocase subunit SecY (cds)
+ID 6: PPC domain-containing protein (cds)
+ID 7: M23 family metallopeptidase (cds)
+ID 8: PD40 domain-containing protein (cds)

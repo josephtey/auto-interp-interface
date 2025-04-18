@@ -1,0 +1,13 @@
+Image 3
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: nucleoside transporter C-terminal domain-containing protein (cds)
+ID 2: thymidylate synthase (cds)
+ID 3: 2TM domain-containing protein (cds)
+ID 4: dihydrofolate reductase (cds)
+ID 5: fructosamine kinase family protein (cds)
+ID 6: murI: glutamate racemase (cds)
+ID 7: ompH: OmpH family outer membrane protein (cds)
+ID 8: ompH: OmpH family outer membrane protein (cds)
+ID 9: bamA: outer membrane protein assembly factor BamA (cds)
+ID 10: isoprenyl transferase (cds)
+ID 11: DUF6089 domain-containing protein (cds)

@@ -1,6 +1,8 @@
 Image 1
-ID 1: folB: dihydroneopterin aldolase (cds)
-ID 2: cphB: cyanophycinase (cds)
-ID 3: astE: succinylglutamate desuccinylase (cds)
-ID 4: Phosphatidate cytidylyltransferase (cds)
-ID 5: sppA: signal peptide peptidase SppA (cds)
+Organism: Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628 (b-proteobacteria)
+ID 1: Integrase (cds)
+ID 2: Transposase (cds)
+ID 3: AAA+ ATPase domain-containing protein (cds)
+ID 4: gap (gap)
+ID 5: gap (gap)
+ID 6: Rad50/SbcC-type AAA domain-containing protein (cds)

@@ -1,3 +1,0 @@
-Image 0
-Organism: Desulfomicrobium baculatum DSM 4028 (bacteria)
-ID 1: Carboxylesterase (cds)

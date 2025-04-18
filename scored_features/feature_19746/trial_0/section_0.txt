@@ -1,0 +1,10 @@
+Image 0
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: Trehalose/maltose hydrolase or phosphorylase (cds)
+ID 2: Haloacid dehalogenase (cds)
+ID 3: dcd: dCTP deaminase (cds)
+ID 4: 4Fe-4S ferredoxin-type domain-containing protein (cds)
+ID 5: NERD domain-containing protein (cds)
+ID 6: dnaK: molecular chaperone DnaK (cds)
+ID 7: grpE: Protein GrpE (cds)
+ID 8: dnaJ: Chaperone protein DnaJ (cds)

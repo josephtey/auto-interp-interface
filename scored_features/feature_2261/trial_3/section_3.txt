@@ -1,6 +1,12 @@
 Image 3
-ID 1: fliJ: flagellar export protein FliJ (cds)
-ID 2: DUF3108 domain-containing protein (cds)
-ID 3: phnB: Zn-dependent glyoxalase, PhnB family (cds)
-ID 4: hypothetical protein (cds)
-ID 5: DUF5117 domain-containing protein (cds)
+Organism: Unknown organism
+ID 1: Bacterial Pleckstrin-like y domain-containing protein (cds)
+ID 2: Carboxymuconolactone decarboxylase (cds)
+ID 3: hisS: histidine--tRNA ligase (cds)
+ID 4: Metallo-beta-lactamase domain-containing protein (cds)
+ID 5: Peptidyl-prolyl cis-trans isomerase (cds)
+ID 6: Cyclophilin (cds)
+ID 7: DUF4333 domain-containing protein (cds)
+ID 8: spoT: (p)ppGpp synthase/hydrolase, HD superfamily (cds)
+ID 9: adenine phosphoribosyltransferase (cds)
+ID 10: Solute-binding protein family 5 domain-containing protein (cds)

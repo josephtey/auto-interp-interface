@@ -1,0 +1,12 @@
+Image 0
+Organism: Ferrovibrio terrae (a-proteobacteria)
+ID 1: Glycosyl transferase (cds)
+ID 2: CRISPR array with 4 repeats of length 23, consensus sequence CGACCTGCGTCGTGGTCAGCGCC and spacer length 57 (crispr)
+ID 3: CRISPR repeat (crispr-repeat)
+ID 4: CRISPR spacer, sequence CCGAGCTGCGTCGAGCTCAGTTCACTGACATCGGTGCTTTCCAGCGCGC (crispr-spacer)
+ID 5: CRISPR repeat (crispr-repeat)
+ID 6: CRISPR spacer, sequence TTGAGCTGAGCCGCCGACAGCGACTGAACCTGTGTGGTGACCAGCGCATTCAGGTCGGTGGTCTCAAGCGCAC (crispr-spacer)
+ID 7: CRISPR repeat (crispr-repeat)
+ID 8: CRISPR spacer, sequence TTGACCTGCGTCTCCGTCAGGTCCGCGATGTCAGTCGTCTCAAGCGAGG (crispr-spacer)
+ID 9: CRISPR repeat (crispr-repeat)
+ID 10: CRISPR spacer, sequence GCGATCTGCGT (crispr-spacer)

@@ -1,9 +1,7 @@
 Image 3
-ID 1: Aminotransferase class IV (cds)
-ID 2: Lipase (cds)
-ID 3: Maleylpyruvate isomerase family mycothiol-dependent enzyme (cds)
-ID 4: HAD family phosphatase (cds)
-ID 5: Aspartate aminotransferase family protein (cds)
-ID 6: YndJ-like protein (cds)
-ID 7: Acyltransferase (cds)
-ID 8: rplS: 50S ribosomal protein L19 (cds)
+Organism: Unknown organism
+ID 1: 2-oxoglutarate dehydrogenase E1 component (cds)
+ID 2: Flavo-1: Flavo-1 RNA (ncRNA)
+ID 3: odhB: 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase (cds)
+ID 4: L,D-transpeptidase (cds)
+ID 5: ompA: OmpA family protein (cds)

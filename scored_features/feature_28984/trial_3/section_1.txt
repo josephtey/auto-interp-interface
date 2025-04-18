@@ -1,2 +1,11 @@
 Image 1
-ID 1: Outer membrane protein receptor (Fe receptor) (cds)
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: leuB: 3-isopropylmalate dehydrogenase (cds)
+ID 2: Transporter substrate-binding domain-containing protein (cds)
+ID 3: Semialdehyde dehydrogenase dimerisation domain-containing protein (cds)
+ID 4: Ribosomal RNA large subunit methyltransferase J (cds)
+ID 5: EAL domain-containing protein (cds)
+ID 6: DUF1353 domain-containing protein (cds)
+ID 7: DUF4231 domain-containing protein (cds)
+ID 8: Insulinase family protein (cds)
+ID 9: cydB: cytochrome d ubiquinol oxidase subunit II (cds)

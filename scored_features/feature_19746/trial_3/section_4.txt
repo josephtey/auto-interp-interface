@@ -1,0 +1,12 @@
+Image 4
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: raiA: Ribosome hibernation promoting factor (cds)
+ID 2: citB: Two component transcriptional regulator, LuxR family (cds)
+ID 3: Acetyltransferase, ribosomal protein N-acetylase (cds)
+ID 4: secA: preprotein translocase subunit SecA (cds)
+ID 5: DUF6459 domain-containing protein (cds)
+ID 6: lysM: LysM domain-containing protein (cds)
+ID 7: hypothetical protein (cds)
+ID 8: alpA: DNA-binding transcriptional regulator AlpA (cds)
+ID 9: SAF domain-containing protein (cds)
+ID 10: ATPases involved in chromosome partitioning-like (cds)

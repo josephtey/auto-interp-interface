@@ -1,12 +1,5 @@
 Image 4
-ID 1: putative enzyme of the cupin superfamily (cds)
-ID 2: Lipoprotein, putative (cds)
-ID 3: porD: Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, delta subunit (cds)
-ID 4: putative DNA binding protein, CopG/RHH family (cds)
-ID 5: rimP: ribosome maturation factor RimP (cds)
-ID 6: tnp: IS21 family ISPepr5 transposase (cds)
-ID 7: hypothetical protein (cds)
-ID 8: Mu-like prophage protein gp16 (cds)
-ID 9: xseB: exodeoxyribonuclease VII small subunit (cds)
-ID 10: pilZ: Type IV pilus assembly PilZ (cds)
-ID 11: ftsH: ATP-dependent zinc metalloprotease FtsH (cds)
+Organism: Unknown organism
+ID 1: RND superfamily putative drug exporter (cds)
+ID 2: Condensation domain-containing protein (cds)
+ID 3: Acyl transferase domain-containing protein (cds)

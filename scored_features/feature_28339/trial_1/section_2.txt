@@ -1,0 +1,10 @@
+Image 2
+Organism: Campylobacter volucris (e-proteobacteria)
+ID 1: rrf: 5S ribosomal RNA (rRNA)
+ID 2: Putative helicase, PIF1 family (cds)
+ID 3: fliL: Flagellar protein FliL (cds)
+ID 4: lolA: LolA-like outer membrane lipoprotein chaperone (cds)
+ID 5: secA: preprotein translocase subunit SecA (cds)
+ID 6: Sigma-54-dependent Fis family transcriptional regulator (cds)
+ID 7: asd: aspartate-semialdehyde dehydrogenase (cds)
+ID 8: yqhA: YqhA family protein (cds)

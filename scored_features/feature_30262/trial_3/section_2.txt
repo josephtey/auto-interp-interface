@@ -1,0 +1,13 @@
+Image 2
+Organism: Serpentinimonas raichei (b-proteobacteria)
+ID 1: ahpC: alkyl hydroperoxide reductase subunit C (cds)
+ID 2: NAD-dependent aldehyde dehydrogenase (cds)
+ID 3: bfr: bacterioferritin (cds)
+ID 4: pTC1: Serine/threonine protein phosphatase PrpC (cds)
+ID 5: eAL: EAL domain, c-di-GMP-specific phosphodiesterase class I (or its enzymatically inactive variant) (cds)
+ID 6: dsbB: Disulfide bond formation protein DsbB (cds)
+ID 7: fpr: Flavodoxin/ferredoxin--NADP reductase (cds)
+ID 8: trnS: tRNA-Ser(gct) (tRNA)
+ID 9: metL1: aspartate kinase (cds)
+ID 10: tilS: tRNA(Ile)-lysidine synthase TilS/MesJ (cds)
+ID 11: accA: acetyl-CoA carboxylase carboxyltransferase subunit alpha (cds)

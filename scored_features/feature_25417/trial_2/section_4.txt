@@ -1,10 +1,9 @@
 Image 4
-ID 1: Tryptophan halogenase (cds)
-ID 2: Ribosomal RNA large subunit methyltransferase A, putative (cds)
-ID 3: M61 family metallopeptidase (cds)
-ID 4: tonB: Energy transducer TonB (cds)
-ID 5: Glucan biosynthesis protein G (cds)
-ID 6: Beta-lactamase hydrolase-like protein phosphatase-like domain-containing protein (cds)
-ID 7: Lipoprotein (cds)
-ID 8: Thioesterase superfamily protein (cds)
-ID 9: mog: molybdopterin adenylyltransferase (cds)
+Organism: Unknown organism
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: 3-deoxy-D-manno-octulosonic acid transferase (cds)
+ID 4: DUF3467 domain-containing protein (cds)
+ID 5: Dockerin type I repeat protein (cds)
+ID 6: DUF4279 domain-containing protein (cds)
+ID 7: yydH: Peptide zinc metalloprotease protein YydH (cds)

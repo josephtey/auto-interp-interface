@@ -1,0 +1,13 @@
+Image 3
+Organism: Corynebacterium halotolerans YIM 70093 = DSM 44683 (high G+C Gram-positive bacteria)
+ID 1: C4-dicarboxylate binding protein (cds)
+ID 2: TRAP transporter small permease (cds)
+ID 3: dctM: TRAP C4-dicarboxylate transport system permease DctM subunit domain-containing protein (cds)
+ID 4: lysR: LysR family transcriptional regulator (cds)
+ID 5: 2-keto-3-deoxygluconate permease (cds)
+ID 6: araC: Transcriptional regulator, AraC family protein (cds)
+ID 7: Glyoxalase/bleomycin resistance protein/dioxygenase (cds)
+ID 8: Phospholipase/Carboxylesterase (cds)
+ID 9: Acyl-CoA dehydrogenase type 2 domain-containing protein (cds)
+ID 10: Flavin reductase-like domain-containing protein (cds)
+ID 11: AB hydrolase-1 domain-containing protein (cds)

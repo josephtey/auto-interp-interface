@@ -1,0 +1,12 @@
+Image 1
+Organism: Herminiimonas arsenitoxidans (b-proteobacteria)
+ID 1: xseA: exodeoxyribonuclease VII large subunit (cds)
+ID 2: methyl-accepting chemotaxis protein (cds)
+ID 3: rarD: EamA family transporter RarD (cds)
+ID 4: hypothetical protein (cds)
+ID 5: spoVK: AAA+-type ATPase, SpoVK/Ycf46/Vps4 family (cds)
+ID 6: tolQ: Biopolymer transport protein ExbB/TolQ (cds)
+ID 7: exbD: Biopolymer transport protein ExbD (cds)
+ID 8: lpxK: tetraacyldisaccharide 4'-kinase (cds)
+ID 9: UPF0434 protein NGO0244 (cds)
+ID 10: kdsB: 3-deoxy-manno-octulosonate cytidylyltransferase (cds)

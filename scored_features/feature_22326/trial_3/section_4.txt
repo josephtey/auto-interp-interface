@@ -1,0 +1,11 @@
+Image 4
+Organism: Luteipulveratus mongoliensis (high G+C Gram-positive bacteria)
+ID 1: TrbL/VirB6 plasmid conjugal transfer protein (cds)
+ID 2: Integral membrane protein (cds)
+ID 3: virB4: Type IV secretory pathway, VirB4 component (cds)
+ID 4: virD4: Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase (cds)
+ID 5: DUF4913 domain-containing protein (cds)
+ID 6: PASTA domain-containing protein (cds)
+ID 7: PIN domain-containing protein (cds)
+ID 8: Helix-turn-helix domain-containing protein (cds)
+ID 9: rhaT: Permease of the drug/metabolite transporter (DMT) superfamily (cds)

@@ -1,6 +1,10 @@
 Image 4
-ID 1: hypothetical protein (cds)
-ID 2: hflX: GTPase HflX (cds)
-ID 3: Macrocin-O-methyltransferase (TylF) (cds)
-ID 4: Thiol:disulfide oxidoreductase (cds)
-ID 5: DUF1232 domain-containing protein (cds)
+Organism: Unknown organism
+ID 1: non-specific serine/threonine protein kinase (cds)
+ID 2: hypothetical protein (cds)
+ID 3: ethA: FAD-containing monooxygenase EthA (cds)
+ID 4: Cupin domain protein (cds)
+ID 5: Phosphonate dehydrogenase (cds)
+ID 6: phnE: phosphonate ABC transporter, permease protein PhnE (cds)
+ID 7: phnD: Phosphate-import protein PhnD (cds)
+ID 8: artM: Arginine transport ATP-binding protein ArtM (cds)

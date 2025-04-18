@@ -1,0 +1,9 @@
+Image 1
+Organism: Desulforamulus ferrireducens (firmicutes)
+ID 1: polX: DNA polymerase/3'-5' exonuclease PolX (cds)
+ID 2: DNA-3-methyladenine glycosylase (cds)
+ID 3: Putative GTP cyclohydrolase 1 type 2, NIF3 family (cds)
+ID 4: Peptidase U32 (cds)
+ID 5: mutS2: endonuclease MutS2 (cds)
+ID 6: Cytochrome ubiquinol oxidase subunit I (cds)
+ID 7: cydB: cytochrome d ubiquinol oxidase subunit II (cds)

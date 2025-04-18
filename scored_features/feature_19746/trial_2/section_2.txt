@@ -1,0 +1,12 @@
+Image 2
+Organism: Pelobacter propionicus DSM 2379 (bacteria)
+ID 1: DUF4177 domain-containing protein (cds)
+ID 2: polA: DNA polymerase I (cds)
+ID 3: osmY: Osmotically-inducible protein OsmY, contains BON domain (cds)
+ID 4: Adenosine/AMP kinase (cds)
+ID 5: pcm2: protein-L-isoaspartate(D-aspartate) O-methyltransferase (cds)
+ID 6: metK2: methionine adenosyltransferase (cds)
+ID 7: pstB: ABC-type phosphate transport system, ATPase component (cds)
+ID 8: pstA: phosphate ABC transporter permease PstA (cds)
+ID 9: pstC: phosphate ABC transporter permease subunit PstC (cds)
+ID 10: pstS: ABC-type phosphate transport system, periplasmic component (cds)

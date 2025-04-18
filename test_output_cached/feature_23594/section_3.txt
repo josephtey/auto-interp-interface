@@ -1,2 +1,3 @@
-ID 1: Putative protease (cds)
-ID 2: hypothetical protein (cds)
+Organism: Zhouia spongiae (CFB group bacteria)
+ID 1: amino acid adenylation domain-containing protein (cds)
+ID 2: amino acid adenylation domain-containing protein (cds)

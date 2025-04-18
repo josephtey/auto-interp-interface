@@ -1,3 +1,4 @@
-ID 1: CRISPR repeat (crispr-repeat)
-ID 2: DegT/DnrJ/EryC1/StrS aminotransferase (cds)
-ID 3: Phosphotyrosine protein phosphatase I domain-containing protein (cds)
+Organism: Frankia casuarinae (high G+C Gram-positive bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: HTH luxR-type domain-containing protein (cds)
+ID 3: Beta-ketoacyl synthase (cds)

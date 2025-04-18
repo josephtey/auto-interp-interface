@@ -1,0 +1,10 @@
+Image 2
+Organism: Chitinibacter bivalviorum (b-proteobacteria)
+ID 1: beta-N-acetylhexosaminidase (cds)
+ID 2: aceB: malate synthase A (cds)
+ID 3: aceA: isocitrate lyase (cds)
+ID 4: grpE: nucleotide exchange factor GrpE (cds)
+ID 5: dnaK: molecular chaperone DnaK (cds)
+ID 6: dnaJ: molecular chaperone DnaJ (cds)
+ID 7: ABC transporter substrate-binding protein (cds)
+ID 8: coaD: pantetheine-phosphate adenylyltransferase (cds)

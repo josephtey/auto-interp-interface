@@ -1,7 +1,10 @@
 Image 3
-Organism: Archangium gephyra (bacteria)
-ID 1: DUF2380 domain-containing protein (cds)
-ID 2: otsB: bifunctional alpha,alpha-trehalose-phosphate synthase (UDP-forming)/trehalose-phosphatase (cds)
-ID 3: Lipoprotein (cds)
-ID 4: lasB: Zn-dependent metalloprotease (Neutral protease B) (cds)
-ID 5: trnL: tRNA-Leu(cag) (tRNA)
+Organism: Unknown organism
+ID 1: Immunity protein 21 (cds)
+ID 2: Trehalose utilization (cds)
+ID 3: hypothetical protein (cds)
+ID 4: non-specific serine/threonine protein kinase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: rpoE: RNA polymerase sigma factor RpoE (cds)
+ID 7: hypothetical protein (cds)
+ID 8: sigE: ECF RNA polymerase sigma factor SigE (cds)

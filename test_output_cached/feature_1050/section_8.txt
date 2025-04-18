@@ -1,4 +1,5 @@
-ID 1: CRISPR repeat (crispr-repeat)
+Organism: Thermococcus onnurineus NA1 (euryarchaeotes)
+ID 1: hypothetical protein (cds)
 ID 2: hypothetical protein (cds)
 ID 3: hypothetical protein (cds)
 ID 4: hypothetical protein (cds)

@@ -1,0 +1,12 @@
+Image 2
+Organism: Ferrimonas lipolytica (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: hypothetical protein (cds)
+ID 3: trnL: tRNA-Leu(caa) (tRNA)
+ID 4: RDD family protein (cds)
+ID 5: Endonuclease/exonuclease/phosphatase family protein (cds)
+ID 6: Carboxymuconolactone decarboxylase family protein (cds)
+ID 7: Diguanylate cyclase (cds)
+ID 8: lptG: LPS export ABC transporter permease LptG (cds)
+ID 9: lptF: LPS export ABC transporter permease LptF (cds)
+ID 10: pepA: leucyl aminopeptidase (cds)

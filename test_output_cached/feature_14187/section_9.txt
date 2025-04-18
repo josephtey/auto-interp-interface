@@ -1,6 +1,6 @@
 Organism: Unknown organism
-ID 1: lppJ: Lipoprotein LppJ (cds)
-ID 2: Peroxiredoxin (cds)
-ID 3: kdpA: potassium-transporting ATPase subunit KdpA (cds)
-ID 4: Glucanase (cds)
-ID 5: PE family protein (cds)
+ID 1: Amino acid adenylation protein (cds)
+ID 2: arnA: Bifunctional polymyxin resistance protein ArnA (cds)
+ID 3: tesA: Thioesterase TesA (cds)
+ID 4: Inactive phenolphthiocerol synthesis polyketide synthase type I Pks15 (cds)
+ID 5: nbtC: nocobactin polyketide synthase NbtC (cds)

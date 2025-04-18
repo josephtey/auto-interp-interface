@@ -1,10 +1,8 @@
 Image 1
-Organism: Ciceribacter thiooxidans (a-proteobacteria)
-ID 1: Gamma-glutamyl-gamma-aminobutyrate hydrolase family protein (cds)
-ID 2: L-threonine aldolase (cds)
-ID 3: Aminotransferase (cds)
-ID 4: tyrS: tyrosine--tRNA ligase (cds)
-ID 5: SRPBCC domain-containing protein (cds)
-ID 6: HypC/HybG/HupF family hydrogenase formation chaperone (cds)
-ID 7: ccmB: heme exporter protein CcmB (cds)
-ID 8: ompR: DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain (cds)
+Organism: Unknown organism
+ID 1: Hpt domain protein (cds)
+ID 2: histidine kinase (cds)
+ID 3: Rhs element Vgr protein (cds)
+ID 4: tssH: type VI secretion system ATPase TssH (cds)
+ID 5: Type VI secretion protein, VC_A0111 family (cds)
+ID 6: tssF: type VI secretion system baseplate subunit TssF (cds)

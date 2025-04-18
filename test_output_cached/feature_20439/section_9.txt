@@ -1,3 +1,4 @@
-ID 1: Cyclic nucleotide-binding domain protein (cds)
-ID 2: rnr: ribonuclease R (cds)
-ID 3: Histone deacetylase domain protein (cds)
+Organism: Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628 (b-proteobacteria)
+ID 1: PKS-NRPS ORF 2 (cds)
+ID 2: 2-dehydro-3-deoxyphosphooctonate aldolase (cds)
+ID 3: Beta-lactamase family protein (cds)

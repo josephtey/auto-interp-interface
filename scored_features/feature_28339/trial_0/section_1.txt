@@ -1,0 +1,9 @@
+Image 1
+Organism: Pukyongia salina (CFB group bacteria)
+ID 1: T9SS C-terminal target domain-containing protein (cds)
+ID 2: btuB: Outer membrane cobalamin receptor protein BtuB (cds)
+ID 3: Nicotinic acid mononucleotide adenyltransferase (cds)
+ID 4: Porin (cds)
+ID 5: pitA: Phosphate/sulfate permease (cds)
+ID 6: nptA: Na+/phosphate symporter (cds)
+ID 7: ydiL: Membrane protease YdiL, CAAX protease family (cds)

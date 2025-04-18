@@ -1,1 +1,2 @@
-ID 1: tim44: putative lipid-binding transport protein, Tim44 family (cds)
+Organism: Candidatus Endolissoclinum faulkneri L2 (a-proteobacteria)
+ID 1: pks13: polyketide synthase Pks13 (cds)

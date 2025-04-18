@@ -1,3 +1,4 @@
-ID 1: wcaA: Glycosyltransferase involved in cell wall bisynthesis (cds)
-ID 2: accD: acetyl-CoA carboxylase, carboxyltransferase subunit beta (cds)
-ID 3: PEP-CTERM sorting domain-containing protein (cds)
+Organism: Pukyongia salina (CFB group bacteria)
+ID 1: ompA: Outer membrane protein OmpA and related peptidoglycan-associated (lipo)proteins (cds)
+ID 2: Type IX secretion system membrane protein, PorP/SprF family (cds)
+ID 3: GEVED domain-containing protein (cds)

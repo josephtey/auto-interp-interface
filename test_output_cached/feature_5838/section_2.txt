@@ -1,1 +1,2 @@
-ID 1: trnN: tRNA-Asn(gtt) (tRNA)
+Organism: Aeromonas encheleia (g-proteobacteria)
+ID 1: RTX protein (cds)

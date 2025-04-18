@@ -1,9 +1,5 @@
 Image 0
-ID 1: dnaN: DNA polymerase III subunit beta (cds)
-ID 2: paaN: phenylacetic acid degradation protein PaaN (cds)
-ID 3: DUF222 domain-containing protein (cds)
-ID 4: hypothetical protein (cds)
-ID 5: comFC: DNA utilization protein ComFC/GntX, contains phosphoribosyltransferase domain (cds)
-ID 6: rplQ: 50S ribosomal protein L17 (cds)
-ID 7: dcg1: Asp/Glu/hydantoin racemase (cds)
-ID 8: livH: Branched-chain amino acid ABC-type transport system, permease component (cds)
+Organism: Mycolicibacterium aurum (high G+C Gram-positive bacteria)
+ID 1: histidine kinase (cds)
+ID 2: Transcriptional regulatory protein (cds)
+ID 3: cellulase (cds)

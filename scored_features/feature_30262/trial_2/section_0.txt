@@ -1,0 +1,5 @@
+Image 0
+Organism: Alkalilimnicola ehrlichii MLHE-1 (g-proteobacteria)
+ID 1: hypothetical protein (cds)
+ID 2: fhaC: Hemolysin activation/secretion protein (cds)
+ID 3: Uncharacterized conserved protein, contains CHAT domain (cds)

@@ -1,5 +1,6 @@
 Image 1
-ID 1: CRISPR repeat (crispr-repeat)
-ID 2: hypothetical protein (cds)
-ID 3: General secretion pathway, M protein (cds)
-ID 4: lysA: diaminopimelate decarboxylase (cds)
+Organism: Haliangium ochraceum DSM 14365 (bacteria)
+ID 1: PBS lyase HEAT domain protein repeat-containing protein (cds)
+ID 2: Ribosomal large subunit pseudouridine synthase B (cds)
+ID 3: yyaL: Uncharacterized conserved protein YyaL, SSP411 family, contains thoiredoxin and six-hairpin glycosidase-like domains (cds)
+ID 4: Secreted protein containing C-terminal beta-propeller domain distantly related to WD-40 repeats (cds)

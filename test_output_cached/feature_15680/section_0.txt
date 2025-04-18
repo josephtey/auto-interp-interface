@@ -1,0 +1,4 @@
+Organism: Ahniella affigens (g-proteobacteria)
+ID 1: DUF1416 domain-containing protein (cds)
+ID 2: Thioredoxin domain-containing protein (cds)
+ID 3: Transglycosylase SLT domain-containing protein (cds)

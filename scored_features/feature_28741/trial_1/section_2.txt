@@ -1,0 +1,6 @@
+Image 2
+Organism: Tepidiforma bonchosmolovskayae (GNS bacteria)
+ID 1: hypothetical protein (cds)
+ID 2: DEAD/DEAH box helicase (cds)
+ID 3: DEAD/DEAH box helicase (cds)
+ID 4: site-specific DNA-methyltransferase (adenine-specific) (cds)

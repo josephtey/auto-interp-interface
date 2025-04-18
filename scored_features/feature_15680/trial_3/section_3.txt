@@ -1,0 +1,12 @@
+Image 3
+Organism: Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628 (b-proteobacteria)
+ID 1: Proline iminopeptidase (cds)
+ID 2: N-acetyltransferase domain-containing protein (cds)
+ID 3: tetR: Bacterial regulatory s, tetR family protein (cds)
+ID 4: Alpha/beta hydrolase fold family protein (cds)
+ID 5: DUF2946 domain-containing protein (cds)
+ID 6: TonB-dependent siderophore receptor family protein (cds)
+ID 7: DUF2946 domain-containing protein (cds)
+ID 8: TonB-dependent Receptor Plug domain protein (cds)
+ID 9: Cache, type 2 domain protein (cds)
+ID 10: Short chain dehydrogenase family protein (cds)

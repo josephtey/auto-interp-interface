@@ -1,8 +1,7 @@
 Image 0
-ID 1: pepO: putative metalloendopeptidase (cds)
-ID 2: Phospholipid/glycerol acyltransferase domain-containing protein (cds)
-ID 3: YD repeat-containing protein (cds)
-ID 4: lytS: Sensor histidine kinase, LytS/YehU family (cds)
-ID 5: cHASE3: Extracytoplasmic sensor domain CHASE3 (specificity unknown) (cds)
-ID 6: YdhG-like domain-containing protein (cds)
-ID 7: DUF4136 domain-containing protein (cds)
+Organism: Unknown organism
+ID 1: Glutamate synthase [NADPH] small chain (cds)
+ID 2: Circularly permuted ATPgrasp domain-containing protein (cds)
+ID 3: DUF403 domain-containing protein (cds)
+ID 4: Transglutaminase-like domain-containing protein (cds)
+ID 5: DUF403 domain-containing protein (cds)

@@ -1,2 +1,9 @@
 Image 1
-ID 1: SOS response-associated peptidase family protein (cds)
+Organism: Pararhodospirillum photometricum DSM 122 (a-proteobacteria)
+ID 1: Large exoprotein involved in heme utilization or adhesion (cds)
+ID 2: Chorismate mutase (cds)
+ID 3: hisC: histidinol-phosphate transaminase (cds)
+ID 4: tyrA: prephenate/arogenate dehydrogenase family protein (cds)
+ID 5: tar: Methyl-accepting chemotaxis protein (MCP) (cds)
+ID 6: Fructose-2,6-bisphosphatase (cds)
+ID 7: hPtr: HPt (histidine-containing phosphotransfer) domain (cds)

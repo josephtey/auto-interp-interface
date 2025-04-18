@@ -1,0 +1,11 @@
+Image 1
+Organism: Corynebacterium halotolerans YIM 70093 = DSM 44683 (high G+C Gram-positive bacteria)
+ID 1: pknB: Stk1 family PASTA domain-containing Ser/Thr kinase (cds)
+ID 2: HNH nuclease domain-containing protein (cds)
+ID 3: 3-deoxy-7-phosphoheptulonate synthase class II (cds)
+ID 4: polyadenylate-specific 3'-exoribonuclease AS (cds)
+ID 5: Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase (cds)
+ID 6: hypothetical protein (cds)
+ID 7: Secreted protein (cds)
+ID 8: Acyltransferase 3 domain-containing protein (cds)
+ID 9: Acyltransferase (cds)

@@ -1,1 +1,2 @@
-ID 1: metN: methionine ABC transporter ATP-binding protein MetN (cds)
+Organism: Xenorhabdus bovienii SS-2004 (enterobacteria)
+ID 1: solG: solanimycin non-ribosomal peptide synthetase SolG (cds)

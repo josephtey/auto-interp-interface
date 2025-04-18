@@ -1,4 +1,0 @@
-Image 2
-Organism: Methylomusa anaerophila (firmicutes)
-ID 1: fadH: 2,4-dienoyl-CoA reductase or related NADH-dependent reductase, Old Yellow Enzyme (OYE) family (cds)
-ID 2: CRISPR spacer, sequence GATATATTGATCAGTACGAAAAACTCAAAGGTGAAA (crispr-spacer)

@@ -1,4 +1,0 @@
-Image 4
-ID 1: trpA: tryptophan synthase subunit alpha (cds)
-ID 2: fabI: enoyl-ACP reductase FabI (cds)
-ID 3: mlaC: phospholipid-binding protein MlaC (cds)

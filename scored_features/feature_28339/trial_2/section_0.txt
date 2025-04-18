@@ -1,0 +1,9 @@
+Image 0
+Organism: Allochromatium tepidum (g-proteobacteria)
+ID 1: hlyD: HlyD family efflux transporter periplasmic adaptor subunit (cds)
+ID 2: acrB: Multidrug efflux pump subunit AcrB (cds)
+ID 3: mprF: bifunctional lysylphosphatidylglycerol flippase/synthetase MprF (cds)
+ID 4: AcvB/VirJ family lysyl-phosphatidylglycerol hydrolase (cds)
+ID 5: hypothetical protein (cds)
+ID 6: hypothetical protein (cds)
+ID 7: recG: ATP-dependent DNA helicase RecG (cds)
